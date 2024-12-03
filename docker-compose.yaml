@@ -1,0 +1,11 @@
+name: pdf-parsers
+services:
+  nlm-ingestor:
+    image: ghcr.io/nlmatics/nlm-ingestor:latest
+    ports:
+      - 5001:5001
+
+  parsr:
+    image: axarev/parsr
+    ports:
+      - 3001:3001
