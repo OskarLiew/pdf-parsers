@@ -33,9 +33,9 @@ class ParserInfo(BaseModel):
 
 def main():
     parsers: dict[str, BasePdfParser] = {
-        "docling": DoclingPdfParser(),
-        "llama-parse-fast": LlamaParsePdfParser(fast=True),
-        "llama-parse": LlamaParsePdfParser(fast=False),
+        # "docling": DoclingPdfParser(),
+        # "llama-parse-fast": LlamaParsePdfParser(fast=True),
+        # "llama-parse": LlamaParsePdfParser(fast=False),
     }
 
     for parser_name, parser in parsers.items():
