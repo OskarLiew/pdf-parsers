@@ -5,6 +5,8 @@ import pypdf
 from parsers.base import BasePdfParser
 from parsers.llamaparse import LlamaParsePdfParser
 from parsers.llmsherpa import LlmsherpaPdfParser
+from parsers.marker import MarkerPdfParser
+from parsers.nougat import NougatPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -37,7 +39,9 @@ def main():
         # "docling": DoclingPdfParser(),
         # "llama-parse-fast": LlamaParsePdfParser(fast=True),
         # "llama-parse": LlamaParsePdfParser(fast=False),
-        "llmsherpa": LlmsherpaPdfParser(),
+        # "llmsherpa": LlmsherpaPdfParser(),
+        # "marker": MarkerPdfParser(),
+        "nougat": NougatPdfParser(),
     }
 
     for parser_name, parser in parsers.items():
