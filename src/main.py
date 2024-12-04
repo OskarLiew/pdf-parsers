@@ -4,6 +4,7 @@ from pathlib import Path
 import pypdf
 from parsers.base import BasePdfParser
 from parsers.llamaparse import LlamaParsePdfParser
+from parsers.llmsherpa import LlmsherpaPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -36,6 +37,7 @@ def main():
         # "docling": DoclingPdfParser(),
         # "llama-parse-fast": LlamaParsePdfParser(fast=True),
         # "llama-parse": LlamaParsePdfParser(fast=False),
+        "llmsherpa": LlmsherpaPdfParser(),
     }
 
     for parser_name, parser in parsers.items():
