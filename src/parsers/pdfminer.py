@@ -1,7 +1,11 @@
 from pathlib import Path
 
+from pdfminer.high_level import extract_text
+
 from src.parsers.base import BasePdfParser
 
 
-class PdfParser(BasePdfParser):
-    def parse(self, in_path: Path, out_dir: Path) -> None: ...
+class PdfMinerPdfParser(BasePdfParser):
+    def _parse(self, in_path: Path) -> list[tuple[str, str]]:
+        text = extract_text(in_path)
+        return [(".txt", text)]

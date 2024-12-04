@@ -7,6 +7,7 @@ from parsers.llamaparse import LlamaParsePdfParser
 from parsers.llmsherpa import LlmsherpaPdfParser
 from parsers.marker import MarkerPdfParser
 from parsers.nougat import NougatPdfParser
+from parsers.pdfminer import PdfMinerPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -41,7 +42,8 @@ def main():
         # "llama-parse": LlamaParsePdfParser(fast=False),
         # "llmsherpa": LlmsherpaPdfParser(),
         # "marker": MarkerPdfParser(),
-        "nougat": NougatPdfParser(),
+        # "nougat": NougatPdfParser(),
+        "pdfminer": PdfMinerPdfParser(),
     }
 
     for parser_name, parser in parsers.items():
