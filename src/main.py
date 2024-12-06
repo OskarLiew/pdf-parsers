@@ -2,6 +2,7 @@ from functools import cache
 from pathlib import Path
 
 import pypdf
+from parsers.pypdfium2 import Pypdfium2PdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -55,7 +56,8 @@ def main():
         # "pdftext-json": PdftextPdfParser("json"),
         # "pymupdf4llm": PyMuPdf4llmPdfParser(),
         # "pymupdf": PyMuPdfPdfParser(),
-        "pypdf": PyPDFParser(),
+        # "pypdf": PyPDFParser(),
+        "pypdfium2": Pypdfium2PdfParser(),
     }
 
     for parser_name, parser in parsers.items():
