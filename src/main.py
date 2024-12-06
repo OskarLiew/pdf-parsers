@@ -10,6 +10,7 @@ from parsers.nougat import NougatPdfParser
 from parsers.pdfminer import PdfMinerPdfParser
 from parsers.pdfplumber import PdfPlumberPdfParser
 from parsers.pdftext import PdftextPdfParser
+from parsers.pymupdf4llm import PyMuPdf4llmPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -49,7 +50,8 @@ def main():
         # "pdfplumber": PdfPlumberPdfParser(),
         # "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
         # "pdftext": PdftextPdfParser("txt"),
-        "pdftext-json": PdftextPdfParser("json"),
+        # "pdftext-json": PdftextPdfParser("json"),
+        "pymupdf4llm": PyMuPdf4llmPdfParser(),
     }
 
     for parser_name, parser in parsers.items():
