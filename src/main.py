@@ -3,6 +3,7 @@ from pathlib import Path
 
 import pypdf
 from parsers.pypdfium2 import Pypdfium2PdfParser
+from parsers.unstructured import UnstructuredPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -43,21 +44,23 @@ class ParserInfo(BaseModel):
 
 def main():
     parsers: dict[str, BasePdfParser] = {
-        # "docling": DoclingPdfParser(),
-        # "llama-parse-fast": LlamaParsePdfParser(fast=True),
-        # "llama-parse": LlamaParsePdfParser(fast=False),
-        # "llmsherpa": LlmsherpaPdfParser(),
-        # "marker": MarkerPdfParser(),
-        # "nougat": NougatPdfParser(),
-        # "pdfminer": PdfMinerPdfParser(),
-        # "pdfplumber": PdfPlumberPdfParser(),
-        # "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
-        # "pdftext": PdftextPdfParser("txt"),
-        # "pdftext-json": PdftextPdfParser("json"),
-        # "pymupdf4llm": PyMuPdf4llmPdfParser(),
-        # "pymupdf": PyMuPdfPdfParser(),
-        # "pypdf": PyPDFParser(),
+        "docling": DoclingPdfParser(),
+        "llama-parse-fast": LlamaParsePdfParser(fast=True),
+        "llama-parse": LlamaParsePdfParser(fast=False),
+        "llmsherpa": LlmsherpaPdfParser(),
+        "marker": MarkerPdfParser(),
+        "nougat": NougatPdfParser(),
+        "pdfminer": PdfMinerPdfParser(),
+        "pdfplumber": PdfPlumberPdfParser(),
+        "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
+        "pdftext": PdftextPdfParser("txt"),
+        "pdftext-json": PdftextPdfParser("json"),
+        "pymupdf4llm": PyMuPdf4llmPdfParser(),
+        "pymupdf": PyMuPdfPdfParser(),
+        "pypdf": PyPDFParser(),
         "pypdfium2": Pypdfium2PdfParser(),
+        "unstructured-fast": UnstructuredPdfParser(strategy="fast"),
+        "unstructured-hires": UnstructuredPdfParser(strategy="hi_res"),
     }
 
     for parser_name, parser in parsers.items():
