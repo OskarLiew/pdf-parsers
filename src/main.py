@@ -9,6 +9,7 @@ from parsers.marker import MarkerPdfParser
 from parsers.nougat import NougatPdfParser
 from parsers.pdfminer import PdfMinerPdfParser
 from parsers.pdfplumber import PdfPlumberPdfParser
+from parsers.pdftext import PdftextPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -45,8 +46,10 @@ def main():
         # "marker": MarkerPdfParser(),
         # "nougat": NougatPdfParser(),
         # "pdfminer": PdfMinerPdfParser(),
-        "pdfplumber": PdfPlumberPdfParser(),
-        "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
+        # "pdfplumber": PdfPlumberPdfParser(),
+        # "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
+        # "pdftext": PdftextPdfParser("txt"),
+        "pdftext-json": PdftextPdfParser("json"),
     }
 
     for parser_name, parser in parsers.items():
