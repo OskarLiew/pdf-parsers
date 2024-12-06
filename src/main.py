@@ -17,6 +17,7 @@ from src.parsers.pdfplumber import PdfPlumberPdfParser
 from src.parsers.pdftext import PdftextPdfParser
 from src.parsers.pymupdf4llm import PyMuPdf4llmPdfParser
 from src.parsers.pymypdf import PyMuPdfPdfParser
+from src.parsers.pypdf import PyPDFParser
 
 REPO_ROOT = Path(__name__).parent.parent
 DOC_DIR = REPO_ROOT / "docs"
@@ -53,7 +54,8 @@ def main():
         # "pdftext": PdftextPdfParser("txt"),
         # "pdftext-json": PdftextPdfParser("json"),
         # "pymupdf4llm": PyMuPdf4llmPdfParser(),
-        "pymupdf": PyMuPdfPdfParser(),
+        # "pymupdf": PyMuPdfPdfParser(),
+        "pypdf": PyPDFParser(),
     }
 
     for parser_name, parser in parsers.items():
