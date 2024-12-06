@@ -8,6 +8,7 @@ from parsers.llmsherpa import LlmsherpaPdfParser
 from parsers.marker import MarkerPdfParser
 from parsers.nougat import NougatPdfParser
 from parsers.pdfminer import PdfMinerPdfParser
+from parsers.pdfplumber import PdfPlumberPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
@@ -43,7 +44,9 @@ def main():
         # "llmsherpa": LlmsherpaPdfParser(),
         # "marker": MarkerPdfParser(),
         # "nougat": NougatPdfParser(),
-        "pdfminer": PdfMinerPdfParser(),
+        # "pdfminer": PdfMinerPdfParser(),
+        "pdfplumber": PdfPlumberPdfParser(),
+        "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
     }
 
     for parser_name, parser in parsers.items():
