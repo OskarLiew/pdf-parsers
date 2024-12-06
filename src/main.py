@@ -2,20 +2,21 @@ from functools import cache
 from pathlib import Path
 
 import pypdf
-from parsers.base import BasePdfParser
-from parsers.llamaparse import LlamaParsePdfParser
-from parsers.llmsherpa import LlmsherpaPdfParser
-from parsers.marker import MarkerPdfParser
-from parsers.nougat import NougatPdfParser
-from parsers.pdfminer import PdfMinerPdfParser
-from parsers.pdfplumber import PdfPlumberPdfParser
-from parsers.pdftext import PdftextPdfParser
-from parsers.pymupdf4llm import PyMuPdf4llmPdfParser
 from pydantic import BaseModel
 from tqdm import tqdm
 from utils import write_to_file
 
+from src.parsers.base import BasePdfParser
 from src.parsers.docling import DoclingPdfParser
+from src.parsers.llamaparse import LlamaParsePdfParser
+from src.parsers.llmsherpa import LlmsherpaPdfParser
+from src.parsers.marker import MarkerPdfParser
+from src.parsers.nougat import NougatPdfParser
+from src.parsers.pdfminer import PdfMinerPdfParser
+from src.parsers.pdfplumber import PdfPlumberPdfParser
+from src.parsers.pdftext import PdftextPdfParser
+from src.parsers.pymupdf4llm import PyMuPdf4llmPdfParser
+from src.parsers.pymypdf import PyMuPdfPdfParser
 
 REPO_ROOT = Path(__name__).parent.parent
 DOC_DIR = REPO_ROOT / "docs"
@@ -51,7 +52,8 @@ def main():
         # "pdfplumber-layout": PdfPlumberPdfParser(layout=True),
         # "pdftext": PdftextPdfParser("txt"),
         # "pdftext-json": PdftextPdfParser("json"),
-        "pymupdf4llm": PyMuPdf4llmPdfParser(),
+        # "pymupdf4llm": PyMuPdf4llmPdfParser(),
+        "pymupdf": PyMuPdfPdfParser(),
     }
 
     for parser_name, parser in parsers.items():
