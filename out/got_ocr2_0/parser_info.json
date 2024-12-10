@@ -1,0 +1,54 @@
+{
+    "name": "got_ocr2_0",
+    "files_loaded": [
+        {
+            "name": "ai-kommissionens-fardplan-for-sverige.pdf",
+            "n_pages": 136,
+            "load_time": 2544.160338163376,
+            "load_time_per_page": 18.707061310024823
+        },
+        {
+            "name": "Bilaga 1 Covid instruktion torra rör.pdf",
+            "n_pages": 3,
+            "load_time": 17.747743368148804,
+            "load_time_per_page": 5.9159144560496015
+        },
+        {
+            "name": "information-om-livsmedel-som-inte-ar-fardigforpackade.pdf",
+            "n_pages": 12,
+            "load_time": 65.138512134552,
+            "load_time_per_page": 5.4282093445460005
+        },
+        {
+            "name": "Legionella.pdf",
+            "n_pages": 4,
+            "load_time": 19.191717386245728,
+            "load_time_per_page": 4.797929346561432
+        },
+        {
+            "name": "scanned.pdf",
+            "n_pages": 1,
+            "load_time": 2.2657053470611572,
+            "load_time_per_page": 2.2657053470611572
+        },
+        {
+            "name": "308-an-ai-strategy-for-sweden-pdf-version-1020240408.pdf",
+            "n_pages": 18,
+            "load_time": 72.70562696456909,
+            "load_time_per_page": 4.039201498031616
+        },
+        {
+            "name": "paper-contextual-embeddings.pdf",
+            "n_pages": 24,
+            "load_time": 320.2202949523926,
+            "load_time_per_page": 13.342512289683023
+        },
+        {
+            "name": "parsed-as-random-characters.pdf",
+            "n_pages": 64,
+            "load_time": 437.8565905094147,
+            "load_time_per_page": 6.841509226709604
+        }
+    ],
+    "avg_load_time_per_page": 7.667255352333407
+}

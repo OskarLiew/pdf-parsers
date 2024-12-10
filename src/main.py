@@ -2,6 +2,7 @@ from functools import cache
 from pathlib import Path
 
 import pypdf
+from parsers.got_ocr import GotOcrPdfParser
 from parsers.pypdfium2 import Pypdfium2PdfParser
 from parsers.unstructured import UnstructuredPdfParser
 from pydantic import BaseModel
@@ -61,6 +62,8 @@ def main():
         "pypdfium2": Pypdfium2PdfParser(),
         "unstructured-fast": UnstructuredPdfParser(strategy="fast"),
         "unstructured-hires": UnstructuredPdfParser(strategy="hi_res"),
+        "got_ocr2_0": GotOcrPdfParser("ocr"),
+        "got_ocr2_0-format": GotOcrPdfParser("format"),
     }
 
     for parser_name, parser in parsers.items():
