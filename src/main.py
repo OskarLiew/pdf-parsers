@@ -3,6 +3,7 @@ from pathlib import Path
 
 import pypdf
 from parsers.got_ocr import GotOcrPdfParser
+from parsers.markitdown import MarkitdownPdfParser
 from parsers.pypdfium2 import Pypdfium2PdfParser
 from parsers.unstructured import UnstructuredPdfParser
 from pydantic import BaseModel
@@ -64,6 +65,7 @@ def main():
         "unstructured-hires": UnstructuredPdfParser(strategy="hi_res"),
         "got_ocr2_0": GotOcrPdfParser("ocr"),
         "got_ocr2_0-format": GotOcrPdfParser("format"),
+        "markitdown": MarkitdownPdfParser(),
     }
 
     for parser_name, parser in parsers.items():
