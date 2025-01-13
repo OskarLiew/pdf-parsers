@@ -7,13 +7,11 @@
 **the potential of AI.**
 
 "Based on who we are, our values, and our
-
 strengths, Sweden has a tremendous opportunity
 
 to solve key societal, democratic, and business
 
 challenges with the use of AI. To get there we
-
 should focus on generating value, leading with
 
 
@@ -23,7 +21,6 @@ significantly across sectors.."
 
 
 MARTIN SVENSSON
-
 MANAGING DIRECTOR, AI SWEDEN
 
 

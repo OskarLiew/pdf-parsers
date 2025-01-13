@@ -4,7 +4,7 @@ Färdplan för Sverige
 
 <missing-text>
 
-Omslagsbild: Kentaroo Tryman/Johnér
+<missing-text>
 
 Til l statsrådet
 
@@ -18,7 +18,9 @@ Som högnivåexperter utsåg kommittén själv den 26 januari 2024 tidigare chef
 
 Som experter förordnades den 30 april 2024 ämnesråd Sara Bringle, stabschef Jörgen Eklund,
 
-Fredrik Heintz Olof Hernell Ulrika Lindstrand Nicklas Berild Lundblad Anne-Marie Eklund Löwinder Marcus Matteby Sara Mazur Sylvia Schwaag Serger Mathias Sundin Martin Svensson
+Fredrik Heintz
+
+Olof Hernell Ulrika Lindstrand Nicklas Berild Lundblad Anne-Marie Eklund Löwinder Marcus Matteby Sara Mazur Sylvia Schwaag Serger Mathias Sundin Martin Svensson
 
 Katarina Areskoug Börje Ekholm Mats Granryd Martin Lundstedt Katrin Westling Palm Magnus Tyreman Nils Öberg
 
@@ -30,15 +32,13 @@ Kommittén har under sitt arbete sammanträtt vid fem heldagsmöten samt 23 digi
 
 Kommittén, som har antagit namnet AI-kommissionen, överlämnar nu sin rapport AI-kommissionens Färdplan för Sverige .
 
-Carl-Henric Svanberg
-
-Stockholm i november 2024
+Carl-Henric Svanberg Stockholm i november 2024
 
 Susanne Ackum Anton Eklöf Mattias Hector Jon Olofsson Aron Verständig
 
 Förord från ordförande:
 
-Vi har g jort det förut
+Vi har gjort det förut
 
 AI är en omtumlande, framforsande teknik som i människans händer skapar förutsättningar för grundläggande förbättringar av våra samhällen, precis som järnvägen, elen och telefonen gjorde.
 
@@ -48,7 +48,7 @@ AI är redan en del av vår verklighet i Sverige inom företagen, organisationer
 
 AI förstås bäst om det anknyts till redan befintliga verksamheter och funktioner i ett samhälle: utbildning, vård och omsorg, forskning, produktutveckling, dataanalys, arbete mot penningtvätt, smittskyddsarbete, trafiksäkerhet, skatteuppbörd, offentliga transfereringssystem, kundvård eller vad det nu kan vara.
 
-Därmed blir det också uppenbart att en regering, eller en AI-kommission, inte kan formulera någon stor plan om "hur" en ny teknik ska användas. Men något som det finns ett stort behov av - och som också denna rapport fokuserar på - de principer, standarder och kraftsamlingar som krävs för att spridningen och användningen av AI ska bli så snabb, säker, omfattande och positiv som möjligt för det svenska samhället. Det krävs helt enkelt övergripande trafikregler, bränsleförsörjning och målbilder för AI. AI kräver särskild vaksamhet och ett särskilt fokus på de risker som exempelvis manipulation, splittring och fake news som AI kan göra möjlig.
+Därmed blir det också uppenbart att en regering, eller en AI-kommission, inte kan formulera någon stor plan om 'hur' en ny teknik ska användas. Men något som det finns ett stort behov av - och som också denna rapport fokuserar på - de principer, standarder och kraftsamlingar som krävs för att spridningen och användningen av AI ska bli så snabb, säker, omfattande och positiv som möjligt för det svenska samhället. Det krävs helt enkelt övergripande trafikregler, bränsleförsörjning och målbilder för AI. AI kräver särskild vaksamhet och ett särskilt fokus på de risker som exempelvis manipulation, splittring och fake news som AI kan göra möjlig.
 
 <missing-text>
 
@@ -63,8 +63,6 @@ Carl-Henric Svanberg
 Stockholm i november 2024
 
 Innehåll
-
-<missing-text>
 
 <missing-text>
 
@@ -120,7 +118,7 @@ Dessvärre verkar den här insikten inte ha slagit rot i samhället. AI-kommissi
 
 bild som har bekräftats vid våra många möten med representanter för olika samhällsgrupper: vi måste bli bättre på att utnyttja AI för att adressera våra samhällsutmaningar, och det måste gå fort.
 
-Det finns många sätt att illustrera Sveriges eftersläpning på AI-området. Ett är att titta på internationella jämförelser. The Global AI Index från Tortoise Media är ett väletablerat index, lämpat för att jämföra AI-utvecklingen i samhället som helhet mellan länder.$^{[1]}$ Avsikten är att bedöma ett lands kapacitet att nyttja AI. Årets upplaga av indexet visar tyvärr att Sveriges relativa position är svag och att den har försämrats. I det sammanvägda indexet faller Sverige från plats 17 (år 2023) till plats 25 (år 2024) av 83 jämförda länder. Bland EU-länderna placerar vi oss först på plats 10, med såväl Finland som Danmark före i listan. Särskilt svag är vår ranking avseende den politiska styrningsdimensionen (Government strategy) där Sverige rankas så lågt som på plats 57. Vi menar att det här är en avgörande svaghet, eftersom politiskt ledarskap behövs för att få behövliga åtgärder på plats. Det har också varit ett av de starkaste budskapen vi har fått i våra kontakter med representanter för olika grupper i samhället.
+Det finns många sätt att illustrera Sveriges eftersläpning på AI-området. Ett är att titta på internationella jämförelser. The Global AI Index från Tortoise Media är ett väletablerat index, lämpat för att jämföra AI-utvecklingen i samhället som helhet mellan länder. [1] Avsikten är att bedöma ett lands kapacitet att nyttja AI. Årets upplaga av indexet visar tyvärr att Sveriges relativa position är svag och att den har försämrats. I det sammanvägda indexet faller Sverige från plats 17 (år 2023) till plats 25 (år 2024) av 83 jämförda länder. Bland EU-länderna placerar vi oss först på plats 10, med såväl Finland som Danmark före i listan. Särskilt svag är vår ranking avseende den politiska styrningsdimensionen (Government strategy) där Sverige rankas så lågt som på plats 57. Vi menar att det här är en avgörande svaghet, eftersom politiskt ledarskap behövs för att få behövliga åtgärder på plats. Det har också varit ett av de starkaste budskapen vi har fått i våra kontakter med representanter för olika grupper i samhället.
 
 Även om den här typen av ranking mellan länder aldrig är perfekt i alla delar, så är vår bedömning att den
 
@@ -128,7 +126,7 @@ Det finns många sätt att illustrera Sveriges eftersläpning på AI-området. E
 
 Se Bilaga B för en fördjupad presentation av The Global AI Index. Se faktaruta i kapitlet Internationella positioner för mer information.
 
-generella bilden är trovärdig - Sverige halkar efter. Att Sverige inte bara rankas lågt globalt, utan även inom EU, är särskilt bekymmersamt eftersom EU också tenderar att halka efter på AI-området, något som betonas i Mario Draghis rapport Den europeiska konkurrenskraftens framtid.$^{[2]}$ Som exempel är den amerikanska och kinesiska dominansen på marknaden för molntjänster närmast total, genom att de tio största AI-plattformarna i EU ägs av företag från just dessa två länder. Den här situationen är problematisk ur flera synvinklar. För det första är den ett underbetyg åt europeisk innovations-, tillväxt- och regleringspolitik, som måste bli mer innovations- och tillväxtvänlig. För det andra illustrerar den tydligt hur sårbara europeiska aktörer är.
+generella bilden är trovärdig - Sverige halkar efter. Att Sverige inte bara rankas lågt globalt, utan även inom EU, är särskilt bekymmersamt eftersom EU också tenderar att halka efter på AI-området, något som betonas i Mario Draghis rapport Den europeiska konkurrenskraftens framtid. [2] Som exempel är den amerikanska och kinesiska dominansen på marknaden för molntjänster närmast total, genom att de tio största AI-plattformarna i EU ägs av företag från just dessa två länder. Den här situationen är problematisk ur flera synvinklar. För det första är den ett underbetyg åt europeisk innovations-, tillväxt- och regleringspolitik, som måste bli mer innovations- och tillväxtvänlig. För det andra illustrerar den tydligt hur sårbara europeiska aktörer är.
 
 Frågan om sårbarhet är dock komplex och rymmer två viktiga aspekter. I dagens säkerhetspolitiska läge bör man noga ge akt på olika beroendeställningar, framför allt inom samhällskritiska tjänster och sektorer. Det här talar bland annat för att en egen kapacitet bör byggas upp inom olika nyckelområden. I Färdplanen lägger vi ett antal förslag i den här riktningen. Men det är samtidigt helt centralt att säkerställa att svenska och europeiska aktörer har fortsatt tillgång till den senaste AI-teknologin, som i dag ofta erbjuds genom amerikanska AI-plattformar. Det är i detta perspektiv problematiskt att lanseringen av ett
 
@@ -190,7 +188,7 @@ Vid systemövergripande förändring behövs ledarskap och styrning. Beslut mås
 
 Behovet av komplementära åtgärder - ett exempel
 
-För att visa hur en bred AI-användning i samhället kräver åtgärder inom olika områden exemplifierar vi med ett av uppdragen enligt AI-kommissionens direktiv: "…att föreslå åtgärder för en ökad AI-användning i offentlig förvaltning genom datadriven innovation och dataförsörjning." Vårt huvudförslag för detta är en så kallad AI-verkstad, där offentliga aktörer tillsammans kan utveckla lösningar inom ramen för en gemensam infrastruktur för AI. Detta kräver möjligheter att dela data. I nuläget finns det betydande hinder för detta. Det behövs också beräkningskraft, i form av egna datorer för särskilt känslig information, och utnyttjande av molntjänster. Det senare kräver klargörande av vad som är legalt möjligt och inte. Här kommer också säkerhetsaspekten in.
+För att visa hur en bred AI-användning i samhället kräver åtgärder inom olika områden exemplifierar vi med ett av uppdragen enligt AI-kommissionens direktiv: '…att föreslå åtgärder för en ökad AI-användning i offentlig förvaltning genom datadriven innovation och dataförsörjning.' Vårt huvudförslag för detta är en så kallad AI-verkstad, där offentliga aktörer tillsammans kan utveckla lösningar inom ramen för en gemensam infrastruktur för AI. Detta kräver möjligheter att dela data. I nuläget finns det betydande hinder för detta. Det behövs också beräkningskraft, i form av egna datorer för särskilt känslig information, och utnyttjande av molntjänster. Det senare kräver klargörande av vad som är legalt möjligt och inte. Här kommer också säkerhetsaspekten in.
 
 För att hitta de bästa lösningarna måste också privat och offentlig sektor samverka, genom att privata företag får lösa utmaningar inom offentlig sektor. Det förutsätter i sin tur dynamiska forskningsmiljöer, där akademin samverkar med aktörer från både privat och offentlig sektor. Det behövs också utbildningsinsatser, så att människor har förutsättningar att ta till sig och utnyttja de möjligheter som användning av AI ger.
 
@@ -252,7 +250,7 @@ Utöver bättre legala och praktiska möjligheter att dela data krävs det ocks�
 
 Vi föreslår därför att det inrättas en gemensam kärninfrastruktur för utveckling och leverans av AI-drivna tjänster inom offentlig sektor - en så kallad AI-verkstad. I verkstaden ska offentliga aktörer - statliga myndigheter, regioner och kommuner - kunna utforska, utveckla och driftsätta nya AI-tjänster och funktioner. De ska också kunna dela och använda kvalitetssäkrade data, modeller och komponenter. Här har privat sektor en viktig roll i att vara med och utveckla lösningar.
 
-I kraft av sin erfarenhet och kompetens på området föreslår vi att Försäkringskassan och Skatteverket blir leverantörsmyndigheter för AI-verkstaden. Alla aktörer ska dock kunna bidra till, och använda verkstaden. Det görs möjligt med hjälp av en differentierad avgiftsmodell för användningen. I anslutning till AI-verkstaden ska det också finnas gemensamma stödfunktioner för offentliga aktörer som saknar egen kompetens. Exempelvis kan en liten kommun begära hjälp av verkstaden. En "insatsstyrka" bestående av experter och generalister bistår då med hjälp att identifiera vilka behov som finns och kommer med förslag på lösningar. AI-verkstaden skulle också kunna fungera som en portal (en-väg-in) dit man kan vända sig för att få information om olika AI-relaterade frågor.
+I kraft av sin erfarenhet och kompetens på området föreslår vi att Försäkringskassan och Skatteverket blir leverantörsmyndigheter för AI-verkstaden. Alla aktörer ska dock kunna bidra till, och använda verkstaden. Det görs möjligt med hjälp av en differentierad avgiftsmodell för användningen. I anslutning till AI-verkstaden ska det också finnas gemensamma stödfunktioner för offentliga aktörer som saknar egen kompetens. Exempelvis kan en liten kommun begära hjälp av verkstaden. En 'insatsstyrka' bestående av experter och generalister bistår då med hjälp att identifiera vilka behov som finns och kommer med förslag på lösningar. AI-verkstaden skulle också kunna fungera som en portal (en-väg-in) dit man kan vända sig för att få information om olika AI-relaterade frågor.
 
 Forskning i världsklass
 
@@ -276,10 +274,6 @@ Ytterligare en satsning för att främja innovationskraften bland SMF är EU-kom
 
 För att innovationsföretag ska kunna uppstå och växa behövs det riskkapital. Svenska riskkapitalmarknader fungerar på det stora hela bra. Vi ser därför inte några generella behov av stöd från det offentliga. Det finns dock behov av vissa riktade åtgärder mot företag och projekt med stort potentiellt mervärde som har svårt
 
-[3]
-
-[4]
-
 att få privat finansiering. Det handlar dels om innovation med mycket hög teknikrisk, så kallade disruptiva teknologier. Dels om affärsidéer som inte är tillräckligt skalbara för att attrahera privat kapital, men där samhällsnyttan kan vara betydande. Vi föreslår därför utökade medel för Vinnova och Almi i syfte att stötta denna typ av innovation.
 
 Vi föreslår också att Vinnova utreder möjligheterna att främja sektorsöverskridande projekt, där värdet av en lösning kommer fler till gagn än enbart de berörda parterna. Staten måste ha beredskap att skjuta till betydande medel när värdefulla projekt av den här typen identifieras.
@@ -291,8 +285,6 @@ Nästa steg
 Det viktiga nu är att snabbt komma till offensiva beslut som stärker Sveriges konkurrenskraft på AI-området. Det är också anledningen till att vi i AI-kommissionen har valt att tidigarelägga vår rapport från juli 2025 till november 2024. [4] För att vi ska kunna stärka konkurrenskraften behövs flera kompletterande åtgärder inom vitt skilda områden. I Färdplanen föreslår vi konkreta åtgärder som vi bedömer kan beslutas och genomföras relativt omgående, det vill säga redan under år 2025. Det handlar om satsningar och uppdrag till myndigheter som Regeringskansliet har stor erfarenhet av att bereda och hantera i budgetprocessen. Andra förslag måste utredas vidare för att finna sin mer precisa form eller för att kunna presenteras som färdiga lagförslag. Det är dock av största vikt att dessa processer sätts i gång skyndsamt.
 
 Regeringen bör därför, så snart som möjligt, anta en AI-strategi baserat på denna Färdplan. Finansieringen av våra förslag bör framgå av vårändringsbudgeten för 2025, eller av en extra ändringsbudget som lämnas till riksdagen under våren 2025. Implementeringsarbetet bör drivas på och övervakas av en task force placerad på Statsrådsberedningen. En viktig uppgift för den föreslagna task forcen blir att fortsätta det arbete som AI-kommissionen har påbörjat: att skapa samförstånd om hur vi kan åstadkomma det samhälle vi har beskrivit ovan, med AI i medborgarnas tjänst. Samförstånd skapar förutsättningar för samarbete om frågorna, vilket är nödvändigt för att nå de önskade effekterna.
-
-Vem som ska ansvara för den regulatoriska sandlådan inom ramen för AI-förordningen är ingenting AI-kommissionen tar ställning till. Den frågan kommer att behandlas i utredningen Trygg och tillförlitlig användning av AI som regeringen tillsatte i september 2024. I syfte att följa såväl kommittéförordningen som de direktiv som regeringen beslutat för vårt arbete, kommer vi också att låta trycka denna Färdplan i serien Statens offentliga utredningar (SOU).
 
 Nedan visas de uppskattade kostnaderna för våra förslag, uppdelat efter i vilket kapitel i Färdplanen förslagen återfinns. De största resurstillskotten föreslås till olika satsningar på spetsforskning. Andra betydande satsningar föreslås för offentlig sektor, i form av AI-verkstaden, ett kunskapslyft och beräkningskraft. Det handlar om förslag som bör kunna beslutas snabbt. Härutöver lägger vi också förslag om ett antal utredningar avseende frågor som ännu inte är redo för beslut. För några av dessa utredningar har vi inkluderat en indikativ kostnad i tabellen, dock inte för alla. Det är därför viktigt att regeringen har beredskap för ytterligare kostnader när utredningsförslagen läggs. Inom vissa områden, som exempelvis energi och telekom föreslår vi inga satsningar i nuläget. Det är dock viktigt att regeringen följer utvecklingen noga
 
@@ -316,9 +308,7 @@ Denna del innehåller:
 
 <missing-text>
 
-En stabil grund
-
-att bygga på
+En stabil grund att bygga på
 
 Energi
 
@@ -330,7 +320,7 @@ I det här kapitlet utforskar vi hur AI kan vara både en utmaning och en lösni
 
 AI och elkonsumtionen
 
-AI är en energiintensiv teknologi. Orsaken ligger i den stora mängd data och beräkningskraft i form av tillgång till kraftfulla datorer, som krävs för att träna och använda olika AI-verktyg. Detta gäller särskilt för system med breda användningsområden - exempelvis stora språkmodeller och generativ AI - som kan analysera både text, bild och andra medietyper. Mindre generella algoritmer, med smalare användningsområden, använder mindre beräkningskraft och därmed också mindre energi. Ett exempel på detta är de algoritmer som Skatteverket använder för att upptäcka avvikelser i deklarationerna.
+AI är en energiintensiv teknologi. Orsaken ligger i den stora mängd data och beräkningskraft i form av tillgång till kraftfulla datorer, som krävs för att träna och använda olika AI-verktyg. Detta gäller särskilt för system med breda användningsområden -  exempelvis stora språkmodeller och generativ AI - som kan analysera både text, bild och andra medietyper. Mindre generella algoritmer, med smalare användningsområden, använder mindre beräkningskraft och därmed också mindre energi. Ett exempel på detta är de algoritmer som Skatteverket använder för att upptäcka avvikelser i deklarationerna.
 
 Storleken på AI:s framtida elbehov är i dag högst osäker och går inte att förutsäga med någon precision. Osäkerheten beror på hur tekniken kommer att utvecklas och användas. I takt med att modellerna blir mer avancerade och får bredare tillämpning ökar elbehovet. Faktum är att den beräkningskraft som krävs för AI har mångdubblats varje år sedan generativ AI introducerades, vilket har lett till en motsvarande ökning av energianvändningen. Om den nuvarande
 
@@ -366,9 +356,15 @@ Utveckling och användning av AI förutsätter datacenter för att träna och dr
 
 Sverige och våra närmsta grannar har utmärkta förutsättningar för att husera datacenter. Det beror främst på att vi har relativ politisk stabilitet, ett kallt klimat, god tillgång till vatten och framför allt billig, stabil och fossilfri el. Just fossilfri el blir alltmer intressant i takt med att röster höjs för att göra AI klimatmässigt
 
+V
+
 hållbart. Detta har gjort Norden attraktivt för etablering av datacenter.
 
 <missing-text>
+
+5
+
+15
 
  [8] WEF:s Energy Transition Index är uppbyggt runt de tre pelarna: Equitable, Secure och Sustainable. Tillsammans fångar de regulatoriska aspekter såväl som infrastruktur, innovation samt humankapital och finansiellt kapital. WEF menar att dessa komponenter behövs för att skapa långsiktigt hållbara elsystem. Källa: https://www.weforum.org/publications/fostering-effective-energy-transition-2023/.
 
@@ -402,7 +398,7 @@ I denna planering är det viktigt att regeringen beaktar det elbehov som utveckl
 
 Förslag
 
- ▻ Regeringen föreslår i proposition 2023/24:105 att "planeringen av det svenska elsystemet ska ge förutsättningar för att leverera den el som behövs för en ökad elektrifiering och att möjliggöra den gröna omställningen". Regeringen bedömer därför att "Sverige bör planera för att kunna möta ett elbehov om minst 300 TWh år 2045". AI-kommissionen delar denna bedömning, då en fördubbling av nuvarande produktionskapacitet är en förutsättning för svensk industris konkurrenskraft i allmänhet, och för AI i synnerhet. Om elbrist eller risk för elbrist uppstår kan konsekvenserna bli betydande, både för AI-utvecklingen och för investeringar inom svensk industri. Detta riskerar påverka landets långsiktiga konkurrenskraft.
+ ▻ Regeringen föreslår i proposition 2023/24:105 att 'planeringen av det svenska elsystemet ska ge förutsättningar för att leverera den el som behövs för en ökad elektrifiering och att möjliggöra den gröna omställningen'. Regeringen bedömer därför att 'Sverige bör planera för att kunna möta ett elbehov om minst 300 TWh år 2045'. AI-kommissionen delar denna bedömning, då en fördubbling av nuvarande produktionskapacitet är en förutsättning för svensk industris konkurrenskraft i allmänhet, och för AI i synnerhet. Om elbrist eller risk för elbrist uppstår kan konsekvenserna bli betydande, både för AI-utvecklingen och för investeringar inom svensk industri. Detta riskerar påverka landets långsiktiga konkurrenskraft.
 
  ▻ AI-kommissionen menar att regeringen noggrant måste följa utvecklingen och vara beredd att justera sina insatser och åtgärder för elproduktionen med kort varsel. Det hänger samman med den stora osäkerhet som råder kring den framtida elanvändningen. AIkommissionen välkomnar därför den fördjupade uppföljningen av de kvantitativa bedömningarna som regeringen föreslår i propositionen 2023/24:105, i form av kontrollstationer med start 2030. Här anser AI-kommissionen att den fördjupade uppföljningen bör ge särskild uppmärksamhet till AI-sektorns växande elbehov. Det beror på den snabba teknikutvecklingen som kan kräva justeringar av nuvarande bedömningar. I arbetet med kontrollstationerna bör regeringen även beakta hur AI kan användas för att minska energianvändningen inom samhällets olika sektorer.
 
@@ -448,6 +444,8 @@ Internetuppkoppling är i huvudsak beroende av två centrala komponenter: fibern
 
 Sverige har under ett sekel legat i framkant när det gäller utbyggnaden av telekom, både avseende senaste teknologi och täckning. En illustration av detta är att Sverige har ett relativt väl utbyggt fibernät, särskilt i städer och tätorter, vilket ger en bra grund för att erbjuda AI-lösningar. I kontrast står sig Sveriges mobilnät sämre vid en internationell jämförelse. Utbyggnaden av 5G, den senaste generationens mobilnät, har skett tidigare och snabbare i USA och Asien än i Sverige. Enligt den senaste upplagan av GSMA:s 5G-konnektivitetsindex hamnar Sverige på plats tjugoett. [16] Våra nordiska grannar Norge, Finland och Danmark tillhör alla de sju bästa i världen. Likaså placerar sig de stora AI-nationerna Kina och USA före Sverige. Vidare visar indexet att av de tjugo
 
+[14]     Prop. 2024/25:1 s. 21.
+
 högst placerade länderna på listan tillhör endast sex EU. Det är av särskilt stor relevans för Sverige eftersom vår telekommarknad i hög grad är präglad av EU-lagstiftningen.
 
 När perspektivet breddas till att omfatta hela mobilnätet, och inte enbart 5G, framstår situationen som något mer positiv. I en mätning av mobilnätens tillförlitlighet, utförd av Opensignal under 2024, placerar sig Sverige på en sjätteplats globalt, med liknande poäng som Norge. Länder som Danmark, Sydkorea och Japan placerar sig alla före Sverige. Opensignal mäter även den genomsnittliga nedladdningshastigheten i mobilnätet, där Sveriges hastighet är lägre än i våra grannländer Finland, Norge och Danmark.
@@ -460,7 +458,7 @@ Att få bättre täckning med högre frekvensband är viktigt för utvecklingen 
 
 Exakt vad som förklarar Sveriges låga investeringar i mobilnäten är inte lätt att fastställa. En förklaring som ofta lyfts fram är att låg lönsamhet för operatörerna påverkar deras vilja att investera negativt. Ett tecken på operatörernas låga lönsamhet är att den generellt sett ligger under kostnaden för kapital. Lönsamheten påverkas av att den svenska operatörsmarknaden är fragmentiserad, med många olika aktörer och hög
 
-[14] Prop. 2024/25:1 s. 21. [15] Mobilnäten erbjuder en högre tillförlitlighet och säkerhet eftersom de är designade för att stödja samhällskritiska tjänster, med kontinuerlig övervakning av operatörerna och granskning av myndigheter som PTS, vilket gör att säkerheten integreras i systemet från början snarare än att läggas till i efterhand. [16] Indexet finns tillgängligt på https://data.gsmaintelligence.com/5g-index.
+[15]     Mobilnäten erbjuder en högre tillförlitlighet och säkerhet eftersom de är designade för att stödja samhällskritiska tjänster, med kontinuerlig övervakning av operatörerna och granskning av myndigheter som PTS, vilket gör att säkerheten integreras i systemet från början snarare än att läggas till i efterhand. [16]     Indexet finns tillgängligt på https://data.gsmaintelligence.com/5g-index.
 
 konkurrens. Denna fragmentering har delvis sin grund i EU:s konkurrensregler, som i vissa fall inte medgett företagsförvärv eller ställt krav på åtaganden. Den här problematiken är inte specifikt svensk, utan i hög grad gemensam inom EU. I de så kallade Lettaoch Draghi-rapporterna lyfts också behovet av att reformera den europeiska telekommarknaden. Den senare pekar på behovet av konsolidering och att lätta på konkurrensreglerna liksom åtgärder kopplade till frekvenslicenser och spektrumtilldelning.
 
@@ -478,7 +476,7 @@ Utredningen ska föreslå kompletteringar och anpassningar för att möta kraven
 
 5G-tekniken gör AI möjlig genom snabbare och mer robust dataöverföring. Den ökade hastigheten och kapaciteten i 5G-nätverk skapar nya förutsättningar för AI-baserade system som bygger på att bearbeta stora mängder data i realtid. 5G SA (stand alone) ger operatörer möjlighet att avsätta specifik nätverkskapacitet baserat på individuella kunders behov. Denna flexibilitet gör att kunder med höga krav på stabilitet och pålitlighet kan få en anpassad uppkoppling, vilket inte var möjligt med tidigare nätverksgenerationer där resurserna delades lika mellan alla användare.
 
-I praktiken har denna tekniska utveckling redan börjat göra skillnad. I Kankbergsgruvan i Västerbotten använder Boliden ett lokalt 5G-nät för att fjärrstyra fordon på 400 meters djup. Detta förbättrar både säkerheten och effektiviteten i gruvdriften, eftersom maskinerna kan styras från en säkrare plats ovan jord. 5G-tekniken möjliggör att "hjärnan" som styr maskinerna kan placeras på en annan plats än själva maskinen. Tekniken öppnar upp för framtida implementering av smarta AI-baserade system, utan att man för den sakens skull behöver installera specifik hårdvara i varje fordon.
+I praktiken har denna tekniska utveckling redan börjat göra skillnad. I Kankbergsgruvan i Västerbotten använder Boliden ett lokalt 5G-nät för att fjärrstyra fordon på 400 meters djup. Detta förbättrar både säkerheten och effektiviteten i gruvdriften, eftersom maskinerna kan styras från en säkrare plats ovan jord. 5G-tekniken möjliggör att 'hjärnan' som styr maskinerna kan placeras på en annan plats än själva maskinen. Tekniken öppnar upp för framtida implementering av smarta AI-baserade system, utan att man för den sakens skull behöver installera specifik hårdvara i varje fordon.
 
 Denna utveckling visar på potentialen för framtida samverkan mellan 5G-teknik, AI och andra avancerade system. Genom att kombinera dessa teknologier kan vi förvänta oss nya innovationer som förändrar hur vi använder digitala nätverk. 5G SA, i kombination med AI, har potential att spela en nyckelroll i den kommande digitala transformationen, även om tekniken ännu inte är tillgänglig via svenska operatörer.
 
@@ -500,6 +498,8 @@ Det finns många olika typer av datorer. Det mest centrala i en dator är den en
 
 Den specialiserade beräkningskraften för AI bygger såldes i dag ofta på många parallella grafikprocessorer (GPU:er). Det är till stor del tack vare utvecklingen av nya, mer kraftfulla, GPU:er som de senaste framstegen inom AI har gjorts möjliga. Utmärkande för storskalig infrastruktur för AI är att den på samma
 
+<missing-text>
+
 vis som traditionellt kraftfulla datorer är dyr, mycket energikrävande och ställer höga krav på kylning.
 
 Inköpt eller egen beräkningskraft
@@ -511,8 +511,6 @@ Den största fördelen med att använda molntjänster är att de är enkla att a
 Det här gör att molntjänster snabbt kan bli mycket dyrt om man använder ett stort antal GPU-timmar.
 
 En ytterligare nackdel med molntjänster är att kontrollen över känsliga beräkningar och data kan gå förlorad om data skickas utanför landets gränser, i synnerhet utanför EU. Detta kan även gälla vid utnyttjande av utländska leverantörers molntjänster
-
-[17] Här definierar vi beräkningskraft som att det förutom datorkraft, även inkluderar lagring av data och interna nätverk mellan data och system. [18] CPU står för Central Processing Unit och GPU för Graphical Processing Unit.
 
 <missing-text>
 
@@ -552,11 +550,11 @@ Men Arrhenius är oavsett en viktig förutsättning för utvecklingen av AI i Sv
 
 Framåt ser AI-kommissionen att det är av yttersta vikt med en fortsatt investering i resurser för utveckling och träning av AI-modeller för svenska forskare. Detta
 
- [19] NAISS är en organisation för superdatorer och beräkningskraft som i dag är verksam vid elva av Sveriges universitet och högskolor, och man handhar en rad av lärosätenas superdatorer.
+ [19]     NAISS är en organisation för superdatorer och beräkningskraft som i dag är verksam vid elva av Sveriges universitet och högskolor, och man handhar en rad av lärosätenas superdatorer.
 
- [21] Vetenskapsrådet har avsatt 250 miljoner kronor för en satsning på Arrhenius under fem år (2025-2029).
+ [21]     Vetenskapsrådet har avsatt 250 miljoner kronor för en satsning på Arrhenius under fem år (2025-2029).
 
- [20] För en närmare redogörelse för EU:s satsningar på AI, se kapitlet Internationella positioner.
+ [20]     För en närmare redogörelse för EU:s satsningar på AI, se kapitlet Internationella positioner.
 
 <missing-text>
 
@@ -600,9 +598,15 @@ Syftet med AI Factory är inte bara att främja utvecklingen av AI-tjänster. De
 
 De organisationer som kan söka medel för att tillhandahålla en AI Factory är de som redan i dag har värdskap för något av EuroHPC:s olika system. En sådan organisation är den svenska nationella datorinfrastrukturen NAISS, som innehar värdskapet för superdatorn Arrhenius. I juni 2024 skickade NAISS in en preliminär svensk intresseanmälan för att tillhandahålla en AI Factory. Baserat på intresseanmälan har EuroHPC meddelat att man reserverat medel för att Sverige kan komma att ansöka om medel för en AI Factory med upp till 20 miljoner euro i budget över tre år.
 
-[24] [25] [26]
+[24]
 
-Se kapitlet Energi för en diskussion om detta. Förkortning för The National Academic Infrastructure for Supercomputing in Sweden (NAISS). Förkortning för Research Institutes of Sweden AB.
+Se  kapitlet
+
+Energi
+
+för en diskussion om detta.
+
+[26]      Förkortning för Research Institutes of Sweden AB.
 
 högskolor) erbjuder också en unik möjlighet att stärka den företagsanknutna AI-utvecklingen i Sverige. Detta genom att den öppnar möjligheten för Sverige att vara värd för en så kallad AI Factory, ett initiativ från EU-kommissionen som bland annat syftar till att stödja SMF i deras satsningar på AI-utveckling. Det sker främst genom att förse dem med beräkningskraft till konkurrenskraftiga priser och säkra testmiljöer för nya AI-tjänster. Flera intressenter, däribland Vetenskapsrådet, NAISS [25] , RISE [26] och SciLifeLab, står bakom satsningen. Ett godkännande skulle innebära betydande ytterligare EU-finansiering till Sverige för en beräkningskraft som då bland annat kan tjäna SMF.
 
@@ -613,6 +617,8 @@ Avsikten från NAISS är således att ansöka om 10 miljoner euro vardera för b
 Den del som finansieras nationellt bestämmer Sverige helt över. Däremot görs den del som finansieras av EuroHPC tillgänglig för användare i hela unionen. Det skapar en situation där länder som ligger i AI-utvecklingens framkant kommer att attrahera användare från resten av unionen. I förlängningen leder det till att dessa länder stärker sina möjligheter att attrahera viktig kompetens och utöka sin startupscen. Av detta skäl är det strategiskt viktigt för Sverige att höra till de som tar ledningen i initiativet.
 
 Beräkningskraft för AI är en mycket central del i infrastrukturinvesteringar för Sverige, särskilt vad gäller ambitionen att öka vår konkurrenskraft. I ljuset av detta anser AI-kommissionen att det är mycket viktigt att ta vara på möjligheten att EuroHPC kan medfinansiera satsningarna.
+
+[25]      Förkortning för The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
 
 Förslag
 
@@ -635,8 +641,6 @@ Förslag
  ▻ Beräkningskraft för träning av AI-modeller och användning av AI-tjänster blir en allt viktigare del av det moderna samhället. AI-kommissionen anser därför att den bör ha samma status som annan samhällskritisk infrastruktur, såsom järnvägar och elnät.
 
 Det vi talat om hittills rör behovet av beräkningskraft för dagens tekniker, men runt hörnet kan vi redan skönja morgondagens teknikskifte. Kvantdatorer är ett exempel på ett område där utvecklingen gör stora framsteg och som kan komma att kraftigt förändra hur beräkningar utförs i framtiden. Trots de betydande framsteg som gjorts krävs dock fortsatt teknisk utveckling och forskning för att nå praktiska tillämpningar av kvantdatorer. Kvantsystemens potential är dock så stor att Sverige bör prioritera ett aktivt deltagande i deras utveckling. Detta sker redan till viss del genom satsningar från exempelvis Knut och Alice Wallenbergs Stiftelse. AI-kommissionen ser positivt på att regeringen har gett Vetenskapsrådet i uppdrag att ta fram underlag till en nationell kvantstrategi. [29]
-
-[27] Cirka 345 miljoner kronor vid en eurokurs om 11,49 kronor (2024-11-02). [28] För en mer ingående diskussion om problematiken med molntjänster i offentlig sektor, se kapitlet AI för en offentlig sektor i framkant. [29] Se Uppdrag att inkomma med underlag för en nationell strategi inom kvantområdet (U2024/01451).
 
 Data som en förutsättning för AI-utvecklingen
 
@@ -670,7 +674,7 @@ I en svensk studie från 2023 som omfattade 80 000 kvinnor bedömdes hälften av
 
 två radiologer, medan den andra hälften bedömdes med AI-stödd screening. Studien visade att granskning med AI resulterade i 20 procent fler identifierade cancerfall, men bara 3 procent fler falska positiva, det vill säga där cancermisstanken försvann efter kompletterande utredning. Samtidigt minskade arbetsbördan för radiologen med 44 procent. En radiolog granskar i snitt 50 mammografiundersökningar på en timme. Det innebär att denna AI-tillämpning sparade in fem månaders jobb på de 40 000 screeningundersökningarna i gruppen som granskades med AI. [31]
 
-[31] Se Kristina Lång, Viktoria Josefsson, Anna-Maria Larsson, Stefan Larsson, Charlotte Högberg, Hanna Sartor, Solveig Hofvind, Ingvar Andersson, Aldana Rosso, Artificial intelligence-supported screen reading versus standard double reading in the Mammography Screening with Artificial Intelligence trial (MASAI): a clinical safety analysis of a randomised, controlled, non-inferiority, single-blinded, screening accuracy study, The Lancet Oncology, Volume 24, Issue 8, 2023. s.936-944.
+[31]     Se Kristina Lång, Viktoria Josefsson, Anna-Maria Larsson, Stefan Larsson, Charlotte Högberg, Hanna Sartor, Solveig Hofvind, Ingvar Andersson, Aldana Rosso, Artificial intelligence-supported screen reading versus standard double reading in the Mammography Screening with Artificial Intelligence trial (MASAI): a clinical safety analysis of a randomised, controlled, non-inferiority, single-blinded, screening accuracy study, The Lancet Oncology, Volume 24, Issue 8, 2023. s.936-944.
 
 Exemplet visar hur tillgång till välstrukturerade data av hög kvalitet är en absolut nödvändighet för att AI ska kunna utvecklas och användas. Men det visar också nödvändigheten i att beakta riskerna för att de data som används återspeglar historiska och befintliga ojämlikheter, så kallad bias , vilka i sin tur speglar mänskliga beslut. Om resultatet från en AI okritiskt accepteras kan det med andra ord leda till att dessa ojämlikheter, ofta med historisk grund, återskapas. Det är emellertid osannolikt att anta att data någonsin inte kommer att vara färgad av bias. Att data är färgad av bias kan dessutom vara en förutsättning för att en AI ska lära sig vad som är bias.
 
@@ -700,23 +704,25 @@ På senare tid har även ett antal statliga utredningar presenterats som innehå
 
 I maj 2024 lämnade Utredningen om infrastruktur för hälsodata som nationellt intresse sitt slutbetänkande. [41] Utredningen lämnar ett antal förslag vilka gemensamt syftar till att öka interoperabiliteten vad gäller hälso- och sjukvårdsdata. Bland förslagen märks en skyldighet för vårdgivare att göra vissa uppgifter om en patient tillgängliga för andra vårdgivare. Detta åstadkoms genom sammanhållen vård- och
 
- [32] Se SOU 2023:96 En reform för datadelning. s. 38 samt s. 61 ff. Se även SOU 2007:47 Den osynliga infrastrukturen - om förbättrad samordning av offentlig ITstandardisering s. 71.
+ [32]     Se SOU 2023:96 En reform för datadelning. s. 38 samt s. 61 ff. Se även SOU 2007:47 Den osynliga infrastrukturen - om förbättrad samordning av offentlig ITstandardisering s. 71.
 
- Europaparlamentets och rådets förordning (EU) 2022/868 av den 30 maj 2022 om europeisk dataförvaltning och om ändring av förordning (EU) 2018/1724.
+ [34]     Europaparlamentets och rådets förordning (EU) 2022/868 av den 30 maj 2022 om europeisk dataförvaltning och om ändring av förordning (EU) 2018/1724.
 
- [36] Europaparlamentets och rådets direktiv (EU) 2019/1024 av den 20 juni 2019 om öppna data och vidareutnyttjande av information från den offentliga sektorn. Öppna data-direktivet har gett upphov till lagen (2022:818) om den offentliga sektorns tillgängliggörande av data.
+ [33]     Se bland annat exemplet från AstraZeneca i kapitlet Innovation, entreprenörskap och riskkapital.
 
-[33] Se bland annat exemplet från AstraZeneca i kapitlet Innovation, entreprenörskap och riskkapital. [34] Europaparlamentets och rådets förordning (EU) 2022/868 av den 30 maj 2022 om europeisk dataförvaltning och om ändring av förordning (EU) 2018/1724. [35] Europaparlamentets och rådets förordning (EU) 2023/2854 av den 13 december 2023 om harmoniserade regler för skälig åtkomst till och användning av data och om ändring av förordning (EU) 2017/2394 och direktiv (EU) 2020/1828 (dataförordningen).
+ [35]     Europaparlamentets och rådets förordning (EU) 2023/2854 av den 13 december 2023 om harmoniserade regler för skälig åtkomst till och användning av data och om ändring av förordning (EU) 2017/2394 och direktiv (EU) 2020/1828 (dataförordningen).
 
- [37] Dessa är hälsa, jordbruk, tillverkning, energi, mobilitet, finansiella sektorn, offentlig förvaltning, färdigheter, kulturarv, forskning och innovation, den gröna given, språk, media och turism. Se Annex I till Commission Staff Working Document on Common European Data Spaces (SWD(2024) 21 final) som publicerades i januari 2024.
+ [37]     Dessa är hälsa, jordbruk, tillverkning, energi, mobilitet, finansiella sektorn, offentlig förvaltning, färdigheter, kulturarv, forskning och innovation, den gröna given, språk, media och turism. Se Annex I till Commission Staff Working Document on Common European Data Spaces (SWD(2024) 21 final) som publicerades i januari 2024.
 
- [39] EU-kommissionens EU-strategi för data publicerades i februari 2020. OECD:s Recommendation of the Council on Enhancing Access to and Sharing of Data antogs 2021.
+ [36]     Europaparlamentets och rådets direktiv (EU) 2019/1024 av den 20 juni 2019 om öppna data och vidareutnyttjande av information från den offentliga sektorn. Öppna data-direktivet har gett upphov till lagen (2022:818) om den offentliga sektorns tillgängliggörande av data.
 
- [38] Förordningen om ett europeiskt hälsodataområde (EHDS) antogs i mars 2024 av Europeiska Rådet. Förordningen planeras antas av Europaparlamentet senare under 2024. Regeringen har påbörjat ett arbete för att skapa förutsättningar för ett effektivt införande av förordningen. EHDS kommer att förbättra möjligheterna att dela hälsodata digitalt vilket i sin tur är en förutsättning för att kunna använda AI fullt ut inom hälso- och sjukvården.
+ [38]     Förordningen om ett europeiskt hälsodataområde (EHDS) antogs i mars 2024 av Europeiska Rådet. Förordningen planeras antas av Europaparlamentet senare under 2024. Regeringen har påbörjat ett arbete för att skapa förutsättningar för ett effektivt införande av förordningen. EHDS kommer att förbättra möjligheterna att dela hälsodata digitalt vilket i sin tur är en förutsättning för att kunna använda AI fullt ut inom hälso- och sjukvården.
 
- [40] SOU 2023:96 En reform för datadelning.
+ [40]     SOU 2023:96 En reform för datadelning.
 
- [41] SOU 2024:33 Delad hälsodata - dubbel nytta Regler för ökad interoperabilitet i hälso- och sjukvården.
+ [39]     EU-kommissionens EU-strategi för data publicerades i februari 2020. OECD:s Recommendation of the Council on Enhancing Access to and Sharing of Data antogs 2021.
+
+ [41]     SOU 2024:33 Delad hälsodata - dubbel nytta Regler för ökad interoperabilitet i hälso- och sjukvården.
 
 omsorgsdokumentation samt genom att ge E-hälsomyndigheten ansvar för att ta fram interoperabilitetslösningar för hälso- och sjukvården.
 
@@ -732,10 +738,6 @@ I myndigheters - och i vissa privata - verksamheter gäller offentlighets- och s
 
 Huvudregeln i OSL är att en uppgift för vilken sekretess gäller inte får röjas för enskilda eller för andra myndigheter. Denna utgångspunkt gäller inte enbart mellan myndigheter, utan även mellan olika verksamhetsgrenar inom en myndighet när de är att betrakta som självständiga i förhållande till varandra.
 
-[42] [43] [44]
-
-Den som olovligen delar en sekretessbelagd uppgift kan dömas till ansvar för brott mot tystnadsplikt (20 kap. 3 § BrB). SOU 2024:63 Ökat informationsutbyte mellan myndigheter - Behov och föreslagna förändringar. Se särskilt s. 443 ff. i betänkandet.
-
 Informationsutbyte av uppgifter där sekretess gäller, får endast förekomma om det särskilt anges i OSL eller annan författning.
 
 De nuvarande bestämmelserna i OSL, om sekretess mellan och inom myndigheter, försvårar utbytet av data. Det har också varit avsikten, då syftet med reglerna är att värna enskildas personliga integritet och förebygga missbruk av tillgången till information.
@@ -745,6 +747,10 @@ Samtidigt har lagstiftaren konstaterat att det finns ett stort antal fall där d
 För att en sådan delning av data som många AI-tilllämpningar kräver ska vara möjlig, anser vi att ett paradigmskifte för offentlighets- och sekretesslagstiftningen är nödvändigt. Utgångspunkten bör vara offentlighet mellan myndigheter i stället för sekretess när det gäller skydd för enskildas personliga och ekonomiska förhållanden. Sekretess är fortsatt lämpligt i vissa fall, men det bör vara undantaget, inte regeln.
 
 I september 2024 presenterade Utredningen om förbättrade möjligheter till informationsutbyte mellan myndigheter sitt förslag till en ny generell sekretessbrytande bestämmelse. [43] Utredningens förslag innebär att myndigheter ska ges möjlighet att, under vissa förutsättningar, dela sekretessbelagd information med varandra. Detta förutsatt att det är nödvändigt för att en annan myndighet ska kunna förebygga, förhindra, upptäcka eller utreda fusk eller regelöverträdelser, eller för att kunna handlägga ärenden i författningsreglerad verksamhet. Den föreslagna regeln har emellertid ett antal undantag. Bland annat omfattar den inte uppgifter som skyddas av hälso- och sjukvårdssekretess. I sitt betänkande uttalar utredningen att den föreslagna bestämmelsen kan göra det möjligt för myndigheter att utveckla och använda AI-modeller i sin verksamhet i större utsträckning än vad som är möjligt i dag. [44]
+
+[44]      Se särskilt s. 443 ff. i betänkandet.
+
+[43]      SOU 2024:63 Ökat informationsutbyte mellan myndigheter - Behov och föreslagna förändringar.
 
 Utredningen konstaterade också att det bästa vore att vända på utgångspunkten i OSL, och som huvudregel tillåta att uppgifter om enskilda får utbytas mellan myndigheter. Utredningen hade dock inte möjlighet att lämna sådana förslag inom ramen för sitt uppdrag. [45]
 
@@ -760,9 +766,7 @@ Skyddet för den personliga integriteten är grundläggande och framgår av såv
 
 GDPR kompletteras i flera olika offentliga verksamheter av registerförfattningar. Det finns en stor mängd sådana författningar. Dessa registerförfattningar gäller framför allt myndigheters behandling av personuppgifter och utgör ett komplement till den allmänna regleringen och förekommer både i form av
 
-[45] [46] [47]
-
-[48]
+[45]     Se s. 17 i betänkandet.
 
 lag och förordning. Syftet med registerförfattningarna är att anpassa regleringen till de särskilda behov som myndigheterna har i sina respektive verksamheter, samt att göra avvägningar mellan behovet av effektivitet i verksamheten och behovet av skydd för den enskildes integritet. [48]
 
@@ -774,7 +778,7 @@ För flera myndigheter och verksamheter har registerförfattningarna börjat ses
 
 Detta första steg kan genomföras relativt snabbt, men det är inte tillräckligt för att underlätta användningen av AI i den offentliga verksamheten. I ett längre perspektiv är det motiverat att förändra den svenska
 
-Se s. 17 i betänkandet. En mer utförlig genomgång av dessa regelverk finns bland annat i SOU 2023:100 Framtidens dataskydd vid Skatteverket, Tullverket och Kronofogden . s. 244 ff. I artikel 4.1 GDPR definieras personuppgifter som varje upplysning som avser en identifierad eller identifierbar fysisk person. I 2 kap. 7 § tryckfrihetsförordningen definieras personuppgift som all slags information som direkt eller indirekt kan hänföras till en fysisk person. Exempel på personuppgifter är namn, personnummer, bostadsadress och IP-adress. Se Prop. 2015/16:65, Utlänningsdatalag, s. 21.
+[46]     En mer utförlig genomgång av dessa regelverk finns bland annat i SOU 2023:100 Framtidens dataskydd vid Skatteverket, Tullverket och Kronofogden . s. 244 ff. [47]     I artikel 4.1 GDPR definieras personuppgifter som varje upplysning som avser en identifierad eller identifierbar fysisk person. I 2 kap. 7 § tryckfrihetsförordningen definieras personuppgift som all slags information som direkt eller indirekt kan hänföras till en fysisk person. Exempel på personuppgifter är namn, personnummer, bostadsadress och IP-adress.
 
 <missing-text>
 
@@ -808,10 +812,6 @@ Som vi tidigare berört har en betydande del av nu gällande lagstiftning utform
 
 Det innebär att gällande regelverk ofta inte utformats på ett ändamålsenligt sätt, om man beaktar hur modern teknik gjort det möjligt att använda data och därmed skapa samhällsnytta på annat sätt än vad som tidigare var möjligt. Mot den bakgrunden är det viktigt att utforma lagar och andra regler på ett digitaliseringsvänligt vis. Här har OECD bland flera, pekat på behovet av att bädda in digitalisering tidigt i arbetet med att utforma nya regler. Detta arbetssätt kallas digital by design . [51]
 
-[51] [52]
-
-[53] [54]
-
 Myndigheten för digital förvaltning (Digg) har samlat rekommendationer kring hur detta kan ske. Exempelvis bör den som utformar en föreskrift redan från början beakta hur den ska utformas för att det ska vara möjligt att dela data på området. [52]
 
  ▻ AI-kommissionen föreslår att en myndighet, kommitté eller särskild utredare som föreslår ny reglering ska göra en bedömning av om förslaget är utformat på ett digitaliseringsvänligt sätt. Kravet ska framgå av förordningen (2024:183) om konsekvensutredningar.
@@ -822,7 +822,13 @@ Vi har tidigare konstaterat att data behöver vara av god kvalitet för att kunn
 
 I syfte att vidareutveckla och förtydliga vad som menas med god informationsförvaltning i offentlig sektor, så kallad Data Governance , anser AI-kommissionen att ett tydligt krav bör införas för samtliga aktörer i offentlig sektor. Kravet bör vara att upprätthålla en modern digital informationsförvaltning som möjliggör interoperabel datadelning på ett säkert och integritetsskyddande sätt. Det innebär att aktörer inom offentlig sektor ska se till att de data de ansvarar för och som finns inom respektive organisation är väl strukturerade. Detta innebär också att data ska vara strukturerade på ett sätt som gör det möjligt att behandla dem oberoende av den tekniska infrastrukturen och att dela dem på ett säkert, tillitsbaserat och interoperabelt sätt i enlighet med tillämpliga standarder och normer. [54] För statliga myndigheter bör ett sådant krav framgå av myndighetsförordningen (2007:515) och för regioner och kommuner av kommunallagen (2017:725). Ett alternativ till detta förslag kan vara att införa en dataförvaltningslag som omfattar verksamhet på statlig, regional och kommunal nivå.
 
-The OECD Digital Government Policy Framework: Six dimensions of a Digital Government", OECD Public Governance Policy Papers, No. 2. 2020. Rekommendationerna finns tillgängliga på https://www.digg.se/kunskap-och-stod/utforma-regelverk-digitaliseringsvanligt/diggs-rekommendationer-for-att-utformadigitaliseringsvanliga-regelverk. Exempelvis är offentliga organ skyldiga att föra ett register över inkomna och upprättade allmänna handlingar (5 kap. 1 § OSL). I sammanhanget bör här nämnas det ramverk för nationella grunddata som tagits fram av Digg.
+[51]     The OECD Digital Government Policy Framework: Six dimensions of a Digital Government', OECD Public Governance Policy Papers, No. 2. 2020.
+
+digitaliseringsvanliga-regelverk.
+
+[52]     Rekommendationerna finns tillgängliga på https://www.digg.se/kunskap-och-stod/utforma-regelverk-digitaliseringsvanligt/diggs-rekommendationer-for-att-utforma-
+
+ [54]     I sammanhanget bör här nämnas det ramverk för nationella grunddata som tagits fram av Digg.
 
 I syfte att tydliggöra standarder för datahantering inom olika sektorer bör regeringen överväga att ge myndigheter i uppdrag att ta fram sådana. [55] Här kan myndigheternas respektive ansvarsområde, och den ansvarsfördelning som framgår av bilagan till förordningen (2001:100) om den officiella statistiken, vara vägledande för vilka myndigheter som bör ges denna typ av uppdrag. Det kan därutöver vara lämpligt att ge en myndighet ett uppdrag som dataförvaltare, så kallad data steward , för att stödja andra aktörer när det gäller att åstadkomma god datahantering och underlätta datadelning inom offentlig sektor. Expertkunskap när det gäller frågor om såväl dataförvaltning som datahantering finns hos Statistiska centralbyrån (SCB). [56]
 
@@ -868,7 +874,23 @@ För offentliga aktörer är emellertid användandet av molntjänster inte bara 
 
  ▻ Vi föreslår att tillämpningen av bestämmelsen i 10 kap. 2 a § OSL bör breddas samt att det bör förtydligas under vilka omständigheter offentliga aktörer kan och bör använda sig av molntjänster i sin verksamhet. [59]
 
-[57] The future of European competitiveness, Part B In-depth analysis and recommendations (september 2024), s. 77 ff. [58] Se också en diskussion i kapitlet AI och samhällets säkerhet. [59] I kapitlet AI för en offentlig sektor i framkant lämnas vidare förslag på en gemensam digital kärninfrastruktur (AI-verkstad) vilken även föreslås innefatta molnlösningar.
+[57]     The future of European competitiveness, Part B In-depth analysis and recommendations (september 2024), s. 77 ff.
+
+I
+
+kapitlet
+
+AI för en offentlig sektor i framkant
+
+lämnas vidare förslag på en gemensam digital kärninfrastruktur (AI-verkstad) vilken även föreslås innefatta
+
+[58]   Se också en diskussion i kapitlet
+
+AI och samhällets säkerhet.
+
+molnlösningar.
+
+<missing-text>
 
 <missing-text>
 
@@ -900,15 +922,13 @@ Ny teknik skapar nya beroenden - om försörjningsberedskap och digital suverän
 
 Det försämrade säkerhetspolitiska läget är en faktor som har viktiga implikationer för de nya beroenden som växer fram i utvecklingen av AI. För att kunna ta till vara de möjligheter som den senaste teknikutvecklingen för med sig krävs - som nämns i kapitlen Tillgång till internationella AI-resurser och Beräkningskraft - tillgång till beräkningskraft i form av särskilda datorer. Beräkningskraften i världen är i dag i huvudsak belägen i USA och Kina samt i ett fåtal europeiska länder. Tillverkningen av dessa datorer är i sin tur beroende av tillgång till halvledare och sällsynta jordartsmetaller som enbart finns på vissa platser. Vi ser också hur i första hand USA, och i andra hand
 
-[61] [62] [63]
-
-Se bl.a. Nationell säkerhetsstrategi, Skr. 2023/24:163, s. 9 f. Försvarsberedningens säkerhetspolitiska rapport 2023 (Allvarstid Ds 2023:19), s. 36. Se The future of European competitiveness Part B | In-depth analysis and recommendations. s. 77 ff.
-
 Kina, dominerar den globala - och i stor utsträckning också den europeiska - techmarknaden. Exempelvis ägs de tio största onlineplattformarna i Europa av amerikanska (sex) eller kinesiska (fyra) bolag. Dessutom kontrollerar tre amerikanska aktörer i dagsläget två tredjedelar av den europeiska molntjänstmarknaden, medan europeiska bolag endast står för två procent. [63]
 
 I takt med att Sveriges AI-förmåga blir alltmer betydelsefull för vår säkerhet växer alltså nya beroenden fram. Tillgången till beräkningskraft samt teknik, kunskap och råvaror som är nödvändiga för att bygga sådan infrastruktur är central. En situation där betydande delar av den globala beräkningskraften befinner sig under kontroll av stater som är fientligt inställda till Sverige skulle vara klart negativ för vår säkerhet. I vilken mån Sverige, ensamt eller tillsammans med andra, har tillgång till eller möjlighet att bygga sådana förmågor är därför av betydelse för Sveriges säkerhetspolitiska situation.
 
 Dessa frågor behöver integreras i arbetet med att etablera en god försörjningsberedskap i Sverige. Att säkerställa att vår AI-förmåga kan upprätthållas även i oroliga tider är lika viktigt som att industrin fortsätter förses med insatsvaror eller att tele- och datakommunikationsnäten fortsätter fungera. Tyvärr visar erfarenheter från coronapandemin att i ett trängt läge riskerar solidariteten mellan allierade länder och inom EU att krackelera. Då handlade det om sådant som vaccin och personlig skyddsutrustning, men i framtiden kan det lika gärna handla om beräkningskraft eller
+
+[62]      Försvarsberedningens säkerhetspolitiska rapport 2023 (Allvarstid Ds 2023:19), s. 36.
 
 IT-utrustning. Det är visserligen i praktiken omöjligt för ett land av Sveriges storlek att göra sig oberoende av andra på detta område - internationellt samarbete, särskilt inom EU, är på många punkter en direkt nödvändighet. Likväl måste vi beakta detta perspektiv i beredskapsplaneringen.
 
@@ -932,17 +952,23 @@ AI gör det möjligt att snabbt, enkelt och med liten arbetsinsats skapa stora m
 
 Bortom den typ av hot som vi nämner ovan finns även risker i framtiden med militär tillämpning av AI.
 
-[64] Frågan har varit föremål för myndighetssamverkan inom ramen för eSam, se https://www.esamverka.se/vad-vi-gor/molnfragan.html. Se även kapitlet Data som en förutsättning för AI-utvecklingen.
+[64]     Frågan har varit föremål för myndighetssamverkan inom ramen för eSam, se https://www.esamverka.se/vad-vi-gor/molnfragan.html. Se även kapitlet Data som en förutsättning för AI-utvecklingen.
 
- Detta är också ett bidragande skäl till de förslag som lämnas i kapitlet om en gemensam AI-verkstad för offentlig sektor.
+ [66] Se  https://ec.europa.eu/commission/presscorner/detail/sv/IP\_24\_363.
 
-[65] Se också en diskussion i kapitlet Data som en förutsättning för AI. [66] Se https://ec.europa.eu/commission/presscorner/detail/sv/IP\_24\_363. [67] Se Säkerhetspolisens årsberättelse 2023/2024. s. 32 ff. [68] Lagen (2023:560) om granskning av utländska direktinvesteringar trädde i kraft den 1 december 2023. [69] Se bilaga 2 till förordningen (2023:624) om granskning av utländska direktinvesteringar. [70] AI för en offentlig sektor i framkant
+ [65]   Se också en diskussion i kapitlet Data som en förutsättning för AI.
 
- Detta är också ett bidragande skäl till de förslag som lämnas i kapitlet om en gemensam AI-verkstad för offentlig sektor.
+ [67]     Se Säkerhetspolisens årsberättelse 2023/2024. s. 32 ff.
 
- [72] Se exempelvis Försvarsberedningens rapport Kraftsamling (Ds 2023:34) s. 240.
+ [69]     Se bilaga 2 till förordningen (2023:624) om granskning av utländska direktinvesteringar.
 
- [71] Nationell säkerhetsstrategi, Skr. 2023/24:163, s. 4 f.
+ [68]     Lagen (2023:560) om granskning av utländska direktinvesteringar trädde i kraft den 1 december 2023.
+
+ [70]     Detta är också ett bidragande skäl till de förslag som lämnas i kapitlet AI för en offentlig sektor i framkant om en gemensam AI-verkstad för offentlig sektor.
+
+ [72]     Se exempelvis Försvarsberedningens rapport Kraftsamling (Ds 2023:34) s. 240.
+
+ [71]     Nationell säkerhetsstrategi, Skr. 2023/24:163, s. 4 f.
 
 Det gäller särskilt möjligheten att använda AI för att utveckla autonoma vapen, som kan agera offensivt utan mänsklig kontroll. Riskerna med system med kapacitet att döda utan mänskligt beslutsfattande är uppenbara, och det är problematiskt att en tydlig folkrättslig reglering av sådana vapen än så länge saknas. Såväl FN som Internationella Rödakorskommittén har efterlyst en snar hantering av de många och svåra frågeställningar som omger autonoma vapen. [73] , [74]
 
@@ -966,21 +992,23 @@ AI:s roll i försvaret mot cyberangrepp
 
 Fördelarna med AI inom cybersäkerhet är betydande. Med hjälp av AI-teknik kan skyddet stärkas mot såväl antagonistiska cyberangrepp som mot oavsiktliga IT-incidenter. Genom att analysera mönster i stora datamängder kan AI identifiera potentiella hot som är svåra att upptäcka för människor, och varna cybersäkerhetspersonal. AI används också för att automatisera rutinuppgifter inom säkerhet och därmed frigöra tid för personalen att ägna sig åt mer komplexa uppgifter som de tekniska systemen inte klarar lika
 
- Se Förenta nationernas generalförsamlings resolution A/RES/78/241 om dödliga autonoma vapensystem.
+ [73]     Se Förenta nationernas generalförsamlings resolution A/RES/78/241 om dödliga autonoma vapensystem.
 
- [75] Se till exempel Nationell säkerhetsstrategi, Skr.2023/24:163, s. 4, Säkerhetspolisens årsberättelse 2023/2024 s. 9 ff. samt Motståndskraft och handlingskraft - en nationell strategi mot organiserad brottslighet, Skr. 2023/24:67, s. 3.
+ [75]     Se till exempel Nationell säkerhetsstrategi, Skr.2023/24:163, s. 4, Säkerhetspolisens årsberättelse 2023/2024 s. 9 ff. samt Motståndskraft och handlingskraft - en nationell strategi mot organiserad brottslighet, Skr. 2023/24:67, s. 3.
 
-[73] Se Förenta nationernas generalförsamlings resolution A/RES/78/241 om dödliga autonoma vapensystem. [74] Se till exempel Gemensamt uttalande den 5 oktober 2023 från FN:s generalsekreterare och Internationella Rödakorskommitténs ordförande om behovet av att etablera nya förbud och begränsningar avseende autonoma vapensystem.
+ [74]     Se till exempel Gemensamt uttalande den 5 oktober 2023 från FN:s generalsekreterare och Internationella Rödakorskommitténs ordförande om behovet av att etablera nya förbud och begränsningar avseende autonoma vapensystem.
 
-[76] Se https://polisen.se/om-polisen/polisens-arbete/kriminell-ekonomi/. [77] Se Säkerhetspolisens årsberättelse 2023/2024 s. 9. [78] Se Nationell säkerhetsstrategi, Skr. 2023/24:163. s. 10 f. [79] Data som en förutsättning för AI-utvecklingen
+ [76] Se  https://polisen.se/om-polisen/polisens-arbete/kriminell-ekonomi/.
 
- Se även kapitlet angående möjligheterna att dela data mellan olika aktörer.
+ [78]     Se Nationell säkerhetsstrategi, Skr. 2023/24:163. s. 10 f.
 
- Se även kapitlet angående möjligheterna att dela data mellan olika aktörer.
+ [77]     Se Säkerhetspolisens årsberättelse 2023/2024 s. 9.
 
- [81] I departementspromemorian Förbättrade möjligheter för polisen att använda kamerabevakning (Ds 2024:11) föreslås att Polismyndigheten och Säkerhetspolisen i vissa fall ska få tillstånd att använda system för biometrisk fjärridentifiering i realtid på allmän plats för brottsbekämpningsändamål.
+ [79]     Se även kapitlet Data som en förutsättning för AI-utvecklingen angående möjligheterna att dela data mellan olika aktörer.
 
- [80] Med biometrisk identifiering menas att en person identifieras genom hennes fysiska eller fysiologiska särdrag såsom en människas ansikte, fingeravtryck eller näthinna.
+ [81]     I departementspromemorian Förbättrade möjligheter för polisen att använda kamerabevakning (Ds 2024:11) föreslås att Polismyndigheten och Säkerhetspolisen i vissa fall ska få tillstånd att använda system för biometrisk fjärridentifiering i realtid på allmän plats för brottsbekämpningsändamål.
+
+ [80]     Med biometrisk identifiering menas att en person identifieras genom hennes fysiska eller fysiologiska särdrag såsom en människas ansikte, fingeravtryck eller näthinna.
 
 bra. Det här är särskilt viktigt eftersom det råder brist på kompetens inom både IT- och cybersäkerhetsområdet. Genom att öka snabbheten och precisionen vid upptäckt och hantering av hot kan AI också bidra till att minska konsekvenserna av cyberangrepp. [82]
 
@@ -1004,7 +1032,7 @@ De hot som vi hittills har diskuterat är alla antagonistiska . Det vill säga s
 
 Även på detta område kan AI användas för att stärka samhället på många sätt. Tekniken kan hjälpa oss både att planera för allvarliga händelser i fredstid och att hantera dem när de väl inträffar.
 
-[82] Se exempelvis rapporten Foresight CybersecurityThreats for 2030 - Update av Enisa, EU:s cybersäkerhetsbyrå. Tillgänglig på https://www.enisa.europa.eu/ publications/foresight-cybersecurity-threats-for-2030-update-2024-extended-report/@@download/fullReport. [83] Behovet av stark tillit när det gäller AI diskuteras även i kapitlet AI för en offentlig sektor i framkant. [84] MSB, Årsrapport it-incidentrapportering 2023. s. 21.
+[84]     MSB, Årsrapport it-incidentrapportering 2023. s. 21.
 
 <missing-text>
 
@@ -1050,11 +1078,13 @@ Ett nytt institut för AI-säkerhet
 
 Det finns ett stort behov av kunskap kring de risker som utvecklingen och användningen av AI kan föra med sig för vårt samhälle. För att stärka samhällets motståndskraft, men även för att hantera den oro som finns vad gäller AI, anser vi att ett institut för AI-säkerhet ska etableras. Institutets huvuduppgift ska vara att bedriva och främja forskning kring säkerhetsrisker förknippade med AI. På så vis kan institutet bidra till att faktiska säkerhetsrisker förknippade med AI belyses och blir adresserade. I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det. På så vis kan vi se till att diskussionen kring säkerhet och AI grundas i evidens och fakta, samt att samhällets resurser läggs på att hantera faktiska risker. Institutet ska därför årligen publicera en rapport om de viktigaste frågorna vad gäller AI-säkerhet samt ge rekommendationer kring hur dessa
 
-[86] Försäkringskassans verksamhet är till exempel samhällsviktig, men ett avbrott i förmågan att ta emot ansökningar, handlägga ärenden och göra utbetalningar på en
+[86]     Försäkringskassans verksamhet är till exempel samhällsviktig, men ett avbrott i förmågan att ta emot ansökningar, handlägga ärenden och göra utbetalningar på en eller ett fåtal dagar innebär normalt sett inget allvarligt hot mot samhället eller enskilda.
 
-[86] Försäkringskassans verksamhet är till exempel samhällsviktig, men ett avbrott i förmågan att ta emot ansökningar, handlägga ärenden och göra utbetalningar på en
+ [89]     Se Ds 2024:6 s. 43. Regeringen gav i juli 2024 Digg och IMY i uppdrag att ta fram vägledande riktlinjer för användning av generativ artificiell intelligens (AI) inom den offentliga förvaltningen. Uppdraget ska redovisas senast den 20 januari 2025.
 
-eller ett fåtal dagar innebär normalt sett inget allvarligt hot mot samhället eller enskilda. [87] Med ekonomisk säkerhet menas här bland annat att de ekonomiska trygghetssystemen, såsom att utbetalning av socialförsäkring, pension mm ska fungera. [88] I sammanhanget kan det vara intressant att notera att den utredning som föreslog den nu gällande ordningen för civilt försvar, föreslog en särskild beredskapssektor för cybersäkerhet i syfte att stärka samhällets koordinering när det gäller dessa frågor. Förslaget blev emellertid inte verklighet. Se SOU 2021:25 Struktur för ökad motståndskraft, s. 258 ff. [89] Se Ds 2024:6 s. 43. Regeringen gav i juli 2024 Digg och IMY i uppdrag att ta fram vägledande riktlinjer för användning av generativ artificiell intelligens (AI) inom den offentliga förvaltningen. Uppdraget ska redovisas senast den 20 januari 2025. [90] Unesco:s Recommendation on the Ethics of Artificial Intelligence antogs av dess 193 medlemsstater 2021. [91] Se bland annat UNICEFs Policy guidance on AI for children från 2021.
+[87]     Med ekonomisk säkerhet menas här bland annat att de ekonomiska trygghetssystemen, såsom att utbetalning av socialförsäkring, pension mm ska fungera. [88]     I sammanhanget kan det vara intressant att notera att den utredning som föreslog den nu gällande ordningen för civilt försvar, föreslog en särskild beredskapssektor för cybersäkerhet i syfte att stärka samhällets koordinering när det gäller dessa frågor. Förslaget blev emellertid inte verklighet. Se SOU 2021:25 Struktur för ökad motståndskraft, s. 258 ff.
+
+ [91]     Se bland annat UNICEFs Policy guidance on AI for children från 2021.
 
 bör hanteras. Det ska även utveckla riktlinjer och best practices för säker AI-användning och utveckling.
 
@@ -1132,7 +1162,7 @@ Förslag
 
  ▻ AI-kommissionen föreslår att regeringen inrättar ett begränsat antal excellenscenter inom AIområdet till en ungefärlig styckkostnad om 100 miljoner kronor per år under 10 år, till ett totalbelopp om 300 miljoner kronor årligen. Centren ska samverka med forskare och projekt vid olika svenska och internationella lärosäten, samt samarbeta med både näringslivet och offentlig sektor. Dessa center kan vara virtuella och omfatta flera lärosäten, men ska ha ett lärosäte som huvudman. Vetenskapsrådet, i samråd med övriga forskningsfinansiär, bör vara huvudman för en utlysning och fördela resurserna i konkurrens mellan universitet och högskolor.
 
-[94] Kanadas AI-strategi är centrerad runt tre nationella AI-institut: Amii, Institut Vecteur och Mila. Dessa institut samlar expertis från forskarsamhället och bedriver forskning inom områden som energi, hälsa och säkerhet. Varje institut driver dessutom program för att kommersialisera AI-forskning och stötta framväxten av nystartade företag. Se: https://cifar.ca/wp-content/uploads/2023/11/aican-impact-2023-eng.pdf. [95] Se även kapitlet Innovation, entreprenörskap och riskkapital.
+[94]     Kanadas AI-strategi är centrerad runt tre nationella AI-institut: Amii, Institut Vecteur och Mila. Dessa institut samlar expertis från forskarsamhället och bedriver forskning inom områden som energi, hälsa och säkerhet. Varje institut driver dessutom program för att kommersialisera AI-forskning och stötta framväxten av nystartade företag. Se: https://cifar.ca/wp-content/uploads/2023/11/aican-impact-2023-eng.pdf. [95]     Se även kapitlet Innovation, entreprenörskap och riskkapital.
 
 För att säkerställa långsiktig tillgång till kompetens som stannar i Sverige är det angeläget att lärosätena erbjuder attraktiva AI-tjänster för nydisputerade forskare. Ett nationellt post doc-program bör därför inrättas inom AI. Forskarna bör ges årlig finansiering, utan krav på internationell placering, men med goda möjligheter till internationella utbyten. Syftet med detta är att ge doktorander och forskare, inte minst de med internationell bakgrund, möjlighet att fortsätta sin karriär i Sverige. Det skulle bidra positivt till den nationella forskningen och stärka landets innovationskapacitet.
 
@@ -1176,13 +1206,29 @@ AI påverkar inte bara den teoretiska och praktiska forskningen inom olika områ
 
 För att tillgodogöra sig de nya möjligheter som tekniken ger krävs utbildningsinsatser för forskare, doktorander och teknisk personal. Det måste ske på en tvärvetenskaplig, generell nivå som spänner över många, om inte alla vetenskapliga discipliner. Men det
 
+[98]
+
+Se
+
+Uppdrag om att stärka samordning kopplat till Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk
+
+[99]     WASP-HS står för Wallenberg AI, Autonomous Systems and Software Program - Humanity and Society. Inom WASP-HS bedrivs forskning och man bygger expertis
+
+arbetskraft som är viktig för Sveriges konkurrenskraft
+
+(KN2024/00521).
+
+för att bättre förstå hur AI påverkar människor och samhälle.
+
+[101]     Se förslag i kapitlet Spetsforskning i samverkan.
+
+[100]     Se förslag i kapitlet AI för en offentlig sektor i framkant.
+
 måste också ske på mer specialiserade nivåer med fokus på ämnesspecifika verktyg som är centrala för respektive vetenskapsområde. [100]
 
 Det kräver också att vi systematiskt bygger organisation och infrastruktur till stöd för utveckling, implementering och integration av AI i vetenskapliga sammanhang. Sådan infrastruktur omfattar både hårdvara för träning och användning (inferens) av AI-modeller, samt kompetenskluster som kan stötta den tvärvetenskapliga utveckling och integration som krävs. I den snabba utvecklingen med kortare avstånd mellan forskning och tillämpning krävs också ett starkt samarbete mellan akademi, näringsliv och offentlig sektor. [101]
 
 Ett flertal olika åtgärder kan snabba på utvecklingen av AI4Science och ge svensk forskning en konkurrensfördel. Möjliga frågeställningar är att: utveckla teori och praktik runt AI-systemens roll i forskningen och dess förmåga att resonera, baserat på data i kombination med etablerad vetenskaplig kunskap; förbättra metoder för insamling, hantering kring och syntes av högkvalitativa vetenskapliga data - företrädesvis internationellt; ta fram riktlinjer runt etik, tillit och ansvarsfrågor inom AI för vetenskap; och utveckla robusta utvärderingsmetoder som på ett ansvarsfullt sätt klargör prestanda, förmågor och begränsningar kring den vetenskapliga användningen av AI.
-
-[98] Se Uppdrag om att stärka samordning kopplat till Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft (KN2024/00521). [99] WASP-HS står för Wallenberg AI, Autonomous Systems and Software Program - Humanity and Society. Inom WASP-HS bedrivs forskning och man bygger expertis för att bättre förstå hur AI påverkar människor och samhälle. [100] Se förslag i kapitlet AI för en offentlig sektor i framkant. [101] Spetsforskning i samverkan.
 
 Tillgång till internationella AI-resurser
 
@@ -1252,7 +1298,7 @@ företags förmåga att hävda sig i den globala konkurrensen. Detta gäller int
 
  ▻ AI-kommissionen understryker hur avgörande det är att de här plattformarna och verktygen tillgängliggörs samtidigt i Sverige och EU som i resten av världen. Som föreslås i kapitlet Internationella positioner är det därmed av stor vikt att svenska företrädare verkar för att den AI-relaterade EU-regleringen inte bidrar till försämrad tillgänglighet för dessa verktyg. De tekniska attachéer som föreslås i samma kapitel bör också aktivt verka för att minska dessa risker.
 
-[104] En multimodal modell är en AI-modell som kan bearbeta och förstå flera typer av data samtidigt, som ljud, text och bild.
+[104]     En multimodal modell är en AI-modell som kan bearbeta och förstå flera typer av data samtidigt, som ljud, text och bild.
 
 AI-förordningen
 
@@ -1276,9 +1322,11 @@ Regeringen gav i september 2024 en särskild utredare i uppdrag att bland annat 
 
 <missing-text>
 
-3 AI för alla
+<missing-text>
 
 I de följande tre kapitlen, Kompetenslyft för alla, Innovation entreprenörskap och riskkapital och AI för Offentlig sektor i framkant, diskuterar vi och lämnar förslag på vad som krävs för att hela samhället ska kunna ta till sig AI och dra nytta av de möjligheter som ges.
+
+3 AI för alla
 
 Vi börjar i behovet av att lyfta kunskapen om AI i hela befolkningen och se till att den strukturomvandling som AI medför kan genomföras på ett sätt som bevarar och stärker vår tillit till varandra och till samhället. Vidare tittar vi på näringslivets förutsättningar i form av innovation, företagande och tillgång till riskkapital. Sverige har en tradition av innovativa teknikföretag och det är viktigt att förutsättningarna finns på plats för att företagen ska kunna hänga med i utvecklingen. Slutligen tittar vi på utmaningarna för offentlig sektor och ger förslag på hur AI ska göra det möjligt för sektorn att leva upp till människors förväntningar.
 
@@ -1312,9 +1360,7 @@ Erfarenheter från tidigare stora strukturomvandlingar visar att ny teknik ofta 
 
 För att Sverige fullt ut ska dra nytta av den nya tekniken behövs en hög lägstanivå vad gäller grundläggande AI-kompetens hos Sveriges befolkning. Tyvärr finns det grupper i dag som befinner sig i ett digitalt utanförskap. Enligt Internetstiftelsens rapport [105] Svenskarna och internet från 2024 bedöms förvisso bara fyra procent av svenskarna vara digitalt utanför,
 
-[105] [106]
-
-Liknande bild tecknas i SCB:s rapport Befolkningens IT-användning (2024). Svenskarna och Internet, Internetstiftelsen (2024)).
+[105]     Liknande bild tecknas i SCB:s rapport Befolkningens IT-användning (2024). [106]     Svenskarna och Internet, Internetstiftelsen (2024)).
 
 men siffran gömmer en snedfördelning i befolkningen - bland äldre är motsvarande siffra 22 procent. Den snabba teknikutvecklingen riskerar dessutom att skapa nya kunskapsklyftor. [106] Samma rapport visar exempelvis att 30 procent av befolkningen har använt ett AI-verktyg under 2023, framför allt för privat bruk. Bland yngre svenskar är det betydligt vanligare. I åldern 18-34 år svarar 60 procent att de har använt AI-verktyg. Det kan jämföras med svenskar i åldern 65-84 år där endast fem procent svarar att de har gjort det. Framför allt är det AI-verktyget ChatGPT som används. För att fullt ut kunna skörda frukterna av den nya tekniken, men också undvika avarter såsom bedrägerier, faktaförvanskning och intränade fördomar i automatiska beslut, krävs att vi minskar dagens kunskapsklyftor och motverkar framtida sådana. Här kan Sveriges långa tradition av folkbildning spela en viktig roll.
 
@@ -1326,7 +1372,7 @@ samhällets motståndskraft mot bland annat desinformation och otillbörlig info
 
 Folkbildning utövas i olika former men vilar på samma grundidé om att främja livslångt lärande, aktivt medborgarskap och demokratiskt deltagande. Mest kända är kanske de olika studieförbunden, men föreningslivet och olika privata och offentliga initiativ är också omfattande; se faktarutan nedan för exempel på folkbildningsinitiativ runt digitalisering och AI. Sammantaget deltar över 800 000 personer bara i studieförbundens och folkhögskolornas verksamheter varje år. [107] Det svenska folkbildningssystemet erbjuder därmed utmärkta möjligheter att sprida kunskap om AI till allmänheten - kunskap om möjligheterna, men också om riskerna. Särskilt värdefull är möjligheten att nå ut till grupper med ett högre digitalt utanförskap, såsom funktionsnedsatta och äldre.
 
-[107] Se Fakta om folkbildningen 2023, Folkbildningsrådet (2023).
+[107]     Se Fakta om folkbildningen 2023, Folkbildningsrådet (2023).
 
 Folkbildningsinitiativ inom digitaliserings- och AI-området
 
@@ -1350,11 +1396,7 @@ Förslag
 
  ▻ AI-kommissionen föreslår också en satsning på folkbiblioteken om 100 miljoner kronor per år under åren 2025-2029. Det stärker deras uppdrag att främja användningen av informationsteknik för kunskapsinhämtning och lärande. Satsningen syftar till att allmänheten ska kunna få hjälp med att prova på och använda AI-verktyg kostnadsfritt.
 
- ▻ Likt hem-pc-reformen på 1990-talet bör staten erbjuda alla medborgare kostnadsfri tillgång till ett urval av kvalitetssäkrade AI-tjänster: "AI för alla"-reformen. [109] Genom att demokratisera åtkomsten till dessa verktyg kan Sverige positionera sig som en föregångare inom AIanvändning. En sådan bred satsning skulle inte bara stimulera innovation och produktivitet på individnivå, utan också ge Sverige en unik profil internationellt - ett land som prioriterar att göra spjutspetsteknologi tillgänglig för alla medborgare. AI-tjänsterna kan med fördel samlas i den AI-hubb som AI-kommissionen föreslår på sida 70. Vilka AI-tjänster som ska inkluderas i AI-hubben måste snabbutredas. Den task force vi föreslår i kapitlet Ledarskap och styrning för att genomföra Färdplanen ska ha till uppgift att snabbutreda och förhandla med leverantörer om förutsättningarna för att erbjuda gratis AI-tjänster, sätta ett tak för hur mycket satsningen får kosta och under hur lång tid erbjudandet ska fortgå.
-
-[108]
-
-[109]
+ ▻ Likt hem-pc-reformen på 1990-talet bör staten erbjuda alla medborgare kostnadsfri tillgång till ett urval av kvalitetssäkrade AI-tjänster: 'AI för alla'-reformen. [109] Genom att demokratisera åtkomsten till dessa verktyg kan Sverige positionera sig som en föregångare inom AIanvändning. En sådan bred satsning skulle inte bara stimulera innovation och produktivitet på individnivå, utan också ge Sverige en unik profil internationellt - ett land som prioriterar att göra spjutspetsteknologi tillgänglig för alla medborgare. AI-tjänsterna kan med fördel samlas i den AI-hubb som AI-kommissionen föreslår på sida 70. Vilka AI-tjänster som ska inkluderas i AI-hubben måste snabbutredas. Den task force vi föreslår i kapitlet Ledarskap och styrning för att genomföra Färdplanen ska ha till uppgift att snabbutreda och förhandla med leverantörer om förutsättningarna för att erbjuda gratis AI-tjänster, sätta ett tak för hur mycket satsningen får kosta och under hur lång tid erbjudandet ska fortgå.
 
  ▻ Staten bör också överväga att ge elever, studenter och lärare kostnadsfri tillgång till AI-tjänster under en längre period. Vid bibliotek och vid Statens servicecenter ska det finnas AI-tjänster utan kostnad att använda, samt personal som kan vara behjälpliga i hur de kan användas. Även detta måste snabbutredas av den task force vi föreslår i kapitlet Ledarskap och styrning för att genomföra Färdplanen . I övrigt är det arbetsgivarnas ansvar att de anställda har de hjälpmedel som behövs för att lösa sina uppgifter och förbättra verksamheten.
 
@@ -1368,13 +1410,15 @@ AI-kommissionen lämnar dock inte några förslag på skolans område i denna ra
 
 Som i samhället i övrigt erbjuder AI stora möjligheter för skolpersonal att förbättra och rationalisera administrativa uppgifter. Lärare kan exempelvis använda AI för att ta fram lektionsplaner, scheman, rapporter och genomföra dokumentation. Härigenom frigörs tid som kan läggas på pedagogisk utveckling och på elevernas individuella behov, för att nämna några exempel.
 
-AI-kommissionen välkomnar uppdraget till Mediemyndigheten rörande en nationell satsning för stärkt medie- och informationskunnighet. Se Uppdrag till Mediemyndigheten att genomföra en nationell satsning för stärkt medie- och informationskunnighet i en tid av artificiell intelligens och desinformation och på så sätt öka samhällets motståndskraft (Ku2024/00419). Det måste utredas hur medborgarna får access till tjänsterna på den AI-hubb som beskrivs nedan.
+[108]     AI-kommissionen välkomnar uppdraget till Mediemyndigheten rörande en nationell satsning för stärkt medie- och informationskunnighet. Se Uppdrag till Mediemyndigheten att genomföra en nationell satsning för stärkt medie- och informationskunnighet i en tid av artificiell intelligens och desinformation och på så sätt öka samhällets motståndskraft (Ku2024/00419).
+
+[109]     Det måste utredas hur medborgarna får access till tjänsterna på den AI-hubb som beskrivs nedan.
 
 AI har också stor potential att kunna användas som pedagogiskt verktyg i skolundervisningen, förutsatt att den vetenskapliga forskningen visar på gynnsamma inlärningseffekter. Här kan AI-tekniken innebära nya möjligheter att bland annat individanpassa undervisningen och utjämna elevernas skiftande förutsättningar, till följd av till exempel föräldrarnas olika utbildningsbakgrund. Om skolan inte introducerar eleverna till AI finns därmed risken att elevernas olika socioekonomiska bakgrunder leder till växande klyftor inom detta område. Hemmet blir då den plats där kunskapen om, och användningen av, AI äger rum.
 
 Vision: AI-verktyg i undervisningen
 
-AI-tjänster har potentialen att förändra perspektiven på vad undervisning kan åstadkomma. Dels kan undervisning bli mycket mer individanpassad, dels kan lärare ges mer tid att ägna sig åt dem som behöver mer stöd. Det mest slående är kanske att AI för första gången möjliggör för varje elev att få en "privatlärare" som anpassar sin pedagogik efter dennes förutsättningar - en lärare som dessutom har obegränsat med tid och är tillgänglig dygnet runt. Anpassningen kan bland annat innebära att den fysiska läraren, ihop med AI, justerar svårighetsgraden för att utmana elever som behöver det. Undervisningen skulle också kunna itereras, vilket innebär att undervisningen anpassas baserat på elevens tidigare prestationer och reaktioner. AI skulle därmed kunna erbjuda en flexibel och stegvis inlärningsprocess där varje steg bygger på det föregående, vilket ger en mer dynamisk lärmiljö.
+AI-tjänster har potentialen att förändra perspektiven på vad undervisning kan åstadkomma. Dels kan undervisning bli mycket mer individanpassad, dels kan lärare ges mer tid att ägna sig åt dem som behöver mer stöd. Det mest slående är kanske att AI för första gången möjliggör för varje elev att få en 'privatlärare' som anpassar sin pedagogik efter dennes förutsättningar - en lärare som dessutom har obegränsat med tid och är tillgänglig dygnet runt. Anpassningen kan bland annat innebära att den fysiska läraren, ihop med AI, justerar svårighetsgraden för att utmana elever som behöver det. Undervisningen skulle också kunna itereras, vilket innebär att undervisningen anpassas baserat på elevens tidigare prestationer och reaktioner. AI skulle därmed kunna erbjuda en flexibel och stegvis inlärningsprocess där varje steg bygger på det föregående, vilket ger en mer dynamisk lärmiljö.
 
 AI i undervisningen skulle också kunna ge en djupare insikt i varje elevs läroprocess. Lärare kan se vad elever studerar, hur länge de gör det, vad som fastnar, vad som är svårt, och vad som är intressant eller ointressant. Det här får givetvis inte äventyra elevernas integritet. Men använt med omdöme ger
 
@@ -1412,7 +1456,7 @@ Historiskt har teknisk utveckling inneburit ökad produktivitet och välstånd, 
 
 Vad är nytt med AI jämfört med tidigare teknikskiften?
 
-AI väntas påverka arbetsmarknaden på flera olika sätt. I likhet med andra teknikskiften erbjuder AI stora möjligheter till automatisering och effektivisering av befintliga arbetsuppgifter. Det kommer att bli lättare för oss att lösa uppgifter snabbt och med bättre precision. I många fall kommer det här att utveckla arbetsuppgifterna så att till exempel tråkiga eller farliga arbetsmoment kan undvikas. I vissa fall kommer det emellertid att leda till att yrken och hela branscher försvinner, eftersom uppgifterna bättre hanteras med hjälp av AI. AI är emellertid också en så kallad "Invention of a Method for Invention" (IMI), vilket betyder att AI kommer att påverka hela innovations- och forskningsprocessen. Det innebär att vi kommer att hitta metoder att göra saker som vi i dag inte kan föreställa oss. Det här kommer i sin tur att leda till framväxten av helt nya yrken och branscher.
+AI väntas påverka arbetsmarknaden på flera olika sätt. I likhet med andra teknikskiften erbjuder AI stora möjligheter till automatisering och effektivisering av befintliga arbetsuppgifter. Det kommer att bli lättare för oss att lösa uppgifter snabbt och med bättre precision. I många fall kommer det här att utveckla arbetsuppgifterna så att till exempel tråkiga eller farliga arbetsmoment kan undvikas. I vissa fall kommer det emellertid att leda till att yrken och hela branscher försvinner, eftersom uppgifterna bättre hanteras med hjälp av AI. AI är emellertid också en så kallad 'Invention of a Method for Invention' (IMI), vilket betyder att AI kommer att påverka hela innovations- och forskningsprocessen. Det innebär att vi kommer att hitta metoder att göra saker som vi i dag inte kan föreställa oss. Det här kommer i sin tur att leda till framväxten av helt nya yrken och branscher.
 
 Det här är en förklaring till att AI kan förväntas påverka arbetsmarknaden annorlunda jämfört med tidigare teknikskiften. Exempelvis väntas fler yrken påverkas än tidigare - inte minst tjänstemannayrken. Uppgifterna om hur stor andel av jobben som kommer omfattas varierar. Det finns skattningar baserade på amerikanska data som pekar på att 80 procent av alla sysselsatta har arbetsuppgifter som kan komma att påverkas av AI i någon mån. Av dessa beräknas var fjärde - alltså 20 procent av alla sysselsatta påverkas mer påtagligt. Andra beräkningar, baserade på svenska data men med delvis andra ansatser, redovisar andra procentsatser men bekräftar bilden av att AI väntas påverka fler yrken och arbetsuppgifter än vad som skett vid tidigare teknikskiften.
 
@@ -1458,7 +1502,7 @@ grupper (geografiskt, bransch-, yrkes- eller lönemässigt) påverkas negativt. 
 
 Mycket görs redan på området. För att nämna några exempel tar Myndigheten för yrkeshögskolan (MYH) fram områdesanalyser över olika branschers behov av kompetens, medan Universitetskanslersämbetet ansvarar för att ta fram planeringsunderlag för lärosätenas dimensionering av utbildning. Inom skolan sjösätts nu även en stor reform som syftar till att arbetsmarknadens behov i större utsträckning ska styra snarare än elevernas önskemål. Mot bakgrund av detta kommer Skolverket att ta fram regionala planeringsunderlag som beskriver arbetsmarknadens behov, vilka kommunerna kommer ta hänsyn till i utbildningsutbudet.
 
-[115] Se till exempel Magnus Lodefalk, Artificiell intelligens och jobben, Ratio 2024.
+[115]     Se till exempel Magnus Lodefalk, Artificiell intelligens och jobben, Ratio 2024.
 
 <missing-text>
 
@@ -1490,7 +1534,9 @@ Validering för att bygga på de kunskaper som finns
 
 För att kompetensutvecklingen för yrkesverksamma ska vara så effektiv som möjligt är det viktigt att bygga vidare på den kompetens som de redan har. Under lång tid har därför kompetenskartläggning och validering av yrkeserfarenhet och utländska utbildningar diskuterats och delvis genomförts i Sverige. Med en kartläggning och validering som utgångspunkt kan sedan relevanta AI-utbildningar identifieras.
 
-[116] Värt att notera i detta sammanhang är att SCB har i uppgift att göra långsiktiga prognoser om befolkning, utbildning och arbetsmarknad. [117] Se förslaget runt Folkbildning tidigare i detta kapitel. [118] Gemensam agenda för kompetensförsörjning och livslångt lärande,
+[116]     Värt att notera i detta sammanhang är att SCB har i uppgift att göra långsiktiga prognoser om befolkning, utbildning och arbetsmarknad.
+
+[117]     Se förslaget runt Folkbildning tidigare i detta kapitel.
 
 AI-kommissionen anser det viktigt att bygga ett valideringssystem av hög kvalitet dit alla yrkesverksamma och arbetssökande kan vända sig för att få sin AI-kompetens certifierad. Konkreta förslag kan hämtas från Valideringsdelegationens rapport SOU 2017:18. Myndigheten för yrkeshögskolan har också fått ett nationellt ansvar för yrkesvalidering. Detta är bra. Kommissionen menar dock att det i dagsläget saknas ett specifikt uppdrag till universitet och högskolor att validera kunskap som behövs för vidarestudier inom akademin. Detta kan röra tillgodoräknande av tidigare utbildning men även bedömning av reell kompetens. En sådan validering kan sedan användas för att vara behörig att antas till en viss kurs eller utbildning.
 
@@ -1528,7 +1574,7 @@ Går vi mer in i detalj och fokuserar på AI-nära variabler blir bilden mer bla
 
 <missing-text>
 
-[120] Se Lappi, E., Norbäck, P., & Persson, L. (2024). Produktivitet och produktivitetsutveckling i Sverige: Internationell jämförelse och reformmöjligheter. Underlagsrapport Produktivitetskommissionen.
+[120]    Se Lappi, E., Norbäck, P., & Persson, L. (2024). Produktivitet och produktivitetsutveckling i Sverige: Internationell jämförelse och reformmöjligheter. Underlagsrapport Produktivitetskommissionen.
 
 <missing-text>
 
@@ -1548,7 +1594,7 @@ Totala investeringar (% av BNP), 2023
 
 Notera: Figuren visar de 15 länder som hade högsta privata investeringar i AI.
 
-Källa: The Artificial Intelligence Index, Stanford, 2024, figur 4.3.8. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm.
+Källa: The Artificial Intelligence Index, Stanford, 2024, figur 4.3.8.  Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm.
 
 Samtidigt har Sverige tappat placeringar i Global AI Index. I det delindex som mäter Kommersialisering , som ger en relativt bred bild av AI-företags situation i ett land, har Sverige gått från 16:e till 18:e plats jämfört med förra årets mätning. I delindex över Utveckling är motsvarande förändring från plats 17 till plats 30. I Bilaga 2 KPI: för uppföljning diskuteras Global AI Index i mer detalj. Ett annat viktigt mått på innovationsresultat är antal sökta patent. Som framgår av Figur 3 ligger Sverige mycket högt i flera teknikklasser, såsom digital kommunikation och datorteknologi.
 
@@ -1562,9 +1608,13 @@ Telekommunikation
 
 Digital kommunikation
 
+2023
+
 <missing-text>
 
 Audio-visuell teknologi
+
+2023
 
 <missing-text>
 
@@ -1574,9 +1624,11 @@ Halvledare
 
 Miljöteknologi
 
+2023
+
 <missing-text>
 
-Källa: EPO. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
+Källa: EPO.  Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
 
 Datorteknologi
 
@@ -1584,9 +1636,11 @@ Datorteknologi
 
 Bioteknologi
 
+2023
+
 <missing-text>
 
-Källa: EPO. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
+Källa: EPO.  Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
 
 Det relativt höga antalet sökta patent förefaller dock i begränsad omfattning vara AI-relaterade. Enligt Artificial Intelligence Index Report 2024 ligger vi inte bland de 15 främsta länderna i antal beviljade AI-patent per 100 000 invånare.
 
@@ -1596,7 +1650,7 @@ Antal företag per miljon
 
 <missing-text>
 
-Källa: Artificial Intelligence Report 2024, figur 4.3.13. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
+Källa: Artificial Intelligence Report 2024, figur 4.3.13.  Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
 
 Finansieringen av nya företag är avgörande för ett lands innovationskraft. Sverige har under de senast decennierna haft en väl fungerande riskkapitalmarknad och finansierat en rad framgångsrika start-ups inom olika sektorer, inte minst inom det digitala området. Figur 5 beskriver mottagna riskkapitalinvesteringar inom AI-området för topp-tio länderna samt Sverige, Danmark och Finland. Den vertikala axeln har en logaritmisk skala så att olika länders riskkapitalinvesteringar kan illustreras i samma figur trots stora skillnader i belopp. Figuren visar att de tre länder som erhållit mest riskkapital inom AI är USA, följt av Kina och Storbritannien. Sverige (indikerat av cirklar) har emellertid också erhållit mycket riskkapital inom AI, särskilt ställt i relation till BNP. Sverige har också en mycket stark och välfungerande investerarmarknad för så kallade affärsänglar. Exakt hur mycket kapital som dessa investerare står för är av svårt att säga, eftersom dessa utgörs av privatpersoner. I kölvattnet av många framgångsrika bolagsbyggen finns dock ett stort antal rika personer i Sverige som
 
@@ -1612,9 +1666,17 @@ Den sammantagna bilden vittnar om att det generella innovationsklimatet är gott
 
 Här är AI-kommissionens uppfattning att införandet av AI som innovationsverktyg generellt sett går för långsamt. Det är något som vi har erfarit vid otaliga kontakter med aktörer från både privat och offentlig sektor. Det finns också flera undersökningar som visar att svenska företag använder AI i mindre utsträckning än företag i jämförbara länder. [121] Figur 6 visar till exempel hur svenska företag ligger efter många EU-länder i användningen av AI.
 
+7
+
 <missing-text>
 
-Notera: "Stora företag" avser företag med över 250 anställda medan "Små företag" avser företag med 10 till 249 anställda. Den vertikala axeln visar den procent av företagen som under 2023 någon gång använde en av följande AI-teknologier: "text mining", taligenkänning, naturlig språkgenerering, bildigenkänning och bildbehandling, maskininlärning (t.ex. djupinlärning) för dataanalys, AI-baserad mjukvarurobotautomation samt autonoma robotar, självkörande fordon och autonoma drönare.
+9
+
+6
+
+5
+
+Notera: 'Stora företag' avser företag med över 250 anställda medan 'Små företag' avser företag med 10 till 249 anställda. Den vertikala axeln visar den procent av företagen som under 2023 någon gång använde en av följande AI-teknologier: 'text mining', taligenkänning, naturlig språkgenerering, bildigenkänning och bildbehandling, maskininlärning (t.ex. djupinlärning) för dataanalys, AI-baserad mjukvarurobotautomation samt autonoma robotar, självkörande fordon och autonoma drönare.
 
 Källa: Eurostat
 
@@ -1622,7 +1684,7 @@ AI ställer nya krav på innovation. Vilka åtgärder behöver då vidtas? För 
 
 För att hantera dessa utmaningar och möjligheter på ett effektivt sätt krävs en välgrundad policyansats i form av ett ramverk. Med hjälp av det kan samhällsekonomiskt effektiva policyreformer eller policyåtgärder identifieras. En viktig utgångspunkt är att undvika statliga ingripanden, till exempel stödåtgärder, om marknadskrafterna leder till gynnsamma utfall utan åtgärder. Ibland förekommer dock så kallade marknadsmisslyckanden. Det innebär att marknadskrafterna på egen hand inte kan förväntas leda till ett samhällsekonomiskt optimalt utfall. Exempelvis kan företag tendera att
 
-[122] Se även kapitlet Data som en förutsättning för AI-utvecklingen. [123] Se mer i kapitlet Kompetenslyft för alla.
+[122]     Se även kapitlet Data som en förutsättning för AI-utvecklingen. [123]     Se mer i kapitlet Kompetenslyft för alla.
 
 investera för lite i vidareutbildning av sin personal om det finns en risk att förlora medarbetare till konkurrerande företag. Därför kan det vara motiverat med statliga utbildningsinsatser riktade mot de som är anställda när stora teknikskiften sker. [123] Att hitta rätt åtgärder kan emellertid vara förenat med svårigheter eftersom myndigheterna inte har full kunskap, till exempel om hur AI-tekniken kommer att utvecklas. Inom nationalekonomin kallas detta för regleringsmisslyckande. Stödåtgärder kan därmed bli felriktade, kostsamma och i värsta fall, kontraproduktiva. Det är därför viktigt att noga överväga vad som hindrar respektive gynnar innovation.
 
@@ -1716,7 +1778,7 @@ För att säkerställa transparens och ansvar kommer stiftelsen årligen att red
 
 Regulatorisk kommitté
 
-En särskild kommitté, Kommittén för Hälsodata och Etik (KHE), bör tillsättas med mandat att hantera regulatoriska frågor kring dataskydd, etik och patientsäkerhet. KHE ska utforma ett innovativt rättsligt ramverk för projektets genomförande, med högsta standard för integritet och etik. Kommittén ska bestå av jurister med expertis inom hälso- och datalagstiftning, läkare och hälsoexperter med erfarenhet av klinisk forskning och AI, datavetare med kunskap om storskalig datahantering, etiker med inriktning på medicinsk och teknologisk etik, patientföreträdare samt internationella experter inom dataskydd. KHE ska föreslå ny lagstiftning som gör en säker och etisk användning av hälsodata möjlig, inklusive en potentiell "Lag om Svensk Hälsomodell". Detta för att ge projektet nödvändiga rättsliga ramar.
+En särskild kommitté, Kommittén för Hälsodata och Etik (KHE), bör tillsättas med mandat att hantera regulatoriska frågor kring dataskydd, etik och patientsäkerhet. KHE ska utforma ett innovativt rättsligt ramverk för projektets genomförande, med högsta standard för integritet och etik. Kommittén ska bestå av jurister med expertis inom hälso- och datalagstiftning, läkare och hälsoexperter med erfarenhet av klinisk forskning och AI, datavetare med kunskap om storskalig datahantering, etiker med inriktning på medicinsk och teknologisk etik, patientföreträdare samt internationella experter inom dataskydd. KHE ska föreslå ny lagstiftning som gör en säker och etisk användning av hälsodata möjlig, inklusive en potentiell 'Lag om Svensk Hälsomodell'. Detta för att ge projektet nödvändiga rättsliga ramar.
 
 KHE ska också leda en offentlig dialog om AI:s etiska implikationer för att skapa förtroende och stöd hos allmänheten. Dessutom kommer kommittén att ha potential att fungera som rådgivande organ till regeringen och andra relevanta aktörer. KHE ska rapportera direkt till regeringen och stiftelsens styrelse, och dess rekommendationer kommer att vägleda projektets genomförande. Med ett starkt mandat och en bred sammansättning kan KHE utveckla ett rättsligt och etiskt ramverk som kan bli en global förebild för att balansera innovation, integritet och samhällsnytta inom AI-driven hälso- och sjukvård.
 
@@ -1726,9 +1788,9 @@ Ett tvärvetenskapligt forskningscenter av världsklass, Centrum för AI och Hä
 
 banbrytande forskning inom AI och hälsa. Huvudcampus kan placeras vid Karolinska Institutet med noder vid andra ledande svenska universitet och internationella partnerskap med toppuniversitet som MIT, Stanford, Oxford och Tsinghua.
 
-Forskningen inom CAIH bör fokusera på att utveckla den svenska hälsomodellen och bedriva grundforskning inom AI och maskininlärning, samt kliniska studier för att validera AI-modeller i vårdmiljöer. CAIH kan också utföra etisk AI-forskning med fokus på transparens och rättvisa, samt kombinera AI med genomik och andra "omics"-fält.
+Forskningen inom CAIH bör fokusera på att utveckla den svenska hälsomodellen och bedriva grundforskning inom AI och maskininlärning, samt kliniska studier för att validera AI-modeller i vårdmiljöer. CAIH kan också utföra etisk AI-forskning med fokus på transparens och rättvisa, samt kombinera AI med genomik och andra 'omics'-fält.
 
-Centret skulle attrahera världsledande forskare, bland annat genom gästforskarprogram för internationella experter. Dessutom utgör initiativet en utmärkt möjlighet att etablera ett doktorandprogram i samarbete med globala partners för att utbilda framtida ledare inom AI och hälsa. För att främja innovation kan CAIH inrätta "Svenska AI-hälsopriset", ett årligt pris för banbrytande idéer. Centret kan även fungera rådgivande till regioner och myndigheter om innovationsupphandling, utveckla standarder för AI-implementering och anordna utbildningar för beslutsfattare.
+Centret skulle attrahera världsledande forskare, bland annat genom gästforskarprogram för internationella experter. Dessutom utgör initiativet en utmärkt möjlighet att etablera ett doktorandprogram i samarbete med globala partners för att utbilda framtida ledare inom AI och hälsa. För att främja innovation kan CAIH inrätta 'Svenska AI-hälsopriset', ett årligt pris för banbrytande idéer. Centret kan även fungera rådgivande till regioner och myndigheter om innovationsupphandling, utveckla standarder för AI-implementering och anordna utbildningar för beslutsfattare.
 
 CAIH kan lansera inspirerande initiativ för att stimulera AI-utvecklingen i Sverige. Till exempel kan centret arrangera en årlig internationell konferens om AI och hälsa i Stockholm, där forskare, innovatörer och branschledare samlas för att dela idéer och insikter. Genom att publicera en open access-tidskrift om AI-innovationer kan CAIH göra banbrytande forskning tillgänglig för en bredare publik. Dessutom kan ett fellowship-program för kliniker inrättas. Det ger möjlighet att arbeta direkt vid CAIH och därmed överbrygga klyftan mellan forskning och praktik.
 
@@ -1750,6 +1812,10 @@ På AI-området är det bland annat den kommande AI-förordningen, [127] Datasky
 
 Ett sätt att klargöra och utveckla regelverken för AI-användning i näringslivet är genom regulatoriska sandlådor. Här får företag möjlighet att utveckla och träna AI-verktyg i en avgränsad och säker miljö. Ett regulatoriskt sandlåde-program ger en institutionell ram som gör det möjligt för tillsynsmyndigheter att auktorisera och övervaka företag som testar en innovativ
 
+[127]     AI-förordningen beskrivs i kapitlet Tillgång till internationella AI-resurser .
+
+ [129]     Förenklingsrådet ska identifiera områden som är av särskilt intresse för näringslivet från ett förenklingsperspektiv och lämna välmotiverade, konkreta och genomarbetade förslag på förenklingsåtgärder till regeringen.
+
 produkt eller affärsmodell, ofta med viss regulatorisk support eller lättnad för deltagande företag. Genom att använda sandlådor ökar företagens incitament att uppfinna och kommersialisera inom AI. [130] För att innovation ska gynnas maximalt är det viktigt att myndigheten ger aktivt stöd till företagen kring hur de kan anpassa sina affärsmodeller för att leva upp till befintliga regelverk. Implementeringen av regulatoriska sandlådor innebär inte bara att företagen får hjälp att navigera inom befintliga regelverk. Det ger också tillsynsmyndigheter möjlighet att lära sig om ny teknik på ett bättre och snabbare sätt och därför snabbare kunna utveckla bättre reglering av ny teknik. [131]
 
 I Sverige finns sedan 2022 en regulatorisk sandlåda under Integritetsskyddsmyndighetens (IMY) ansvar. Den är öppen för både privat och offentlig verksamhet och är inrättad utöver den regulatoriska sandlåda som ska inrättas i enlighet med AI-förordningen. I kapitlet AI för en offentlig sektor i framkant föreslås att IMY:s sandlåda utökas med ett särskilt spår för offentlig sektor, inklusive en rådgivningsfunktion. Privata företag har samma behov av att kunna testa affärsidéer i en kontrollerad miljö, och att få vägledning när det gäller AI och dataskyddsregelverket. [132]
@@ -1758,9 +1824,11 @@ Förslag
 
  ▻ Utveckla och expandera IMY:s regulatoriska sandlåda för privata företag. För att möta näringslivets behov av klarhet kring dataskyddsregelverket bör IMY ges i uppdrag att inom maximalt fyra veckor ge enskilda privata aktörer icke-bindande besked om olika AIlösningar är i linje med dataskyddsregelverket. Myndigheten bör också kunna ge information till små och medelstora företag om var de bör vända sig i frågor som ligger utanför IMY:s kompetensområde. Det beräknade behovet av anslag för dessa uppdrag är 8 miljoner kronor årligen. Tjänsten ska vara tillgänglig genom den samlade ingång som AI-verkstaden föreslås utgöra.
 
-[127] AI-förordningen beskrivs i kapitlet Tillgång till internationella AI-resurser . [128] Se Uppdrag att förenkla regelverk i syfte att minska regelbördan för företag (KN2024/01546). [129] Förenklingsrådet ska identifiera områden som är av särskilt intresse för näringslivet från ett förenklingsperspektiv och lämna välmotiverade, konkreta och genomarbetade förslag på förenklingsåtgärder till regeringen. [130] Norbäck, P., & Persson, L. (2024). Why generative AI can make creative destruction more creative but less destructive. Small Business Economics, 63, 349-377. [131] Fahy (2022). Fahy (2022). Fahy, L. (2022). Fostering regulator-innovator collaboration at the frontline: A case study of the UK's regulatory sandbox for fintech. Journal of Public Policy, 44(2), 162-184. [132] AI-förordningens krav på regulatoriska sandlådor beskrivs närmare i kapitlet Tillgång till internationella resurser.
+[128]       Se Uppdrag att förenkla regelverk i syfte att minska regelbördan för företag (KN2024/01546).
 
-AI-förordningens krav på regulatoriska sandlådor beskrivs närmare i kapitlet Tillgång till internationella resurser.
+[130]     Norbäck, P., & Persson, L. (2024). Why generative AI can make creative destruction more creative but less destructive. Small Business Economics, 63, 349-377. [131]     Fahy (2022). Fahy (2022). Fahy, L. (2022). Fostering regulator-innovator collaboration at the frontline: A case study of the UK's regulatory sandbox for fintech. Journal of Public Policy, 44(2), 162-184.
+
+[132]     AI-förordningens krav på regulatoriska sandlådor beskrivs närmare i kapitlet Tillgång till internationella resurser.
 
  ▻ Uppdra åt lämplig myndighet att så snart som möjligt etablera en funktion för rådgivning och regulatorisk sandlåda för både privat och offentlig sektor i linje med AI-förordningens krav. Det är centralt att regeringen agerar för att undanröja den osäkerhet som i dag finns kring tillämpningen av den nya förordningen. En utredning tillsattes i september för att lämna förslag kring tillämpningen av AI-förordningen. [133]
 
@@ -1802,7 +1870,13 @@ Teknikspridningen i den svenska företagssektorn handlar emellertid inte bara om
 
 Analysen ovan tyder på att företagsförvärv kan bli en allt viktigare del för teknikspridning inom AI-området och produktivitetsutvecklingen, men samtidigt utgöra
 
+1
+
+146
+
 Antal tusen kronor per anställd
+
+86
 
 <missing-text>
 
@@ -1818,7 +1892,7 @@ Till skillnad från många andra tekniker, innebär implementeringen och införa
 
 därför ett kostnadseffektivt sätt att investera. Sveriges ekosystem, som kännetecknas av samverkan och en hög grad av tillit, har under många år framgångsrikt etablerat nationella samarbetsplattformar som skapar värde, stärker ekosystemet, och delar praxis och användningsfall.
 
-Forskningen tyder på att det är svårt att skapa nya kluster från grunden. En bättre strategi bedöms vara att minska de lokala kostnaderna för experimentering med idéer, och tillhandahålla en god livskvalitet för potentiella deltagare i befintliga AI-kluster. Det är mer sannolikt att AI-teknikstöd lyckas om det är brett baserat på en sektor och undviker att försöka "välja vinnare" genom att rikta sig mot enskilda företag. [135] AI-kommissionen noterar här att ett nationellt program för samarbete och delning i ett ekosystem runt AI redan är etablerat i Sverige. AI Sweden, nationellt center för tillämpad AI, har visat positiva effekter av sådant arbete och hade i september 2024 samlat cirka 140 partners som representerar många sektorer.
+Forskningen tyder på att det är svårt att skapa nya kluster från grunden. En bättre strategi bedöms vara att minska de lokala kostnaderna för experimentering med idéer, och tillhandahålla en god livskvalitet för potentiella deltagare i befintliga AI-kluster. Det är mer sannolikt att AI-teknikstöd lyckas om det är brett baserat på en sektor och undviker att försöka 'välja vinnare' genom att rikta sig mot enskilda företag. [135] AI-kommissionen noterar här att ett nationellt program för samarbete och delning i ett ekosystem runt AI redan är etablerat i Sverige. AI Sweden, nationellt center för tillämpad AI, har visat positiva effekter av sådant arbete och hade i september 2024 samlat cirka 140 partners som representerar många sektorer.
 
 En annan viktig komponent för att göra experiment och innovation möjlig är att öka kontakterna mellan näringsliv och akademisk forskning. Som beskrivs i kapitlet Spetsforskning i samverkan går den tekniska utvecklingen nu så fort att gränsen mellan grundforskning, tillämpad forskning och innovation håller på att suddas ut. Å ena sidan saknar näringslivet i vissa fall den spetskompetens på AI-området som akademin
 
@@ -1914,7 +1988,11 @@ Brottsbekämpning
 
 AI måste i högre grad användas för att förebygga, förhindra och upptäcka brott. [145] Ett exempel på användningsområde är dataanalyser, för att identifiera mönster inom utbetalningar från välfärdssystemen (redan vid ansökningar) eller för att avslöja komplexa brottsnätverk. Ett annat exempel är användningen av avancerade prediktiva algoritmer för att få underlag om vilka individer som kommunernas socialtjänster bör prioritera för att förebygga kriminalitet. De framtida möjligheterna bör kunna leda till en märkbar ökning av tryggheten i samhället. Minskad brottslighet skulle också ha tydliga ekonomiska effekter, utöver de positiva följderna för individer.
 
-[143] https://digitalforvaltning.se/rapport/kommunala-digitaliseringsstrategiers-utveckling/Se bland annat rapporten Sveriges kommuners digitaliseringsstrategier, Innehållsanalys av mål- och resursplaner 2021-22, Göteborgs universitet samt Fredrik Carlsson, Marcus Matteby, and Johan Magnusson. 2023. Digital Transformation Drift: A Population Study of Swedish Municipalities. In Proceedings of the 24th Annual International Conference on Digital Government Research (dg.o '23). Association for Computing Machinery, New York, NY, USA, 318-326. [144] En beskrivning av hur statliga myndigheter använder AI finns i Statskontorets rapport Myndigheterna och AI - En studie om möjligheter och risker med att använda AI i statsförvaltningen, 2024. [145] Se även kapitlet AI och samhällets säkerhet.
+[143]    https://digitalforvaltning.se/rapport/kommunala-digitaliseringsstrategiers-utveckling/Se bland annat rapporten Sveriges kommuners digitaliseringsstrategier, Innehållsanalys av mål- och resursplaner 2021-22, Göteborgs universitet samt Fredrik Carlsson, Marcus Matteby, and Johan Magnusson. 2023. Digital Transformation Drift: A Population Study of Swedish Municipalities. In Proceedings of the 24th Annual International Conference on Digital Government Research (dg.o '23). Association for Computing Machinery, New York, NY, USA, 318-326.
+
+[145]    Se även kapitlet AI och samhällets säkerhet.
+
+[144]    En beskrivning av hur statliga myndigheter använder AI finns i Statskontorets rapport Myndigheterna och AI - En studie om möjligheter och risker med att använda AI i statsförvaltningen, 2024.
 
 Brottsbekämpning på Skatteverket
 
@@ -1936,17 +2014,19 @@ Fallsensorn kan också ställas in så att den reagerar under olika tidpunkter a
 
 Trots att hälso- och sjukvården är ett område där AI kan göra stor nytta, [148] saknas i dag nationella strategier, mål och handlingsplaner för AI i hälsooch sjukvården samt tillräckliga investeringar för att skapa förutsättningar för införande. Detta kan vara en bidragande orsak till att Sverige halkar efter jämförbara länder i AI-mognad inom hälso- och
 
-sjukvårdssektorn. [149] Det finns sålunda ett behov av en nationell strategi och handlingsplan för AI i hälso- och sjukvården, som syftar till att skapa en gemensam viljeinriktning, mål, prioriteringar och plan för fortsatt arbete med AI inom hälso- och sjukvården - för samtliga inblandade aktörer.
-
-[146] En beskrivning av testet med fallsensorer finns på https://utveckling.sundsvall.se/initiativ/exempel-fran-vardagen/2023-08-16-fallsensorer-med-ai-teknik-minskarfallolyckor-pa-norra-kajens-aldreboende.
-
-[147] Totalt summerar kostnaderna för fallolyckor i rapporten för år 2020 till 16,8 miljarder kronor, varav 11,3 miljarder kronor avser direkta kostnader för region och kommun. https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2022-5-7923.pdf. [148] Se bland annat Haug, C. J. et al. 2023, 'Artificial Intelligence and Machine Learning in Clinical Medicine, 2023', N Engl J Med 2023; 388. [149] Se AI maturity in health care: An overview of 10 OECD countries (Castongay, et. al, Health Policy 140 (2024) 104938). Studien, publicerad i februari 2024, gjorde en översikt av 10 ledande OECD-länders mognadsgrad inom AI för hälso- och sjukvården. Resultatet visar att Sverige ligger efter de andra länderna i mognadsgrad.
-
- Totalt summerar kostnaderna för fallolyckor i rapporten för år 2020 till 16,8 miljarder kronor, varav 11,3 miljarder kronor avser direkta kostnader för region och
-
 på utlöser den ett larm. När larmet går tillkallas personalen på tre sätt: via en applikation i mobilen, via sms och via befintligt kallelsesystem som larmar med ljud i den boendes rum. Fallsensorn testades av 20 personer och en utvärdering visade bland annat att fallolyckorna hade minskat markant (77 procent). Resultat blev att tidigare rörelselarm har ersatts fullt ut. [146]
 
 Beräkningar som Sundsvalls kommun gjort visar att en användning av fallsensorer i hela landet skulle leda till besparingar på omkring åtta miljarder kronor årligen, bland annat i minskade vårdkostnader för fallskador. [147]
+
+sjukvårdssektorn. [149] Det finns sålunda ett behov av en nationell strategi och handlingsplan för AI i hälso- och sjukvården, som syftar till att skapa en gemensam viljeinriktning, mål, prioriteringar och plan för fortsatt arbete med AI inom hälso- och sjukvården - för samtliga inblandade aktörer.
+
+[146]    En beskrivning av testet med fallsensorer finns på https://utveckling.sundsvall.se/initiativ/exempel-fran-vardagen/2023-08-16-fallsensorer-med-ai-teknik-minskarfallolyckor-pa-norra-kajens-aldreboende.
+
+ [148]    Se bland annat Haug, C. J. et al. 2023, 'Artificial Intelligence and Machine Learning in Clinical Medicine, 2023', N Engl J Med 2023; 388.
+
+ [147]    Totalt summerar kostnaderna för fallolyckor i rapporten för år 2020 till 16,8 miljarder kronor, varav 11,3 miljarder kronor avser direkta kostnader för region och kommun. https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/artikelkatalog/ovrigt/2022-5-7923.pdf.
+
+ [149]    Se AI maturity in health care: An overview of 10 OECD countries (Castongay, et. al, Health Policy 140 (2024) 104938). Studien, publicerad i februari 2024, gjorde en översikt av 10 ledande OECD-länders mognadsgrad inom AI för hälso- och sjukvården. Resultatet visar att Sverige ligger efter de andra länderna i mognadsgrad.
 
 Förslag
 
@@ -1954,7 +2034,7 @@ Förslag
 
 Effektivare användning av offentliga resurser Hanteringen av olika ärenden kan snabbas på med stöd av AI, till exempel genom mer automatiserade tillståndsgivningsprocesser. Det kommer att
 
-underlätta tillvaron för både privatpersoner och företag, och öka Sveriges konkurrenskraft och attraktivitet. Även annan service till enskilda kan utvecklas med hjälp av AI. Offentliga aktörer kommer till exempel att kunna erbjuda en mer effektiv och tillgänglig kundtjänst med hjälp av AI. Den potentiella vinsten är betydande eftersom administration i offentlig verksamhet är ganska likartad. Behoven finns alltså hos alla offentliga aktörer. Medarbetarnas vardag kommer att underlättas med hjälp av AI-verktyg. Därmed frigörs resurser som kan användas för att lösa fler kärnuppgifter och ägna mer tid åt bland annat möten med medborgarna eller kompetensutveckling.
+underlätta tillvaron för både privatpersoner och företag, och öka Sveriges konkurrenskraft och attraktivitet. Även annan service till enskilda kan utvecklas med hjälp av AI.  Offentliga aktörer kommer till exempel att kunna erbjuda en mer effektiv och tillgänglig kundtjänst med hjälp av AI. Den potentiella vinsten är betydande eftersom administration i offentlig verksamhet är ganska likartad. Behoven finns alltså hos alla offentliga aktörer. Medarbetarnas vardag kommer att underlättas med hjälp av AI-verktyg. Därmed frigörs resurser som kan användas för att lösa fler kärnuppgifter och ägna mer tid åt bland annat möten med medborgarna eller kompetensutveckling.
 
 Översättningar och tolktjänst på Domstolsverket
 
@@ -2018,7 +2098,7 @@ Den offentliga sektorn måste därför snabbt etablera en sammanhållen teknisk 
 
 Skulle alla offentliga aktörer behöva utveckla sin egen AI-förmåga skulle det ta oacceptabelt lång tid och leda till ytterligare fragmentering med olika lösningar som har varierande säkerhet och kvalitet. Det skulle också vara en ineffektiv användning av begränsade resurser - i den mån det överhuvudtaget skulle vara möjligt. Särskilt stor skulle utmaningen vara för de mindre aktörerna, däribland en stor andel av kommunerna.
 
-[152] Det råder stor eftersatthet i digital infrastruktur: en majoritet av aktörerna saknar en modern grund att stå på. Vidare saknas rådighet i termer av kontroll över underliggande system samt utvecklingskapacitet. Se Riksrevisionens rapport Föråldrade it-system - hinder för en effektiv digitalisering (RiR 2019:28). [153] Se kapitlet AI och samhällets säkerhet angående digital suveränitet.
+[152]     Det råder stor eftersatthet i digital infrastruktur: en majoritet av aktörerna saknar en modern grund att stå på. Vidare saknas rådighet i termer av kontroll över underliggande system samt utvecklingskapacitet. Se Riksrevisionens rapport Föråldrade it-system - hinder för en effektiv digitalisering (RiR 2019:28). [153]       Se  kapitlet AI och samhällets säkerhet angående digital suveränitet.
 
 <missing-text>
 
@@ -2028,7 +2108,7 @@ I dag förvaltar Myndigheten för digital förvaltning (Digg) en förvaltningsge
 
 AI-verkstaden
 
-För att tillgodose de behov som finns föreslår AI-kommissionen följaktligen att det inrättas en gemensam kärninfrastruktur för utveckling och leverans av AI-drivna tjänster inom offentlig sektor - en "AI-verkstad". En sådan verkstad blir en central komponent i ett större ekosystem för hantering av AI. I den skulle offentliga aktörer var för sig och tillsammans, och
+För att tillgodose de behov som finns föreslår AI-kommissionen följaktligen att det inrättas en gemensam kärninfrastruktur för utveckling och leverans av AI-drivna tjänster inom offentlig sektor - en 'AI-verkstad'. En sådan verkstad blir en central komponent i ett större ekosystem för hantering av AI. I den skulle offentliga aktörer var för sig och tillsammans, och
 
 i samspel med näringslivet, kunna utforska och utveckla nya AI-tjänster och funktioner och dela och använda kvalitetssäkrade data, modeller och komponenter. Via kopplingar till andra molninfrastrukturer skulle verkstaden få tillgång till nödvändig beräkningskraft utöver den egna. AI-verkstaden skulle kunna föra katalog över de AI-lösningar och AI-modeller som redan finns framtagna för att främja en återanvändning av andra offentliga aktörers arbete. En viktig uppgift för verkstaden blir att säkerställa att allt detta sker på ett säkert och lagenligt sätt. Att bygga upp och använda en AI-verkstad kommer även att bidra till att bygga viktig kompetens brett i den offentliga sektorn, något som också kommer bidra till att stärka vår civila beredskap och suveränitet.
 
@@ -2052,7 +2132,9 @@ Förslag
 
  ▻ AI-kommissionen föreslår att Försäkringskassan och Skatteverket ges i uppdrag att tillsammans etablera och förvalta en AIverkstad för offentlig sektor och fungera som leverantörsmyndigheter för denna. I uppdraget ingår också att tillhandahålla ett anslutningsstöd och tillsammans med andra lämpliga aktörer inrätta och administrera en AI-insatsstyrka. Myndigheterna ska utreda de rättsliga frågeställningarna och vid behov lämna författningsförslag för etableringen av AIverkstaden. Det finns fördelar med att i författning tydliggöra leverantörsmyndigheternas uppdrag.
 
- ▻ AI-kommissionen anser att leverantörsmyndigheterna ska ta fram en struktur för styrning av arbetet med att utveckla och förvalta AI-verkstaden. I det arbetet är det viktigt att de heterogena förutsättningarna i myndigheter, kommuner och regioner beaktas.
+ ▻
+
+ AI-kommissionen anser att leverantörsmyndigheterna ska ta fram en struktur för styrning av arbetet med att utveckla och förvalta AI-verkstaden. I det arbetet är det viktigt att de heterogena förutsättningarna i myndigheter, kommuner och regioner beaktas.
 
  ▻ AI-verkstaden föreslås etableras stegvis under en femårsperiod, 2025-2029. Under de två första åren kan grundförmågor sättas och infrastrukturen etableras. Redan under de första åren kommer vissa värdeskapande AI-tjänster kunna tas fram och börja användas. Den fulla uppskalningen sker under år tre till fem.
 
@@ -2080,11 +2162,13 @@ Förslag
 
  ▻ AI-kommissionen anser att regeringen bör ge Digg i uppdrag att inom ramen för AI-verkstaden erbjuda vägledning kring användningen av AI i offentlig sektor. Det beräknade behovet av anslag för detta uppdrag är cirka 4 miljoner kronor årligen.
 
-[156] I kapitlet Data som en förutsättning för AI-utvecklingen lämnar kommissionen ett antal förslag vilka givetvis även är av betydelse för aktörer inom den offentliga sektorn.
+[156]     I  kapitlet Data som en förutsättning för AI-utvecklingen lämnar kommissionen ett antal förslag vilka givetvis även är av betydelse för aktörer inom den offentliga sektorn.
 
-[157] Se även kapitlet Innovation, entreprenörskap och riskkapital.
+[157]    Se även kapitlet
 
-[159] Se 6 § pt. 6 i förordningen (2018:1486) med instruktion för Myndigheten för digital förvaltning. [160] Slutrapport i regeringsuppdraget Fi2023/02301 avseende det sistnämnda uppdraget.
+Innovation, entreprenörskap och riskkapital.
+
+[159]    Se 6 § pt. 6 i förordningen (2018:1486) med instruktion för Myndigheten för digital förvaltning.
 
 Vision: En illustration av hur den framtida AI-verkstaden kan användas
 
@@ -2136,12 +2220,6 @@ Område 3: Värna enskildas tillit och förtroende
 
 I få andra länder har medborgarna en så hög tilltro till staten och sina medmänniskor som i Sverige.
 
-[162] Holmberg, Sören & Rothstein, Bo (2022). Den svenska tilliten fortsatt hög - men sjunker i utsatta grupper. I Ulrika Andersson, Henrik Oscarsson, Björn Rönnerstrand & Nora Theorin (red) Du sköra nya värld. Göteborg: SOM-institutet, Göteborgs universitet. [163] Se Anders Stridh och Lennart Wittberg, Från fruktad skattefogde till omtyckt servicemyndighet, Skatteverket, 2015. [164]
-
-[166]
-
-Behovet av etiska riktlinjer diskuteras mer utförligt i kapitlet AI och samhällets säkerhet.
-
 Det gör det mesta mindre tungrott och mer effektivt när det kommer till beslutsfattande och mänskligt umgänge. [162] Som exempel kan nämnas det stora förtroende vi har för vår skattemyndighet, vilket till exempel har möjliggjort smidiga sätt för oss att deklarera våra inkomster. [163] Den här tilliten och förtroendet för det allmänna får dock inte tas för givet, den behövas värnas. [164] Vid etableringen av en AI-verkstad, och vid en ökad användning av AI-tjänster inom offentlig sektor måste således tilliten till det offentliga beaktas.
 
 En samhällsutveckling som gör offentliga aktörers beslutsfattande mer svårbegripligt kan snabbt leda till en urholkning av förtroendet. I takt med att AI används i allt större utsträckning för beslutsunderlag, och på sikt även direkt myndighetsutövning, är det därför nödvändigt att vidta åtgärder för att bevara tilliten och förtroendet. Det handlar också om att värna om att svensk myndighetsutövning även framöver ska vara transparent. Inte minst förvaltningslagen ställer krav på att det offentliga ska se till att enskilda ska kunna förstå på vilka grunder ett visst beslut har fattats. Det finns tyvärr exempel i närtid från Sverige och andra länder där automatiserat beslutsfattande har legat till grund för myndighetsutövning som visat sig vara felaktig och även olaglig. [165]
@@ -2152,7 +2230,9 @@ Förslag
 
  ▻ AI-kommissionen anser att det är viktigt att offentliga aktörer i sin verksamhet använder AI på ett transparent sätt i syfte att bibehålla medborgarnas tillit. Det är inte minst viktigt för att skapa förtroende för de förslag vi lagt ovan. Regeringen bör därför överväga att ge myndigheter i uppdrag att ta fram etiska riktlinjer inom sina ansvarsområden om behov skulle uppstå.
 
-Område 4: Stimulera användningen av AI genom långsiktig styrning och möjliggörande regelverk Som vi tidigare har påpekat är användningen av AI inte ett mål i sig, men det är ett avgörande verktyg i den nödvändiga utvecklingen och förnyelsen av offentlig verksamhet. Det är därför problematiskt att AI-tjänster inte används i tillräckligt hög grad. I detta kapitel har vi lämnat en rad förslag på nödvändiga åtgärder för att öka användningen i offentlig sektor. [167]
+Område 4: Stimulera användningen av AI genom
+
+långsiktig styrning och möjliggörande regelverk Som vi tidigare har påpekat är användningen av AI inte ett mål i sig, men det är ett avgörande verktyg i den nödvändiga utvecklingen och förnyelsen av offentlig verksamhet. Det är därför problematiskt att AI-tjänster inte används i tillräckligt hög grad. I detta kapitel har vi lämnat en rad förslag på nödvändiga åtgärder för att öka användningen i offentlig sektor. [167]
 
 Det är möjligt att detta inte räcker. En ytterligare utmaning för att komma framåt är den försiktighet som på flera sätt präglar den offentliga förvaltningen. I alltför hög grad har riskminimering varit en vägledande princip för utvecklingen, och är det än i dag. Om den offentliga verksamheten ska kunna digitaliseras måste det i högre grad bli möjligt att pröva nya lösningar. Det kräver förändringar både av regelverken och av innehållet i styrningen av offentlig verksamhet.
 
@@ -2163,8 +2243,6 @@ Förslag
  ▻ Regeringen bör genomföra en översyn av regelverk som styr offentlig verksamhet i syfte att anpassa dem till en digital transformation med hög grad av AI. Detta kan exempelvis ske genom uppdrag till myndigheter att se över föreskrifter och allmänna råd som de ansvarar för, och att lämna förslag till ändringar av lagar och förordningar inom respektive verksamhetsområde.
 
 Till sist. De förslag som beskrivs ovan ger offentlig sektor bättre förutsättningar att utnyttja potentialen med AI. Det är sedan upp till de offentliga aktörerna att ta tillvara dessa möjligheter och utveckla respektive verksamhet med AI som verktyg.
-
-<missing-text>
 
 <missing-text>
 
@@ -2184,9 +2262,9 @@ Internationella positioner
 
 Ledarskap och styrning för att genomföra Färdplanen
 
-Foto: Per Pixel Petersson
-
 116
+
+Foto: Per Pixel Petersson
 
 Ledarskap och styrning
 
@@ -2262,7 +2340,7 @@ Förslag
 
  ▻ Åtgärder bör vidtas för att råda bot på Sveriges underrepresentation inom EU:s institutioner. Specifikt kommer det att behövas fler svenska tjänstemän inom generaldirektoratet för kommunikation (DG Connect) och den AI-byrå som nu bildas i Bryssel. För att uppnå detta bör bland annat placeringar av tjänstemän från myndigheter och departement finansieras centralt. Den enhet som lånar ut personal ska inte belastas med kostnaden. Kostnaden kopplat till AI-frågor bedöms gradvis öka och uppgå till 10 miljoner kronor per år inom fyra år.
 
-De positioner Sverige bör driva i förhandlingsarbetet varierar beroende på det aktuella lagstiftningsförslaget. Men en viktigt generell position att driva, som tydligt bekräftas i Mario Draghis rapport, är att reglering inte får hämma europeisk konkurrenskraft, om det inte finns väldigt starka skäl. Dessutom bör regelverket vara tydligt och implementeras på ett harmoniserat sätt i EU:s 27 medlemsländer. Det måste vara "lätt att göra rätt". Med för tung och komplicerad europeisk regelbörda riskerar användningen av AI inom EU bli ännu mer färgad av språk och värderingar från andra delar av världen. [173]
+De positioner Sverige bör driva i förhandlingsarbetet varierar beroende på det aktuella lagstiftningsförslaget. Men en viktigt generell position att driva, som tydligt bekräftas i Mario Draghis rapport, är att reglering inte får hämma europeisk konkurrenskraft, om det inte finns väldigt starka skäl. Dessutom bör regelverket vara tydligt och implementeras på ett harmoniserat sätt i EU:s 27 medlemsländer. Det måste vara 'lätt att göra rätt'. Med för tung och komplicerad europeisk regelbörda riskerar användningen av AI inom EU bli ännu mer färgad av språk och värderingar från andra delar av världen. [173]
 
 Förslag
 
@@ -2296,9 +2374,9 @@ Horizon Europe omfattar forsknings- och innovationssamarbeten inom många olika 
 
  2. Finansiering av lovande innovatörer och SMF:s genom European Innovation Council.
 
- 3. Projekt som ligger i den absoluta vetenskapliga framkanten ("scientific excellence") genom European Research Council.
+ 3. Projekt som ligger i den absoluta vetenskapliga framkanten ('scientific excellence') genom European Research Council.
 
- 4. Europeiska forskningspartnerskap mellan privata och/eller offentliga aktörer inom ramen för "AI, Data and Robotics".
+ 4. Europeiska forskningspartnerskap mellan privata och/eller offentliga aktörer inom ramen för 'AI, Data and Robotics'.
 
 Digital Europe-programmet är särskilt inriktat på AI-samarbetet. För perioden 2021-2027 är budgeten på 7,6 miljarder euro. Det finns sex delområden.
 
@@ -2326,7 +2404,7 @@ Förslag
 
  ▻ Tilldela Vinnova och Vetenskapsrådet ökade medel för medfinansiering av Digital Europeprojekt på i storleksordningen 160 miljoner kronor per år. Det bör också skapas ett buffertutrymme för att i högre grad än i dag kunna ge förhandsgaranti om medfinansiering. Genom en öronmärkt buffertfond, med en initial kapacitet på cirka 50 miljoner kronor, bör årliga svängningar i andelen beviljade ansökningar kunna hanteras.
 
- ▻ Utred möjligheten att, enligt norsk modell, ge ex post-anslag till lärosäten i relation till hur många EU-projekt man deltar i. Syftet är att kompensera för den ofta låga overhead-kompensationen från EU. Regeringen bör avsätta ca 30 miljoner kronor årligen för sådan kompensation.
+ ▻ Utred möjligheten att, enligt norsk modell, ge ex post-anslag till lärosäten i relation till hur många EU-projekt man deltar i. Syftet är att kompensera för den ofta låga overhead-kompensationen från EU. Regeringen bör avsätta  ca 30 miljoner kronor årligen för sådan kompensation.
 
  ▻ Det svenska deltagandet i EU-finansierade program är särskilt lågt på företagssidan. Regeringen bör därför se över den nuvarande modellen för att bevaka utlysningar och sprida information om EU-finansierade program till alla relevanta aktörer. Samrådet med näringsliv och akademi är viktigt också ur denna synvinkel. Vinnova och Digg bör också vidta åtgärder för att öka synligheten för EU-program som Horizon Europe, inklusive EIC deep tech fund, och Digital Europe.
 
@@ -2390,6 +2468,8 @@ Under de många möten kommissionen har haft med aktörer i det svenska samhäll
 
 Jämfört med de tidigare stora teknikskiftena är behovet av nationellt politiskt ledarskap dessutom möjligen än större denna gång, givet avsaknaden av stora, teknikledande svenska företag på AI-området. En ändamålsenlig central styrning av AI-relaterade frågor finns dock inte i Sverige i dag. Det kan ha sin grund i den svenska förvaltningsmodellen, en modell som i stort tjänat oss väl under århundraden. Myndigheterna har i regel ett tydligt ansvar och mandat inom sitt specifika ansvarsområde men ett betydligt svagare sådant när det gäller frågor som spänner över flera sektorer. När det gäller hanteringen av AI-frågor inom Regeringskansliet kan vi konstatera att dessa i dag är splittrade på många departement. Mot bakgrund av att förslagen i denna rapport täcker i stort alla statens utgiftsområden, och därmed samtliga departement, är detta en utmaning.
 
+[176]     Se Prop. 2024/25:1 Utgiftsområde 22, s. 112.
+
 Den svenska förvaltningsmodellen
 
 Sveriges decentraliserade förvaltningsmodell har många fördelar. Utöver att lägga många beslut nära medborgarna, i lokala församlingar, erbjuder den ett mått av demokratisk robusthet. I kriser, eller vid snabb förändring, höjs ofta röster för mer kraftfull nationell styrning. Frågan behandlas i hela sin komplexitet i Kommittén om beredskap enligt regeringsformens betänkande Stärkt konstitutionell beredskap (SOU 2023:75). Snabba systemövergripande teknikskiften, som AI-teknikens genombrott, utgör inte en kris, men kan ändå motivera en tydlig central styrning.
@@ -2401,8 +2481,6 @@ Erfarenhet av tvärsektoriell styrning i Sverige
 Nationella strategier och handlingsplaner används ofta för tvärsektoriella frågor, som kräver insatser på flera förvaltningsnivåer och inom olika verksamhetsområden för att förverkliga regeringens mål. [178] Dessa dokument är dock till sin natur inte bindande. 2018 antog regeringen exempelvis en Nationell inriktning för artificiell intelligens .
 
 En lösning som ofta används för att hantera frågor som påverkar flera offentliga (och privata) aktörer är att skapa olika former av fora för samråd och
-
-[176] Se Prop. 2024/25:1 Utgiftsområde 22, s. 112. [177] Se Statskontoret, Regeringens styrning i tvärsektoriella frågor - En studie om erfarenheter och utvecklingsmöjligheter, 2022. [178] Se SOU 2024:43 Staten och kommunsektorn - samverkan, självstyrelse, styrning. s. 140.
 
 samverkan. [179] Avsikten är att aktörerna ska träffas med viss regelbundenhet och utbyta information, men själva fatta de beslut som de bedömer är nödvändiga.
 
@@ -2416,7 +2494,7 @@ Frågan om ifall det teknologiskifte AI utgör behöver en ny form av central st
 
 För att överbrygga gapet mellan politiken och förvaltningen, förvalta sammanhållningspolitik,
 
- [181] Ansvar, samverkan, handling - Åtgärder för stärkt krisberedskap utifrån erfarenheterna från skogsbranden i Västmanland 2014 (Ju2015/1400/SSK).
+ [181]     Se MSB, Ansvar, samverkan, handling - Åtgärder för stärkt krisberedskap utifrån erfarenheterna från skogsbranden i Västmanland 2014 (Ju2015/1400/SSK).
 
 vägleda reformer av den offentliga förvaltningen och samarbeta med medborgare och andra intressenter beskriver OECD att central styrning kräver ett antal förutsättningar. OECD understryker vikten av en tydlig vision från regeringen som avgörande för resultatet. Den centrala funktionen behöver också skarpa mandat, tydligt avgränsade roller, kombinerat med tillit mellan CoG:er och fackdepartementen. Det är viktigt med ett öppet förtroligt informationsutbyte för att fackdepartementen ska genomföra riktlinjer eller standarder som beslutas av CoG:er. CoG:er behöver dessutom rätt personer, med rätt kompetens, på rätt plats. Färdigheter som politiskt förnuft, helhetstänkande, medling och dataanalys har visat sig viktigt. Dessutom behöver CoG rätt stöd (till exempel budgetar eller dataåtkomst) för att fungera effektivt.
 
@@ -2432,13 +2510,11 @@ Förslag
 
 AI-utvecklingen kräver samordning av politiska beslut i en hastighet som systemet i dag inte
 
-[182] https://www.regeringen.se/pressmeddelanden/2023/12/starkta-krav-i-myndigheternas-regleringsbrev-kring-informations--och-cybersakerhetsarbetet/. [183] ansvaret för centret, dess verksamhet regleras i förordning och dess chef utses direkt av regeringen. [184] Se 8 kap. 1, 11 samt 12 §§ säkerhetsskyddsförordningen (2021:955).
+[182]       https://www.regeringen.se/pressmeddelanden/2023/12/starkta-krav-i-myndigheternas-regleringsbrev-kring-informations--och-cybersakerhetsarbetet/.
 
- Det nationella cybersäkerhetscentret har tidigare vara inrättat av fyra myndigheter efter ett uppdrag från regeringen 2020. Från den 1 november 2024 har FRA [184]
+ [183]     Det nationella cybersäkerhetscentret har tidigare vara inrättat av fyra myndigheter efter ett uppdrag från regeringen 2020. Från den 1 november 2024 har FRA ansvaret för centret, dess verksamhet regleras i förordning och dess chef utses direkt av regeringen.
 
- Det nationella cybersäkerhetscentret har tidigare vara inrättat av fyra myndigheter efter ett uppdrag från regeringen 2020. Från den 1 november 2024 har FRA [184]
-
- [185] Se bland annat United Nations System White Paper on AI Governance, 2024, Europeiska Revisionsrätten, Särskild rapport 08/2024, EU:s ambitioner i fråga om artificiell intelligens samt Dan Huttenlocher, Asu Ozdaglar och David Goldston, A Framework for U.S. AI Governance, 2023. Ett flertal policyramverk för AI finns tillgängliga på Center for AI and Digital Policys webbplats, www.caidp.org.
+ [185]     Se bland annat United Nations System White Paper on AI Governance, 2024, Europeiska Revisionsrätten, Särskild rapport 08/2024, EU:s ambitioner i fråga om artificiell intelligens samt Dan Huttenlocher, Asu Ozdaglar och David Goldston, A Framework for U.S. AI Governance, 2023. Ett flertal policyramverk för AI finns tillgängliga på Center for AI and Digital Policys webbplats, www.caidp.org.
 
 förmår. I syfte att centralisera och effektivisera hanteringen av frågor gällande AI bör en särskild task force tillsättas vid Regeringskansliets Statsrådsberedning. [187] En sådan task force ska fungera som en brygga mellan politiken och de medarbetare på Regeringskansliet som implementerar och följer upp regeringens AIstrategi. AI-kommissionen föreslår i övrigt inga förändringar i Regeringskansliets organisation. Arbetet i en task force kan även bli en naturlig fortsättning på det arbete AI-kommissionen bedrivit. Genom att ta vid där kommissionens arbete slutar kan det momentum som byggts upp under 2024 med ett mycket stort antal samhällskontakter tas till vara. AI-kommissionen anser att 35 miljoner kronor årligen bör avsättas för denna task force.
 
@@ -2462,7 +2538,9 @@ uppföljningsindikatorer (Key Performance Indicators) tas fram. I bilaga B ger v
 
  ▻ Avslutningsvis, vikten av personligt ledarskap vid stora teknikskiften kan inte nog betonas. AI-kommissionen anser därför att regeringen, Regeringskansliet, generaldirektörer, chefer i kommuner och regioner, tillsammans med verkställande direktörer och styrelser i privata företag bör föregå med gott exempel och skaffa sig nödvändig AI-kompetens under 2025. Det är av central betydelse att våra beslutsfattare förstår vad AI är, samt vilken potential och risker den nya tekniken för med sig. Vi anser också att det inom Regeringskansliet bör sättas upp ett mål om att en viss andel av anställda på varje departement ska ha AI-kompetens.
 
-[187] I sammanhanget kan det noteras att Produktivitetskommissionen nyligen föreslagit att en samordningsfunktion i Statsrådsberedningen ska skapas för prioriterade sektorsövergripande frågor. Se SOU 2024:29 Goda möjligheter till ökat välstånd . s. 492. [188] Med Data Steward menas här en person med mycket stor kompetens kring dataförvaltning. Kommissionen föreslår även i kapitlet Data som en förutsättning för AI att en Data Steward-funktion ska inrättas vilket är ett separat förslag i förhållande till det som nämns här.
+[187]     I sammanhanget kan det noteras att Produktivitetskommissionen nyligen föreslagit att en samordningsfunktion i Statsrådsberedningen ska skapas för prioriterade sektorsövergripande frågor. Se SOU 2024:29 Goda möjligheter till ökat välstånd . s. 492. [188]     Med Data Steward menas här en person med mycket stor kompetens kring dataförvaltning. Kommissionen föreslår även i kapitlet Data som en förutsättning för AI
+
+att en Data Steward-funktion ska inrättas vilket är ett separat förslag i förhållande till det som nämns här.
 
 <missing-text>
 
@@ -2478,7 +2556,7 @@ Bilaga B
 
 KPI:er för uppföljning
 
-Allt policyarbete syftar till någon sorts måluppfyllelse. Målen kan se olika ut, men ofta har de det gemensamma draget att de inte är så lätta att mäta, till exempel välfärd, som i någon mening är målet för nästan all politik. AI-kommissionens förslag är inga undantag. Enligt direktiven ska de bidra till att " . . . stärka utveckling och användning av artificiell intelligens (AI) i Sverige på ett hållbart och säkert sätt" [1] . För att följa upp utvecklingen, och se i vilken mån vi rör oss mot målet, föreslår vi därför användningen av nyckelindikatorer ( Key Performance Indicator, KPI:er) framtagna av en oberoende extern part som har kompetens att bedöma olika länders förmågor på AI-området. Den mest användbara externa bedömningen i det avseendet görs i The Global AI Index (GAII). Där bedöms länders relativa styrka inom AI utifrån en rad olika indikatorer indelade i sju områden: Politisk styrning , Utveckling , Infrastruktur, Forskning, Kommersialisering , Talang och Operativ miljö . GAII är sedan en sammanvägning av samtliga indikatorer inom dessa sju områden. Länderna rankas även separat inom varje område.
+Allt policyarbete syftar till någon sorts måluppfyllelse. Målen kan se olika ut, men ofta har de det gemensamma draget att de inte är så lätta att mäta, till exempel välfärd, som i någon mening är målet för nästan all politik. AI-kommissionens förslag är inga undantag. Enligt direktiven ska de bidra till att ' . . . stärka utveckling och användning av artificiell intelligens (AI) i Sverige på ett hållbart och säkert sätt' [1] . För att följa upp utvecklingen, och se i vilken mån vi rör oss mot målet, föreslår vi därför användningen av nyckelindikatorer ( Key Performance Indicator, KPI:er) framtagna av en oberoende extern part som har kompetens att bedöma olika länders förmågor på AI-området. Den mest användbara externa bedömningen i det avseendet görs i The Global AI Index (GAII). Där bedöms länders relativa styrka inom AI utifrån en rad olika indikatorer indelade i sju områden: Politisk styrning , Utveckling , Infrastruktur, Forskning, Kommersialisering , Talang och Operativ miljö . GAII är sedan en sammanvägning av samtliga indikatorer inom dessa sju områden. Länderna rankas även separat inom varje område.
 
 GAII omfattar för närvarande 83 länder. Andra vanligt förekommande index är Stanford AI Index, som dock främst fokuserar på AI-utveckling i allmänhet utan att
 
@@ -2486,15 +2564,13 @@ prioritera landjämförelser, och The Government AI Readiness Index, som har en 
 
 De indikatorer som används i GAII skiljer sig åt på två grundläggande sätt. Vissa indikatorer visar mått på ett lands absoluta kapacitet, till exempel antalet AI-företag, eller totala AI-investeringar mätt i dollar. Andra indikatorer är justerade för ett land storlek, exempelvis antalet AI-företag per capita eller jämfört med BNP. När GAII presenteras väger man ihop alla dessa indikatorer och ger varje land en poäng. Poängen är en blandning av ländernas absoluta kapacitet inom AI (som i hög grad speglar hur stort landet och dess AI-sektor är) och deras storleksjusterade kapacitet på AI-området.
 
-Figur 1. Sveriges ranking i GAII 2020-2024 samt Sveriges ranking för de sju områdena under 2024
-
 <missing-text>
 
 <missing-text>
 
 Källa: The Global AI Index
 
-Som framgår av Figur 1a har Sveriges ranking försämrats från plats 15 till plats 25 sedan GAII introducerades år 2020. Fallet mellan åren 2023 och 2024 kan delvis förklaras av att indexets konstruktion har ändrats mellan dessa år. 2024 års placering tar mindre hänsyn till att länder varierar i storlek, vilket gör att mindre länder generellt sett rankas sämre än tidigare. Denna nya viktning motiveras med att den bättre speglar att AI i hög grad förknippas med stordriftsfördelar, vilket ger större länder och ekonomier ett naturligt övertag. Den här förändringen är dock inte hela förklaringen bakom det svenska tappet i ranking, eftersom både Finland (5 placeringar) och Danmark (6 placeringar) har fallit mindre än Sverige (8 placeringar). Detta är bekymmersamt, eftersom Sverige, som är större än Danmark och Finland, rent "mekaniskt" borde påverkas mindre negativt av förändringarna i indexets konstruktion.
+Som framgår av Figur 1a har Sveriges ranking försämrats från plats 15 till plats 25 sedan GAII introducerades år 2020. Fallet mellan åren 2023 och 2024 kan delvis förklaras av att indexets konstruktion har ändrats mellan dessa år. 2024 års placering tar mindre hänsyn till att länder varierar i storlek, vilket gör att mindre länder generellt sett rankas sämre än tidigare. Denna nya viktning motiveras med att den bättre speglar att AI i hög grad förknippas med stordriftsfördelar, vilket ger större länder och ekonomier ett naturligt övertag. Den här förändringen är dock inte hela förklaringen bakom det svenska tappet i ranking, eftersom både Finland (5 placeringar) och Danmark (6 placeringar) har fallit mindre än Sverige (8 placeringar). Detta är bekymmersamt, eftersom Sverige, som är större än Danmark och Finland, rent 'mekaniskt' borde påverkas mindre negativt av förändringarna i indexets konstruktion.
 
 Sveriges ranking inom GAII:s olika områden i 2024 års mätning framgår av Figur 1b. De största utmaningarna för Sverige ligger inom områdena Politisk styrning (plats 57) och Utveckling (plats 30). Politisk styrning avser ländernas strategiska arbete runt AI-frågor, medan Utveckling speglar Sveriges innovationskraft inom AI. Sveriges starkaste område, Operativ miljö , speglar bland annat befolkningens attityd till AI och tillit till tekniken.
 
@@ -2548,7 +2624,7 @@ Figur 3 visar Sveriges och jämförelseländernas placering och poäng inom omr�
 
 Notera: Placeringen för varje land inom Utveckling visas efter landets namn. Den horisontella axeln visar poängen för varje land, beräknad utifrån indikatorer relaterade till området. Den högsta poäng som ett land kan få är 100. Den grå stapeln representerar den poäng som krävs för att placera sig på plats 10 i Utveckling i 2024 års upplaga. Källa: The Global AI Index, 2024 års upplaga.
 
-Området Utveckling baseras i huvudsak på två klasser av indikatorer. Den första utgörs av indikatorer som fokuserar på patent, som är ett väl etablerat mått på innovation. Den andra klassen, som ska geen bredare bild av AI-innovation, omfattar indikatorer som visar i vilken grad aktörer i landet bidrar till utvecklingen av öppen källkod. [4] Detta är särskilt relevant för AI-utveckling, eftersom många framsteg inte patenteras utan delas öppet.
+Området Utveckling baseras i huvudsak på två klasser av indikatorer. Den första utgörs av indikatorer som fokuserar på patent, som är ett väl etablerat mått på innovation. Den andra klassen, som ska ge en bredare bild av AI-innovation, omfattar indikatorer som visar i vilken grad aktörer i landet bidrar till utvecklingen av öppen källkod. [4] Detta är särskilt relevant för AI-utveckling, eftersom många framsteg inte patenteras utan delas öppet.
 
 Sveriges innovationskraft inom AI beror på vår förmåga att bygga ett fungerande eko-system, så som beskrivits i till exempel Färdplanens inledande kapitel, där akademi, näringsliv och offentlig sektor samverkar för att driva utvecklingen framåt. Färdplanen innehåller ett antal förslag för att stärka Sveriges innovationskraft på AI-området. Till exempel är det viktigt att stärka kopplingen mellan akademin och näringslivet, vilket diskuteras i kapitlet Spetsforskning i samverkan , bland annat genom att inrätta excellenscenter inom AI. I kapitlet Innovation, entreprenörskap och riskkapital föreslår vi utökat ekonomiskt stöd och vägledning för innovativa företag. Tillsammans med förslaget, i kapitlet Beräkningskraft , om att finansiera en AI Factory, skulle detta bidra starkt till att förbättra förutsättningarna för innovation i Sverige.
 
@@ -2612,7 +2688,7 @@ Figur 6 visar Sveriges ranking och poäng i relation till jämförelseländerna.
 
 Notera: Placeringen för varje land inom Kommersialisering visas efter landets namn. Den horisontella axeln visar poängen för varje land, beräknad utifrån indikatorer relaterade till området. Den högsta poäng som ett land kan få är 100. Den grå stapeln representerar den poäng som krävs för att placera sig på plats 5 i Kommersialisering i 2024 års upplaga. Källa: The Global AI Index, 2024 års upplaga.
 
-Området Kommersialisering utgår från indikatorer som antal AI-företag och AI-startups, tillgång till finansiellt kapital för dessa företag, antalet börsnoterade AI-företag, samt förekomsten av så kallade "enhörningar" inom landets AI-sektor.
+Området Kommersialisering utgår från indikatorer som antal AI-företag och AI-startups, tillgång till finansiellt kapital för dessa företag, antalet börsnoterade AI-företag, samt förekomsten av så kallade 'enhörningar' inom landets AI-sektor.
 
 Återigen handlar det både om absoluta och relativa indikatorer, där störst vikt läggs vid de absoluta indikatorerna. Som framgår av Figur 6 hindrar detta inte relativt små länder, som Israel och Singapore, att placera sig i den absoluta toppen.
 
@@ -2634,6 +2710,8 @@ Figur 7 visar att Sverige har en liknande ranking som grannländerna Finland och
 
 Notera: Placeringen för varje land inom Talang visas efter landets namn. Den horisontella axeln visar poängen för varje land, beräknad utifrån indikatorer relaterade till området. Den högsta poäng som ett land kan få är 100. Den grå stapeln representerar den poäng som krävs för att placera sig på plats 10 i Talang i 2024 års upplaga.
 
+Källa: The Global AI Index, 2024 års upplaga.
+
 De underliggande indikatorerna för detta område inkluderar bland annat antalet nyutexaminerade inom STEM och IT samt data från LinkedIn. [5] [6] Indikatorerna rör även mått på hur aktiva aktörer från olika länder är på populära diskussionsforum för AI-utveckling. [7]
 
 Antagandet är att länder med ett stort digitalt avtryck inom de delar av internet där AI-utvecklare är verksamma också har bättre tillgång till kvalificerad arbetskraft inom AI. Denna färdplan innehåller flera konkreta åtgärder för att säkerställa AI-kompetens i Sverige. I kapitlet Kompetenslyft för alla presenteras exempelvis förslag om ett lärarlyft inom AI vid akademin. Även kapitlet Spetsforskning i samverkan innehåller initiativ som kan stärka Sveriges tillgång till kvalificerad arbetskraft, bland annat förslaget om att utbilda 600 doktorander under en tioårsperiod.
@@ -2652,7 +2730,7 @@ Figur 8 visar Sveriges ranking i relation till jämförelseländerna. Sverige oc
 
  [7] GAII inkluderar olika mått på aktivitet på nätforumen Stack Overflow och GitHub, som är centrala plattformar där programmerare ställer frågor, delar lösningar och utbyter kunskap om kodning och tekniska problem. Plattformarna hjälper utvecklare att lära sig och lösa problem tillsammans.
 
- [6] För att dokumentera förekomsten av AI-experter i olika länder samlas data in om antalet personer som beskriver sig som "Ingenjör", "Forskare" eller "Vetenskapsman" inom AI-relaterade områden som maskininlärning, djupinlärning, datorseende, naturlig språkbehandling och robotik på LinkedIn.
+ [6] För att dokumentera förekomsten av AI-experter i olika länder samlas data in om antalet personer som beskriver sig som 'Ingenjör', 'Forskare' eller 'Vetenskapsman' inom AI-relaterade områden som maskininlärning, djupinlärning, datorseende, naturlig språkbehandling och robotik på LinkedIn.
 
  [8] Italiens topposition beror på flera faktorer. Befolkningen har relativt hög tilltro till AI - något fler än i Sverige. Ytterligare faktorer som bidrar är deras implementering av GDPR, låga visumkostnader för tech-arbetare, höga säkerhetspoäng enligt Kaspersky (säkerhetstjänst), samt att Italien har undertecknat International Open Data Charter eller motsvarande.
 

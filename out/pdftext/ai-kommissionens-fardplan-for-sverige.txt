@@ -1374,13 +1374,7 @@ Figur 1: Elproduktionen under 2023
 
 Elproduktion, andel per energislag
 
-
-
 TWh per en miljon invånare 2023
-
-
-
-
 
 Notera: Fossila bränslen innefattar naturgas, kol och olja.
 Källa: Ember (2024), Energy Institute - Statistical Review of World Energy via https://ourworldindata.org/grapher/shareelectricity-nuclear.Färdplan
@@ -5968,14 +5962,6 @@ Färdplan för Sverige | AI FÖR ALLA
 72
 Figur 1: FoU-utgifter som andel av intäkter i tre olika kategorier av branscher
 
-
-
-
-
-
-
-
-
 Källa: EU Industrial R&D Scoreboard. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN,
 Stockholm
 
@@ -5988,8 +5974,6 @@ Tittar vi på totala privata investeringar i AI, satt i relation till BNP, visar
 Figur 2: Privata investeringar i AI uttryckt som andelar av BNP, 2023
 
 Totala investeringar (% av BNP), 2023
-
-
 
 Notera: Figuren visar de 15 länder som hade högsta privata investeringar i AI.
 Källa: The Artificial Intelligence Index, Stanford, 2024, figur 4.3.8. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det
@@ -6009,15 +5993,9 @@ Figur 3: Antal ansökta patent per miljon invånare
 
 IT-metoder för ledning
 
-
-
 Telekommunikation
 
-
-
 Digital kommunikation
-
-
 
 Källa: EPO. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
 
@@ -6028,15 +6006,9 @@ Figur 3: Antal ansökta patent per miljon invånare
 
 Audio-visuell teknologi
 
-
-
 Halvledare
 
-
-
 Miljöteknologi
-
-
 
 Källa: EPO. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
 
@@ -6047,11 +6019,7 @@ Figur 3: Antal ansökta patent per miljon invånare
 
 Datorteknologi
 
-
-
 Bioteknologi
-
-
 
 Källa: EPO. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska näringslivet, mimeo, IFN, Stockholm
 
@@ -6069,8 +6037,6 @@ AI FÖR ALLA | Färdplan för Sverige
 Figur 4: Antal nystartade AI företag under perioden 2013–2023 per miljon invånare
 
 Antal företag per miljon
-
-
 
 Källa: Artificial Intelligence Report 2024, figur 4.3.13. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av det svenska
 näringslivet, mimeo, IFN, Stockholm
@@ -6114,12 +6080,6 @@ Figur 5: Investeringar från riskkapital (VC) i AI- och dataföretag
 
 VC-investeringar i AI per land
 
-
-
-
-
-
-
 Källa: OECD.AI.
 
 Den sammantagna bilden vittnar om att det generella
@@ -6157,10 +6117,6 @@ AI FÖR ALLA | Färdplan för Sverige
 
 79
 Figur 6: Användning av AI-teknologier bland små och stora företag (i procent) för olika EU-länder
-
-
-
-
 
 Notera: ”Stora företag” avser företag med över 250 anställda medan ”Små företag” avser företag med 10 till 249 anställda. Den vertikala axeln
 visar den procent av företagen som under 2023 någon gång använde en av följande AI-teknologier: ”text mining”, taligenkänning, naturlig
@@ -10146,8 +10102,6 @@ BILAGA B KPI:ER FÖR UPPFÖLJNING | Färdplan för Sverige
 127
 Figur 4. Infrastruktur - ranking och poäng
 
-
-
 Notera: Placeringen för varje land inom Infrastruktur visas efter landets namn. Den horisontella axeln visar poängen för varje land, beräknad
 utifrån indikatorer relaterade till området. Den högsta poäng som ett land kan få är 100. Den grå stapeln representerar den poäng som krävs för
 att placera sig på plats 10 i Infrastruktur i 2024 års upplaga.
@@ -10392,8 +10346,6 @@ Färdplan för Sverige | BILAGA B KPI:ER FÖR UPPFÖLJNING
 
 130
 Figur 7. Talang – ranking och poäng
-
-
 
 Notera: Placeringen för varje land inom Talang visas efter landets namn. Den horisontella axeln visar poängen för varje land, beräknad utifrån
 indikatorer relaterade till området. Den högsta poäng som ett land kan få är 100. Den grå stapeln representerar den poäng som krävs för att

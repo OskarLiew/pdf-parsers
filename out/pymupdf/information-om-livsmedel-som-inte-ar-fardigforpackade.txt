@@ -154,7 +154,6 @@ EXEMPEL PÅ LIVSMEDEL SOM INTE BETRAKTAS SOM FÄRDIGFÖRPACKADE
 
 
 6
-Exempel på hur informationen kan ges skriftligen:
 spannmål som 
 innehåller gluten 
 (t ex vete, råg, 
@@ -272,7 +271,6 @@ Allergisk? Fråga oss
 vad som finns i maten.
 Allergisk? Fråga oss 
 vad som finns i maten.
-Information om maträtter och allergener på restaurang.
 Information om maträtter och allergener på restaurang
 
 

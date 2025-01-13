@@ -33,7 +33,7 @@ class GotOcrPdfParser(BasePdfParser):
         pages_out = []
         with tempfile.TemporaryDirectory("pdf_pages") as tmpdir:
             convert_from_path(in_path, output_folder=tmpdir)
-            for image_path in tqdm(list(Path(tmpdir).iterdir()), desc="OCR:ing"):
+            for image_path in tqdm(sorted(Path(tmpdir).iterdir()), desc="OCR:ing"):
                 result = self.model.chat(
                     self.tokenizer, str(image_path), ocr_type=self.mode
                 )

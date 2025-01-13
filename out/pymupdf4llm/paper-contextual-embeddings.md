@@ -343,7 +343,6 @@ S(q, d), which are not denitively negative examples:
 exp f (d, q)
 log p(d q) = (4)
 
-
 exp f (d, q) + []d[′]∈S(q,d) [exp][ f] [(][d][′][, q][)]
 
 For simplicity, we again select f to be a simple pre-trained embedding model. This method likely
@@ -929,7 +928,6 @@ initialized slightly differently) than the model can quickly deteriorate to a su
 -----
 
 Table 3: Nearest-neighbors to a single query in a large unsupervised dataset.
-
 Query Document
 
 looks like my card payment was duplicated after
@@ -1102,7 +1100,6 @@ cluster size is 256 points out of a dataset of 1.5M .
 -----
 
 Table 5: Distribution of pretraining datasets curated in Nussbaum et al. (2024).
-
 Dataset Datapoints % Dataset
 
 Reddit[a] 64,978,944 0.28
@@ -1134,7 +1131,6 @@ StackExchange Title Body [g] 65,536 <.01
 StackExchange Body Body [h] 65,536 <.01
 Quora Duplicate Questions [i] 32,768 <.01
 SQuAD Rajpurkar et al. (2016) 16,384 <.01
-
 Total 234,553,344 1
 
 ahttps://huggingface.co/datasets/sentence-transformers/

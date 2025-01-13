@@ -1,0 +1,1525 @@
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               CONTEXTUAL     DOCUMENT    EMBEDDINGS                                
+                                                                                    
+                                                                                    
+                JohnX.Morris              AlexanderM.Rush                           
+                CornellUniversity         CornellUniversity                         
+                jxm3@cornell.edu          arush@cornell.edu                         
+                                                                                    
+                                                                                    
+                                      ABSTRACT                                      
+                                                                                    
+                    Densedocumentembeddingsarecentraltoneuralretrieval.Thedominantparadigm
+                    istotrainandconstructembeddingsbyrunningencodersdirectlyonindividual
+                    documents. In this work, we argue that these embeddings, while effective, are
+                    implicitlyout-of-contextfortargetedusecasesofretrieval,andthatadocument
+                    embeddingshouldtakeintoaccountboththedocumentandneighboringdocuments
+                    incontext–analogoustocontextualizedwordembeddings. Weproposetwocom-
+                    plementarymethodsforcontextualizeddocumentembeddings: rst,analternative
+                    contrastivelearningobjectivethatexplicitlyincorporatesdocumentneighborsinto
+                    theintra-batchcontextualloss;second,anewcontextualarchitecturethatexplicitly
+                    encodesneighbordocumentinformationintotheencodedrepresentation. Results
+                    show that both methods achieve better performance than biencoders in several
+                    settings,withdifferencesespeciallypronouncedout-of-domain. Weachievestate-
+                    of-the-artresultsontheMTEBbenchmarkwithnohardnegativemining,score
+                    distillation,dataset-specicinstructions,intra-GPUexample-sharing,orextremely
+                    large batch sizes. Our method can be applied to improve performance on any
+                    contrastivelearningdatasetandanybiencoder.                      
+               1 INTRODUCTION                                                       
+               Machinelearningapproachestotextretrievalaimtolearnanembeddedrepresentationforindexing
+               documents. Classically, this area was dominated by statistical approaches using sparse lexical
+               matching methods based on n-gram frequencies such as BM25 (Robertson & Zaragoza, 2009).
+               Onlyrecentlyhaveneuralnetworksbecomecompetitivewithstate-of-the-artmodelsonretrieval
+               tasks(Karpukhinetal.,2020;Thakuretal.,2021). Theprimaryneuralmethodisadualencoder
+               architecture that independently encodes both a document and query to a dense latent space for
+               retrievallookup. Thisdocumentembeddingspacecanimproveuponastatisticalmodelsinceitis
+               learnedend-to-endforretrieval.                                       
+               However,thereisatleastonenotablebenetofstatisticalapproachesthatislostbyneuralmodels.
+               Statisticalmodelscaneasilyincorporatepriorcorpusstatisticssuchasinversedocumentfrequency
+               (IDF),intotheirrepresentation. Thispriortermimpartscontext-dependenceontothemodel,sinceit
+               canbeupdatedbasedoninformationspecictoretrievalinagivendomainattesttime. Wecontrast
+               thiscontextualformulationwithneuraldocumentencodersthatarebydenitionafunctionofthe
+               documentitself. Forexampleconsiderthefollowingdocument:              
+                    The National Football League Draft is an annual event in which the National
+                    FootballLeague(NFL)teamsselecteligiblecollegefootballplayers... 
+               Dependingontheretrievaldomain,e.g. Wikipediasearch,sportsarticles,ortelevisedevents,IDF
+               mayweighttermssuchasNFL,draftorannualhigher;aneuraldocumentembeddingmodel
+               wouldneedtoselectaglobalweightingforthisdocument.                    
+               Inthiswork,weexplorecontextualizationofdocumentembeddingsproducedbydenseencoders.
+               Thegoalistoproduceembeddingsthatarebetterabletohandleretrievaltasksinspecicchallenging
+               contexts. We propose two complementary changes to document encoders: a contextual training
+               procedureandarchitecture.                                            
+               Forcontextualtraining,weaimtobuildanotionofneighboringdocumentsdirectlyintothecontrastive
+               learningprocess. Weproposeamethodthatusesonfastquery-documentclusteringtoproducea
+                                          1                                         
+  4202                                                                              
+  tcO                                                                               
+  7                                                                                 
+  ]LC.sc[                                                                           
+  2v52520.0142:viXra                                                                
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure1: Overviewofoursystemforcontextualdocumentembeddings(CDE).Ourmodeloperates
+               intwostages: arststageusedtocharacterizethedatasetfromsamples,andasecondstageusedto
+               embedthenaldocument.                                                
+                                                                                    
+                                                                                    
+               group of neighbors for each training batch. Each update for training is constructed purely from
+               neighboring documents to ensure that embeddings can distinguish documents even in the most
+               challengingcontexts.                                                 
+               Forthearchitecture,weproposeanewencoderthatinjectsinformationaboutthecontextualdocu-
+               mentsduringembedding. TheproposedarchitectureaugmentsthestandardBERT-styleencoderwith
+               additionalconditioningthatprovidesaggregateddocument-levelinformationaboutneighboringdoc-
+               uments. WecallourmethodContextualDocumentEmbedding(CDE).Analogouslytopre-computed
+               corpus-levelstatistics,thismethodprovidesamannerfortheembeddingtotakeintoaccountthe
+               relativefrequencyoftermsincontext. Thenaloutputisstillanembeddingofthesamesize,sothis
+               doesnotrequireanyadditionalstorageorotherchangestotheretrievalprocess. Whenindexing,we
+               utilizeinformationfromthecorpustoproducedocumentandqueryembeddingsthatarespecictoa
+               particulardomain.                                                    
+               Experimentscomparethesetwoextensionstostandardapproachesfortrainingdocumentembeddings.
+               Ourresultsshowthatcontextualcontrastivetrainingimprovesstandardtextembeddingmodeltraining,
+               and can be run without other approaches such as additional hard negatives. With the contextual
+               encoderarchitecture,weseeadditionalimprovementsoverabaselinemodelinallsettingstested,
+               withlargerimprovementsinhighlyspecicdomainssuchassmalldatasetsofnancialandmedical
+               documents. When trained at industry-scale, our model achieves state-of-the-art results for small
+               (<250Mparameter)modelsontheMTEBbenchmark.                            
+               2 RELATED WORK                                                       
+                                                                                    
+               Text retrieval. Our work is related to the general eld of text retrieval; we propose specic
+               improvementstothetrainingof“biencoder”textembeddingmodelssuchasDPR(Karpukhinetal.,
+               2020),GTR(Nietal.,2021),Contriever(Izacardetal.,2022),LaPraDoR(Xuetal.,2022),Instructor
+               (Suetal.,2023),Nomic-Embed(Nussbaumetal.,2024),E5(Wangetal.,2024),andGTE(Lietal.,
+               2023). Wefocusontheproblemofadaptingthesetextretrievalmodelstonewcorporaattesttime;
+               somepriorworkhasnotedthisproblem(Daietal.,2022;Sciavolino,2021)andproposedsolutions
+               suchasunsupervisedspan-samplingandtrainingontestcorpora(Gao&Callan,2021)anddistillation
+               onthetestcorpusfromareranker(Sungetal.,2023). Lateinteractionmethods(Khattab&Zaharia,
+               2020;Santhanametal.,2022)alsoofferonewaytoimproveout-of-domainretrievalperformance,
+               butincreasetheruntimeandcomplexityofsearch. Weproposeabettersamplingschemethatcanbe
+               usedtotrainanybiencoderorlateinteractionmodelaswellasatraining-freemethodfortest-time
+               adaptation.                                                          
+                                          2                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Contrastivelearning. Muchresearchhasfocusedontheeffectofhardnegativesontheperformance
+               ofcontrastivelearningmethodsChenetal.(2020);Quetal.(2021);Robinsonetal.(2021);Wang
+               etal.(2023). (Zhang&Stratos,2021)observethathardernegativesprovideabetterapproximation
+               oftheoverallcross-entropyloss,butdonotconsiderbatch-leveloptimizationsfornegativeselection.
+               Hofsta¨tter et al. (2021) cluster queries before training and show that this improves performance.
+               Sachidanandaetal.(2023)alsoconsidercontrastivebatchsamplingasaglobaloptimizationproblem,
+               butdonotapplytheirtechniquetostate-of-the-arttransformer-basedtextembeddingmodels. (Ma
+               etal.,2024)useaclusteringalgorithmtopartitionadatasetintoseveralsub-datasets, buttraina
+               differentmodeloneachsub-dataset. Ourtrainingalgorithmaimstondthehardestpossiblebatches
+               totraintextembeddingmodel.                                           
+               Test-timeadaptation. Ourmethodcanbecomparedtoothersolutionstotest-timeadaptation,a
+               problemthathasbeenwell-studiedacrossavarietyofdomains(Jangetal.,2023). Inretrieval,one
+               formoftest-timeadaptationispseudo-relevancefeedback(PRF)(Rocchio,1971;Lietal.,2018;
+               Wangetal.,2021),wheredocumentsrelevanttothequeryareusedtoconstructanal,enhanced
+               query representation. The query side of our model can be seen as a form of pseudo-relevance
+               feedback;however,wetrainfromscratchtosupportamoregeneralformofPRFnatively,onthe
+               documentrepresentationaswellasthequery.                              
+               Non-parametric modeling. Our contextual document model can be seen as a form of non-
+               parametric modeling. This shows connections with the a large body of deep learning research
+               such as the non-parametric transformer (NPT) (Kossen et al., 2022) and the subeld of Neural
+               Processes(Garneloetal.,2018;Kimetal.,2019;Nguyen&Grover,2023). Semi-parametricmodels
+               havebeenrecentlyappliedinNLP,specicallytothetaskoflanguagemodeling(Borgeaudetal.,
+               2022;Khandelwaletal.,2020). Insteadofusingaretrievalmodeltobuildasemi-parametriclangauge
+               model,webuildasemi-parametricmodelspecicallyforthetaskofretrieval.  
+               3 BACKGROUND                                                         
+                                                                                    
+               We can view text retrieval methods probabilistically as computing a distribution over potential
+               documentsbasedonascalarscorefunctionf(d,q)matchingdocumentsandqueries:
+                                          expf(d,q)                                 
+                                  p(d q)=                           (1)             
+                                           expf(d,q)                               
+                                         d′∈D    ′                                  
+               where isanitesetofdocumentsinadataset. Thereisawidevarietyofdifferentdenitionsforf
+                  D                                                                 
+               includingfullpairwiseneuralparameterizations(Nogueira&Cho,2020). Inthiswork,wefocuson
+               efcientretrievalmethodsusingvector-basedmethods,alsoknownasembeddingmodels.
+               Vectorretrievalmethodsassumethatf(d,q)canbefactoredintotwoembeddingterms,ϕ(d) ψ(q),
+                                                                  ·                 
+               thedocumentandqueryembeddingrespectively. Thisfactorizationallowsprecomputationofthe
+               document embeddings ϕ(d) for all d . This is critical for facilitating fast computation of
+                                     ∈ D                                            
+               argmax p(d q)ortop-kvariants(Douzeetal.,2024).                       
+                    d                                                               
+                                                                                   
+               Instatisticalretrieval,ϕandψareclosed-formfunctionsofthedata,oftenrepresentingunigramor
+               bigramcountsbytherelativefrequencyofwordtypes. Notablyforthiswork,thesemethodscanalso
+               utilizedistributionalpropertiesofthetestdatasetasaprior,forexamplethroughinversedocument
+               frequency (IDF). We represent this integration of dataset-level information by writing the vector
+               productϕ(d; ) ψ(q; ).                                                
+                      D ·  D                                                        
+               In neural retrieval, we instead learn the representation as a dense vector. We assume access to a
+               trainingcorpusofdocumentandquerypairs(thesemaybesupervised,i.e. gold-standardannotations,
+               or unsupervised, i.e. noised synthetic examples), = (d1,q1),...,(dJ,qJ) , with the aim of
+                                            T                                       
+                                           D                                      
+               learningtheembeddingfunctionϕandψ.                                   
+               Trainingcanbemotivatedasmaximizinglikelihoodofthedocumentcorrespondingtoeachquery,i.e.
+                 logp(dj qj). Unfortunately,sinceretrievaldatasetscanhave exceedmillionsofdocuments,
+                j                                 D                              
+               computingthenormalizerinEq1ateachtrainingstepisnotanoption. Insteadcontrastivelearningis
+                                                                                   
+               usedwherethelikelihoodisreplacedwithabiasedapproximationcalculatedfromnegativesamples:
+                                          3                                         
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                expf(dj,qj)                         
+                          max  logp(dj qj) log                                      
+                          ϕ,ψ                                                       
+                             j                                                     
+                                      ≈                                            
+                                        j                                          
+                                              d′∈H(qj)expf(d ′,qj)                  
+                                                                                   
+               where is a set of examples used to approximate the normalizing constant. In implementation,
+                   H                                                                
+               inadditiontothesehardnegativeexamples,otherexamplesfromthemini-batcharealsousedto
+               computethenormalizersinceitrequiresnoadditionalcomputeforcalculatingϕ(d).
+               4 METHODS                                                            
+               Inourwork,weareinterestedinintegratingcontextualinformationintoourembeddingfunctions
+               ϕandψ. Thestandardneuralϕispurelyafunctionofthedocumentϕ(d)anddoesnottakeinto
+               accountanynotionofcontext. Thiscontrastswiththestatisticalmodelϕ(; )andψ(; ). Arguably
+                                                      · D    · D                    
+               thisisnotanissueifretrievaliscompletelyindomain,asϕiscapableoflearningstatisticssuchas
+               IDFandaveragedocumentlengthonthetrainingsetthroughgradientdescent.   
+               However,inmanyretrievalbenchmarks,modelsaretrainedoverasinglesetofdocuments and
+                                                                  D                 
+               thentestedinmanyotherdomains thatdifferssignicantlyfrom . Inthissetting,trainingon
+                                                     T                              
+                                  D                 D                               
+                 alonemaynotbeabletoproviderobustembeddingswhenusedincontextssuchas .
+                T                                                                   
+               D                                               D                    
+               4.1 CONTEXTUAL TRAINING WITH ADVERSARIALCONTRASTIVELEARNING          
+               Returningtotheexamplefromtheintroduction,weassumethatinageneralpurposetrainingcorpus
+                 ,thetermNFLisararewordappearinginrelativelyfewdocumentsandausefulsignal. However,
+                T                                                                   
+               D                                                                    
+               ifattesttime isacorpusofsportsarticles,thiswordwouldbeexceedinglycommon. Evaluation
+                      D                                                             
+               in this domain is, in a statistical sense, adversarial to the original dataset. To handle this issue,
+               meta-learning-styleobjectiveshaveshowntobeeffectivefortrainingdocumentembedders. Inthese
+               approaches,insteadofsamplingdocuments-querypairsiid,theobjectiverstsampleadomainand
+               thensampleabatchofexamples. Thisensuresthatthemodelmostlyseesrelatedtrainingpointsin
+               eachdomain.                                                          
+               Weproposeatrainingobjectivethatsynthesizesalargesetofne-graineddomainstotrainthemodel
+               on. Formally,ouraimistopartitionthetrainingdataset intogroups( 1,... B)suchthateach
+                                               T                                    
+                                              D        B   B                        
+               grouprepresentsaself-similarpseudo-domain:                           
+                                                      expf(d,q)                     
+                     max       logp(d q)=max    log                                 
+                     ϕ,ψ                                                            
+                        b (d,q) ∈Bb                                               
+                                      ϕ,ψ                                          
+                                         b (d,q) ∈Bb (d′, ·)                      
+                                                      ∈Bbexpf(d ′,q)                
+                                                                                   
+               Computationally, the inner term can be implemented as a single batch and computed efciently
+               withouttheneedforseparatehardnegatives( ). Ideallywewantgroupsthatareaschallengingas
+                                        H                                           
+               possible. Zhang&Stratos(2021)showthatincreasingthepartitiontermimprovesthecontrastive
+               approximationtothemaximumlikelihoodthegradient. Wecanformalizethesearchforthemost
+               difcultcongurationofbatchesasanoptimizationproblem:                
+                 max        f(d,q′)+f(d′,q)= max     ϕ(d) ψ(q′)+ϕ(d′) ψ(q) (2)      
+                ( 1, B)              ( 1, B)      ·       ·                   
+                B  B b (d,q) b         B B b (d,q) b                            
+                       (d′,q′)∈ ∈B Bb           (d′,q′)∈ ∈B Bb                      
+               Solvingthiscombinatorialobjectiveexactlyisintractable,butwecantreatapproximateasolution
+               usingclustering. Werstmovefromamaximizationtoaminimizationbyreplacingthetwodot
+               productswithL ,i.e. m((d,q),(d,q ))= ϕ(d) ψ(q ) + ϕ(d) ψ(q) whichisequivalent
+                        2         ′ ′         ′     ′                               
+                                         −      −                           
+               fornormalizedembeddings. Wethennotethattreatedassymmetricpairs,thistermobeysthetriangle
+               inequalityforanyotherpairmi.e:                                       
+                            m((d,q),m)+m(m,(d′,q′)) m((d,q),(d′,q′))                
+                                             ≥                                      
+                                          4                                         
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Thisimpliesthatthefollowingcentroid-basedobjectiverepresentsanupper-boundonouroriginal
+               objective:                                                           
+                                  min        m((d,q),mb)            (3)             
+                                ( 1, B)                                          
+                                (mB1,,B mB)b (d,q) ∈Bb                         
+               ForaknownsizeB, thisdenesanasymmetricK-Meansclusteringproblem. Asolutioncanbe
+               efcientlycomputedusingextremelyfastEuclideanK-Meanspackagesbetreatingeachdatapointas
+               twoseparatevectorsϕ(d) ψ(q)andψ(q) ϕ(d)where isconcatenation.        
+                             ⊕         ⊕       ⊕                                    
+               ClusterEmbeddings. Sinceclusteringisperformedbeforetraining,wedonothavedenseencoders
+               forϕandψwhenconstructingthegroups. Borrowingmethodsfromhard-negativemining(Robinson
+               etal.,2021)wecanreplacetheϕandψwithasimplerembeddingmodelwhenconstructinggroups.
+               Weexperimentwithasparsevectorrepresentationandwithpretraineddenserepresentations,settling
+               onGTR(Nietal.,2021),apopularandgenerictextembeddingmodel.            
+               FilteringFalseNegatives. Ourmethodisespeciallysensitivetofalsenegatives,astheywillbe
+               more likely to be included in a given batch. Unfortunately, traditional retrieval datasets are not
+               designedwiththistypeofglobalobjectiveinmind: falsenegativesarecommoninmostretrieval
+               datasetsandtheirprevalenceincreaseswithdatasetscale. Asonedatapoint,Quetal.(2021)found
+               thatover70%oftop-retrievedpassagesinMSMarcoarefalsenegatives.        
+               Toavoidasituationwhereeachbatchcontainsalargenumberoffalsenegatives,wecomputean
+               equivalenceclass: S(q,d)= d f(q,d) f(q,d) forsomesurrogatescoringfunctionf.
+                                 ′      ′                                           
+                                 ∈D     ≥                                        
+               Attrainingtime,wealterthepartitionfunctionfordsothatitnolongerincludestheelementsof
+               S(q,d),whicharenotdenitivelynegativeexamples:                       
+                                           expf(d,q)                                
+                            logp(d q)=                              (4)             
+                                   expf(d,q)+    expf(d,q)                         
+                                             d′∈S(q,d) ′                           
+               Forsimplicity,weagainselectf tobeasimplepre-trainedembeddingmodel. Thismethodlikely
+               over-prunessomepotentialtruenegativesfoundbythesurrogatemodel;howeverwefoundittobe
+               criticaltomodelaccuracy.                                             
+               Packing. Clusters found by our algorithm will be of varying sizes, and need to be packed into
+               equal-sized batches. We apply a post-hoc procedure. We consider both random partitioning and
+               groupingviagreedycluster-leveltravelingsalesman,similartoShietal.(2024). Inbothcases,we
+               split large group into into smaller batches, and merge close small batches from within the same
+               domain into evenly-sized batches. This hasan added benet of introducing randomness intothe
+               groupswhentrainingformultipleepochs. Weleaveittofutureworktoanalyzethefulleffectsof
+               differentpackingstrategiessuchasexpensiveBalancedK-Meansorheuristicapproachessuchas
+               EqualK-Means(Gururanganetal.,2023).                                  
+               4.2 CONTEXTUAL DOCUMENTEMBEDDING(CDE)                                
+               Contextualizationcanalsobeaddeddirectlytothearchiecture. Takinginspirationfromsparsevector
+               retrievalwhichusescorpusstatisticstodeterminetheformoftheembedding,wemodifytheencoders
+               tohaveaccesstothecorpusitself,i.e. ϕ(d; )andψ(d; ). Thiseffectivelyaugmentsthebiencoder
+                                      D       D                                     
+               modeltogiveittheabilitytocontextualizedocumentsdirectly.             
+               Themainchallengeishowtodesignaneuralarchitecturethatcantakeintoaccountdatasetcontex-
+               tualization. Ononeextreme, wecouldfollowmethodslikeBM25andprecomputeaxedsetof
+               corpusstatisticsthatcouldbefedtothedocumentencoder. Ontheotherextreme,wecouldallowthe
+               encoderfullaccesstotheentirecorpus,throughsomeformofcrossattention. Thelatterapproach
+               hasbeenexploredonasmallscaleinmethodslikeneuralprocesses(Garneloetal.,2018);however,
+               itwouldbedifculttoscaletolargerdatasets.                            
+               We opt for a middleground that allows the model to learn corpus statistics, but is also relatively
+               efcient to compute, shown in Figure 1. Specically, we note that document embeddings retain
+               asurprisingamountoflexicalinformationevenafterembedding(Morrisetal.,2023). Therefore,
+               ifwepre-embedasubsetofthecorpus,webelievewecanstilldynamicallycalculatekeydataset
+               informationduringencoding.                                           
+                                          5                                         
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Weproducecontextualizedembeddingsviaatwo-stageprocess:               
+               Firststage: Gatherandembedcontext. Givencontextdocumentsd1,...,dJ ,weembedeach
+               usingauniqueembeddingmodelandconcatenateembeddingsintoasequence∈ MD (d1)...M (dJ).
+                                                            1    1                  
+               Secondstage: Embeddocumentwithadditionalcontexttokens. Tocomputeϕfordocumentd ′we
+               integratecontextualembeddingsequenceattheinputofsecond-stageembeddingmodelM :
+                                                                 2                  
+                          ϕ(d′; D)=M 2(M 1(d1),...,M 1(dJ),E(d′1),...,E(d′T)) (5)   
+               HereM istherst-stageencodermodel,M isasecond-stageencodermodel,andE isthetoken
+                   1                    2                                           
+               embedding matrix of M applied to each token in d. In practice, we parameterize both M and
+                             2              ′                     1                 
+               M usingtraditionalbidirectionaltransformers,soourmodeliscomprisedoftwobiencoder-like
+                2                                                                   
+               backbonescalledinsequence.                                           
+               Thereisasimilarcontextualizedmodelforthequeryencoderψwhichisalsogivendocumentcontext
+               (aswedonothavequerycontextattesttime):                               
+                          ϕ(q; )=M (M (d1),...,M (dJ),E(q ),...,E(q )) (6)          
+                                  2 1       1     1     T                           
+                             D                                                      
+               Wenoteseveralimplementationpropertiesofthisarchitecture. Duringtraining,computingcontextual
+               embeddingsforeachcontextualdocumentforeachtraininginstancewouldnaivelyincreasetraining
+               byacomputationalfactorproportionaltoJ,thenumberofdocumentsincontext. Thistimeincrease
+               wouldnotbetractable, sincecontrastivetrainingcanalreadytakemanydays. Weovercomethis
+               difculty by sharing context d1,...,dJ within a batch of documents; this allows us to compute
+               representationsjustoncepertrainingstepandreusethembetweendocumentsviacomputational
+               graph. 1                                                             
+               Whenindexinganewcorpus ,rststagerepresentationsM (d1)...M (dJ)canbecomputedonce
+                                                1     1                             
+                               D                                                    
+               andcached,soM doesnotaddparametersorruntimetothesearchprocess. Queryrepresentations
+                         1                                                          
+               canalsousethecachedcontext,whichonlyrequireadditionalinputstotheencoder. (Ourmodeldoes
+               notincludecontextualizedqueries,onlydocuments,aswetypicallydonotassumeaccesstoexample
+               queriesattest-time.)                                                 
+               Embeddingwithoutcontext. Individualcorporaduringtrainingmaynothavesufcientoravailable
+               context.Toimproveourmodel’sgeneralization,weusesequencedropout,wherewerandomlyreplace
+               contextembeddingsM (d )withsomenulltokenv accordingtosomeauniformprobabilityp.
+                            1 ∗                                                     
+                                            ∅                                       
+               Attesttime,ifnocorpusinformationisavailable,ourmodelcannowfunctionasanon-contextual
+               biencodersimplybyreplacingallsequencetokeninputswithv .              
+                                                  ∅                                 
+               Position-agnosticembedding. Sincedocumentsof areunordered,weremoveallpositionality
+                                             D                                      
+               from the neural encodings. When parameterizing θ with a traditional transformer, this can be
+               achievedbyomittingpositionalembeddingsatthepositionscorrespondingto . Inpractice,weuse
+                                                         D                          
+               transformersimplementationsdependentonFlashAttentionwithrotarypositionalembeddingsat
+               eachself-attentionlayer. FulldetailsofhowwedisablepositionalityareavailableinSection10.4.
+               Two-stagegradientcaching. Toimprovetrainingweemployagradient-cachingtechniqueanalo-
+               goustoatwo-stageversionofGradCache(Gaoetal.,2021). Thistechniqueallowsustotlarger
+               batches,longersequenceswithmorecontextualsampleswithoutrunningoutofmemory. Essentially,
+               wecomputerst-stageandsecond-stagerepresentationsindependentlywithoutgradients. Wethen
+               usethesefrozenrepresentationstocomputetheloss,andgradientswithrespecttothesecond-stage
+               representations. Wethenre-runthesecondstagewithgradientsenabledandusetheoutputgradients
+               tobackpropagatethroughthesecond-stagemodel,andobtaingradientsfortherst-stagerepresenta-
+               tions. Werepeatthisprocessfortherst-stagerepresentations. Thisallowsustotradeoffcomputation
+               (runningeachtransformerforwardpasstwice)formemory.                   
+                 1Contextreuseisonlyfeasiblebecausedocumentswithinthesamebatchtypicallysharealargeamountof
+               contextanyway,sincetheyareclustered.                                 
+                                          6                                         
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                    Contextual                                                      
+                   Batch Arch BatchSize ClusterSize Trainloss Trainacc. NDCG@10     
+                              16384    -      0.39   90.3    59.9                   
+                    ✓         512     512     0.81   77.7    61.7                   
+                         ✓    16384    -      0.37   90.7    62.4                   
+                    ✓    ✓    512     512     0.68   80.9    63.1                   
+               Table1: Performanceofoursmallmodelswithandwithoutthetwoimprovementsproposedinthis
+               paper,measuredonashortenedversionoftheBEIRbenchmark. NumbersareNDCG@10.
+                                                                                    
+                                                                                    
+               5 EXPERIMENTAL SETUP                                                 
+                                                                                    
+               Weconsiderarangeofretrievalexperimentsacrossdifferentscales. Torunexperimentsacrossasuit-
+               ablenumberofsettings,wedeviseasmallsetting: six-layertransformer,maximumsequencelength
+               of64,andmaximumnumberof64additionalcontextualtokens. Inthisscenario,weevaluateona
+               truncatedversionoftheBEIRbenchmark(Thakuretal.,2021).Giventhelowcostofeachexperiment,
+               weareabletopre-trainandne-tunebothbiencoderandcontextualmodelsacrossavarietyofbatch
+               sizesin 256,512,1024,2048,4096 andclustersizes 64,256,1024,4096,...,2097152,4194304 .
+                                                                                
+               Astypicalstate-of-the-arttextembeddingmodelsaretrainedintwophases,alargeweakly-supervised
+               pre-trainingphaseandashortsupervisedphase,werunallexperimentsforbothphases.
+               Forthelargesetting,weusethebestsettingsfoundviasmallexperiments. Wetrainasinglemodel
+               onsequencesoflength512with512contextualdocuments,evaluatingonthefullMTEBbenchmark
+               (Muennighoff et al., 2022). This includes tasks from retrieval as well as tasks like classication,
+               clustering,andreranking.                                             
+               TrainingDataandMetrics Wetrainonthemeta-datasetscollectedinNussbaumetal.(2024)for
+               trainingtextembeddingmodels. Thiscollectionofdatasetsincludesdatafrom24datasetsscraped
+               fromwebsourcessuchasWikipediaandReddit. Ourunsupervisedtrainingphasetrainson200M
+               weakly-supervised datapoints scraped from large internet sources such as Reddit and Wikipedia.
+               Thesupervisedtrainingphaseincludes1.8Mhuman-writtenquery-documentpairsintendedfortext
+               retrieval,andisaggregatedfrompopularretrievaldatasetssuchasHotpotQAandMSMARCO(Yang
+               etal.,2018;Bajajetal.,2018). Forourfullmodel,wealsoconsidersupervisedtrainingontheBGE
+               meta-datasets(Xiaoetal.,2024). WeevaluateourmodelsusingNDCG@10,aconventionalretrieval
+               metricthatenablescomparisonacrossmanydisparatedatasets.              
+               Implementation Whenpartitioningourdatasetintobatches,weencodedocumentsandqueries
+               usingGTR(Nietal.,2021)andimplementourclusteringalgorithmontopofFAISS(Douzeetal.,
+               2024). We cluster per-domain for 100 steps and take the best clustering out of 3 attempts. We
+               selectNomicBERTasourpre-trainedmodelbackbone(Nussbaumetal.,2024),whichhas137M
+               parameters. Weprependalltextswithshorttask-specicprexestoidentifyeachtask;prexesare
+               listedinSection10.7. Whenpooling,wepoolovertexttokensonly,nevercontextualtokens.
+               Training WeinitializebothM 1 andM 2 usingtheBERT-basemodelfromNussbaumetal.(2024)
+               that includes ash attention. Weights are shared between ϕ and ψ, but notably not between M
+                                                                     1              
+               andM . Forallexperiments, wetrainwiththeAdamoptimizerwith1000stepsofwarmuptoa
+                   2                                                                
+               learningrateof2 10 5andlinearlydecayto0throughouttraining. Forthelteringmodelweselect
+                          −                                                         
+                        ·                                                           
+               nomic-embed-v1whichwastrainedonthesamedatasets(Nussbaumetal.,2024). Wetrainfor
+               threeepochsunlessotherwisespecied. Wesetthemaximumsequencelengthforallinputsto512
+               andthenumberofcontextualinputsto512(sothesecond-stagemodelhasaninputlengthof1024).
+               Whencomputingcontrastiveloss,weuseaxedtemperatureofτ =0.02. Whensequencedropoutis
+               enabledinourcontextualarchitecture,wesetcontextualinputtokenstonullvectorswithauniform
+               probabilityp=0.005. Ifthebatchsizeexceedsthenumberofcontextualdocuments,werandomly
+               sampletoproducecontextualinputs.                                     
+                                          7                                         
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                               ClssfctnCluster PairCls Rerank Retrvl STS Summ. Mean 
+                 nomic-embed-v1 74.1 43.9 85.2 55.7 52.8 82.1 30.1 62.39            
+                 stella-base-en-v2 75.3 44.9 86.5 58.8 50.1 83.0 32.5 62.61         
+                 bge-base-en-v1.5 75.5 45.8 86.6 58.9 53.3 82.4 31.1 63.56          
+                 GIST-Embedding-v0 76.0 46.2 86.3 59.4 52.3 83.5 30.9 63.71         
+                 gte-base-en-v1.5 77.2 46.8 85.3 57.7 54.1 82.0 31.2 64.11          
+                 cde-small-v1                                                       
+                  [Random]     81.3 46.6 84.1 55.3 51.1 81.4 31.6 63.81             
+                  [Contextual] 81.7 48.3 84.7 56.7 53.3 81.6 31.2 65.00             
+               Table 2: Performance of models with 250M or fewer parameters on the MTEB benchmark for
+               textembeddingmodels. “Random”indicatestheperformanceofourmodelwithrandomtraining
+               documentsincludedinsteadofper-domaincontextualdocuments.             
+                                                                                    
+               6 RESULTS                                                            
+                                                                                    
+               ThemainresultsarehighlightedinTable1andSection6. Inthesmallersetting,weobservethatboth
+               adversarialcontrastivelearningandourcontextualarchitectureimproveperformancecomparedto
+               vanillabiencodertraining. Weobservethelargestimprovementwhenwecombinethesetechniques.
+               Contextualbatching Aftercontrollingforbatchsizeandlteringforfalsenegatives,weobservea
+               strongcorrelation(visualizedinFigure2)betweenbatchdifcultyanddownstreamperformance:
+               reorderingdatapointstomakebatchesharderdenitivelyenhancesoveralllearning. Thiscorrob-
+               oratespriorndings(Xiongetal.,2020;Quetal.,2021)andtheory(Zhang&Stratos,2021)that
+               moredifcultbatchesincontrastivelearningformabetteroverallgradientapproximationandlearn
+               moreeffectively.                                                     
+               Section6showcasesmodelperformanceacrossbatchandclustersizesafterbothphasesoftraining.
+               Weobservethatalthoughalargebatchandclustersizeareusefulwhenlteringisnotenacted,when
+               includingltering,smallercluster(andharder)areclearlybetter,andlargebatchesdonotaddmuch.
+               Whencomparinglteredtonon-lteredmodels(Figure4),lteringfalsenegativesclearlyimproves
+               performance.                                                         
+               Contextualarchitecture Inadditiontoadversarialbatching,wecompareourcontextualarchitec-
+               turetoabiencoderacrossthedatasetsofBEIRinTable1(fullresultsinappendix). Ourarchitecture
+               generallymatchesorimprovesperformanceonalldownstreamdatasets,withlargestimprovements
+               inArguAnaandSciFact,twoofthesmallerandmoreout-of-domaindatasets.     
+               Full-scaletraining Figure5showsourmodels’performancewhentrainedformultipleepochson
+               thesuperviseddatasets,relativetothebestsimilar-sizedembeddingmodel(dashedline). Wend
+               bestperformancewhentrainingforfourepochsontheBGEmeta-datasets. Althoughourbestmodel
+               doesuseasinglehardnegativeperquery,wearestillabletotoachievestate-of-the-artperformance
+               withoutusinganyhardnegatives.                                        
+               Forournalmodel(cde-small-v1),weselectthebestofthesupervisedmodels,whichcomes
+               fromnetuningontheBGEdataset. OnMTEB,cde-small-v1obtainsstate-of-the-artresults
+               comparedtomodelsofthesamesize. Althoughinspiredbyproblemsinthespecicdomainoftext
+               retrieval,weobservethatourapproachimprovesembeddingperformanceinalldomains,including
+               clustering,classication,andsemanticsimilarity. Wealsoevaluatea“randomdocuments”baseline,
+               wherewesamplerandomdocumentsfromthetrainingdatasettosimulateascenariowherewelack
+               accesstothetestcorpus. Inthissetting,wedroparound1.2pointsonaverageacrossalltasks;the
+               STStasksinparticularappeartoproducerepresentationsthatareclosetocontext-agnostic.
+               7 ANALYSIS                                                           
+                                                                                    
+               Howhardareourclusters? Toanalysistherelationshipbetweenclustersizeinourclustering
+               algorithmandtheoverallaveragedifcultyofin-batchnegatives,wemeasuretheaveragedifculty
+                                                                                    
+                                          8                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure2: Performancevs. averagebatchdifculty(asmeasuredbylossattheendofpre-trainingand
+               supervisedtraining)acrossbatchsizes,aftersupervisedcontrastivetraining. Withinagivenbatch
+               size,weobserveaclearincreaseinperformancebymakingindividualbatchesharder. Correlations
+               arePearson.                                                          
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure3: Biencoderperformancewithltering(left)andwithout(right)acrossbatchandcluster
+               sizesduringunsupervisedcontrastivepre-training. Withltering,smallclustersizesclearlyimprove
+               performance,andlargerbatchsizesdonot.                                
+                                                                                    
+                                                                                    
+                                                                                    
+               of1000batchesacrossavarietyofbatchandclustersizesandplotthedatainFigure6. Weobserve
+               thatlargerbatchesbringeasiernon-negativeexamples,anddecreasingclustersizeclearlyincreases
+               theaveragehardnessofnegativeexamplesinagivencluster.                 
+                                                                                    
+                                          9                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                Figure 4: Impact of ltering during training                        
+                                           Figure5: PerformanceonMTEBacrossepochs   
+                acrossvariousbatchandclustersizes. Eachdot                          
+                                           of supervised training on the Nomic and BGE
+                isabiencoderpretrainedwithadifferentbatch                           
+                                           supervisedmeta-datasets.                 
+                andclustersize.                                                     
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure6:Averagedifcultyofin-batchnegatives                          
+               asmeasuredbyasurrogatemodelasclustersize Figure 7: Impact of context by testing our
+               andbatchsizechange.           model with different Stackexchange forum
+                                             input types. Y-axis indicates the input do-
+                                             main,X-axisindicatesthetestdomain. Dark
+                                             squarescomewithinonepointNDCG@10.      
+                                                                                    
+               Which contextual documents help? To conrm that the CDE model is utilizing contextual
+               information from we considerhowdifferentcontextualdocumentshelp for agiven docuentd.
+                         D                                                          
+               Figure 7 measures results on CQADupstack, a collection of Stack Exchange forum posts. We
+               randomlysampleinputstofrom fromadomain(x-axis)andusethemasinputtothedownstream
+                                 D                                                  
+               taskdmarkedalongthey-axis. Wemarkasquareasredifitsscorecomeswithin1pointofNDCGof
+               thetopscoreforitsdomain. Generallyutilizingin-domainworksbest,buttherearesomecrossover
+               interactions.                                                        
+               8 CONCLUSION                                                         
+               We propose two improvements to traditional biencoder models for generating embeddings. The
+               rstimprovementinvolvesanalgorithmforreorderingtrainingdatapointstomakebatchesharder
+               and improves vanilla training with minimal changes. Our second improvement involves a new
+               corpus-awarearchitectureforretrievalandallowsustotrainastate-of-the-arttextembeddingmodel.
+                                                                                    
+                                         10                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               9 ACKNOWLEDGEMENTS                                                   
+                                                                                    
+               Thanks to Orion Weller, Vin Sachidananda, and Zach Nussbaum for valuable feedback on this
+               research. WewouldalsoliketoacknowledgetoNomicandHyperbolicforprovidingthecompute
+               necessary to conduct this research. This work was partially supported by Intelligence Advanced
+               ResearchProjectsActivity(IARPA),viatheHIATUSProgram#2022-22072200003. JMissupported
+               byanNSFGFRPfellowship.                                               
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                         11                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               REFERENCES                                                           
+                                                                                    
+               PayalBajaj,DanielCampos,NickCraswell,LiDeng,JianfengGao,XiaodongLiu,RanganMa-
+                jumder,AndrewMcNamara,BhaskarMitra,TriNguyen,MirRosenberg,XiaSong,AlinaStoica,
+                SaurabhTiwary,andTongWang. Msmarco: Ahumangeneratedmachinereadingcomprehension
+                dataset,2018. URLhttps://arxiv.org/abs/1611.09268.                  
+               SebastianBorgeaud,ArthurMensch,JordanHoffmann, TrevorCai, ElizaRutherford,KatieMil-
+                lican, George van den Driessche, Jean-Baptiste Lespiau, Bogdan Damoc, Aidan Clark, Diego
+                deLasCasas,AureliaGuy,JacobMenick,RomanRing,TomHennigan,SaffronHuang,Loren
+                Maggiore,ChrisJones,AlbinCassirer,AndyBrock,MichelaPaganini,GeoffreyIrving,Oriol
+                Vinyals,SimonOsindero,KarenSimonyan,JackW.Rae,ErichElsen,andLaurentSifre.Improving
+                languagemodelsbyretrievingfromtrillionsoftokens,2022.               
+               TingChen,SimonKornblith,MohammadNorouzi,andGeoffreyHinton. Asimpleframeworkfor
+                contrastivelearningofvisualrepresentations,2020.                    
+               William Coster and David Kauchak. Simple English Wikipedia: A new text simplication task.
+                In Dekang Lin, Yuji Matsumoto, and Rada Mihalcea (eds.), Proceedings of the 49th Annual
+                MeetingoftheAssociationforComputationalLinguistics: HumanLanguageTechnologies,pp.
+                665–669,Portland,Oregon,USA,June2011.AssociationforComputationalLinguistics. URL
+                https://aclanthology.org/P11-2117.                                  
+               ZhuyunDai, VincentY.Zhao, JiMa, YiLuan, JianmoNi, JingLu, AntonBakalov, KelvinGuu,
+                KeithB.Hall,andMing-WeiChang. Promptagator: Few-shotdenseretrievalfrom8examples,
+                2022.                                                               
+               MatthijsDouze,AlexandrGuzhva,ChengqiDeng,JeffJohnson,GergelySzilvasy,Pierre-Emmanuel
+                Mazare´,MariaLomeli,LucasHosseini,andHerve´ Je´gou. Thefaisslibrary,2024.
+               AnthonyFader,LukeZettlemoyer,andOrenEtzioni. OpenQuestionAnsweringOverCuratedand
+                ExtractedKnowledgeBases. InKDD,2014.                                
+                                                                                    
+               AngelaFan,YacineJernite,EthanPerez,DavidGrangier,JasonWeston,andMichaelAuli. ELI5:
+                longformquestionanswering. InAnnaKorhonen,DavidR.Traum,andLlu´ısMa`rquez(eds.),
+                Proceedingsofthe57thConferenceoftheAssociationforComputationalLinguistics,ACL2019,
+                Florence,Italy,July28-August2,2019,Volume1: LongPapers,pp.3558–3567.Associationfor
+                ComputationalLinguistics,2019. doi: 10.18653/v1/p19-1346. URLhttps://doi.org/10.
+                18653/v1/p19-1346.                                                  
+               KatjaFilippovaandYaseminAltun. Overcomingthelackofparalleldatainsentencecompression.
+                InDavidYarowsky,TimothyBaldwin,AnnaKorhonen,KarenLivescu,andStevenBethard(eds.),
+                Proceedingsofthe2013ConferenceonEmpiricalMethodsinNaturalLanguageProcessing,pp.
+                1481–1491,Seattle,Washington,USA,October2013.AssociationforComputationalLinguistics.
+                URLhttps://aclanthology.org/D13-1155.                               
+               WikimediaFoundation. Wikimediadownloads,2024. URLhttps://dumps.wikimedia.org.
+               Luyu Gao and Jamie Callan. Unsupervised corpus aware languagemodel pre-training fordense
+                passageretrieval,2021.                                              
+               LuyuGao,YunyiZhang,JiaweiHan,andJamieCallan. Scalingdeepcontrastivelearningbatchsize
+                undermemorylimitedsetup,2021.                                       
+               MartaGarnelo,DanRosenbaum,ChrisJ.Maddison,TiagoRamalho,DavidSaxton,MurrayShana-
+                han, Yee Whye Teh, Danilo J. Rezende, and S. M. Ali Eslami. Conditional neural processes,
+                2018.                                                               
+               Mansi Gupta, Nitish Kulkarni, Raghuveer Chanda, Anirudha Rayasam, and Zachary C Lipton.
+                Amazonqa: Areview-basedquestionansweringtask,2019.                  
+                                                                                    
+               SuchinGururangan,MargaretLi,MikeLewis,WeijiaShi,TimAlthoff,NoahA.Smith,andLuke
+                Zettlemoyer. Scalingexpertlanguagemodelswithunsuperviseddomaindiscovery,2023.
+                                                                                    
+                                         12                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               FelixHamborg,NormanMeuschke,CorinnaBreitinger,andBelaGipp. news-please: Agenericnews
+                crawlerandextractor. InProceedingsofthe15thInternationalSymposiumofInformationScience,
+                pp.218–223,March2017. doi: 10.5281/zenodo.4120316.                  
+               Christopher Hidey and Kathy McKeown. Identifying causal relations using parallel Wikipedia
+                articles. In Katrin Erk and Noah A. Smith (eds.), Proceedings of the 54th Annual Meeting of
+                theAssociationforComputationalLinguistics(Volume1: LongPapers),pp.1424–1433,Berlin,
+                Germany,August2016.AssociationforComputationalLinguistics. doi: 10.18653/v1/P16-1135.
+                URLhttps://aclanthology.org/P16-1135.                               
+               SebastianHofsta¨tter,Sheng-ChiehLin,Jheng-HongYang,JimmyLin,andAllanHanbury.Efciently
+                teachinganeffectivedenseretrieverwithbalancedtopicawaresampling,2021. URLhttps:
+                //arxiv.org/abs/2104.06967.                                         
+               Hamel Husain, Ho-Hsiang Wu, Tiferet Gazit, Miltiadis Allamanis, and Marc Brockschmidt.
+                CodeSearchNet challenge: Evaluating the state of semantic code search. arXiv preprint
+                arXiv:1909.09436,2019.                                              
+               GautierIzacard,MathildeCaron,LucasHosseini,SebastianRiedel,PiotrBojanowski,ArmandJoulin,
+                andEdouardGrave. Unsuperviseddenseinformationretrievalwithcontrastivelearning,2022.
+               MingukJang,Sae-YoungChung,andHyeWonChung. Test-timeadaptationviaself-trainingwith
+                nearestneighborinformation,2023.                                    
+                                                                                    
+               VladimirKarpukhin,BarlasOg˘uz,SewonMin,PatrickLewis,LedellWu,SergeyEdunov,Danqi
+                Chen,andWentauYih. Densepassageretrievalforopen-domainquestionanswering,2020.
+               UrvashiKhandelwal,OmerLevy,DanJurafsky,LukeZettlemoyer,andMikeLewis. Generalization
+                throughmemorization: Nearestneighborlanguagemodels,2020.            
+               Daniel Khashabi, Amos Ng, Tushar Khot, Ashish Sabharwal, Hannaneh Hajishirzi, and Chris
+                Callison-Burch. Gooaq: Openquestionansweringwithdiverseanswertypes,2021.
+                                                                                    
+               OmarKhattabandMateiZaharia. Colbert: Efcientandeffectivepassagesearchviacontextualized
+                lateinteractionoverbert,2020. URLhttps://arxiv.org/abs/2004.12832.  
+               HyunjikKim,AndriyMnih,JonathanSchwarz,MartaGarnelo,AliEslami,DanRosenbaum,Oriol
+                Vinyals,andYeeWhyeTeh. Attentiveneuralprocesses,2019.               
+               JannikKossen,NeilBand,ClareLyle,AidanN.Gomez,TomRainforth,andYarinGal. Self-attention
+                betweendatapoints: Goingbeyondindividualinput-outputpairsindeeplearning,2022.
+                                                                                    
+               MahnazKoupaeeandWilliamYangWang. Wikihow: Alargescaletextsummarizationdataset,2018.
+               PatrickLewis,YuxiangWu,LinqingLiu,PasqualeMinervini,HeinrichKu¨ttler,AleksandraPiktus,
+                PontusStenetorp,andSebastianRiedel. Paq: 65millionprobably-askedquestionsandwhatyou
+                candowiththem,2021.                                                 
+               CanjiaLi,YingfeiSun,BenHe,LeWang,KaiHui,AndrewYates,LeSun,andJungangXu. NPRF:
+                Aneuralpseudorelevancefeedbackframeworkforad-hocinformationretrieval. InEllenRiloff,
+                DavidChiang,JuliaHockenmaier,andJun’ichiTsujii(eds.),Proceedingsofthe2018Conference
+                on Empirical Methods in Natural Language Processing, pp. 4482–4491, Brussels, Belgium,
+                October-November2018.AssociationforComputationalLinguistics. doi: 10.18653/v1/D18-1478.
+                URLhttps://aclanthology.org/D18-1478.                               
+               ZehanLi,XinZhang,YanzhaoZhang,DingkunLong,PengjunXie,andMeishanZhang. Towards
+                generaltextembeddingswithmulti-stagecontrastivelearning,2023.       
+               KyleLo,LucyLuWang,MarkNeumann,RodneyKinney,andDanS.Weld. S2orc: Thesemantic
+                scholaropenresearchcorpus,2020.                                     
+                                                                                    
+               JiaweiMa,Po-YaoHuang,SainingXie,Shang-WenLi,LukeZettlemoyer,Shih-FuChang,Wen-Tau
+                Yih,andHuXu. Mode: Clipdataexpertsviaclustering,2024.               
+                                                                                    
+                                         13                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               JohnX.Morris,VolodymyrKuleshov,VitalyShmatikov,andAlexanderM.Rush. Textembeddings
+                reveal(almost)asmuchastext,2023.                                    
+               NiklasMuennighoff,NouamaneTazi,Lo¨ıcMagne,andNilsReimers. Mteb: Massivetextembedding
+                benchmark. arXivpreprintarXiv:2210.07316,2022. doi: 10.48550/ARXIV.2210.07316. URL
+                https://arxiv.org/abs/2210.07316.                                   
+               TungNguyenandAdityaGrover. Transformerneuralprocesses: Uncertainty-awaremetalearning
+                viasequencemodeling,2023.                                           
+               JianmoNi,JiachengLi,andJulianMcAuley. Justifyingrecommendationsusingdistantly-labeled
+                reviewsandne-grainedaspects. InKentaroInui,JingJiang,VincentNg,andXiaojunWan(eds.),
+                Proceedingsofthe2019ConferenceonEmpiricalMethodsinNaturalLanguageProcessingand
+                the9thInternationalJointConferenceonNaturalLanguageProcessing(EMNLP-IJCNLP),pp.
+                188–197,HongKong,China,November2019.AssociationforComputationalLinguistics. doi:
+                10.18653/v1/D19-1018. URLhttps://aclanthology.org/D19-1018.         
+               JianmoNi,ChenQu,JingLu,ZhuyunDai,GustavoHerna´ndezA´brego,JiMa,VincentY.Zhao,
+                YiLuan,KeithB.Hall,Ming-WeiChang,andYinfeiYang. Largedualencodersaregeneralizable
+                retrievers,2021.                                                    
+               RodrigoNogueiraandKyunghyunCho. Passagere-rankingwithbert,2020.      
+               ZachNussbaum,JohnX.Morris,BrandonDuderstadt,andAndriyMulyar. Nomicembed: Training
+                areproduciblelongcontexttextembedder,2024.                          
+                                                                                    
+               YingqiQu,YuchenDing,JingLiu,KaiLiu,RuiyangRen,WayneXinZhao,DaxiangDong,Hua
+                Wu,andHaifengWang. Rocketqa: Anoptimizedtrainingapproachtodensepassageretrievalfor
+                open-domainquestionanswering,2021.                                  
+               PranavRajpurkar,JianZhang,KonstantinLopyrev,andPercyLiang. SQuAD:100,000+Questions
+                forMachineComprehensionofText. arXive-prints,art.arXiv:1606.05250,2016.
+               Nils Reimers, Elliot Choi, Amr Kayid, Alekhya Nandula, Manoj Govindassamy, and Ab-
+                dullah Elkady. Introducing embed v3, Nov 2023. URL https://txt.cohere.com/
+                introducing-embed-v3/.                                              
+               StephenRobertsonandHugoZaragoza. TheProbabilisticRelevanceFramework: BM25andBeyond.
+                NowPublishersInc.,2009.                                             
+               JoshuaRobinson,Ching-YaoChuang,SuvritSra,andStefanieJegelka. Contrastivelearningwith
+                hardnegativesamples,2021.                                           
+                                                                                    
+               J. J. Rocchio. Relevance feedback in information retrieval. 1971. URL https://api.
+                semanticscholar.org/CorpusID:61859400.                              
+               VinSachidananda,ZiyiYang,andChenguangZhu. Globalselectionofcontrastivebatchesviaopti-
+                mizationonsamplepermutations. InAndreasKrause,EmmaBrunskill,KyunghyunCho,Barbara
+                Engelhardt, Sivan Sabato, and Jonathan Scarlett (eds.), Proceedings of the 40th International
+                ConferenceonMachineLearning,volume202ofProceedingsofMachineLearningResearch,pp.
+                29542–29562.PMLR,23–29Jul2023. URLhttps://proceedings.mlr.press/v202/
+                sachidananda23a.html.                                               
+               KeshavSanthanam,OmarKhattab,JonSaad-Falcon,ChristopherPotts,andMateiZaharia.Colbertv2:
+                Effectiveandefcientretrievalvialightweightlateinteraction,2022. URLhttps://arxiv.
+                org/abs/2112.01488.                                                 
+               ChristopherSciavolino. Towardsuniversaldenseretrievalforopen-domainquestionanswering,2021.
+               Abigail See, Peter J. Liu, and Christopher D. Manning. Get to the point: Summarization with
+                pointer-generatornetworks. InProceedingsofthe55thAnnualMeetingoftheAssociationfor
+                ComputationalLinguistics(Volume1: LongPapers),pp.1073–1083,Vancouver,Canada,July
+                2017. Association for Computational Linguistics. doi: 10.18653/v1/P17-1099. URL https:
+                //www.aclweb.org/anthology/P17-1099.                                
+                                                                                    
+                                         14                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               WeijiaShi,SewonMin,MariaLomeli,ChuntingZhou,MargaretLi,GergelySzilvasy,RichJames,
+                Xi Victoria Lin, Noah A. Smith, Luke Zettlemoyer, Scott Yih, and Mike Lewis. In-context
+                pretraining: Languagemodelingbeyonddocumentboundaries,2024.         
+               Hongjin Su, Weijia Shi, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen tau Yih,
+                NoahA.Smith,LukeZettlemoyer,andTaoYu. Oneembedder,anytask: Instruction-netuned
+                textembeddings,2023.                                                
+               MujeenSung, JungsooPark, JaewooKang, DanqiChen, andJinhyukLee. Optimizingtest-time
+                queryrepresentationsfordenseretrieval,2023.                         
+               NandanThakur,NilsReimers,AndreasRu¨ckle´,AbhishekSrivastava,andIrynaGurevych. Beir: A
+                heterogenousbenchmarkforzero-shotevaluationofinformationretrievalmodels,2021.
+               LiangWang,NanYang,XiaolongHuang,BinxingJiao,LinjunYang,DaxinJiang,RanganMajumder,
+                andFuruWei. Simlm: Pre-trainingwithrepresentationbottleneckfordense passageretrieval,
+                2023.                                                               
+                                                                                    
+               LiangWang,NanYang,XiaolongHuang,BinxingJiao,LinjunYang,DaxinJiang,RanganMajumder,
+                andFuruWei. Textembeddingsbyweakly-supervisedcontrastivepre-training,2024.
+               XiaoWang,CraigMacdonald,NicolaTonellotto,andIadhOunis. Pseudo-relevancefeedbackfor
+                multiple representation dense retrieval. In Proceedings of the 2021 ACM SIGIR International
+                Conference on Theory of Information Retrieval, ICTIR ’21. ACM, July 2021. doi: 10.1145/
+                3471158.3472250. URLhttp://dx.doi.org/10.1145/3471158.3472250.      
+               ShitaoXiao,ZhengLiu,PeitianZhang,NiklasMuennighoff,DefuLian,andJian-YunNie. C-pack:
+                Packagedresourcestoadvancegeneralchineseembedding,2024. URLhttps://arxiv.org/
+                abs/2309.07597.                                                     
+               LeeXiong,ChenyanXiong,YeLi,Kwok-FungTang,JialinLiu,PaulBennett,JunaidAhmed,and
+                Arnold Overwijk. Approximate nearest neighbor negative contrastive learning for dense text
+                retrieval,2020. URLhttps://arxiv.org/abs/2007.00808.                
+               CanwenXu,DayaGuo,NanDuan,andJulianMcAuley. Laprador: Unsupervisedpretraineddense
+                retrieverforzero-shottextretrieval,2022.                            
+               ZhilinYang,PengQi,SaizhengZhang,YoshuaBengio,WilliamW.Cohen,RuslanSalakhutdinov,
+                andChristopherD.Manning. Hotpotqa: Adatasetfordiverse,explainablemulti-hopquestion
+                answering,2018. URLhttps://arxiv.org/abs/1809.09600.                
+                                                                                    
+               WenzhengZhangandKarlStratos. Understandinghardnegativesinnoisecontrastiveestimation,
+                2021.                                                               
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                         15                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               10 SUPPLEMENTARY MATERIAL                                            
+                                                                                    
+               10.1 COMPUTATIONALRESOURCEUSAGE                                      
+                                                                                    
+               Wepre-trainallmodelson8NVIDIAH100GPUs. Intheslowestsetting,trainingabiencoderfor
+               asingle unsupervisedepoch (235M pairs)takes approximately oneday. Training ourcontextual
+               archiectureforasingleepochtakesapproximatelytwodays. Shortersequence-lengthexperiments
+               are10-20xfaster,andcanberunonasingleGPU.                             
+               10.2 INITIAL EXPERIMENTS                                             
+                                                                                    
+               Weconductedtwopreliminaryexperimentstoverify(i)theneedforcontextualtrainingstrategyand
+               (ii)theneedforin-batchfalsenegativelteringwhendoingadversarialcontrastivelearningonareal
+               dataset.                                                             
+                                                                                    
+               Preliminaryexperiment(i). Weconductapreliminaryexperimenttoverifythisissue. Starting
+               fromseveraltrainedretrievalsystemswecomputeperformanceonavarietyofdifferenttasksfrom
+               theBEIRdataset. AdditionallywecomputetheIDFstatisticsfromthedatasets,andcomparethe
+               divergencefromthebaseIDFstatisticsofthetrainingset. Figure8showsthatdatasetswithhigh-
+               divergencehaveveryhighcorrelationwiththeaccuracydegradationofmodelswhenmeasuredin
+               comparisontoBM25,whichisabletomeasureandadapttostatisticsofthetestcorpus.
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure8: Analysisofdomainshiftforpopularneuralretrievalmethods. Performancedifference
+               fromBM25(y-axis)correlateswiththedifferentinIDFofthetestcorpus formthetrainingcorpus
+                                                       D                            
+                 .                                                                  
+                T                                                                   
+               D                                                                    
+               Preliminaryexperiment(ii). Weselecta random documentfroman unsupervised corpusand
+               lookatitsnearestneighbors,displayedinTable3. Weobservethatthenearestneighborstoagiven
+               documentinalargecorpusareveryclose;infact,manyofthemcouldbeconsideredvaliddocuments
+               forthegivenqueryaswell.                                              
+               Thischallengemotivatesourembeddingcontextualization. Inthissection,wedescribetwocom-
+               plementarymethodsforremediation,(a)acontextualtrainingmethod,(b)acontextualencoding
+               method.                                                              
+               10.3 INTERACTIONSBETWEENCONTRASTIVELOSSANDDISTRIBUTEDDATA PARALLEL   
+               Theauthorsnotethatitcanbenotoriouslydifculttotrainmodelsusingbothcontrastivelossand
+               thedistributeddataparallel(DDP)setting. Inparticular,whenaggregatingsamplesbetweenGPUs,
+               ifanyartifactrevealswhichGPUamodelcamefrom(forexample,iftheGPUmodelweightsare
+               initializedslightlydifferently)thanthemodelcanquicklydeterioratetoasuboptimalsolution,each
+                                         16                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                     Table3: Nearest-neighborstoasinglequeryinalargeunsuperviseddataset.
+                Query                        Document                               
+                                                                                    
+                lookslikemycardpaymentwasduplicatedafter                            
+                all. [...]                                                          
+                whyisthereanextra C1feeinmystatement? whyisthereanextrachargeonmystatement?
+                whatisthisfeeforcardpayment? whywasafeechargedformycardpayment?     
+                whydoihaveduplicatetransactionsforonepur- whywasmytransactionchargedtwice?
+                chase?                                                              
+                ihavetwoofthesamechargesonmyaccount! whywasmytransactionchargedtwice?
+                                                                                    
+                mytransactionwentthroughbutiwaschargeda whywasafeechargedformytransfer?
+                fee. why?                                                           
+                myaccountshowsihavebeenchargedtwicefor                              
+                thesamemeal. [...]                                                  
+                willigetextracharges?        whywasafeechargedformytransfer?        
+                igotchargedindoubleandwantarefund whywasmytransactionchargedtwice?  
+                wheredoipaywithmydebitorcreditcard? whyismycardnotaccepted?         
+                whydidigetchargedafeeformycardpayment? whywasafeechargedformycardpayment?
+                                                                                    
+                mystatementshowsdifferenttransactiontimes. whywasmytransactionchargedtwice?
+                                                                                    
+                                                                                    
+               GPUlearningadifferentnalmodeland“cheating”toclassifysamplesbasedonwhichGPUthey
+               camefrom.                                                            
+               Thisissueismadeextradifcultbythefactthatgradient-syncingmustbedisabledforlarge-batch
+               contrastivelearningtoworkefciently. Ifgradientsyncingbecomestotallydisabled,thetraining
+               silentlydivergesaseachmodellearnsadegeneratesolution. Weadvisepractitionerstotakecare
+               when controlling gradient-syncing and run many control experiments to determine performance
+               equivalencebetweenDDPandnon-DDPscenarios.                            
+               Onepotentialbenetofourmethodisthatitgreatlydecreasesthenumberofhardnegativesrequired
+               perbatch,whichmeansthatnegative-sharingacrossGPUsmaynotbenecessaryinmostsettings. If
+               possible,themostsanity-preservingwaytoperformcontrastivetrainingcouldbeto
+               10.4 REMOVINGPOSITIONALITYWITHROTARYEMBEDDINGS                       
+                                                                                    
+               One detail of our model architecture is that it does not track positionality between dataset input
+               tokens. AlthoughdisablingpositionalitywouldbetrivialanaBERT-likeencodermodelthatuses
+               learnedpositionalembeddings,weuseaversionofBERTwithrotarypositionalembeddingswhich
+               injectpositionalinformationateachlayerofthetransformer. Tocircumventthisstep,wemodifythe
+               modelinternalstosetdatasetinputtokenstozerofortheself-attentionsteponly,andaddaresidual
+               connectionpropagatingthedatasetinputtokenspasttheattentionphase.     
+               10.5 ADDITIONALRESULTS                                               
+                                                                                    
+               Section10.5showsweepsoverbatchandclustersizesunderoursmallexperimentalsettingswhen
+               performingunsupervisedpretrainingwithcontextualarchitecture. Weseesimilartrendstothose
+               observedwiththebiencoderarchitecture,howeverwenotethatperformanceishigheracrossthe
+               boardandourtransductivemodelisabletoperformwellevenathigherclustersizesandlowbatch
+               sizes.                                                               
+               Oneconfoundingfactorintheseexperimentsisthatsincethenumberofcontextualdocumentsis
+               xed,thenumberofdifferentcontextualinputsseenduringtrainingdecreaseswithhigherbatchsize.
+                                                                                    
+                                         17                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure9: Contextualperformancewithltering(left)andwithout(right)acrossbatchandcluster
+               sizesduringunsupervisedcontrastivepre-training. Here,clusteringwithsmallclustersizesclearly
+               improvesperformance,andlargerbatchsizesdonot.                        
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                 Figure10: Correlationbetweenbatchdifcultyandperforamnceaftersupervisedtraining.
+                                                                                    
+                                                                                    
+               Thismightexplainpartofwhyperformancestagnateswithhigherbatchsizes;increasingthebatch
+               sizedecreasesthetotalnumberoflearningexamplesseenbyourcontextualmodel.
+                                                                                    
+               Supervised training: difculty correlations. In Section 10.5 we plot the correlation between
+               batch difculty and downstream performance across cluster sizes (and within batch sizes) in the
+               supervisedsetting. Inthiscasewealsoseethebestperformancethroughthemostdifcultclusters.
+                                                                                    
+                                         18                                         
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                   Figure11: Performanceofallsupervisedmodels,acrossnumbersofhardnegatives.
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                            Figure 13: Model performance vs. batch size
+               Figure12: Modelperformancevs. clustersize                            
+                                            with and without ltering. With and without
+               withandwithoutltering. Whenfalsenegative                            
+                                            ltering,theoptimalbatchsizerangesbetween
+               lteringisenabled,weseemoreimprovements                              
+                                            102 and104; performancestartstodecreaseas
+               inperformancefromclusteringatsmallcluster                            
+                                            batchsizegrowstoolarge.                 
+               sizes.                                                               
+               Supervisedtraining: fullresults. Weplotthefullresultsofallsupervisedtrainingexperimentsin
+               Section10.5. Ourexperimentsinthissetting(usingtheminednegativesfromtheNomicsupervised
+               meta-datasets)generallyshowdecreasingperformancewithadditionalhardnegatives.
+               TSPPacking. Wecomparerandomlypackingclustersintobatchesvs. agreedytravelingsalesman-
+               stylesolution,similarto(Shietal.,2024). Inourscenario,werstclusterdatapoints,thenndthe
+               centroidembeddingofeachcluster. Webeginpackingbyrandomlyselectingacluster, andthen
+               choosethenextclusterbyndingtheclusterwiththeclosestcentroidtothecurrentone. Results
+               areshowninFigure14. Althoughtheseresultsappearslightlynoisy,weseeanimprovementfrom
+               TSP-stylepackingespeciallyatsmallerclustersizes(wherepackinghasanoutsizedimpact). We
+               thereforeopttousethispackingprocedureforourmainmodel.                
+               Impactofcontextsize Weconsidercontextualembeddingsmightmoveinspaceastheircondition-
+               ingvaries. Section10.5displaysafewqualitativeexamples. Wegenerateembeddingsforrandomly
+               sampleddocumentsfromtheTREC-CoviddatasetandvisualizetheirembeddingswithPCA,where
+               uniquedocumentinputswithdifferentcontextualembeddingsarevisualizedinthesamecolor. By
+               changingonlytheconditioningwereshapetheembeddingspaceandourmodelproducesdifferent
+               embeddingforthesametext. Notethatalthoughtheembeddingsareclearlymovinginresponseto
+               changingthecontextualinputs,theystillremainclosertoeachotherthantodifferentdocuments.
+                                         19                                         
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                      Figure14: Pre-trainingwithTSPvs. randombatchingacrossclustersizes.
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure15: Eachcolorindicatesasingledocu-                             
+               mentinputd. Differentpointsrepresentdif- Figure16: PerformanceofCDEmodelasthe
+               ferentvaluesϕ(d; )fordifferentcontexts. numberofcontextualexamplesincreases.
+                         D                                                          
+               Wealsoconsiderhowadditionalcontextisimprovingourmodel. Becausethemodelincludesan
+               optionalnulltoken,wecansupplyanynumberofcontextualinputs.Weplotourmodel’sperformance
+               acrosscontextsizesinFigure10.5. Weseethatourmodelisabletoutilizepartialcontextwindow
+               sizes, andevenperformreasonablywithnocontext(i.e. allnulltokeninputs)butoffersthebest
+               performancegivenafullcontextwindowsize.                              
+               10.6 CLUSTERTEXTEXAMPLES                                             
+                                                                                    
+               Weincluderandomexamplesfromaclustergatheredfromoursuperviseddataset,showninTable4.
+               Thisparticularclusterappearstobeacombinationofdocumentsaboutcountypopulationsinthe
+               UntiedStates(inKentucky,Iowa,Pennsylvania,etc.)anddocumentsaboutcriminaltrials(mentioning
+               hearings,depositions,andcourts).                                     
+               10.7 TASK PREFIXES                                                   
+                                                                                    
+               Prexes are hand-written for each dataset in both meta-training sets. We follow the same prex
+               selectionprocedureasNussbaumetal.(2024),inspiredbyReimersetal.(2023):
+                   • search query                                                   
+                   • search document                                                
+                                                                                    
+                   • classification                                                 
+                                                                                    
+                                          20                                        
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                query                      document                                 
+                populationofbreckenridgemi breckenridge, michigan. breckenridgeisavillage
+                                           ingratiotcountyintheu. s. stateofmichigan. the
+                                           populationwas1,328atthe2010census.thevillage
+                                           islocatedinwheelertownship.              
+                canadepositionbeusedinacriminalcase depositions are commonly used in civil litigation
+                                           (suitsformoneydamagesorequitablerelief)[...]
+                whatcasesrequirestrictscrutiny thestrictscrutinystandardisoneofthreeemployed
+                                           bythecourtsinreviewinglawsandgovernmentpoli-
+                                           cies.therationalbasis[...]               
+                functionofstatesupremecourts it has also initiated several programs designed to
+                                           improve the effectiveness of the court system. a
+                                           primaryfunctionofthesupremecourtistoensure
+                                           [...]                                    
+                whatisthepopulationinidaho idaho’spopulation growstonearly1. 7million.
+                                           idaho’spopulationgrewby1. 2percentbetween
+                                           mid-2014andmid-2015, the12thstrongestin- 
+                                           creaseamongthestatesandfour-tenthsofaper-
+                                           centagepointaheadofthenationalgrowthrate.
+                whatisthepopulationofmanson,ia manson,iowa. mansonisacityincalhouncounty,
+                                           iowa,unitedstates.thepopulationwas1,690atthe
+                                           2010census.                              
+                whathappensafterasentencinghearing ndanswers.sentencing.afteracriminaldefendant
+                                           isconvictedorpleadsguilty,ajudgewilldecide[...]
+                atheadcountypopulation    atheadcounty,montana.atheadcountyisacounty
+                                           locatedintheu.s.stateofmontana.asofthe2010
+                                           census,thepopulationwas90,928,makingit[...]
+                whiting,kspopulation       thecityofwhitinghadapopulationof177asofjuly
+                                           1,2017.whitingranksinthelowerquartileforpopu-
+                                           lationdensityanddiversityindexwhencomparedto
+                                           theothercities,towns[...]                
+                whatisthepopulationoflewistonid lewiston,idpopulationandraces.asof2010-2014,
+                                           thetotalpopulationoflewistonis32,178,whichis
+                                           4.12%morethanitwasin2000.[...]           
+                whathappensifyoudon’tshowupforjury whathappensifyoudon’tshowupforjurydutyin
+                                           california?a:accordingtocaliforniacourts,judicial
+                                           branchofcalifornia,ifacitizenfailstoshowupfor
+                                           jury duty, the juror can accrue nes up to $1,500.
+                                           if service presents an undue hardship, a juror can
+                                           requestapostponementortobeexcused.otherwise,
+                                           citizensarenotexemptfromjuryduty.        
+                populationofcleareldcountypa cleareld is a borough and the county seat of
+                                           cleareld county, pennsylvania, united states. the
+                                           populationwas6,215atthe2010census,andthe 
+                                           boroughispartofthedubois,pamicropolitanstatis-
+                                           ticalarea,aswellasthelargerstatecollege-dubois,
+                                           pacombinedstatisticalarea.               
+                howlongcanittakeforatrial  the preliminary hearing phase of the trial usually
+                                           takesplace5-6daysafteranarraignment. inthe
+                                           caseofamisdemeanor[...]                  
+                populationclintonky        clintoncountyisacountylocatedintheu. s. state
+                                           ofkentucky. asofthe2010census,thepopulation
+                                           was10,272. itscountyseatisalbany. thecounty
+                                           wasformedin1835andnamedfordewittclinton, 
+                                           theseventhgovernorofnewyork.itisaprohibition
+                                           ordrycounty.                             
+                populationofioscocountymichigan with25,420people,ioscocountyisthe55thmost
+                                           populated county in the state of michigan out of
+                                           83counties. butwatchout,ioscocounty,because
+                                           gladwincountywith25,411peopleandmanistee 
+                                           countywith24,420peoplearerightbehindyou. 
+               Table4: Sixteensamplesfromaclusterouralgorithmndsinthesupervisedtrainingdata. Thefull
+               clustersizeis256pointsoutofadatasetof1.5M.                           
+                                          21                                        
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                     Table5: DistributionofpretrainingdatasetscuratedinNussbaumetal.(2024).
+                Dataset                     Datapoints   %Dataset                   
+                Reddita                     64,978,944   0.28                       
+                PAQLewisetal.(2021)         52,953,088   0.23                       
+                AmazonReviewsNietal.(2019)  38,682,624   0.16                       
+                S2ORCTitleAbstractLoetal.(2020) 35438592 0.15                       
+                WikiAnswersFaderetal.(2014) 9,912,320    0.04                       
+                S2ORCCitationTitlesLoetal.(2020) 7,585,792 0.03                     
+                S2ORCAbstractCitationLoetal.(2020) 7,503,872 0.03                   
+                S2ORCAbstractBodyLoetal.(2020) 6,389,760 0.03                       
+                WikipediaTitleBodyFoundation(2024) 6,078,464 0.03                   
+                GooaqKhashabietal.(2021)    1,245,184    0.01                       
+                CodesearchHusainetal.(2019) 835,584      <.01                       
+                AGNews?                     409,600      <.01                       
+                CCNewsHamborgetal.(2017)    344,064      <.01                       
+                NPRb                        344,064      <.01                       
+                CNNSeeetal.(2017)           278,528      <.01                       
+                YahooTitle-Answerc          262,144      <.01                       
+                AmazonQAGuptaetal.(2019)    212,992      <.01                       
+                YahooTitle-Questiond        196,608      <.01                       
+                SentenceCompressionFilippova&Altun(2013) 163,840 <.01               
+                YahooQAe                    131,072      <.01                       
+                ELI5Fanetal.(2019)          98,304       <.01                       
+                AltlexHidey&McKeown(2016)   98,304       <.01                       
+                WikihowKoupaee&Wang(2018)   81,920       <.01                       
+                SimpleWikiCoster&Kauchak(2011) 81,920    <.01                       
+                StackExchangeDuplicateQuestionsf 65,536  <.01                       
+                StackExchangeTitleBodyg     65,536       <.01                       
+                StackExchangeBodyBodyh      65,536       <.01                       
+                QuoraDuplicateQuestionsi    32,768       <.01                       
+                SQuADRajpurkaretal.(2016)   16,384       <.01                       
+                Total                       234,553,344  1                          
+                 ahttps://huggingface.co/datasets/sentence-transformers/            
+               reddit-title-body                                                    
+                 bhttps://files.pushshift.io/news/                                  
+                 chttps://www.kaggle.com/soumikrakshit/yahoo-answers-dataset        
+                 dhttps://www.kaggle.com/soumikrakshit/yahoo-answers-dataset        
+                 ehttps://www.kaggle.com/soumikrakshit/yahoo-answers-dataset        
+                 fhttps://data.stackexchange.com/apple/query/fork/1456963           
+                 ghttps://data.stackexchange.com/apple/query/fork/1456963           
+                 hhttps://data.stackexchange.com/apple/query/fork/1456963           
+                 ihttps://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs
+                   • clustering                                                     
+                                                                                    
+               10.8 UNSUPERVISED TRAINING DATASETS                                  
+                                                                                    
+               Wetrainon234M weaklysupervisedquery-documentpairscollectedfortrainingtextembedding
+               modelsinNussbaumetal.(2024). Thefulldistributionof29datasetsisshowninTable5. Reddit
+               alonemakesupover25%ofthedatadistribution,with19ofthedatasetscomprisingunder1%ofthe
+               totaldata.                                                           
+                                                                                    
+                                          22                                        
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                    Table6: DistributionofBEIRevaluationdatasetsused,orderedbycorpussize.
+                              Dataset     Queries Documents                         
+                              NFCorpus     323   3,633                              
+                              SciFact      300   5,183                              
+                              ArguAna      1,406 8,674                              
+                              SciDocs      1,000 25,657                             
+                              TREC-COVID   50    171,332                            
+                              Quora        5,000 522,931                            
+                              NaturalQuestions 3,452 2,681,468                      
+                              MSMARCO      6,980 8,841,823                          
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure 17: System performance (training accuracy) as we scale the size of the rst-stage model
+               encoderonly.                                                         
+                                                                                    
+               10.9 BEIR EVALUATIONDATASETS                                         
+               OurinitialexperimentsinvolveevaluatingonninedatasetsfromtheBEIRbenchmark. Datasetsare
+               detailedinTable6. Toenablefastevaluationatthisstage,weobtainthetop1024relevantdocuments
+               toeachdocumentwithGTR(Nietal.,2021)andrerankonlythesedocumentsatevaluationtime.
+                                                                                    
+               10.10 ADDITIONALMODELINGABLATIONS                                    
+                                                                                    
+               First-stagemodelsize. Oneconsiderationiswhetherwecanimproveoursystemwithoutaffecting
+               searchinferencetimebyscalingthenumberofparametersinthebackbonemodelonly. Westudy
+               thisaffectbyscalingthenumberoflayersinthetransformerbackboneoftherst-stagemodelfrom1
+               tothefull12. ResultingperformanceisshowninSection10.10.              
+               Ourresultsshowthatscalingtherst-stagemodelhasasmallpositiveinuenceonmodelperformance.
+               However,sincethetotalimprovementfroma12xincreaseinrst-stagemodelsizeislessthanone
+               percent,weconcludethatthesecond-stagemodelsizehasamuchlargerimpactonperformance.
+               10.11 HOW MANY TOKENSPER DOCUMENT?                                   
+                                                                                    
+               Weconsiderthequestionofhowmanytokensperdocumentisidealwhilekeepingthetotalnumberof
+               documenttokensxed. ResultsperthenineevaluationdatasetsofBEIRareshowninSection10.11.
+               10.12 MTEB RETRIEVALEVALUATION PERFORMANCE                           
+                                                                                    
+               ToevaluateonMTEB,wesubsamplecontextualdocumentsfromthefullcorpusavailableineach
+               datasetandmodality. Forretrieval,thiscorrespondstothecorpusitself(importantly,notthequeries);
+               forothermodalities,wechoosethedefault“text”eldineachcasel. Forclassicationtasks,we
+               samplefromthetextside(nottheclassicationlabelsthemselves).          
+                                                                                    
+                                          23                                        
+                                                                                    
+
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+               Figure18: Performanceper-datasetaswescaletokens-per-document,whilekeepingthetotalnumber
+               ofcontextualtokensxed. Differentdomainspreferadifferentnumberoftokensperdocument.
+                Method Arg CQA CFEVER DBP FEVER FiQA HPQA MSMRC NFC NQ QUORA SCID SCIF TREC TOUCHE Mean
+                Unsupervised                                                        
+                Baseline 54.8 41.4 24.7 40.2 74.4 39.9 63.8 35.0 35.7 48.6 88.2 20.2 72.0 62.2 19.2 48.0
+                Contextual 54.9 43.1 24.4 40.7 79.6 42.1 68.8 38.9 36.5 57.8 88.9 21.1 72.8 77.1 21.9 51.2
+                Supervised                                                          
+                Baseline 49.3 40.5 38.3 45.0 85.0 38.4 73.6 43.1 35.0 59.4 87.7 18.3 70.5 79.9 28.2 52.8
+                Contextual 53.8 41.2 38.8 43.3 89.2 40.1 73.9 42.2 35.9 61.6 87.1 20.1 72.7 82.6 27.8 54.0
+                    Table7: Results(NDCG@10)ontheretrievalsettingoftheMTEBbenchmark.
+               Table7showsourmodelperformanceonalldatasetsintheMTEBretrievalcategory. Weseelargest
+               improvementsoverthebaselineontheArguAnaandTREC-Coviddatasets.        
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                                                                    
+                                          24                                        
+                                                                                    

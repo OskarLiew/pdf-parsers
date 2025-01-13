@@ -10,7 +10,7 @@ Like many other countries, Sweden faces urgent grand challenges such as climate 
 
 In the private sector, many companies are seeing rapidly increasing international competition and signs of a coming dramatic disruption, often driven by new possibilities enabled by AI. To preserve and strengthen competitiveness, Sweden should adopt policies that spur its private sector and, not least, large exporting corporations to accelerate their investments in AI.
 
-KärnanavstrateginärbehovetavettdjärvtledarskapsomfokuserarpåattskapavärdemedhjälpavAI.Detkrävsmer samarbetemellansamhällssektorer,ochgemensammainvesteringarsomdrivspåavinternationellarelationer.Bådeprivata ochoffentligaorganisationerskagenomAI-användningstärkasinkonkurrenskraft,lösasamhälleligautmaningarochvisa vägenförandra. Strateginärenguideförpolitiker,näringslivetsledningsgrupper,beslutsfattare,civilsamhälletsaktörerochalla förändringsledaresomharambitionenattpåettansvarsfulltsättutvecklaSverige. Countries that early on have invested heavily in AI research and talent through research-focused strategies (e.g. Canada) now face a crucial choice to invest beyond research and experimentation to enable adoption or lag behind. While others have to change their strategies, Sweden on the other hand has an opportunity to acknowledge that the benefits from AI come when the technology is put to use in companies and organizations, and implement an adoptionfocused strategy from the beginning.
+Kärnan av strategin är behovet av ett djärvt ledarskap som fokuserar på att skapa värde med hjälp av AI. Det krävs mer samarbete mellan samhällssektorer, och gemensamma investeringar som drivs på av internationella relationer. Både privata och offentliga organisationer ska genom AI-användning stärka sin konkurrenskraft, lösa samhälleliga utmaningar och visa vägen för andra. Strategin är en guide för politiker, näringslivets ledningsgrupper, beslutsfattare, civilsamhällets aktörer och alla förändringsledare som har ambitionen att på ett ansvarsfullt sätt utveckla Sverige. Countries that early on have invested heavily in AI research and talent through research-focused strategies (e.g. Canada) now face a crucial choice to invest beyond research and experimentation to enable adoption or lag behind. While others have to change their strategies, Sweden on the other hand has an opportunity to acknowledge that the benefits from AI come when the technology is put to use in companies and organizations, and implement an adoptionfocused strategy from the beginning.
 
 <!-- image -->
 
@@ -28,11 +28,13 @@ This first version of An AI Strategy for Sweden is intended to catalyze actions 
 
 It can not be emphasized enough that Sweden's success in adopting AI requires broad and collective actions from a wide range of companies and organizations. It is not down to the government alone, although the government plays an important role as a key enabler.
 
-KärnanavstrateginärbehovetavettdjärvtledarskapsomfokuserarpåattskapavärdemedhjälpavAI.Detkrävsmer samarbetemellansamhällssektorer,ochgemensammainvesteringarsomdrivspåavinternationellarelationer.Bådeprivata ochoffentligaorganisationerskagenomAI-användningstärkasinkonkurrenskraft,lösasamhälleligautmaningarochvisa This Strategy has been developed by AI Sweden, the national center for applied AI with the mission to Accelerate the use of AI for the benefit of our society, our competitiveness, and everyone living in Sweden, with feedback and input from selected experts in Sweden, Canada, USA and Singapore. The Strategy is also inspired by the strategies of EU, Canada, the USA, the UK, Germany, and Singapore.
+Kärnan av strategin är behovet av ett djärvt ledarskap som fokuserar på att skapa värde med hjälp av AI. Det krävs mer samarbete mellan samhällssektorer, och gemensamma investeringar som drivs på av internationella relationer. Både privata och offentliga organisationer ska genom AI-användning stärka sin konkurrenskraft, lösa samhälleliga utmaningar och visa This Strategy has been developed by AI Sweden, the national center for applied AI with the mission to Accelerate the use of AI for the benefit of our society, our competitiveness, and everyone living in Sweden, with feedback and input from selected experts in Sweden, Canada, USA and Singapore. The Strategy is also inspired by the strategies of EU, Canada, the USA, the UK, Germany, and Singapore.
 
-vägenförandra.
+vägen för andra.
 
-Strateginärenguideförpolitiker,näringslivetsledningsgrupper,beslutsfattare,civilsamhälletsaktörerochalla förändringsledaresomharambitionenattpåettansvarsfulltsättutvecklaSverige.
+Strategin är en guide för politiker, näringslivets ledningsgrupper, beslutsfattare, civilsamhällets aktörer och alla
+
+förändringsledare som har ambitionen att på ett ansvarsfullt sätt utveckla Sverige.
 
 <!-- image -->
 
@@ -134,11 +136,11 @@ Unlike many technologies, the deployment and adoption of AI technology and solut
 
 For Sweden especially, with the high decentralization of the public sector (e.g. 21 regions, 290 municipalities, 350+ government agencies), collaboration becomes even more important as very few organizations individually are capable of building and managing necessary infrastructure, data, and solutions. To really scale the benefits of AI across both organizations and the country, significant activities and investments compensation for the decentralization must be put in place.
 
-"With new opportunities, risks, and threats to prosperity and security at stake, the promise and peril associated with this foundational technology are too vast for any single actor to manage alone. As a result, cooperation is inherently needed to equally mitigate international security risks, as well as to capitalize on the technology's potential to transform enterprise functions, mission support, and operations."
+'With new opportunities, risks, and threats to prosperity and security at stake, the promise and peril associated with this foundational technology are too vast for any single actor to manage alone. As a result, cooperation is inherently needed to equally mitigate international security risks, as well as to capitalize on the technology's potential to transform enterprise functions, mission support, and operations.'
 
 From: An Artificial Intelligence Strategy for NATO
 
-"The research community, industry, and Government play important, interconnected roles to enable the development and deployment of AI solutions. It is critical for Singapore to enhance partnerships across these stakeholders to strengthen our collective capabilities and drive our overall national AI effort."
+'The research community, industry, and Government play important, interconnected roles to enable the development and deployment of AI solutions. It is critical for Singapore to enhance partnerships across these stakeholders to strengthen our collective capabilities and drive our overall national AI effort.'
 
 From: Singapore's AI Strategy
 
@@ -200,7 +202,7 @@ What stands out is the lack of Government Strategy.
 
 Tortoise Media's Global AI Index is one of the most established global benchmarks for countries and encompasses several important metrics and data.
 
-Sweden is currently ranked 17 out of 62 countries, most notable is that we rank 44th in the category "Governmental Strategy". Looking at the metrics for Government Strategy, the following conclusions can be drawn:
+Sweden is currently ranked 17 out of 62 countries, most notable is that we rank 44th in the category 'Governmental Strategy'. Looking at the metrics for Government Strategy, the following conclusions can be drawn:
 
 - Developing and adopting a national strategy will significantly increase our position
 - The strategy should have dedicated funding, include elements of reskilling and up-skilling
@@ -289,7 +291,7 @@ To maximize the benefits of AI, Sweden should scale initiatives that catalyze co
 
 Facilitation of collaboration should include incentives for consortiums to build joint advanced solutions, structures, and ways to enable access to real-world data and in general build on mechanisms that allow fast pace and adaptivity.
 
-Sweden should also consider investing in one or two "moonshots", e.g. large-scale initiatives where many actors come together to solve a grand challenge.
+Sweden should also consider investing in one or two 'moonshots', e.g. large-scale initiatives where many actors come together to solve a grand challenge.
 
 ## REFERENCES TO NATIONAL, EU, NATO AND OECD STRATEGIES
 

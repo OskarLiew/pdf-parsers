@@ -172,8 +172,6 @@ butik.
 
 #### Exempel på hur informationen kan ges skriftligen
 
-###### Exempel på hur informationen kan ges skriftligen:
-
 
 ###### Allergisk? Fråga oss gärna om matens innehåll! Följande ingredienser ingår i recepten:
 
@@ -186,8 +184,8 @@ butik.
 |fsik||X||Fiskgry|ta med|beteck||
 |jordnötter||||cous co Receptet i|us nnehåller:|Allerg ingred||
 |sojabönor||||Vete, fisk, X|mjölk, sel|ler||
-|mjölk|X|X||Kycklin Receptet i Sojabönor,|gsallad nnehåller: senap|||
-|nötter||||||||
+|mjölk|X|X||Kycklin Receptet i|gsallad nnehåller:|||
+|nötter||||Sojabönor,|senap|||
 |selleri||X||||||
 |||||||||
 |senap||||X||||
@@ -228,8 +226,6 @@ Sojabönor, senap
 -----
 
 #### Information om maträtter och allergener på restaurang
-
-###### Information om maträtter och allergener på restaurang.
 
 
 **Innehåller den**

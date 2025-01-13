@@ -24,9 +24,9 @@ Reglerna är till för att skydda konsumenten
 
 Det finns två huvudsyften med livsmedelslagstiftningen:
 
- · att skydda konsumenten från livsmedel som är otjänliga eller skadliga för hälsan och
+ ·  att skydda konsumenten från livsmedel som är otjänliga eller skadliga för hälsan och
 
- · att ge konsumenten tillräcklig information om ett livsmedel för att han eller hon ska kunna göra egna och säkra val. Livsmedelsinformation, märkning, reklam och presentation av livsmedel får inte vilseleda konsumenten.
+ ·  att ge konsumenten tillräcklig information om ett livsmedel för att han eller hon ska kunna göra egna och säkra val. Livsmedelsinformation, märkning, reklam och presentation av livsmedel får inte vilseleda konsumenten.
 
 Reglerna ska också underlätta för den fria rörligheten på den inre EU-marknaden.
 
@@ -36,11 +36,11 @@ Det här gäller för alla livsmedelsföretag:
 
  · Spårbarhet - Det ska gå snabbt att identifiera en leverantör och ett parti.
 
- · Öppenhet - Du ska omedelbart informera behöriga myndigheter och konsumenter om det finns anledning att misstänka att ett livsmedel inte är säkert.
+ ·  Öppenhet - Du ska omedelbart informera behöriga myndigheter och konsumenter om det finns anledning att misstänka att ett livsmedel inte är säkert.
 
- · Förebyggande - Du ska regelbundet se över kritiska punkter i din verksamhet
+ ·   Förebyggande - Du ska regelbundet se över kritiska punkter i din verksamhet
 
- · Kontroll - Du ska se till att verksamheten uppfyller målen i lagstiftningen.
+ ·  Kontroll - Du ska se till att verksamheten uppfyller målen i lagstiftningen.
 
 Livsmedelsinformation till konsumenterna
 
@@ -54,7 +54,7 @@ Vad är ett färdigförpackat livsmedel?
 
 Ett färdigförpackat livsmedel är ett livsmedel som placerades i en förpackning innan det nådde konsumenten. Förpackningen ska täcka livsmedlet helt eller delvis. Det ska inte gå att ändra innehållet utan att förpackningen öppnas eller ändras.
 
-För färdigförpackade livsmedel krävs livsmedelsinformation i form av märkning på livsmedelsförpackningen. Du kan läsa mer i broschyren "Märkning av färdigförpackade livsmedel".
+För färdigförpackade livsmedel krävs livsmedelsinformation i form av märkning på livsmedelsförpackningen. Du kan läsa mer i broschyren 'Märkning av färdigförpackade livsmedel'.
 
 <missing-text>
 
@@ -72,13 +72,13 @@ Mat eller dryck som först är oförpackad, men som placeras i en förpackning p
 
 Livsmedel färdigförpackade för direkt försäljning
 
-Mat eller dryck som säljs på ett sätt där kunden har direkt personlig kontakt med personal som kan ge den obligatoriska livsmedelsinformationen i en eller annan form. Se vidare under rubriken "Hur informationen ska lämnas".
+Mat eller dryck som säljs på ett sätt där kunden har direkt personlig kontakt med personal som kan ge den obligatoriska livsmedelsinformationen i en eller annan form. Se vidare under rubriken 'Hur informationen ska lämnas'.
 
 För livsmedel som inte är färdigförpackade får livsmedelsinformationen lämnas på ett flexibelt sätt. Vilken information som ska lämnas och hur förklaras i denna broschyr.
 
 Livsmedelsinformationen ska vara på svenska
 
-Huvudregeln är att livsmedelsinformationen ska vara på svenska, men det går bra att använda annat språk för vissa uppgifter om skillnaden i stavning är obetydlig Exempel: " öl" och "Øl" eller "bär" och "bær".
+Huvudregeln är att livsmedelsinformationen ska vara på svenska, men det går bra att använda annat språk för vissa uppgifter om skillnaden i stavning är obetydlig Exempel: ' öl' och 'Øl' eller 'bär' och 'bær'.
 
 EXEMPEL PÅ LIVSMEDEL SOM INTE BETRAKTAS SOM FÄRDIGFÖRPACKADE
 
@@ -120,6 +120,10 @@ Allergisk? Fråga oss gärna om matens innehåll! Följande ingredienser ingår 
 
 <missing-text>
 
+<missing-text>
+
+<missing-text>
+
 Information om maträtter och allergener på restaurang
 
 Information om maträtter och allergener på restaurang.
@@ -136,7 +140,7 @@ Det är dessutom obligatoriskt att informera om livsmedlets beteckning (namn som
 
 är för livsmedel) om konsumenten frågar efter detta. Observera att för fiskeri- och vattenbruksprodukter är det obligatoriskt att ange handelsbeteckning och artens vetenskapliga namn (latinskt namn), till exempel på anslagstavlor och planscher.
 
-För livsmedel som förpackas på försäljningsstället på konsumentens begäran eller är färdigförpackade för direkt försäljning ska dessutom ett ytterligare antal uppgifter kunna lämnas om konsumenten frågar (se även broschyren "märkning av färdigförpackade livsmedel" för mer information om respektive uppgift nedan):
+För livsmedel som förpackas på försäljningsstället på konsumentens begäran eller är färdigförpackade för direkt försäljning ska dessutom ett ytterligare antal uppgifter kunna lämnas om konsumenten frågar (se även broschyren 'märkning av färdigförpackade livsmedel' för mer information om respektive uppgift nedan):
 
 Information som alltid ska ges:
 
@@ -152,9 +156,9 @@ Information som ska ges om konsumenten frågar:
 
  · Nettokvantitet
 
- · Bäst före-dag eller sista förbrukningsdag
+ ·  Bäst före-dag eller sista förbrukningsdag
 
- · Särskilda villkor för förvaring och/eller användning
+ ·  Särskilda villkor för förvaring och/eller användning
 
  · Kontaktuppgift - till företaget som tillagat och/eller förpackat maten
 
@@ -166,7 +170,7 @@ Information som ska ges om konsumenten frågar:
 
 Hur informationen ska lämnas
 
-Informationen om livsmedel, som inte är färdigförpackade, får antingen ges skriftligt eller muntligt. Om du väljer att ge information om allergener muntligt måste det alltid finnas en särskild upplysning till konsumenten om att informationen finns att få. Det kan exempelvis finnas en skylt vid serveringen där det står "Är du allergisk? Du kan alltid fråga oss om innehållet i maten". Det måste vara möjligt att kontrollera att informationen som ges är korrekt. Därför kan det vara nödvändigt att den som lagar maten dokumenterar vilka ingredienser som tillsätts.
+Informationen om livsmedel, som inte är färdigförpackade, får antingen ges skriftligt eller muntligt. Om du väljer att ge information om allergener muntligt måste det alltid finnas en särskild upplysning till konsumenten om att informationen finns att få. Det kan exempelvis finnas en skylt vid serveringen där det står 'Är du allergisk? Du kan alltid fråga oss om innehållet i maten'. Det måste vara möjligt att kontrollera att informationen som ges är korrekt. Därför kan det vara nödvändigt att den som lagar maten dokumenterar vilka ingredienser som tillsätts.
 
 Ibland kan en matgästs eventuella allergier ha utretts och noterats i förväg. Detta är vanligt i exempelvis skolor, förskolor eller på sjukhus. Till dessa matgäster krävs ingen särskild upplysning om att allergeninformationen finns att få.
 
@@ -176,17 +180,17 @@ Allergeninformationen och övrig livsmedelsinformation får även lämnas skrift
 
  · I menyer
 
- · I en skrift som följer med livsmedlet
+ ·  I en skrift som följer med livsmedlet
 
- · På en läsplatta eller datorskärm
+ ·  På en läsplatta eller datorskärm
 
 Om den enda allergen, som ingår i ett livsmedel, utgör en del av livsmedlets beteckning, till exempel sellerisoppa, är det tillräckligt att ange beteckningen.
 
 Distansförsäljning
 
-Livsmedel som säljs via distans, exempelvis via internet eller telefon, kan till exempel vara färdigförpackade - som en burk crème fraiche i en middagskasse - eller förpackade på försäljningsstället på konsumentens begäran - till exempel tomater som förpackas och läggs ner i samma middagskasse varpå den levereras hem till konsumentens bostad.
+Livsmedel som säljs via distans, exempelvis via internet eller telefon, kan till exempel vara färdigförpackade - som en burk crème fraiche i en middagskasse -  eller förpackade på försäljningsstället på konsumentens begäran - till exempel tomater som förpackas och läggs ner i samma middagskasse varpå den levereras hem till konsumentens bostad.
 
-Vid distansförsäljning gäller att konsumenten ska få samma information innan köpet som är möjligt att få vid köp i exempelvis en livsmedelsbutik. Undantag finns för information om bäst före-dag eller sista förbrukningsdag, vilket måste kunna lämnas först när livsmedlet levereras. Information om bäst före-dag eller sista förbrukningsdag ska för livsmedel, som är förpackade på försäljningsstället på konsumentens begäran, kunna lämnas om kunden frågar. Detsamma gäller för övriga uppgifter som är obligatoriska för denna kategori av livsmedel, utom information om allergener. Information om allergener ska alltid lämnas innan köpet avslutas. Se avsnittet "Vilken information ska lämnas till konsumenten?"
+Vid distansförsäljning gäller att konsumenten ska få samma information innan köpet som är möjligt att få vid köp i exempelvis en livsmedelsbutik. Undantag finns för information om bäst före-dag eller sista förbrukningsdag, vilket måste kunna lämnas först när livsmedlet levereras. Information om bäst före-dag eller sista förbrukningsdag ska för livsmedel, som är förpackade på försäljningsstället på konsumentens begäran, kunna lämnas om kunden frågar. Detsamma gäller för övriga uppgifter som är obligatoriska för denna kategori av livsmedel, utom information om allergener. Information om allergener ska alltid lämnas innan köpet avslutas. Se avsnittet 'Vilken information ska lämnas till konsumenten?'
 
 Hur informationen kan lämnas innan köpet
 
@@ -202,25 +206,25 @@ Vad är allergener?
 
 Allergener är ämnen, vanligtvis proteiner, som orsakar en allergisk reaktion hos den som är allergisk. Symtomen kan variera från klåda och magont till mer allvarliga symtom, till exempel anafylaktisk chock.
 
-I värsta fall kan symtomen bli så allvarliga att de leder till döden. Det är därför mycket viktigt att säkerställa att informationen, som ges om allergena ingredienser från allergenlistan, är korrekt. Att dokumentera vad en maträtt innehåller är viktigt för att kunna ge rätt information till konsumenten.Tänk också på att gå igenom hela ingredienslistan för varje sammansatt ingrediens, till exempel pasta och majonnäs, och fråga alltid leverantören en extra gång om du är osäker.
+I värsta fall kan symtomen bli så allvarliga att de leder till döden. Det är därför mycket viktigt att säkerställa att informationen, som ges om allergena ingredienser från allergenlistan, är korrekt. Att dokumentera vad en maträtt innehåller är viktigt för att kunna ge rätt information till konsumenten. Tänk också på att gå igenom hela ingredienslistan för varje sammansatt ingrediens, till exempel pasta och majonnäs, och fråga alltid leverantören en extra gång om du är osäker.
 
 Ska framhävas i märkningen
 
-Från och med den 13 december 2014 är det obligatoriskt för livsmedelsföretagare att i märkningen framhäva ingredienser från allergenlistan. Framhävningen kan exempelvis göras med fet text ,VERSALER eller kursiv text. Livsmedel, som har märkts före den 13 december 2014, får säljas tills lagret är slut. Därför kommer det att finnas livsmedel som är märkta enligt de gamla reglerna under en lång tid framöver. Det kommer alltså även efter den 13 december finnas livsmedelsförpackningar där ingredienserna från allergenlistan inte är framhävda.
+Från och med den 13 december 2014 är det obligatoriskt för livsmedelsföretagare att i märkningen framhäva ingredienser från allergenlistan. Framhävningen kan exempelvis göras med fet text , VERSALER eller kursiv text. Livsmedel, som har märkts före den 13 december 2014,  får säljas tills lagret är slut. Därför kommer det att finnas livsmedel som är märkta enligt de gamla reglerna under en lång tid framöver. Det kommer alltså även efter den 13 december finnas livsmedelsförpackningar där ingredienserna från allergenlistan inte är framhävda.
 
 Var noga med hanteringen
 
 För känsliga allergiker och glutenintoleranta kan även mycket små mängder till exempel en droppe mjölk, en nötflisa eller några brödsmulor orsaka allergisk reaktion. Därför är det viktigt att ha rutiner som förhindrar att ingredienser överförs från ett livsmedel till ett annat.
 
-I de fall konsumentens eventuella allergier har utretts i förväg ska de känna sig helt säkra på att maten är särskilt anpassad till deras behov utan att fråga. I de fall där man känner till vissa, men inte alla matgästers allergier och överkänslighet, behöver uppmaningen om allergeninformationen vara tydligt riktad till de som inte får specialkost. Specialkost som är särskilt anpassad för en allergisk eller överkänslig matgäst och anges vara "fri från" ett eller flera allergen kräver precis som tidigare särskilda rutiner för tillredning och servering.
+I de fall konsumentens eventuella allergier har utretts i förväg ska de känna sig helt säkra på att maten är särskilt anpassad till deras behov utan att fråga. I de fall där man känner till vissa, men inte alla matgästers allergier och överkänslighet, behöver uppmaningen om allergeninformationen vara tydligt riktad till de som inte får specialkost. Specialkost som är särskilt anpassad för en allergisk eller överkänslig matgäst och anges vara 'fri från' ett eller flera allergen kräver precis som tidigare särskilda rutiner för tillredning och servering.
 
-geninformationen finns att få. Fortfarande ska samtlig obligatorisk information alltid kunna ges på begäran. Se även avsnittet "Hur informationen ska lämnas".
+geninformationen finns att få. Fortfarande ska samtlig obligatorisk information alltid kunna ges på begäran. Se även avsnittet 'Hur informationen ska lämnas'.
 
 Information mellan företag
 
 Om du levererar livsmedel som inte är färdigförpackade till andra företag är du skyldig att ge nödvändig livsmedelsinformation till det mottagande företaget. Med nödvändig information menas all den information det mottagande företaget behöver för att i sin tur kunna ge rätt information till konsumenten. För att veta vilka uppgifter du ska lämna vidare behöver du få information om hur livsmedlet ska säljas, dvs. som oförpackat, förpackat på försäljningsstället på konsumentens begäran eller färdigförpackat för direkt försäljning. Se även avsnittet om vilken information som ska lämnas till konsumenten.
 
-Tabell 1. Allergenlistan
+Tabell 1.  Allergenlistan
 
  1. Spannmål som innehåller gluten, dvs. vete, råg, korn, havre, spelt, khorasanvete eller hybridiserade sorter därav och produkter därav
 
@@ -240,15 +244,15 @@ Tabell 1. Allergenlistan
 
  9. Selleri och produkter framställda därav
 
- 10. Senap och produkter framställda därav
+ 10.  Senap och produkter framställda därav
 
- 11. Sesamfrön och produkter framställda därav
+ 11.  Sesamfrön och produkter framställda därav
 
- 12. Svaveldioxid och sulfit som överstiger en viss halt
+ 12.  Svaveldioxid och sulfit som överstiger en viss halt
 
- 13. Lupin och produkter framställda därav
+ 13.  Lupin och produkter framställda därav
 
- 14. Blötdjur och produkter framställda därav
+ 14.  Blötdjur och produkter framställda därav
 
 Undantagen ingår inte i denna sammanfattning. Jämför med bilaga II i förordning (EU) nr 1169/2011.
 
@@ -258,9 +262,7 @@ LÄS MER
 
 Vägledningar m.m.
 
-På Livsmedelsverkets webbplats www.livsmedelsverket.se
-
-Informationsförordningen Om allergi och annan överkänslighet
+På Livsmedelsverkets webbplats www.livsmedelsverket.se Informationsförordningen Om allergi och annan överkänslighet
 
 På EU-kommissionens webbplats
 

@@ -16,7 +16,6 @@ tiktoken = "^0.8.0"
 verovio = "^4.4.0"
 accelerate = "^1.1.1"
 tqdm = "^4.67.1"
-markitdown = "^0.0.1a2"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.10.0"
@@ -31,10 +30,11 @@ pdfplumber = "^0.11.4"
 llmsherpa = "^0.1.4"
 unstructured = {version = "^0.16.9", extras = ["all-docs"]}
 marker-pdf = "^1.0.1"
-nougat-ocr = "^0.1.17"
+# nougat-ocr = "^0.1.17"  # Dependency hell... Uses 2022 timm version
 pypdfium2 = "^4.30.0"
 pdftext = "^0.3.19"
 llama-parse = "^0.5.15"
+markitdown = "^0.0.1a2"
 
 [build-system]
 requires = ["poetry-core"]

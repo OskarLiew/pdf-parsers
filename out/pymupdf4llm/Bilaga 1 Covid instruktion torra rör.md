@@ -20,7 +20,6 @@
 1. Öppna den större förvaringspåsen och ta fram innehållet. Du kan lägga det på bordet framför
 
 dig.
-
 2. Ta ut provröret och lägg det på hushållspappret.
 
 ##### Registrera ditt prov
@@ -32,7 +31,6 @@ dig.
 
 
 Skanna QR-koden på påsen med din mobilkamera genom att rikta kameran mot QR-koden.
-
 2. Skriv ditt mobilnummer, epost (valfritt) och arbetsplatskod i de avsedda rutorna.
 3. Välj vårdcentralen du är listad på i rullisten, hittar du inte din vårdcentral, välj ”Annan”.
 4. Efter att du legitimerat dig med BankID är registreringen klar.
@@ -55,19 +53,15 @@ adressen du angett.
 2. För den mjuka delen av pinnen in genom munnen och så långt bak i din hals som du kan
 
 komma, så att du nästan kräks.
-
 3. Gnid runt pinnen mot svalgväggen (längst in i halsen) så länge du kan. Det kommer att
 
 kännas obehagligt, men 5 sekunder räcker. Se skiss.
-
 4. Stoppa sedan försiktigt in samma ände av pinnen rakt in i näsborren, så långt in som du kan.
 
 Vinkla inte pinnen uppåt. Gnid runt pinnen i 10–20 sekunder. Se skiss.
-
 5. Samla mycket spott i munnen och spotta på tallriken eller i muggen, undvik att få med slem
 
 eller snor.
-
 6. Doppa den mjuka delen av pinnen i spottet så att den blir ordentligt fuktig.
 
 ##### Överför provet till provröret och förpacka provröret på ett säkert sätt

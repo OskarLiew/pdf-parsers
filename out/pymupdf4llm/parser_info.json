@@ -4,51 +4,51 @@
         {
             "name": "ai-kommissionens-fardplan-for-sverige.pdf",
             "n_pages": 136,
-            "load_time": 37.51524496078491,
-            "load_time_per_page": 0.2758473894175361
+            "load_time": 14.792275428771973,
+            "load_time_per_page": 0.10876673109391156
         },
         {
             "name": "Bilaga 1 Covid instruktion torra rör.pdf",
             "n_pages": 3,
-            "load_time": 0.514789342880249,
-            "load_time_per_page": 0.17159644762674967
+            "load_time": 0.24109959602355957,
+            "load_time_per_page": 0.0803665320078532
         },
         {
             "name": "information-om-livsmedel-som-inte-ar-fardigforpackade.pdf",
             "n_pages": 12,
-            "load_time": 2.0547776222229004,
-            "load_time_per_page": 0.17123146851857504
+            "load_time": 0.8845055103302002,
+            "load_time_per_page": 0.07370879252751668
         },
         {
             "name": "Legionella.pdf",
             "n_pages": 4,
-            "load_time": 0.42065000534057617,
-            "load_time_per_page": 0.10516250133514404
+            "load_time": 0.18150591850280762,
+            "load_time_per_page": 0.045376479625701904
         },
         {
             "name": "scanned.pdf",
             "n_pages": 1,
-            "load_time": 0.04652547836303711,
-            "load_time_per_page": 0.04652547836303711
+            "load_time": 0.02176642417907715,
+            "load_time_per_page": 0.02176642417907715
         },
         {
             "name": "308-an-ai-strategy-for-sweden-pdf-version-1020240408.pdf",
             "n_pages": 18,
-            "load_time": 3.4100544452667236,
-            "load_time_per_page": 0.18944746918148464
+            "load_time": 1.36545991897583,
+            "load_time_per_page": 0.07585888438754612
         },
         {
             "name": "paper-contextual-embeddings.pdf",
             "n_pages": 24,
-            "load_time": 10.389650344848633,
-            "load_time_per_page": 0.43290209770202637
+            "load_time": 4.095567226409912,
+            "load_time_per_page": 0.17064863443374634
         },
         {
             "name": "parsed-as-random-characters.pdf",
             "n_pages": 64,
-            "load_time": 6.054696798324585,
-            "load_time_per_page": 0.09460463747382164
+            "load_time": 2.740264415740967,
+            "load_time_per_page": 0.042816631495952606
         }
     ],
-    "avg_load_time_per_page": 0.18591468620229684
+    "avg_load_time_per_page": 0.07741363871891319
 }

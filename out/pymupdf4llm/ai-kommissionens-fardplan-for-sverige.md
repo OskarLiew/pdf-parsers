@@ -642,7 +642,6 @@ upp arbetskraft som friställts på grund av olika
 AI-tjänster. Att omställningssystemet fungerar väl
 är därför avgörande för synen på AI och hur villiga
 människor är att ta till sig den nya tekniken.
-
 ###### Innovation och riskkapital
 
 AI kommer att leda till viktiga innovationer
@@ -2747,6 +2746,7 @@ pågår utvecklingen av sådana dataområden inom
 
 europeiskt hälsodataområde (EHDS).[[38]]
 
+
 I Sverige antog regeringen i oktober 2021 en nationell
 datastrategi med målet att främja olika former av
 öppen och kontrollerad datadelning. Syftet är att öka
@@ -2754,7 +2754,6 @@ tillgången till data för bland annat AI. Strategin bygger
 i sin tur på EU:s datastrategi och OECD:ss rekom­
 mendation om ökad tillgång och delning av data som
 Sverige har skrivit under.[[39]]
-
 
 På senare tid har även ett antal statliga utredningar
 presenterats som innehåller förslag som syftar till
@@ -2767,6 +2766,7 @@ förvaltnings mest angelägna datadelning ska vara fullt
 interoperabel senast år 2030. Detta ska bland annat
 uppnås genom en ny lag om den offentliga förvalt­
 ningens interoperabilitet.
+
 
 I maj 2024 lämnade Utredningen om infrastruktur
 _för hälsodata som nationellt intresse sitt slutbetän­_
@@ -2974,6 +2974,13 @@ innehåller ett antal principiella bestämmelser för hur
 data som innehåller personuppgifter får behandlas
 och delas.[[47]] När det gäller behandling av personupp­
 
+gifter som utförs av myndigheter i syfte att förebygga,
+förhindra eller upptäcka brottslig verksamhet, utreda
+eller lagföra brott eller verkställa straffrättsliga
+påföljder, gäller i stället EU:s dataskyddsdirektiv som
+i svensk rätt genomförts genom brottsdatalagen
+(2018:1177).
+
 
 lag och förordning. Syftet med registerförfattningarna
 är att anpassa regleringen till de särskilda behov som
@@ -3030,15 +3037,6 @@ det är inte tillräckligt för att underlätta användningen
 av AI i den offentliga verksamheten. I ett längre
 perspektiv är det motiverat att förändra den svenska
 
-
-gifter som utförs av myndigheter i syfte att förebygga, Kronofogdemyndigheten (SOU 2023:100). Vi anser
-förhindra eller upptäcka brottslig verksamhet, utreda dock att motsvarande förändringar, där de lagda
-eller lagföra brott eller verkställa straffrättsliga förslagen kan utgöra utgångspunkt, behövs för samt­
-påföljder, gäller i stället EU:s dataskyddsdirektiv som liga svenska myndigheter. Det skulle vara ett första
-i svensk rätt genomförts genom brottsdatalagen steg för att ge myndigheterna bättre möjligheter att
-(2018:1177). utnyttja potentialen med ökad AI-användning. Det
-
-finns också fördelar med att likartade formuleringar
 
 GDPR kompletteras i flera olika offentliga verksam­ används i olika registerförfattningar.
 heter av registerförfattningar. Det finns en stor mängd
@@ -6824,6 +6822,9 @@ sionen välkomnar därför regeringens uppdrag till
 elva myndigheter att minska företagens regelbörda,
 liksom tillsättning av Förenklingsrådet.[[128]], [129]Kom­
 
+missionen understryker vikten av att arbetet lägger
+stor vikt vid AI-relaterade regelutmaningar.
+
 
 I Sverige finns sedan 2022 en regulatorisk sandlåda
 under Integritetsskyddsmyndighetens (IMY) ansvar.
@@ -6870,10 +6871,6 @@ tillsynsmyndigheter möjlighet att lära sig om ny teknik
 på ett bättre och snabbare sätt och därför snabbare
 kunna utveckla bättre reglering av ny teknik.[[131]]
 
-
-missionen understryker vikten av att arbetet lägger aktörer icke-bindande besked om olika AIstor vikt vid AI-relaterade regelutmaningar. lösningar är i linje med dataskyddsregelverket.
-
-Myndigheten bör också kunna ge information
 
 Ett sätt att klargöra och utveckla regelverken för AI-an­ till små och medelstora företag om var de bör
 vändning i näringslivet är genom regulatoriska sand­ vända sig i frågor som ligger utanför IMY:s
@@ -7287,7 +7284,6 @@ licenser.
 En annan aktör är AI Sweden, som tillsammans med
 det statliga forskningsinstitutet RISE[[137]] och WASP
 
-
 WARA Media & Language,[[138]] har utvecklat GPT-SW3.
 
 Det är den första riktigt stora språkmodellen för
@@ -7296,26 +7292,6 @@ baserad på samma tekniska principer som OpenAI
 GPT-4. GPT-SW3 är tränade på Linköpings universitets
 superdator, Berzelius. Även denna modell är fritt till­
 gänglig för allmänheten med öppen licens.
-
-###### Upphovsrätten och vägen framåt
-När det gäller den fortsatta utvecklingen av språkmo­
-deller är det avgörande att beakta det upphovsrätts­
-liga skyddet för material som används för att träna
-språkmodeller. KB:s uppfattning är att myndigheten
-har möjlighet att träna och göra modeller tillgängliga
-med stöd av en undantagsbestämmelse i upphovs­
-rättslagen.[[139]] Flera rättighetshavare delar dock inte
-
-den de uppfattningen. De har även invändningar mot
-metoden som användes för att ta fram GPT-SW3. Det
-är därför nödvändigt att utveckla och implementera
-en allmänt accepterad ersättningsmodell, sannolikt
-byggd på ett system med avtalslicenser. Genom
-att lösa den frågan kan vi undvika utdragna rättsliga
-processer samt öka den allmänna acceptansen
-för de modeller som utvecklas. Om modellerna ska
-användas i forskningssyfte bör det vara möjligt i
-princip utan kostnad.
 
 
 Förslag
@@ -7353,6 +7329,27 @@ nordiska länder och inom EU. Slutligen bör
 samordnaren även ta ställning till behovet av att
 utveckla stora språkmodeller för de nationella
 minoritetsspråken.
+
+
+###### Upphovsrätten och vägen framåt
+När det gäller den fortsatta utvecklingen av språkmo­
+deller är det avgörande att beakta det upphovsrätts­
+liga skyddet för material som används för att träna
+språkmodeller. KB:s uppfattning är att myndigheten
+har möjlighet att träna och göra modeller tillgängliga
+med stöd av en undantagsbestämmelse i upphovs­
+rättslagen.[[139]] Flera rättighetshavare delar dock inte
+
+den de uppfattningen. De har även invändningar mot
+metoden som användes för att ta fram GPT-SW3. Det
+är därför nödvändigt att utveckla och implementera
+en allmänt accepterad ersättningsmodell, sannolikt
+byggd på ett system med avtalslicenser. Genom
+att lösa den frågan kan vi undvika utdragna rättsliga
+processer samt öka den allmänna acceptansen
+för de modeller som utvecklas. Om modellerna ska
+användas i forskningssyfte bör det vara möjligt i
+princip utan kostnad.
 
 
 
@@ -9426,6 +9423,16 @@ ny form av central styrning, åtminstone under en viss
 tid, har i någon mån behandlats i den internationella
 litteraturen.[[185]] Frågan om befogenheter och möjlig­
 
+heter hos Center of Government (CoG), vad vi i Sverige
+kallar Statsrådsberedningen och i andra länder premi­
+ärministerns kansli eller motsvarande, behandlas i ett
+löpande arbete vid OECD.[[186]] En nylig rapport därifrån
+
+pekar på att CoG hamnat under allt större press
+att kunna navigera i alltmer komplexa miljöer med
+synkroniserade kriser, polarisering och sjunkande
+förtroende för offentliga institutioner.
+
 
 vägleda reformer av den offentliga förvaltningen och
 samarbeta med medborgare och andra intressenter
@@ -9476,16 +9483,6 @@ våren 2025.
 AI-utvecklingen kräver samordning av politiska
 beslut i en hastighet som systemet i dag inte
 
-
-heter hos Center of Government (CoG), vad vi i Sverige - Behovet av snabba beslut om
-kallar Statsrådsberedningen och i andra länder premi­ systemövergripande åtgärder utgör själva
-ärministerns kansli eller motsvarande, behandlas i ett anledningen till att AI-kommissionen valde
-löpande arbete vid OECD.[[186]] En nylig rapport därifrån att tidigarelägga sin rapport. Finansieringen
-
-pekar på att CoG hamnat under allt större press av regeringens AI-strategi bör därför framgå
-att kunna navigera i alltmer komplexa miljöer med av vårpropositionen för 2025 eller av en extra
-synkroniserade kriser, polarisering och sjunkande ändringsbudget som lämnas till riksdagen under
-förtroende för offentliga institutioner. våren 2025.
 
 För att överbrygga gapet mellan politiken och AI-utvecklingen kräver samordning av politiska
 förvaltningen, förvalta sammanhållningspolitik, beslut i en hastighet som systemet i dag inte
@@ -9763,8 +9760,8 @@ Infrastruktur (21)
 |Col1|Col2|Col3|Col4|
 |---|---|---|---|
 |5||||
-|||1|7|
-|1|9|||
+|||||
+|1|9|1|7|
 |||||
 |||||
 ||||2|

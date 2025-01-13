@@ -20,7 +20,9 @@ Legionella kan orsaka allvarlig lunginflammation (s.k. legionärssjuka).
 
 Inkubationstiden är 2-10 dygn, vanligast 5-6 dygn. Legionella är anmälnings- och smittspårningspliktig enlig smittskyddslagen.
 
-Legionella förökar sig lättast i stillastående vatten vid temperaturer mellan 20-45°C. Tillväxt sker framför allt i den biofilm som bildas i vattenledningsrör och duschslangar. För att undvika legionellatillväxt är det viktigt med bra flöde och rätt temperatur i vattensystemets alla delar. Se förebyggande åtgärder nedan.
+Legionella förökar sig lättast i stillastående vatten vid temperaturer mellan 20-45°C.
+
+Tillväxt sker framför allt i den biofilm som bildas i vattenledningsrör och duschslangar. För att undvika legionellatillväxt är det viktigt med bra flöde och rätt temperatur i vattensystemets alla delar. Se förebyggande åtgärder nedan.
 
 Riskgrupper
 
@@ -32,7 +34,7 @@ Vårdtagarnära och vårdrelaterat arbete
 
  · Patienter med legionellainfektion kan vårdas tillsammans med andra.
 
- · Arbeta efter Grundläggande vårdhygieniska rutiner$\_{ }$
+ · Arbeta efter Grundläggande vårdhygieniska rutiner
 
 <missing-text>
 
@@ -62,7 +64,7 @@ Vid spolning i dusch låt dörren stå öppen. Åtgärden bör dokumenteras och 
 
 Andningshjälpmedel
 
-Rengöring av innerdelar till trachealkanyler, nebuliseringskoppar och liknande ska avslutas med sköljning i sterilt vatten alternativt natriumklorid. Se Rengöring av andningshjälpmedel i hemmet under rubrik "Åtgärder för att förhindra tillväxt av bakterien legionella i flergångsprodukter".
+Rengöring av innerdelar till trachealkanyler, nebuliseringskoppar och liknande ska avslutas med sköljning i sterilt vatten alternativt natriumklorid. Se Rengöring av andningshjälpmedel i hemmet under rubrik 'Åtgärder för att förhindra tillväxt av bakterien legionella i flergångsprodukter'.
 
 Övrigt
 
@@ -70,11 +72,13 @@ Luftfuktare, vattenautomater, bubbelbad och ismaskiner rekommenderas inte.
 
 Kunskapsunderlag
 
-Legionella i miljön - en kunskapssammanställning om hantering av smittrisker $\_{ }$
+Legionella i miljön - en kunskapssammanställning om hantering av smittrisker
 
 Folkhälsomyndigheten
 
-BOV - Byggenskap och Vårdhygien 3.dje utgåvan. sid. 26, Svensk Förening för Vårdhygien- SFVH
+BOV - Byggenskap och Vårdhygien 3.dje utgåvan. sid. 26, Svensk Förening för
+
+Vårdhygien- SFVH
 
 Uppföljning, utvärdering och revision
 
@@ -82,25 +86,21 @@ Vårdhygiens nätverksgrupp i Västra Götaland ansvarar för uppföljning, utv�
 
 Information om handlingen
 
-: Rutin
-
 Handlingstyp
 
-Gäller för
+: Rutin
 
-: Västra Götalandsregionen
+Gäller för : Västra Götalandsregionen
 
-Innehållsansvar
+Innehållsansvar : Ingemar Qvarfordt, (ingqv), Universitetssjukhusö
 
-Granskad av:
+Granskad av: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö
 
-Ingemar Qvarfordt, (ingqv), Universitetssjukhusö
-
-Godkänd av:
-
-Ingemar Qvarfordt, (ingqv), Universitetssjukhusö
+Godkänd av: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö
 
 Dokument-ID
+
+: SSN11800-2140136717-247
 
 Version
 
@@ -113,7 +113,3 @@ Giltig från:
 Giltig till:
 
 2025-03-22
-
-: SSN11800-2140136717-247
-
-: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö

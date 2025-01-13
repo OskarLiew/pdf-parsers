@@ -216,8 +216,7 @@ using clustering. We rst move from a maximization to a minimization by replac
 products with L2, i.e. m((d, q),(d′, q′)) = ϕ(d) − ψ(q′) + ϕ(′d) − ψ(q) which is equivalent
 for normalized embeddings. We then note that treated as symmetric pairs, this term obeys the triangle
 inequality for any other pair m i.e:
-m((d, q), m) + m(m,(d′
-, q
+m((d, q), m) + m(m,(d′, q
 ′
 )) ≥ m((d, q),(d′, q
 ′
@@ -248,8 +247,7 @@ designed with this type of global objective in mind: false negatives are common 
 datasets and their prevalence increases with dataset scale. As one datapoint, Qu et al. (2021) found
 that over 70% of top-retrieved passages in MS Marco are false negatives.
 To avoid a situation where each batch contains a large number of false negatives, we compute an
-equivalence class: S(q, d) = d′ ∈ D  f(q, d′
-) ≥ f(q, d) for some surrogate scoring function f.
+equivalence class: S(q, d) = d′ ∈ D  f(q, d′) ≥ f(q, d) for some surrogate scoring function f.
 At training time, we alter the partition function for d so that it no longer includes the elements of
 S(q, d), which are not denitively negative examples:
 log p(d  q) = exp f(d, q)
