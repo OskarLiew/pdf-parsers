@@ -410,7 +410,7 @@ Den skriftliga dokumentationen har även syftet att skapa transparens så att ma
 
 Om en olycka inträffar och polisen misstänker arbetsmiljöbrott kan det vara avgörande att kunna gå tillbaka i dokumentationen och verifiera hur arbetsmiljöarbetet bedrivits för att bedöma straffansvar.
 
-## Exempel pf blankett för det systematiska arbetsmiljöarbetet
+## Exempel på blankett för det systematiska arbetsmiljöarbetet
 
 Bilden illustrerar en handlingsplan för hur man kan gå till väga vid en riskbedömning. Först dokumenteras risk (som kan komma att uppstå). Nästa steg handlar om att bedöma riskens allvarlighetsgrad. Det sista steget handlar om att genomföra åtgärder och upprätta en handlingsplan för att minimera eller eliminera risken. Här utses ansvarig för genomförandet samt tidplan för när åtgärd ska vara genomförd. Det är även lämpligt att fastställa ett kontrolldatum för att följa upp att åtgärderna haft effekt.
 

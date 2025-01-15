@@ -6,4 +6,4 @@ Vid brand: I första hand, be de boende att stanna i sina lägen heter .
 
 Iandra hand, evakuera till nästa brandcell.
 
-Brandkären tar beslut om en evakuering till Stansviksvägen; p parkeringen.
+Brandkåren tar beslut om en evakuering till uppsamlingsplatsen. Den är på andra sidan Stansviksvägen; på parkeringen.
