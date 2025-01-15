@@ -1,0 +1,3798 @@
+[
+    {
+        "blocks": [
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 24.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    199.0,
+                                    90.0,
+                                    260.0,
+                                    114.0
+                                ],
+                                "text": "Vikto",
+                                "char_start_idx": 0,
+                                "char_end_idx": 4
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    260.0,
+                                    109.0,
+                                    260.0,
+                                    109.0
+                                ],
+                                "text": " ",
+                                "char_start_idx": 5,
+                                "char_end_idx": 5
+                            },
+                            {
+                                "font": {
+                                    "size": 24.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    268.0,
+                                    90.0,
+                                    354.0,
+                                    114.0
+                                ],
+                                "text": "Nilsson",
+                                "char_start_idx": 6,
+                                "char_end_idx": 12
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    354.0,
+                                    109.0,
+                                    354.0,
+                                    109.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 13,
+                                "char_end_idx": 14
+                            }
+                        ],
+                        "bbox": [
+                            199.0,
+                            90.0,
+                            354.0,
+                            114.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    201.0,
+                                    120.0,
+                                    252.0,
+                                    130.0
+                                ],
+                                "text": "SÄLJARE",
+                                "char_start_idx": 15,
+                                "char_end_idx": 21
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    252.0,
+                                    128.0,
+                                    252.0,
+                                    128.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 22,
+                                "char_end_idx": 23
+                            }
+                        ],
+                        "bbox": [
+                            201.0,
+                            120.0,
+                            252.0,
+                            130.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    199.0,
+                    90.0,
+                    354.0,
+                    130.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    163.0,
+                                    116.0,
+                                    177.0
+                                ],
+                                "text": "Profil",
+                                "char_start_idx": 24,
+                                "char_end_idx": 29
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    116.0,
+                                    174.0,
+                                    116.0,
+                                    174.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 30,
+                                "char_end_idx": 31
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            163.0,
+                            116.0,
+                            177.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    163.0,
+                    116.0,
+                    177.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    192.0,
+                                    212.0,
+                                    202.0
+                                ],
+                                "text": "Viktor, 29 år från Småland ",
+                                "char_start_idx": 32,
+                                "char_end_idx": 58
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    212.0,
+                                    200.0,
+                                    212.0,
+                                    200.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 59,
+                                "char_end_idx": 60
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            192.0,
+                            212.0,
+                            202.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    204.0,
+                                    179.0,
+                                    214.0
+                                ],
+                                "text": "men bosatt i Malmö.",
+                                "char_start_idx": 61,
+                                "char_end_idx": 79
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    179.0,
+                                    212.0,
+                                    179.0,
+                                    212.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 80,
+                                "char_end_idx": 81
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            204.0,
+                            179.0,
+                            214.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    192.0,
+                    212.0,
+                    214.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    227.0,
+                                    198.0,
+                                    237.0
+                                ],
+                                "text": "Arbetar idag som Team ",
+                                "char_start_idx": 82,
+                                "char_end_idx": 103
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    198.0,
+                                    235.0,
+                                    198.0,
+                                    235.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 104,
+                                "char_end_idx": 105
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            227.0,
+                            198.0,
+                            237.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    239.0,
+                                    120.0,
+                                    249.0
+                                ],
+                                "text": "Leder på",
+                                "char_start_idx": 106,
+                                "char_end_idx": 113
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    120.0,
+                                    247.0,
+                                    120.0,
+                                    247.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 114,
+                                "char_end_idx": 115
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            239.0,
+                            120.0,
+                            249.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    251.0,
+                                    196.0,
+                                    261.0
+                                ],
+                                "text": "ett IT-bolag, men söker ",
+                                "char_start_idx": 116,
+                                "char_end_idx": 139
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    196.0,
+                                    259.0,
+                                    196.0,
+                                    259.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 140,
+                                "char_end_idx": 141
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            251.0,
+                            196.0,
+                            261.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    262.0,
+                                    186.0,
+                                    272.0
+                                ],
+                                "text": "efter nya utmaningar.",
+                                "char_start_idx": 142,
+                                "char_end_idx": 162
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    186.0,
+                                    270.0,
+                                    186.0,
+                                    270.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 163,
+                                "char_end_idx": 164
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            262.0,
+                            186.0,
+                            272.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    227.0,
+                    198.0,
+                    272.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    304.0,
+                                    135.0,
+                                    318.0
+                                ],
+                                "text": "Kontakt",
+                                "char_start_idx": 165,
+                                "char_end_idx": 171
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    135.0,
+                                    316.0,
+                                    135.0,
+                                    316.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 172,
+                                "char_end_idx": 173
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            304.0,
+                            135.0,
+                            318.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    304.0,
+                    135.0,
+                    318.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    337.0,
+                                    123.0,
+                                    348.0
+                                ],
+                                "text": "Adress:",
+                                "char_start_idx": 174,
+                                "char_end_idx": 180
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    123.0,
+                                    345.0,
+                                    123.0,
+                                    345.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 181,
+                                "char_end_idx": 182
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            337.0,
+                            123.0,
+                            348.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    349.0,
+                                    190.0,
+                                    359.0
+                                ],
+                                "text": "Strandvägen 1, Malmö",
+                                "char_start_idx": 183,
+                                "char_end_idx": 202
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    190.0,
+                                    357.0,
+                                    190.0,
+                                    357.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 203,
+                                "char_end_idx": 204
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            349.0,
+                            190.0,
+                            359.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    337.0,
+                    190.0,
+                    359.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    371.0,
+                                    127.0,
+                                    382.0
+                                ],
+                                "text": "Telefon:",
+                                "char_start_idx": 205,
+                                "char_end_idx": 212
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    127.0,
+                                    380.0,
+                                    127.0,
+                                    380.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 213,
+                                "char_end_idx": 214
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            371.0,
+                            127.0,
+                            382.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    384.0,
+                                    113.0,
+                                    394.0
+                                ],
+                                "text": "+46 70",
+                                "char_start_idx": 215,
+                                "char_end_idx": 220
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    113.0,
+                                    392.0,
+                                    113.0,
+                                    392.0
+                                ],
+                                "text": " ",
+                                "char_start_idx": 221,
+                                "char_end_idx": 221
+                            },
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    117.0,
+                                    384.0,
+                                    168.0,
+                                    394.0
+                                ],
+                                "text": "123 45 67",
+                                "char_start_idx": 222,
+                                "char_end_idx": 230
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    168.0,
+                                    392.0,
+                                    168.0,
+                                    392.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 231,
+                                "char_end_idx": 232
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            384.0,
+                            168.0,
+                            394.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    371.0,
+                    168.0,
+                    394.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    406.0,
+                                    120.0,
+                                    417.0
+                                ],
+                                "text": "E-post:",
+                                "char_start_idx": 233,
+                                "char_end_idx": 239
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    120.0,
+                                    414.0,
+                                    120.0,
+                                    414.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 240,
+                                "char_end_idx": 241
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            406.0,
+                            120.0,
+                            417.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    418.0,
+                                    167.0,
+                                    428.0
+                                ],
+                                "text": "viktor@gmail.com",
+                                "char_start_idx": 242,
+                                "char_end_idx": 257
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    167.0,
+                                    426.0,
+                                    167.0,
+                                    426.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 258,
+                                "char_end_idx": 259
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            418.0,
+                            167.0,
+                            428.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    406.0,
+                    167.0,
+                    428.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    462.0,
+                                    120.0,
+                                    476.0
+                                ],
+                                "text": "Språk",
+                                "char_start_idx": 260,
+                                "char_end_idx": 264
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    120.0,
+                                    473.0,
+                                    120.0,
+                                    473.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 265,
+                                "char_end_idx": 266
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            462.0,
+                            120.0,
+                            476.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    462.0,
+                    120.0,
+                    476.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    494.0,
+                                    128.0,
+                                    505.0
+                                ],
+                                "text": "Svenska",
+                                "char_start_idx": 267,
+                                "char_end_idx": 273
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    128.0,
+                                    503.0,
+                                    128.0,
+                                    503.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 274,
+                                "char_end_idx": 275
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            494.0,
+                            128.0,
+                            505.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    507.0,
+                                    132.0,
+                                    517.0
+                                ],
+                                "text": "Modersmål",
+                                "char_start_idx": 276,
+                                "char_end_idx": 284
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    132.0,
+                                    515.0,
+                                    132.0,
+                                    515.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 285,
+                                "char_end_idx": 286
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            507.0,
+                            132.0,
+                            517.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    494.0,
+                    132.0,
+                    517.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    529.0,
+                                    132.0,
+                                    540.0
+                                ],
+                                "text": "Engelska",
+                                "char_start_idx": 287,
+                                "char_end_idx": 294
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    132.0,
+                                    537.0,
+                                    132.0,
+                                    537.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 295,
+                                "char_end_idx": 296
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            529.0,
+                            132.0,
+                            540.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    541.0,
+                                    142.0,
+                                    551.0
+                                ],
+                                "text": "Flytande i tal",
+                                "char_start_idx": 297,
+                                "char_end_idx": 310
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    142.0,
+                                    549.0,
+                                    142.0,
+                                    549.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 311,
+                                "char_end_idx": 312
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            541.0,
+                            142.0,
+                            551.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    553.0,
+                                    123.0,
+                                    563.0
+                                ],
+                                "text": "och skrift",
+                                "char_start_idx": 313,
+                                "char_end_idx": 322
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    123.0,
+                                    561.0,
+                                    123.0,
+                                    561.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 323,
+                                "char_end_idx": 324
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            553.0,
+                            123.0,
+                            563.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    529.0,
+                    142.0,
+                    563.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    575.0,
+                                    126.0,
+                                    586.0
+                                ],
+                                "text": "Franska",
+                                "char_start_idx": 325,
+                                "char_end_idx": 331
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    126.0,
+                                    584.0,
+                                    126.0,
+                                    584.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 332,
+                                "char_end_idx": 333
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            575.0,
+                            126.0,
+                            586.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    587.0,
+                                    160.0,
+                                    597.0
+                                ],
+                                "text": "Grundkunskaper",
+                                "char_start_idx": 334,
+                                "char_end_idx": 347
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    160.0,
+                                    595.0,
+                                    160.0,
+                                    595.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 348,
+                                "char_end_idx": 349
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            587.0,
+                            160.0,
+                            597.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    599.0,
+                                    168.0,
+                                    609.0
+                                ],
+                                "text": "men kan göra mig",
+                                "char_start_idx": 350,
+                                "char_end_idx": 365
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    168.0,
+                                    607.0,
+                                    168.0,
+                                    607.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 366,
+                                "char_end_idx": 367
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            599.0,
+                            168.0,
+                            609.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    611.0,
+                                    118.0,
+                                    621.0
+                                ],
+                                "text": "förstådd",
+                                "char_start_idx": 368,
+                                "char_end_idx": 375
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    118.0,
+                                    619.0,
+                                    118.0,
+                                    619.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 376,
+                                "char_end_idx": 377
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            611.0,
+                            118.0,
+                            621.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    575.0,
+                    168.0,
+                    621.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    656.0,
+                                    160.0,
+                                    670.0
+                                ],
+                                "text": "Referenser",
+                                "char_start_idx": 378,
+                                "char_end_idx": 387
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    160.0,
+                                    667.0,
+                                    160.0,
+                                    667.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 388,
+                                "char_end_idx": 389
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            656.0,
+                            160.0,
+                            670.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    656.0,
+                    160.0,
+                    670.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    76.0,
+                                    685.0,
+                                    163.0,
+                                    695.0
+                                ],
+                                "text": "Ges vid förfrågan",
+                                "char_start_idx": 390,
+                                "char_end_idx": 406
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    163.0,
+                                    693.0,
+                                    163.0,
+                                    693.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 407,
+                                "char_end_idx": 408
+                            }
+                        ],
+                        "bbox": [
+                            76.0,
+                            685.0,
+                            163.0,
+                            695.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    76.0,
+                    685.0,
+                    163.0,
+                    695.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    173.0,
+                                    327.0,
+                                    187.0
+                                ],
+                                "text": "Erfarenheter",
+                                "char_start_idx": 409,
+                                "char_end_idx": 420
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    327.0,
+                                    184.0,
+                                    327.0,
+                                    184.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 421,
+                                "char_end_idx": 422
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            173.0,
+                            327.0,
+                            187.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    230.0,
+                    173.0,
+                    327.0,
+                    187.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    205.0,
+                                    365.0,
+                                    216.0
+                                ],
+                                "text": "Säljare / Team Leader",
+                                "char_start_idx": 423,
+                                "char_end_idx": 443
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    365.0,
+                                    214.0,
+                                    365.0,
+                                    214.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 444,
+                                "char_end_idx": 445
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            205.0,
+                            365.0,
+                            216.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    218.0,
+                                    353.0,
+                                    230.0
+                                ],
+                                "text": "IT-bolaget, Malmö",
+                                "char_start_idx": 446,
+                                "char_end_idx": 462
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    353.0,
+                                    228.0,
+                                    353.0,
+                                    228.0
+                                ],
+                                "text": " ",
+                                "char_start_idx": 463,
+                                "char_end_idx": 463
+                            },
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Oblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    393.0,
+                                    218.0,
+                                    502.0,
+                                    230.0
+                                ],
+                                "text": "2016 – nuvarande",
+                                "char_start_idx": 464,
+                                "char_end_idx": 479
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    502.0,
+                                    228.0,
+                                    502.0,
+                                    228.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 480,
+                                "char_end_idx": 481
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            218.0,
+                            502.0,
+                            230.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    234.0,
+                                    502.0,
+                                    244.0
+                                ],
+                                "text": "Är Team Leader för en grupp på fyra innesäljare. ",
+                                "char_start_idx": 482,
+                                "char_end_idx": 530
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    502.0,
+                                    242.0,
+                                    502.0,
+                                    242.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 531,
+                                "char_end_idx": 532
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            234.0,
+                            502.0,
+                            244.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    246.0,
+                                    501.0,
+                                    256.0
+                                ],
+                                "text": "Arbetar dagligen med ledarskap, motivation och ",
+                                "char_start_idx": 533,
+                                "char_end_idx": 579
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    501.0,
+                                    254.0,
+                                    501.0,
+                                    254.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 580,
+                                "char_end_idx": 581
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            246.0,
+                            501.0,
+                            256.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    257.0,
+                                    292.0,
+                                    267.0
+                                ],
+                                "text": "delegering.",
+                                "char_start_idx": 582,
+                                "char_end_idx": 592
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    292.0,
+                                    265.0,
+                                    292.0,
+                                    265.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 593,
+                                "char_end_idx": 594
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            257.0,
+                            292.0,
+                            267.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    230.0,
+                    205.0,
+                    502.0,
+                    267.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    289.0,
+                                    338.0,
+                                    300.0
+                                ],
+                                "text": "Account Manager",
+                                "char_start_idx": 595,
+                                "char_end_idx": 609
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    338.0,
+                                    298.0,
+                                    338.0,
+                                    298.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 610,
+                                "char_end_idx": 611
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            289.0,
+                            338.0,
+                            300.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    302.0,
+                                    315.0,
+                                    314.0
+                                ],
+                                "text": "Säljbolaget, ",
+                                "char_start_idx": 612,
+                                "char_end_idx": 624
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    315.0,
+                                    311.0,
+                                    315.0,
+                                    311.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 625,
+                                "char_end_idx": 626
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            302.0,
+                            315.0,
+                            314.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    316.0,
+                                    275.0,
+                                    328.0
+                                ],
+                                "text": "Malmö",
+                                "char_start_idx": 627,
+                                "char_end_idx": 631
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    275.0,
+                                    325.0,
+                                    275.0,
+                                    325.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 632,
+                                "char_end_idx": 633
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            316.0,
+                            275.0,
+                            328.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Oblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    429.0,
+                                    302.0,
+                                    502.0,
+                                    314.0
+                                ],
+                                "text": "2013 - 2016",
+                                "char_start_idx": 634,
+                                "char_end_idx": 644
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    502.0,
+                                    311.0,
+                                    502.0,
+                                    311.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 645,
+                                "char_end_idx": 646
+                            }
+                        ],
+                        "bbox": [
+                            429.0,
+                            302.0,
+                            502.0,
+                            314.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    230.0,
+                    289.0,
+                    502.0,
+                    328.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    332.0,
+                                    461.0,
+                                    342.0
+                                ],
+                                "text": "Ökade företagets försäljning med 100 %. ",
+                                "char_start_idx": 647,
+                                "char_end_idx": 686
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    461.0,
+                                    340.0,
+                                    461.0,
+                                    340.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 687,
+                                "char_end_idx": 688
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            332.0,
+                            461.0,
+                            342.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    343.0,
+                                    500.0,
+                                    353.0
+                                ],
+                                "text": "Arbetade dagligen mot högt uppsatta mål för att",
+                                "char_start_idx": 689,
+                                "char_end_idx": 735
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    500.0,
+                                    351.0,
+                                    500.0,
+                                    351.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 736,
+                                "char_end_idx": 737
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            343.0,
+                            500.0,
+                            353.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    355.0,
+                                    335.0,
+                                    365.0
+                                ],
+                                "text": "ständigt utvecklas.",
+                                "char_start_idx": 738,
+                                "char_end_idx": 756
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    335.0,
+                                    363.0,
+                                    335.0,
+                                    363.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 757,
+                                "char_end_idx": 758
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            355.0,
+                            335.0,
+                            365.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    230.0,
+                    332.0,
+                    500.0,
+                    365.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    387.0,
+                                    311.0,
+                                    398.0
+                                ],
+                                "text": "Butikssäljare",
+                                "char_start_idx": 759,
+                                "char_end_idx": 771
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    311.0,
+                                    396.0,
+                                    311.0,
+                                    396.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 772,
+                                "char_end_idx": 773
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            387.0,
+                            311.0,
+                            398.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    400.0,
+                                    341.0,
+                                    412.0
+                                ],
+                                "text": "Telefonbolaget, ",
+                                "char_start_idx": 774,
+                                "char_end_idx": 789
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    341.0,
+                                    409.0,
+                                    341.0,
+                                    409.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 790,
+                                "char_end_idx": 791
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            400.0,
+                            341.0,
+                            412.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    414.0,
+                                    263.0,
+                                    426.0
+                                ],
+                                "text": "Lund",
+                                "char_start_idx": 792,
+                                "char_end_idx": 795
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    263.0,
+                                    423.0,
+                                    263.0,
+                                    423.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 796,
+                                "char_end_idx": 797
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            414.0,
+                            263.0,
+                            426.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Oblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    429.0,
+                                    400.0,
+                                    502.0,
+                                    412.0
+                                ],
+                                "text": "2011 - 2013",
+                                "char_start_idx": 798,
+                                "char_end_idx": 808
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    502.0,
+                                    409.0,
+                                    502.0,
+                                    409.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 809,
+                                "char_end_idx": 810
+                            }
+                        ],
+                        "bbox": [
+                            429.0,
+                            400.0,
+                            502.0,
+                            412.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    230.0,
+                    387.0,
+                    502.0,
+                    426.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    429.0,
+                                    471.0,
+                                    439.0
+                                ],
+                                "text": "Sålde telefon- och bredbandsabonnemang. ",
+                                "char_start_idx": 811,
+                                "char_end_idx": 850
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    471.0,
+                                    437.0,
+                                    471.0,
+                                    437.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 851,
+                                "char_end_idx": 852
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            429.0,
+                            471.0,
+                            439.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    230.0,
+                                    441.0,
+                                    425.0,
+                                    451.0
+                                ],
+                                "text": "Extraarbete vid sidan av studierna.",
+                                "char_start_idx": 853,
+                                "char_end_idx": 887
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    425.0,
+                                    449.0,
+                                    425.0,
+                                    449.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 888,
+                                "char_end_idx": 889
+                            }
+                        ],
+                        "bbox": [
+                            230.0,
+                            441.0,
+                            425.0,
+                            451.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    453.0,
+                                    314.0,
+                                    467.0
+                                ],
+                                "text": "Utbildning",
+                                "char_start_idx": 890,
+                                "char_end_idx": 899
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    314.0,
+                                    464.0,
+                                    314.0,
+                                    464.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 900,
+                                "char_end_idx": 901
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            453.0,
+                            314.0,
+                            467.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    230.0,
+                    429.0,
+                    471.0,
+                    467.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    485.0,
+                                    396.0,
+                                    496.0
+                                ],
+                                "text": "Account Manager IT Sales",
+                                "char_start_idx": 902,
+                                "char_end_idx": 925
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    396.0,
+                                    494.0,
+                                    396.0,
+                                    494.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 926,
+                                "char_end_idx": 927
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            485.0,
+                            396.0,
+                            496.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    498.0,
+                                    351.0,
+                                    510.0
+                                ],
+                                "text": "Sälj & Marknads-\n",
+                                "char_start_idx": 928,
+                                "char_end_idx": 943
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            498.0,
+                            351.0,
+                            510.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-BoldOblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    512.0,
+                                    377.0,
+                                    524.0
+                                ],
+                                "text": "högskolan, Göteborg",
+                                "char_start_idx": 944,
+                                "char_end_idx": 962
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    377.0,
+                                    522.0,
+                                    377.0,
+                                    522.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 963,
+                                "char_end_idx": 964
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            512.0,
+                            377.0,
+                            524.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 12.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Oblique",
+                                    "flags": 524356
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    433.0,
+                                    498.0,
+                                    510.0,
+                                    510.0
+                                ],
+                                "text": " 2011 - 2013",
+                                "char_start_idx": 965,
+                                "char_end_idx": 976
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    510.0,
+                                    508.0,
+                                    510.0,
+                                    508.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 977,
+                                "char_end_idx": 978
+                            }
+                        ],
+                        "bbox": [
+                            433.0,
+                            498.0,
+                            510.0,
+                            510.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    236.0,
+                    485.0,
+                    510.0,
+                    524.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    528.0,
+                                    366.0,
+                                    538.0
+                                ],
+                                "text": "Några relevanta kurser:",
+                                "char_start_idx": 979,
+                                "char_end_idx": 1001
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    366.0,
+                                    536.0,
+                                    366.0,
+                                    536.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1002,
+                                "char_end_idx": 1003
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            528.0,
+                            366.0,
+                            538.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    539.0,
+                                    403.0,
+                                    549.0
+                                ],
+                                "text": "- Introduktion till IT-branschen",
+                                "char_start_idx": 1004,
+                                "char_end_idx": 1035
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    403.0,
+                                    547.0,
+                                    403.0,
+                                    547.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1036,
+                                "char_end_idx": 1037
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            539.0,
+                            403.0,
+                            549.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    551.0,
+                                    303.0,
+                                    561.0
+                                ],
+                                "text": "- Försäljning",
+                                "char_start_idx": 1038,
+                                "char_end_idx": 1050
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    303.0,
+                                    559.0,
+                                    303.0,
+                                    559.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1051,
+                                "char_end_idx": 1052
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            551.0,
+                            303.0,
+                            561.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    563.0,
+                                    329.0,
+                                    573.0
+                                ],
+                                "text": "- Marknadsföring",
+                                "char_start_idx": 1053,
+                                "char_end_idx": 1068
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    329.0,
+                                    571.0,
+                                    329.0,
+                                    571.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1069,
+                                "char_end_idx": 1070
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            563.0,
+                            329.0,
+                            573.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    574.0,
+                                    337.0,
+                                    584.0
+                                ],
+                                "text": "- Företagsekonomi",
+                                "char_start_idx": 1071,
+                                "char_end_idx": 1087
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    337.0,
+                                    582.0,
+                                    337.0,
+                                    582.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1088,
+                                "char_end_idx": 1089
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            574.0,
+                            337.0,
+                            584.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    586.0,
+                                    330.0,
+                                    596.0
+                                ],
+                                "text": "- Digitala trender",
+                                "char_start_idx": 1090,
+                                "char_end_idx": 1107
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    330.0,
+                                    594.0,
+                                    330.0,
+                                    594.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1108,
+                                "char_end_idx": 1109
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            586.0,
+                            330.0,
+                            596.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    598.0,
+                                    282.0,
+                                    608.0
+                                ],
+                                "text": "- Retorik",
+                                "char_start_idx": 1110,
+                                "char_end_idx": 1118
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    282.0,
+                                    606.0,
+                                    282.0,
+                                    606.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1119,
+                                "char_end_idx": 1120
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            598.0,
+                            282.0,
+                            608.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    236.0,
+                    528.0,
+                    403.0,
+                    608.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 14.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    643.0,
+                                    337.0,
+                                    657.0
+                                ],
+                                "text": "Kompetenser",
+                                "char_start_idx": 1121,
+                                "char_end_idx": 1131
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    337.0,
+                                    654.0,
+                                    337.0,
+                                    654.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1132,
+                                "char_end_idx": 1133
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            643.0,
+                            337.0,
+                            657.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    236.0,
+                    643.0,
+                    337.0,
+                    657.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    671.0,
+                                    348.0,
+                                    682.0
+                                ],
+                                "text": "Certifierad säljare",
+                                "char_start_idx": 1134,
+                                "char_end_idx": 1152
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    348.0,
+                                    680.0,
+                                    348.0,
+                                    680.0
+                                ],
+                                "text": " ",
+                                "char_start_idx": 1153,
+                                "char_end_idx": 1153
+                            },
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    413.0,
+                                    671.0,
+                                    479.0,
+                                    682.0
+                                ],
+                                "text": "Kunskaper",
+                                "char_start_idx": 1154,
+                                "char_end_idx": 1162
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    479.0,
+                                    680.0,
+                                    479.0,
+                                    680.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1163,
+                                "char_end_idx": 1164
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            671.0,
+                            479.0,
+                            682.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    236.0,
+                    671.0,
+                    479.0,
+                    682.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    692.0,
+                                    291.0,
+                                    702.0
+                                ],
+                                "text": "- Säljteknik",
+                                "char_start_idx": 1165,
+                                "char_end_idx": 1176
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    291.0,
+                                    700.0,
+                                    291.0,
+                                    700.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1177,
+                                "char_end_idx": 1178
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            692.0,
+                            291.0,
+                            702.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    705.0,
+                                    386.0,
+                                    715.0
+                                ],
+                                "text": "- Mötesbokning via email och ",
+                                "char_start_idx": 1179,
+                                "char_end_idx": 1207
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    386.0,
+                                    713.0,
+                                    386.0,
+                                    713.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1208,
+                                "char_end_idx": 1209
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            705.0,
+                            386.0,
+                            715.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    718.0,
+                                    271.0,
+                                    728.0
+                                ],
+                                "text": "telefon",
+                                "char_start_idx": 1210,
+                                "char_end_idx": 1216
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    271.0,
+                                    726.0,
+                                    271.0,
+                                    726.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1217,
+                                "char_end_idx": 1218
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            718.0,
+                            271.0,
+                            728.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    732.0,
+                                    406.0,
+                                    742.0
+                                ],
+                                "text": "- Leadsbearbetning för potentiella",
+                                "char_start_idx": 1219,
+                                "char_end_idx": 1252
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    406.0,
+                                    740.0,
+                                    406.0,
+                                    740.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1253,
+                                "char_end_idx": 1254
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            732.0,
+                            406.0,
+                            742.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 10.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    236.0,
+                                    745.0,
+                                    271.0,
+                                    755.0
+                                ],
+                                "text": "kunder",
+                                "char_start_idx": 1255,
+                                "char_end_idx": 1260
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    271.0,
+                                    753.0,
+                                    271.0,
+                                    753.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1261,
+                                "char_end_idx": 1262
+                            }
+                        ],
+                        "bbox": [
+                            236.0,
+                            745.0,
+                            271.0,
+                            755.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    236.0,
+                    692.0,
+                    406.0,
+                    755.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    420.0,
+                                    692.0,
+                                    471.0,
+                                    703.0
+                                ],
+                                "text": "Rekryteri",
+                                "char_start_idx": 1263,
+                                "char_end_idx": 1271
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    471.0,
+                                    700.0,
+                                    471.0,
+                                    700.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1272,
+                                "char_end_idx": 1273
+                            }
+                        ],
+                        "bbox": [
+                            420.0,
+                            692.0,
+                            471.0,
+                            703.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    420.0,
+                                    706.0,
+                                    434.0,
+                                    717.0
+                                ],
+                                "text": "ng",
+                                "char_start_idx": 1274,
+                                "char_end_idx": 1275
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    434.0,
+                                    715.0,
+                                    434.0,
+                                    715.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1276,
+                                "char_end_idx": 1277
+                            }
+                        ],
+                        "bbox": [
+                            420.0,
+                            706.0,
+                            434.0,
+                            717.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    420.0,
+                                    721.0,
+                                    468.0,
+                                    732.0
+                                ],
+                                "text": "Ekonomi",
+                                "char_start_idx": 1278,
+                                "char_end_idx": 1284
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    468.0,
+                                    730.0,
+                                    468.0,
+                                    730.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1285,
+                                "char_end_idx": 1286
+                            }
+                        ],
+                        "bbox": [
+                            420.0,
+                            721.0,
+                            468.0,
+                            732.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    420.0,
+                                    736.0,
+                                    470.0,
+                                    747.0
+                                ],
+                                "text": "Ledarska",
+                                "char_start_idx": 1287,
+                                "char_end_idx": 1294
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    470.0,
+                                    745.0,
+                                    470.0,
+                                    745.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1295,
+                                "char_end_idx": 1296
+                            }
+                        ],
+                        "bbox": [
+                            420.0,
+                            736.0,
+                            470.0,
+                            747.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    420.0,
+                                    751.0,
+                                    427.0,
+                                    762.0
+                                ],
+                                "text": "p",
+                                "char_start_idx": 1297,
+                                "char_end_idx": 1297
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    427.0,
+                                    759.0,
+                                    427.0,
+                                    759.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1298,
+                                "char_end_idx": 1299
+                            }
+                        ],
+                        "bbox": [
+                            420.0,
+                            751.0,
+                            427.0,
+                            762.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    420.0,
+                    692.0,
+                    471.0,
+                    762.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    493.0,
+                                    692.0,
+                                    511.0,
+                                    703.0
+                                ],
+                                "text": "3/5",
+                                "char_start_idx": 1300,
+                                "char_end_idx": 1302
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    511.0,
+                                    700.0,
+                                    511.0,
+                                    700.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1303,
+                                "char_end_idx": 1304
+                            }
+                        ],
+                        "bbox": [
+                            493.0,
+                            692.0,
+                            511.0,
+                            703.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    493.0,
+                                    705.0,
+                                    511.0,
+                                    716.0
+                                ],
+                                "text": "4/5",
+                                "char_start_idx": 1305,
+                                "char_end_idx": 1307
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    511.0,
+                                    713.0,
+                                    511.0,
+                                    713.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 1308,
+                                "char_end_idx": 1309
+                            }
+                        ],
+                        "bbox": [
+                            493.0,
+                            705.0,
+                            511.0,
+                            716.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 11.0,
+                                    "weight": 400,
+                                    "name": "DejaVuSans",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    493.0,
+                                    717.0,
+                                    511.0,
+                                    728.0
+                                ],
+                                "text": "5/5",
+                                "char_start_idx": 1310,
+                                "char_end_idx": 1312
+                            }
+                        ],
+                        "bbox": [
+                            493.0,
+                            717.0,
+                            511.0,
+                            728.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    493.0,
+                    692.0,
+                    511.0,
+                    728.0
+                ]
+            }
+        ],
+        "page": 0,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    }
+]

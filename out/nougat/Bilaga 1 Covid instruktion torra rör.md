@@ -1,8 +1,4 @@
-
-
-## 1.
-
-
+ 
 
 Tap prov pá dig jálv
 1. Skruva av locket pá provroret, provtagningspinen sitter fast i skruvlocket.

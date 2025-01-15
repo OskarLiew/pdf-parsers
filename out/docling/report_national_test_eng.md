@@ -1,0 +1,280 @@
+<!-- image -->
+
+## PROJEKTET NATIONELLA PROV I FRÄMMANDE SPRÅK
+
+## Nationellt prov i engelska, årskurs 6, läsåret 2023/2024
+
+Institutionen för pedagogik och specialpedagogik, Göteborgs universitet, Projektet Nationella prov i främmande språk (NAFS)
+
+## 1 Inledning
+
+Denna rapport är en delredovisning inom ramen för en överenskommelse mellan Göteborgs universitet (Institutionen för pedagogik och specialpedagogik, projektet Nationella prov i främmande  språk/NAFS)  och  Skolverket  att  utveckla  och  konstruera  nationella  prov  i engelska (Dnr 2.7.4-2021:1843). Syftet med de nationella proven är att stödja en likvärdig och rättvis  betygssättning.  De  nationella  proven  kan  också  bidra  till  att  stärka  skolornas kvalitetsarbete genom analyser av provresultaten i relation till rådande kriterier på skolnivå, huvudmannanivå och på nationell nivå.
+
+Rapporten avser det nationella prov som gavs läsåret 2023/2024  för årskurs 6. Provet är obligatoriskt  som  stöd  för  betygssättning  i  grundskolan  och  utgår  från  kursplanens skrivningar. De olika delarna i provet, Delprov A: Focus:  Speaking , Delprov B: Focus: Reception ( Reading/Listening ) och Delprov C: Focus: Writing ,  anknyter också till Europarådets ramverk för språkinlärning och språkbedömning, Gemensam europeisk referensram för språk: lärande, undervisning och bedömning med dess rubriceringar reception, interaktion och produktion.
+
+Rapporten baseras på data från provprojektet NAFS insamling av provresultat, resultat från den lärarenkät som de lärare som genomfört provet ombetts besvara, samt data från elev- och lärarenkäter i samband med utprövningarna av de uppgifter som ingick i det nationella provet i engelska för årskurs 6 läsåret 2023/2024.
+
+## 2 Konstruktionsprocessen för nationella prov i engelska
+
+Projektet Nationella prov i främmande språk arbetar med utveckling av de nationella proven i engelska, samt övriga bedömningsstödjande material i engelska, tyska, franska och spanska, på uppdrag av Skolverket. Provmaterialen tas fram i nära samarbete med referensgrupper och bygger på ett antal grundläggande, forskningsbaserade principer. Arbetet bedrivs i enlighet med interna ramverk för prov och bedömningsstöd som följer Skolverkets systemramverk för nationella prov (2017) respektive motsvarande för betygsstödjande nationella bedömningsstöd (2020). På Skolverkets webb beskrivs detta enligt följande: 'Systemramverket syftar till att  reglera  verksamheten  för  Skolverket  och  de  lärosäten  som  på  Skolverkets  uppdrag utvecklar nationella prov. Avsikten med ramverket är att säkerställa högsta möjliga kvalitet i de nationella proven, och högsta möjliga trovärdighet i användning och konsekvenser av resultat på nationella prov i förhållande till de syften som proven har. Den primära målgruppen för  ramverket  är  Skolverket  och  de  lärosäten  som  på  Skolverkets  uppdrag  konstruerar nationella prov.'
+
+Projektets medarbetare har till övervägande del en bakgrund som erfarna och legitimerade lärare  i  det  aktuella  språket/språken  och  flera  är  också  engagerade  i  skolutveckling, lärarutbildning, forskning, nationella projekt kring lärande, undervisning och bedömning, samt i omfattande internationella nätverk.
+
+I processen som följer en uppgift från konstruktion till publicering i prov deltar en stor grupp personer som granskar, prövar och bedömer. Olika typer av referensgrupper medverkar under olika skeden, förnyas successivt och har en bred sammansättning av lärare på aktuella och intilliggande nivåer, inklusive personer med specialpedagogisk kompetens, lärarutbildare, personer med målspråket som förstaspråk samt forskare från skilda discipliner.
+
+Varje uppgift granskas också av hundratals elever, som medverkar i mindre, preliminära utprövningar samt i den storskaliga utprövning som föregår alla skarpa prov. I den senare deltar cirka 400 elever per uppgift vid slumpvis valda skolor runt om i landet. I samband med utprövningar besvarar både eleverna och deras lärare enkäter om funktionalitet, som upplevd svårighetsgrad och nytta samt acceptans, avseende de utprövade uppgifterna. Dessa uppfattningar analyseras och beaktas vid provens sammansättning. Efter provets genomförande får samtliga lärare sedan besvara ytterligare en enkät och framföra åsikter om olika aspekter av provet.
+
+Provets betygsgränser och bedömningsexempel tas fram i referensgrupper om ungefär femton aktiva lärare och provutvecklare. Dessa lämnar på basis av styrdokument och erfarenhet förslag på såväl poänggränser som nivårelaterade, autentiska elevtexter och parsamtal från de storskaliga utprövningarna. Förslagen diskuteras och analyseras vidare i relation till data från utprövningarna samt föreläggs slutligen Skolverket, som är den instans som fastställer såväl själva provet som dess poänggränser och kommenterade nivåexempel.
+
+Utvecklingen  av  ett  nationellt  prov  tar  i  regel  cirka  två  år  och  utgår  från  analyser  av styrdokument, relevant forskning samt beprövad erfarenhet inom området. Likaså finns ett antal  kvalitetsparametrar  med  i  utvecklingsarbetet,  under  hela  processen  från  initial konstruktion till sammansättning av ett skarpt prov och analys av utfall. Dessa involverar främst följande:
+
+- · Innehåll, relevans och lämplighet i relation till läroplan, kursplan, forskning, aktuell målgrupp samt beprövad erfarenhet
+- · Uppgifternas och provets mättekniska egenskaper, inklusive frågor om samstämmighet mellan bedömare
+- · Svårighetsgrad (faktisk respektive upplevd) i relation till kursplanen, inklusive rådande kriterier
+- · Utprövande elevers och lärares synpunkter på uppgifterna
+- · Aspekter av tid och tidsåtgång
+- · Eventuella tematiska aspekter
+- · Genus-, ålders- och identitetsrelaterade aspekter
+- · Etiska och värdegrundsrelaterade aspekter
+- · Kultur- och livsstilsaspekter (såsom etniska, politiska, religiösa och sociala)
+- · Variation vad gäller innehåll och format
+- · Likheter och skillnader i relation till tidigare prov
+- · Provdelarnas inbördes relation, bl.a. vad gäller progression inom och mellan uppgifter
+- · Reflektion av målspråksområdets bredd, såväl språkligt som kulturellt
+- · Signaleffekter/ Washback för lärande och undervisning
+
+De nationella proven i engelska är så kallade proficiency tests , vilket innebär att de avser pröva och indikera testtagarens allmänna språkfärdighet i ljuset av kursplanens långsiktiga mål och rådande kriterier, oavsett när, hur och var hen har tillägnat sig denna. Som redovisas mer ingående i det följande är de uppdelade i tre delprov, varav ett med två delar. De olika delproven har mycket likartad uppbyggnad mellan år, för att möjliggöra likvärdighet och stabilitet över tid.
+
+Elevernas förmåga prövas i viss mån i integrerade former och svarsformaten har bred variation för att så många elever som möjligt ska få visa vad de kan på ett sätt som passar den egna profilen.  Formaten  varierar  från  aktiv  språkanvändning  av  performanskaraktär  (jfr. performance-based assessment ), genom produktion och interaktion i tal och skrift i två delprov, till en blandning av constructed response (eleverna svarar genom att producera svar på engelska) eller selected response (eleverna väljer korrekt svarsalternativ, antingen bland ett antal svarsalternativ eller genom att matcha t.ex. en text med en rubrik). Balansen i delprovet som avser pröva reception brukar vara cirka 50 procent vardera  av dessa båda övergripande svarsformat, för att eleverna ska få visa sina kunskaper på olika sätt.
+
+Eftersom proven omfattas av sekretess, kan inga konkreta exempel eller kommentarer kring de olika delarna av årets prov ges i detta forum. För ytterligare information om prov och bedömning i språk hänvisas till projektets publikationssida samt de exempel på provuppgifter som  ges  på  projektets  webbplats  (https://www.gu.se/nationella-prov-frammande-sprak). Utfallet av proven rapporteras av Skolverket och finns också beskrivet och diskuterat i diverse texter och presentationer av NAFS-projektets medarbetare; dessa texter nås via projektets publikationssida.
+
+## 3 Provets sammansättning
+
+Sammansättningen av provet har skett i enlighet med de kvalitetsparametrar och processer som finns beskrivna i föregående del av rapporten och som beaktas från initial konstruktion, miniutprövningar och storskaliga utprövningar till sammansättning av ett skarpt prov.
+
+## Delprov A: muntlig produktion och interaktion
+
+Årets delprov i muntlig produktion och interaktion gav eleverna tillfälle att samtala kring vardagliga ämnen med ett övergripande tema och bestod, liksom tidigare år, av tre delar. Provet inleddes med en warm-up , där eleverna fick berätta för varandra utifrån tre aspekter av elevnära  ämnen.  I  nästa  del  gavs  eleverna möjlighet att  tala utifrån en bild.  Denna del fokuserade  främst  förmågan  till  muntlig  produktion.  Den  sista  delen  syftade  till  att  ge möjlighet till interaktion, genom att eleverna uttryckte sina åsikter utifrån några olika elevnära ämnen och samtalade kring dessa. På så vis fick eleverna visa sin förmåga i både muntlig produktion och interaktion.
+
+Till stöd för lärarnas bedömning av elevprestationerna gavs tre  kommenterade, autentiska elevsamtal,  så  kallade benchmarks ,  på  olika  nivåer.  Dessa  tas  fram  vid  storskaliga  utprövningar och väljs ut i referensgrupper, som tidigare nämnts.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Delprov B: reception
+
+## Delprov B 1: läsförståelse
+
+Läsförståelsedelen i årets prov bestod av fyra  uppgifter som på olika sätt gav eleverna möjlighet att visa sin förmåga att läsa och förstå engelska texter av skilda slag. Delprovet inleddes med ett antal korta dialoger, där den fjärde avslutande frasen saknades. Uppgiften prövar innehållslig förståelse genom att det alternativ som passar bäst som avslutning ska väljas.
+
+Inspiration till textunderlagen i den andra uppgiften var hämtat från ett autentiskt material. Utifrån ett antal korta informationstexter med en gemensam nämnare skulle eleverna besvara ett antal frågor. ( info seek )
+
+Den tredje uppgiften var en sammanhängande text där ett antal ord saknades. Eleverna skulle till varje lucka välja det av fyra alternativ som passade bäst in i luckan. Utöver förståelse prövas förråd av ord och fraser, samt viss formell säkerhet. Även detta textunderlag var autentiskt.
+
+Den fjärde uppgiften var en längre, sammanhängande berättande text, som var uppdelad i tre delar.  Här var frågorna av blandat format med både  flervalsfrågor  och  öppna frågor  där eleverna formulerade egna svar. Denna typ av läsförståelse avser att pröva elevernas förmåga att läsa för att förstå detaljer ( reading the lines )  men också förmågan att förstå helhet och sammanhang på ett djupare plan ( reading between the lines ). Uppgiften var en återanvändning från ett tidigare prov.
+
+## Delprov B 2: hörförståelse
+
+Hörförståelsedelen i årets prov bestod av två  uppgifter  som på varierande sätt prövade elevernas förmåga att lyssna och förstå olika typer av talad engelska. Delprovet inleddes med tretton  korta  autentiska, men bearbetade, nyheter  som eleverna fick höra en gång. Inför uppspelningen fick eleverna en fråga och de ombads att lyssna och förstå både helhet och sammanhang i nyheterna, för att sedan välja rätt alternativ utifrån fyra möjliga.
+
+I den andra uppgiften lyssnade eleverna på en längre berättelse, delvis baserad på autentiskt material.  Berättelsen  var uppdelad  i kortare avsnitt och inför varje avsnitt gavs eleverna möjlighet att läsa igenom frågorna, som antingen besvarades med egna ord eller genom att välja ett av fyra svarsalternativ. Avslutningsvis fick eleverna höra hela berättelsen en gång till utan inlagda pauser.
+
+Vid bedömning av uppgifter med öppna svar i både läs- och hörförståelse, där elever själva ska formulera sig på engelska, ligger fokus på elevernas förmåga att uppfatta det som efterfrågas. Det är inte stavning eller språklig form som fokuseras här.
+
+Sammanfattningsvis kan noteras att balansen mellan constructed och selected response totalt i delprov B liknade tidigare år med ungefär hälften av poängen fördelade på respektive svarsformat. Avseende tematiska aspekter och målspråksområdets bredd, såväl språkligt som kulturellt, hade delprovet variation i innehåll med representation från såväl Storbritannien, Australien samt USA.
+
+## Delprov C: skriftlig produktion och interaktion
+
+I delprov C var uppgiften att skriva en text om ett ämne av elevnära karaktär till en given mottagare och i ett givet sammanhang. Det övergripande syftet var att ge eleverna möjlighet att visa förmåga att formulera sig och kommunicera på engelska i skrift, enligt långsiktiga mål för skriftlig produktion och interaktion. Som stöd och inspiration för skrivandet innehöll
+
+uppgiften bilder och en instruktion. Dessutom fanns ett antal stödfrågor, som avsåg inbjuda till att uttrycka,  utveckla  och förklara ett innehåll och  som innebar en viss innehållslig valmöjlighet inom givna ramar. Stödfrågorna kan också ses som en hjälp för elever att organisera sitt skrivande.
+
+Till stöd för lärarnas bedömning av elevprestationerna gavs nio kommenterade, autentiska elevtexter,  så  kallade benchmarks ,  på  olika  nivåer.  Underlaget  tas  fram  vid  storskaliga utprövningar och elevtexterna väljs ut i referensgrupper i samarbete med bland andra aktiva lärare, som tidigare beskrivits.
+
+## Ett aggregerat provbetyg
+
+Provbetyget sammanfattar de kunskaper som eleven har visat vid provtillfället och ska särskilt beaktas vid betygssättningen. Det sammantagna provbetyget är i viss mån kompensatoriskt och tas fram genom en sammanvägningsmodell av resultaten på samtliga delprov, vilken ger de olika delproven samma vikt. Samtliga delprov bedöms mot den sexgradiga skalan.
+
+## 4 Insamling
+
+Efter genomförandet av det nationella provet i engelska för årskurs 6 görs två insamlingar på landets skolor. Den ena insamlingen gäller rapportering av provresultat för samtliga elever som genomfört provet. Insamlingen görs av Statistiska Centralbyrån (SCB). Uppgifterna lämnas in till SCB från huvudmännen eller direkt från skolenheterna.
+
+Den andra insamlingen gäller ett urval av elevprestationer och resultat på uppgiftsnivå, samt en lärarenkät om provets genomförande. Denna insamling görs av projektet NAFS, vid Göteborgs universitet. Uppgifterna lämnas dels in digitalt, dels genom att ansvariga lärare skickar  in hela elevprestationer. Provinstitutionen har efter årets prov fått in drygt  850 resultatprofiler på delprovsnivå och nästan 400 hela provhäften för elever födda vissa datum, vilket medger kvalitativa och kvantitativa analyser av enskilda elevsvar och elevprestationer.
+
+## Provresultat med kommentarer
+
+För det nationella provet i engelska för årskurs 6 läsåret 2023/2024  har ett sammanvägt provbetyg skickats in till NAFS för drygt 850 elever. I Tabell 1 nedan redovisas andelen elever som nått de olika betygsstegen och i Tabell 2 betygsfördelningen på de olika delproven. Resultaten baseras på Nafs insamling enligt ovan. För att få ett provbetyg måste alla delprov vara genomförda. 96 procent av eleverna har uppnått provbetyg E-A, vilket ligger i linje med 2022/2023 års prov.
+
+Tabell 1 Provbetyg engelska årskurs 6. Antal elever med provbetyg totalt och uppdelat på flickor och pojkar samt fördelat på betygssteg F-A
+
+| Antal     | elever  med   | Betygsfördelning (%)   | Betygsfördelning (%)   | Betygsfördelning (%)   | Betygsfördelning (%)   | Betygsfördelning (%)   | Betygsfördelning (%)   |
+|-----------|---------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| provbetyg | provbetyg     | F                      | E                      | D                      | C                      | B                      | A                      |
+| Totalt    | 843           | 3,9                    | 7,5                    | 11,8                   | 19                     | 26,5                   | 28,9                   |
+| Flickor   | 391           | 3,1                    | 7,9                    | 14,1                   | 19,7                   | 24,6                   | 30,7                   |
+| Pojkar    | 428           | 5,1                    | 7,7                    | 10                     | 18,9                   | 29,2                   | 29                     |
+
+Tabell 2 - Delprovsresultat engelska årskurs 6. Resultatfördelning på delprovsnivå
+
+| Resultatfördelning (%)   | Resultatfördelning (%)   | Resultatfördelning (%)   | Resultatfördelning (%)   | Resultatfördelning (%)   | Resultatfördelning (%)   | Resultatfördelning (%)   |
+|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Delprov                  | F                        | E                        | D                        | C                        | B                        | A                        |
+| A                        | 6                        | 11,5                     | 13,2                     | 21,4                     | 20,8                     | 26,1                     |
+| B                        | 5,2                      | 7,7                      | 7,9                      | 17,6                     | 23,4                     | 37,4                     |
+| C                        | 8,5                      | 10,6                     | 12,8                     | 22,2                     | 18,5                     | 24,7                     |
+
+I tabellerna ovan kan man sammantaget utläsa att många elevers resultat visar på goda kunskaper i engelska i förhållande till gällande kriterier för årskurs 6, då nästan tre fjärdedelar av eleverna uppnått provbetyget C-A. I delprov A (muntlig produktion och interaktion) har 94 procent uppnått provbetyget E-A. I delprov C (skriftlig produktion och interaktion) är motsvarande  siffra  91  procent,  samt  95  procent  i  delprov  B  (läsa  och  lyssna).  Vid  en jämförelse mellan de tre delproven kan det konstateras att flest elever (60 procent) uppnår de högsta resultaten, A respektive B, på delprov B.
+
+Analysen av resultat baserade på NAFS insamling av provhäften från läsåret 2023/2024 visar att  uppgifterna  i  delprov  B  överlag  har  fungerat  väl  och  i  enlighet  med  resultat  från utprövningar. Som tidigare nämnts hade flest elever resultatet A respektive B i delprov B. Däremot var det drygt 8 procent av eleverna som fick delprovsresultatet F i delprov C.
+
+En uppgift, den sista läsförståelseuppgiften, har ingått i ett tidigare prov, läsåret 2021/2022. I år är elevernas resultat på den uppgiften högre jämfört med när den användes första gången. Vid en jämförelse med resultat från tidigare år syns  en  viss  ökning i delprov  B, medan resultaten för delprov A och C är  i princip oförändrade.  Sammantaget visar resultaten att elever i årskurs 6 har goda kunskaper i engelska, i relation till gällande kriterier.
+
+## Enkätresultat med kommentarer
+
+Alla uppgifter som ingår i ett nationellt prov i engelska granskas och kommenteras i olika led innan de används i prov. Dels får elever och lärare möjlighet att ge sina åsikter om olika uppgifter i samband med mindre utprövningar under konstruktionsprocessen, dels besvarar både elever och lärare enkäter om uppgifterna i samband med den storskaliga utprövning som alla provuppgifter som ingår i ett nationellt prov i engelska genomgår. Dessutom granskas uppgifterna innehållsmässigt och språkligt i de referensgrupper som tar del av materialet på vägen fram till det färdiga provet. Synpunkter på materialet tas till vara i processens olika steg.
+
+## Elevenkäter från utprövningar
+
+I  den storskaliga utprövningen av uppgifter avseende läs-  och hörförståelse samt skriftlig produktion  och  interaktion  ombeds  eleverna  besvara  en  enkät  som  handlar  om  provets funktionalitet så som upplevd svårighetsgrad, nytta samt acceptans. Eleverna besvarar enkäten genom att markera sina svar på en femgradig Likert-skala. Den muntliga uppgiften prövas ut i mindre omfattning och eleverna ges här en annan typ av enkät. I den får de möjlighet att uttala sig om svårighetsgraden i de tre olika delarna av uppgiften ( warm-up , Part 1 och Part 2 ), samt delge vad de tycker om instruktionerna. Eleverna ges också möjlighet att kommentera uppgifterna med egna ord på engelska eller svenska. Dessa elevenkäter, ofta refererade till som test-taker feedback, används dels som underlag för provutveckling, dels som underlag vid urval av uppgifter och sammansättning av hela prov.
+
+## Delprov A: muntlig produktion och interaktion
+
+Uppgiften togs väl emot av eleverna. Allra bäst tyckte eleverna om Warm-Up, där de flesta upplevde  att  denna del var  lättast att tala om, men även Part One och Part Two fick övervägande positiva omdömen. En klar majoritet av eleverna ansåg att instruktionerna var tydliga och att uppgiften prövade något viktigt.
+
+## Delprov B: reception
+
+Uppgifterna har tagits emot väl av eleverna. Många valde de tre mest positiva alternativen på Likert-skalan för de olika läsförståelseuppgifterna angående hur bra uppgiften var och hur väl de presterade. Omdömet från eleverna skiljer sig inte åt i någon större utsträckning, även om den sista läsförståelseuppgiften var minst rolig. Utprövningssiffrorna visade att den första delen var enklast, med den sista som näst lättast.
+
+Generellt upplever eleverna hörförståelse som svårare än läsförståelse, vilket syns i test-taker feedback. Utprövningsdata visar att eleverna tyckte något bättre om den hörförståelseuppgift som de endast  fick  lyssna på en gång. De  ansåg  att den  var  lättare,  att den  var  en bra provuppgift och upplevde att de klarade den bra.
+
+Resultatinsamlingen efter provet visar att den första uppgiften i delprov B 1, läsförståelse, precis som utprövningarna indikerat, var den lättaste uppgiften. Resultaten på hörförståelseuppgifterna i delprov B 2 visar att eleverna klarade den första uppgiften bäst, precis som utprövningarna visade. Variationen i svårighetsgrad inom uppgifterna är genomgående god. Varje uppgift inleds med någon eller några enklare frågor för att därefter bli svårare. Detta är önskvärt för elevernas motivation.
+
+## Delprov C: skriftlig produktion och interaktion
+
+Uppgiften togs emot väl av eleverna i utprövningen. De flesta tyckte att uppgiften var rolig och att det var ett bra prov. Så här uttryckte sig några av eleverna:
+
+- 'This was a good test. because there was no 'right' or 'wrong' answer, like you could said what you think. It was fun cause I think this is a important subject to talk about and that hopefully every 'kid' know about.'
+- 'I think it was a little bit difficult to understand but when you read it a couple of times it got easy!'
+- 'It was fun to do this test, beacuse I did something new and it is fun to do stuff you havn't done before. I't was easy until the letter, because from the start, I couldn't write so much because I didn't know what to writ, but in the end it went pretty good. I think I did quite good.'
+
+## Lärarröster från utprövningar och arbete i referensgrupper
+
+Lärare ombeds i den storskaliga utprövningen att besvara en enkät med ett antal frågor om uppgifterna, bland annat om uppgiftens svårighetsgrad för den egna elevgruppen samt  i relation till kursplanen. Lärarna får också möjlighet att ge en allmän uppfattning om uppgiften. Samtliga uppgifter som ingår i det nationella provet läsåret 2023/2024 togs emot positivt vid respektive utprövningstillfälle och en majoritet av lärarna ansåg att uppgifternas svårighetsgrad var lagom i relation till kursplanen i engelska för årskurs 6.
+
+## Lärarenkät efter provets genomförande
+
+Efter provets genomförande inkom endast 419 lärarenkäter. Eftersom urvalet är självselekterat bör resultaten tolkas med försiktighet. Nedan följer en sammanfattning av resultat inhämtade
+
+från dessa lärarenkäter. Samtliga frågor med bundet format i lärarenkäten för engelska årskurs 6 läsåret 2023/2024 finns sammanställda på projektets webbplats.
+
+I lärarenkäten finns ett antal frågor om provet som helhet och sådana som gäller för de olika delproven var för sig. Utöver dessa får lärarna i enkäten även möjlighet att fritt kommentera och lämna synpunkter i öppna kommentarsfält. Nedanstående två diagram  beskriver hur provet som helhet har tagits emot av de 419 lärare som har besvarat enkäten. Lärarna ombads svara på i vilken utsträckning följande två påståenden angående provet som helhet överensstämde med deras uppfattning.
+
+<!-- image -->
+
+Diagram 1 och 2 - Provet som helhet
+
+<!-- image -->
+
+Som framgår av ovanstående två diagram är de allra flesta av de medverkande lärarna positiva till 2023/2024 års nationella prov som helhet och anser att det är ett stöd för betygssättningen.
+
+Även övriga svar som inkommit i årets lärarenkäter pekar på att lärarna är mycket nöjda med provet som helhet och de olika delproven. 96 procent instämmer med att de fått tillräckligt med information för genomförandet av provets olika delar i häftena Lärarinformation 1 och 2 . Vidare anger hela 97 procent att det nationella provet som helhet i mycket stor eller ganska stor utsträckning ger resultat som stämmer överens med de egna bedömningarna av elevernas kunskaper.  I princip alla lärare håller med om  att det som provet prövar har behandlats i undervisningen i hög eller ganska hög grad.
+
+Avseende de olika delproven anser mellan  90  och  100  procent  av lärarna  att de olika uppgifterna var lämpliga eller mycket lämpliga i relation till kursplanen. Nästan alla lärare, 99-100 procent, markerar att de olika delproven,  helt eller till viss del, ger möjlighet för eleverna att visa sin förmåga inom respektive färdighet, muntlig och skriftlig produktion och interaktion samt förmågan att läsa, lyssna och förstå.
+
+När det gäller bedömningsanvisningarna till delprov A och C anger 91 respektive 82 procent av lärarna, att de ger tämligen/mycket gott stöd och 98% av de lärare som besvarat enkäten anser att bedömningsanvisningarna till delprov B fungerar bra.
+
+I enkäten fanns även möjlighet att lämna synpunkter på provet som helhet, vilket 121 lärare valde att göra. De lärare som är positiva till delprovet lyfter provet som helhet och att det upplevs utgöra ett viktigt komplement till övrig bedömning. Bland annat anses innehållet i delproven vara relevant i förhållande till provets syften och elevnära, och att provresultaten i många fall bekräftar lärarnas egen bedömning. Några lärare framhåller det positiva i att de olika betygsstegen ligger på en lagom nivå.
+
+Jag tycker att provet är till mycket gott stöd när det gäller E-nivån, men jag har många elever som presterar högt över nivån för A.
+
+Som vanligt mycket lämpliga, elevnära och bra uppgifter.
+
+Mycket bra prov som tilltalade elever och mig som lärare. Lagom utmanande och täcker upp en väsentlig del av kunskapskriterierna.
+
+Jag upplever att jag ofta bedömer eleverna mer strängt än ämnesprovet och därför är det skönt att få hjälp med att se var nivån ska ligga.
+
+En större grupp lärare uttrycker negativa åsikter om sammanräkningen av delprovsresultaten till ett provbetyg, Synpunkterna handlar framför allt om att ett lägre delprovsresultat inte drar ned provbetyget. Ett par åsikter om provdagar lyfts och några lärare kommenterar nivån på rådande kriterier.
+
+Överlag tycker jag att de nationella proven är mycket bra, och testar kunskapskraven på ett brett sätt. Min enda invändning är att man får poäng för F, vilket innebär att kunskapsnivån för att nå ett E i ämnet inte stämmer överens med de mål som står på Skolverket. Detta gör att man kan hamna i en mycket jobbig situation som lärare, när en elev så uppenbarligen inte når ens hälften av målen i ämnet men ändå kan lyckas nå ett E på de nationella proven. Detta skickar i sin tur fel signaler till både elev och vårdnadshavare.
+
+Vi tycker att eleven ska ha minst tre av fyra A på delproven för att få ett A.
+
+Ibland funderar man om man i sina egna bedömningar är för hård eftersom provresultatet är mycket goda. Men det känns bättre åt det hållet än tvärtom.
+
+Ett antal lärares kommentarer handlar om provets svårighetsgrad, åsikter om både för höga och för låga nivåer förekommer och de senare knyts ofta till att elever har blivit duktigare i engelska.
+
+Väldigt låga krav om man jämför med det vi jobbar med under läsåret i åk 6.
+
+Många elever fick ett högre betyg på nationella än i ämnesbetyget och därför tvekar man som lärare om man har varit för sträng tidigare.
+
+Övriga öppna kommentarer tar upp sådant som specifikt handlar om varje delprov och dessa presenteras nedan.
+
+## Delprov A: muntlig produktion och interaktion
+
+Så gott som alla lärare, 99,8 procent, anser att uppgiften i delprov A är lämplig eller mycket lämplig i relation till kursplanen, och alla upplever att delprovet ger eleverna möjlighet att visa  sin  förmåga  att  formulera  sig  och  kommunicera  på  engelska  i  tal.  Uppgiftens svårighetsgrad upplevs av majoriteten (92 procent) av de lärare som besvarat enkäten som lagom, och i princip alla tycker att uppgiften fungerade bra respektive ganska bra. Någon enstaka lärare tycker att bedömningen av de inspelade elevprestationerna är för sträng. För de olika betygsstegen anser de allra flesta, mellan 82 och 93 procent, att bedömningen är rimlig. Mellan  7  och  17  procent  anser  att  bedömningen  är  för  mild,  i  synnerhet  avseende elevprestationerna på betygssteg E. Drygt sex av tio lärare uppger att de vid genomförandet spelar in elevernas samtal.
+
+Av de 419 lärarna har 56 valt att framföra ytterligare synpunkter i det öppna svarsfältet för delprov A. De lärare som är positiva till delprovet förmedlar att det var ett uppskattat prov med ett innehåll som eleverna hade lätt att relatera till. Några anser att det prövade elevernas kunskaper på ett bra sätt och enstaka lärare kommenterar provsituationen.
+
+Bra variation på uppgifterna 0ch elevnära som fick eleverna att samtala.
+
+För vissa är det spänt att göra muntliga prov med inspelning men utifrån det material som fanns att samtala kring så fick alla en ärlig chans att visa sina muntliga kunskaper.
+
+Bra att frågorna i hög grad, tog upp vardagliga frågor.
+
+Andra lärare är mer kritiska. De vanligaste åsikterna rör att uppgiften var svår att formulera sig  kring  för  eleverna,  att  den  inte  passade  alla  lika  bra.  Ett  par  önskemål  om  matris framfördes.
+
+Jag upplevde att eleverna hade svårt att komma på saker att säga till ämnen och bilder som var med i delprovet. Jag tycker att det nationella provet i åk 6 ska bjuda in eleverna till att vilja delta. Ämnet är jätteviktigt för att de ska komma igång och det ska vara ämnen/kort som det ska vara lätt att prata om och bilderna ska bjuda in eleverna till att prata. Av alla foton som fanns så valde eleverna 2-3 stycken om och om igen för att många av de andra fotona inte var bra för att komma på något att prata om.
+
+Många av eleverna uppfattade uppgiften som svår, då bilderna var svåra att prata om.
+
+Bristande bedömningsmatris. Önskar ett material likt det i svenska.
+
+## Delprov B: reception
+
+I enkäten fick lärarna möjlighet att svara på frågor om de totalt sex olika uppgifterna som ingick i delprov B. De flesta, nästan 90 procent, anser att delprov B 1 ger ett tillförlitligt mått på elevernas förmåga att förstå och tolka innehållet i olika slags texter på engelska.  För delprov B 2 är motsvarande siffra 88 procent.
+
+De fyra uppgifterna som avsåg pröva läsförståelse upplevs var och en som mycket lämpliga respektive lämpliga i relation till kursplanen av majoriteten av lärarna (mellan 99 och 100 procent).  Den första uppgiften (korta ordbeskrivningar) anses av 81 procent av lärarna ha lagom svårighetsgrad. 17 procent anser den vara lätt i relation till kursplanen.
+
+Den  andra uppgiften (sökläsning) och den tredje uppgiften (lucktext)  upplevs  ha  lagom svårighetsgrad av de allra flesta, 87 procent av lärarna. Nio respektive tio procent anser dem vara  lätta  i förhållande till kursplanen. Den  fjärde uppgiften (lång  lästext)  upplevs  av  87 procent ha lagom svårighetsgrad i relation till kursplanen. Sex procent av lärarna tycker att uppgiften är svår.
+
+De två uppgifterna i hörförståelse anses var och en som mycket lämpliga respektive lämpliga i relation till kursplanen av 98 procent av lärarna. Den första uppgiften (korta nyheter) upplevs som svår av fyra procent av de lärare som besvarat enkäten. Tolv procent uppfattade den som lätt i förhållande till kursplanen. Vad gäller den andra uppgiften, där eleverna får höra allt två gånger, tycker 87 procent att svårighetsgraden är lagom i relation till kursplanen.
+
+Beträffande delprovets poänggränser anser 97 procent av lärarna att de är rimliga respektive till  viss  del  rimliga.  Några  lärare  har  gett  förslag  på  annan  poänggräns  för  respektive delprovsresultat. För E föreslår fyra lärare en lägsta gräns mellan 0 och 10 poäng medan 13 lärare föreslår en lägsta gräns mellan 33 och 43 poäng. Detta bör relateras till årets gräns för E på 33 poäng. För C och A ges den befintliga gränsen som förslag av majoriteten.
+
+Av de 419 enkäterna innehåller 80 öppna kommentarer kring delprov B. Åsikterna varierar angående uppgifterna. Några av de vanligaste handlar om bedömning, nivåer, omfattning och genomförande.
+
+Man kan gärna ge fler elevexempel i bedömningsanvisningarna, så blir det ännu tydligare.
+
+Att man sätter ihop hör- och läsförståelse till en sammanlagd poäng är missvisande då detta är två olika förmågor och två olika betygskriterier. Enligt denna modell kan man få noll poäng i den ena förmågan och ändå få godkänt. Det ger enfelaktig bild till elever och vh.
+
+Jag vill tacka för att ni gör så bra uppgifter. Det är spännande att det går att skapa frågor som lyckas särskilja elevernas kunskaper på ett så bra sätt! Fortsätt med ert bra arbete!
+
+Listening delen - problematiskt att eleverna ska sitta still i 45 minuter och träna hörförståelse.  Risken  är  att  det  i  en  del  tillfällen  mera  testas  uthållighet  / koncentrationsförmåga än hörförståelse. Möjligtvis skulle delarna delas upp med en 5 minuter rörelse paus mellan i syfte att stärka att det som faktiskt prövas är hörförståelse.
+
+## Delprov C: skriftlig produktion och interaktion
+
+Analysen av enkäterna visar att drygt 89 procent av lärarna anser att uppgiften i delprov C är lämplig  respektive  mycket lämplig i relation till kursplanen.  Av de lärare som besvarat enkäten anser drygt 99 procent att uppgiften ger eleverna möjlighet att visa sin förmåga att formulera  sig  och  kommunicera  på  engelska  i  skrift.  Uppgiften  anses  vara  lagom  i svårighetsgrad i relation till kursplanen av 73 procent av lärarna, medan 23 procent tycker den är svår. En övervägande del av lärarna, mellan 69 och 80 procent, anser att bedömningen av elevtexterna  är  rimlig  för  de  olika  betygsstegen.  Mellan  20  och  29  procent  anser  att bedömningen är för mild.
+
+Det  finns  132  enkäter  med  öppna  kommentarer  om  delprov  C.  Övervägande  delen  av kommentarerna  behandlar  ämnet  och  bedömningen.  Det  förekommer  även  åsikter  om instruktioner och önskemål om matris.
+
+Jag upplevde detta ämne som svårt att skriva om. Men när jag delade ut denna uppgift till eleverna så började alla skriva. Nu när jag har genomfört rättningen så blev jag positivt överraskad över hur de har skrivit.
+
+Uppgiften i sig verkade bra men många av eleverna har svårt att kunna reflektera kring  framtiden  vilket  gjorde  att  provet  upplevdes  svårt  av  många  elever.  I bedömningsstödet upplevde vi lärare att elevtexterna var väldigt enkla och för ett godkänt krävdes inte speciellt höga elevprestationer. Dessutom reagerade vi på att eleverna inte ens behövde hålla sig till ämnet för att kunna få godkända/ högre betyg (s. 34). Detta gjorde att vissa elevtexter blev svåra att bedöma. Vi önskar även en mall där alla delar finns i så att det blir tydligare vad eleverna faktiskt behöver vara godkända i för att nå ett E.
+
+För A bör väl ändå finnas större krav på språkriktighet, särskilt grundläggande skrivregler som de även tränar i svenskan för övrigt (exempelvis skiljetecken och stor bokstav på rätt plats).
+
+Här var elevexemplen mycket bra. De visade att nivån inte behöver vara allt för "perfekt" och hög för att ge en god nivå för åk 6.
+
+Bra  att  bedömningsanvisningarna  för  varje  elevtext  är  uppdelad  styckvis  på innehåll respektive ordförråd/språk/skrivregler. Detta kan förtydligas ytterligare genom  underrubriker  och  betygsbedömning  på  innehåll  respektive  ordförråd/ språk/skrivregler  samt  sammanvägd  bedömning.  Jag  kan  tycka  att  samtliga betygsgränser utom E, är för milda. Samtidigt har jag fått förklarat för mig att bedömningen  synkas  med  andra  länder  med  undervisning  i  engelska  som andraspråk och förstår resonemanget. Resultatet blir dock ofta att halva klassen får A i betyg och det skiljer mycket mellan prestationerna på A-nivå.
+
+Det hade behövt tydligare bedömningsanvisningar för en rättssäker bedömning, elevexempel räcker inte. Som det är i NP svenska.
+
+Ett prov med ett ämne, som eleverna tyckte om.
+
+Temat för skrivdelen var inte särskilt tydlig/intressant för majoritet av elever, om man exempelvis jämför med tidigare årstema. Flera elever hade svårt att komma igång eller förstod inte vad de skulle skriva. Temat kanske hade passat bättre för högre åldrar.
+
+## 5 Avslutning
+
+Avslutningsvis kan konstateras att 2023/2024 års nationella prov i engelska för årskurs 6 har tagits emot väl av lärare runt om i landet. Lärarna ansåg att uppgifterna i de olika delproven var lämpliga respektive mycket lämpliga i relation till kursplanen och provets syften samt att svårighetsgraden var lagom för årskursen. Merparten ansåg också att resultaten på provet stämde överens med deras egna bedömningar av enskilda elevers kunskaper. Resultaten på provet liknar till stora delar tidigare års resultat vad gäller utfall och betygsfördelning, men viss ökning av resultaten i både delprov A och B kan skönjas. Många elevers resultat i årskurs 6 visar på goda kunskaper i engelska i förhållande till gällande kriterier.
+
+En viktig förutsättning för att de nationella proven i engelska även i framtiden ska fungera väl är skolornas deltagande i utprövningar samt det goda samarbete som provinstitutionen har med lärare och elever. Vi ser fram emot att fortsätta detta samarbete under kommande år.

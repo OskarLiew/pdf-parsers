@@ -26,15 +26,15 @@ Skanna QR-koden på påsen med din mobilkamera genom att rikta kameran mot QR-ko
 
 2. Skriv ditt mobilnummer, epost (valfritt) och arbetsplatskod i de avsedda rutorna. 3. Välj vårdcentralen du är listad på i rullisten, hittar du inte din vårdcentral, välj ”Annan”. 4. Efter att du legitimerat dig med BankID är registreringen klar. 5. Om du fyllt i epostfältet under registreringen skickas ett mail med referensnumret till epost- adressen du angett.
 
-Direkttest refnr.123 456 789 0
-
 Registrera ProvReferensnummer_______________
 
-Fortsätt
+Direkttest refnr.123 456 789 0
 
 Fortsätt
 
 Registrera ProvMobil (SMS)_______________Epost_______________Personnummer_______________
+
+Fortsätt
 
 Kategori 2/3 – Eurofins V1
 

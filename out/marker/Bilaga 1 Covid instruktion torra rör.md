@@ -2,7 +2,7 @@
 
 # Ta prov på dig själv – För medarbetare inom kommun, region och samhällskritisk verksamhet
 
-# Läs igenom hela instruktionen innan du börjar
+## Läs igenom hela instruktionen innan du börjar
 
 #### Kontrollera att du har vad du behöver innan du börjar
 
@@ -27,23 +27,22 @@ Skanna QR-koden på påsen med din mobilkamera genom att rikta kameran mot QR-ko
 - 4. Efter att du legitimerat dig med BankID är registreringen klar.
 - 5. Om du fyllt i epostfältet under registreringen skickas ett mail med referensnumret till epostadressen du angett.
 
-![](_page_0_Figure_18.png)
+![](_page_0_Figure_18.jpeg)
 
-![](_page_0_Picture_19.png)
+![](_page_0_Picture_19.jpeg)
 
-![](_page_1_Picture_0.png)
+![](_page_1_Picture_0.jpeg)
 
-![](_page_1_Picture_2.png)
+![](_page_1_Figure_2.jpeg)
 
-![](_page_1_Figure_3.png)
+![](_page_1_Picture_3.jpeg)
 
-svalgvägg
+- svalgvägg
+- 1. Provtagning mot 3. Spotta och doppa 2. Provtagning i näsan
+- 
 
-1. Provtagning mot 3. Spotta och doppa 2. Provtagning i näsan
-
-4. Skruva på
-
-# Ta prov på dig själv
+- 
+### Ta prov på dig själv
 
 - 1. Skruva av locket på provröret, provtagningspinnen sitter fast i skruvlocket.
 - 2. För den mjuka delen av pinnen in genom munnen och så långt bak i din hals som du kan komma, så att du nästan kräks.
@@ -52,7 +51,7 @@ svalgvägg
 - 5. Samla mycket spott i munnen och spotta på tallriken eller i muggen, undvik att få med slem eller snor.
 - 6. Doppa den mjuka delen av pinnen i spottet så att den blir ordentligt fuktig.
 
-# Överför provet till provröret och förpacka provröret på ett säkert sätt
+#### Överför provet till provröret och förpacka provröret på ett säkert sätt
 
 - 1. För försiktigt tillbaka pinnen i provröret.
 - 2. Skruva på locket på provröret ordentligt.
@@ -60,7 +59,7 @@ svalgvägg
 - 4. Stäng påsen ordentligt.
 - 5. Förvara påsen med provröret i ett kylskåp, tills du kan lämna in det eller får det hämtat.
 
-# Hantera avfallet på ett säkert sätt
+#### Hantera avfallet på ett säkert sätt
 
 - 1. Lägg hushållspappret i en vanlig plastpåse.
 - 2. Knyt ihop plastpåsen ordentligt och släng som vanliga hushållssopor.
@@ -72,19 +71,19 @@ När provsvaret är klart får du ett sms. Det sker **vanligtvis** inom **48 tim
 
 #### **Se separat papper för vanliga frågor och svar.**
 
-![](_page_1_Picture_28.png)
+![](_page_1_Picture_28.jpeg)
 
 # Vanliga frågor och svar
 
-## F: Jag har inte Bank-ID.
+#### F: Jag har inte Bank-ID.
 
 S: Om du saknar Bank-ID hänvisas du till vårdcentral för provtagning.
 
-# F: Vad gör jag om svaret är positivt?
+#### F: Vad gör jag om svaret är positivt?
 
 S: Läs igenom smittskyddsbladet som finns länkat i ditt positiva provsvar. Därefter kontaktar du vårdcentralen du är listad på, och som du angav vid registreringen, samt din arbetsgivare.
 
-# F: Jag är osäker på om jag registrerade provet korrekt.
+#### F: Jag är osäker på om jag registrerade provet korrekt.
 
 S: Provet är registrerat när du kommer till sidan "Ditt prov är registrerat". Om du av någon anledning är osäker på om det blev rätt kan du logga in under "Provsvar" på direkttest.se. "Testresultat är ej tillgängligt" betyder att provet är registrerat men att analysen inte är klar. "Det finns inget prov registrerat" betyder att du inte registrerat provet korrekt och det finns därför ingen koppling mellan dig och ditt provrör i systemet.
 
@@ -96,13 +95,13 @@ S: Vanligtvis får du ditt provsvar inom 48 timmar från då du lämnar ifrån d
 
 S: När du är så frisk att du kan arbeta. Kontakta din arbetsgivare när svaret kommer
 
-## F: Om jag blir sjukare vad gör jag då?
+#### F: Om jag blir sjukare vad gör jag då?
 
 S: Om du upplever att du behöver stöd av vården för att du är sjuk gör du precis som vanligt. Du kontaktar 1177 eller din ordinarie läkare till exempel på den vårdcentral där du är listad.
 
-# F: Vad är biobankning och varför är det bra?
+#### F: Vad är biobankning och varför är det bra?
 
 S: Biobankning betyder att provet du skickar in kan frysas ner och sparas för att kunna användas igen. Svenska forskare kan sedan begära tillstånd hos etikmyndigheter för att använda prover för forskning. Utan material donerat av de som provtas kommer forskare i Sverige inte ha möjlighet att utföra viktig fortsatt forskning om covid-19. Av det skälet ber vi att du klickar i rutan som tillåter biobankning när du registrerar ditt prov med QR-kod eller på direkttest.se. Det är frivilligt.
 
-![](_page_2_Picture_15.png)
+![](_page_2_Picture_15.jpeg)
 

@@ -1,0 +1,544 @@
+<!-- image -->
+
+Chefens arbetsmiljöansvar
+
+Chefens arbetsmiljöansvar
+
+1
+
+<!-- image -->
+
+## Förord
+
+Att följa arbetsmiljölagstiftningen handlar inte bara om att undvika straff eller påföljd. Genom att fokusera på det systematiska arbetsmiljöarbetet så utvecklas verksamheten, vilket gynnar ekonomi, effektivitet och attraktivitet. Frågor om arbetsmiljöansvar är dessutom viktiga eftersom Sverige står inför en demografisk utmaning med risk för arbetskraftsbrist. Något av det viktigaste för att klara denna utmaning är att erbjuda en god arbetsmiljö och stora möjligheter till utveckling, delaktighet och inflytande. En god arbetsmiljö för alla -oavsett kön eller yrke -kräver ett uthålligt arbete och en helhetssyn.
+
+Arbetsmiljön omfattar ett stort spektrum av faktorer som påverkar oss, exempelvis arbetsbelastning, balans mellan krav och resurser, sociala kontakter, variation i arbetet, möjlighet att påverka sin egen arbetssituation, arbetsanpassning och rehabilitering, hot och våld samt företagshälsovård.
+
+Med den här skriften vill vi ge inspiration och vägledning i ert arbetsmiljöarbete. Skriften tar upp frågor kring arbetsgivarens ansvar för arbetsmiljön och hur ni som arbetsgivare kan arbeta med arbetsmiljöfrågorna. Syftet med skriften är att ge en övergripande bild av chefens arbetsmiljöansvar. Denna utgåva av Chefens arbetsmiljöansvar innehåller dessutom ett antal rättsfall. Syftet med att presentera dessa rättsfall är att tydliggöra rättsläget och beskriva den komplexa verklighet där arbetsmiljörätten ska tillämpas.
+
+Skriften är framtagen av Gunnar Sundqvist, utredare på Avdelningen för arbetsgivarpolitik,
+
+Stockholm, september 2024
+
+Caroline Olsson
+
+Avdelningschef
+
+Avdelningen för arbetsgivarpolitik
+
+## Innehåll
+
+| Arbetsmiljöansvar .............................................................................................. 5            |
+|-------------------------------------------------------------------------------------------------------------------------------|
+| Fördelning av arbetsmiljöuppgifter .................................................................. 7                       |
+| Arbetsmiljöansvar och straffansvar ............................................................... 10                         |
+| Roller och uppgifter i arbetsmiljön ................................................................. 16                      |
+| Arbetsgivare, skyddsombud och medarbetare .................................................. 16                               |
+| Arbetsgivare ..................................................................................................... 16         |
+| Skyddsombudet................................................................................................ 17              |
+| Medarbetare ..................................................................................................... 19          |
+| Företagshälsovård............................................................................................ 19              |
+| Samverkan ........................................................................................................ 20         |
+| Arbetsgivare, fackliga ombud och medarbetare ................................................ 20                              |
+| Arbetsmiljöutbildning .......................................................................................... 22           |
+| Regelverket ....................................................................................................... 23        |
+| Arbetsmiljölagen och andra författningar ........................................................... 23                       |
+| Att bedriva ett systematiskt arbetsmiljöarbete ............................................. 27                               |
+| Organisatorisk och social arbetsmiljö ........................................................... 30                          |
+| Brister i arbetsmiljön ....................................................................................... 32             |
+| Arbetsmiljöverkets roll ........................................................................................ 32           |
+| Påföljder och straff ........................................................................................... 35           |
+| Vite ..................................................................................................................... 35 |
+| Böter ................................................................................................................... 36  |
+| Företagsbot ........................................................................................................ 36       |
+| Sanktionsavgifter ................................................................................................ 36         |
+| Bilaga 1 ............................................................................................................ 37      |
+| Ordförklaringar ................................................................................................. 37          |
+| Påföljder och straff grundade på arbetsmiljölagen ............................................. 37                            |
+
+## Arbetsmiljöansvar
+
+Den här skriften tar upp frågor kring arbetsgivarens ansvar för arbetsmiljön och hur du som arbetsgivare kan arbeta med arbetsmiljöfrågor. Det finns ytterligare en skrift från SKR som beskriver arbetsmiljöansvaret för förtroendevalda.
+
+Arbetsmiljön omfattar bland annat buller, luftkvalitet, arbetsställningar och arbetsrörelser, kemiska och biologiska hälsorisker, maskinskydd, skydd mot fall och ras, uppdragets rimlighet eller tydlighet, arbetsbelastning, arbetstider, ledarskap, sociala kontakter, personlig och yrkesmässig utveckling, variation i arbete och möjlighet till återhämtning, möjlighet att påverka sin egen arbetssituation, arbetsanpassning och rehabilitering, hot och våld, rökfri arbetstid, arbetsbetingade konflikter och företagshälsovård.
+
+Med arbetsmiljöansvar menas en skyldighet att vara aktiv och vidta åtgärder för att ta bort eller minska riskerna för ohälsa och olycksfall i arbetet så att arbetsmiljön blir bra. Arbetsgivaren har de mest vidsträckta skyldigheterna, men även medarbetare, lokaluthyrare, tillverkare, den som hyr in och hyr ut arbetskraft och den som låter utföra byggnads- eller anläggningsarbete har skyldigheter och ansvar. Där flera arbetsgivare är verksamma på samma arbetsställe träder också ett särskilt samordningsansvar in.
+
+Arbetsmiljöansvaret ligger ofta på en juridisk person, till exempel ett bolag, en kommun, ett kommunalförbund eller en region. Arbetsmiljöansvaret utgår alltså inte från den enskilda förvaltningen/nämnden utan kommunen eller regionen som helhet. Det kan också ligga på en fysisk person.
+
+Huvudprincipen är att den högsta ledningen har arbetsmiljöansvaret såsom representant för den juridiska personen, om inte arbetsmiljöarbetet har tilldelats någon annan person eller funktion på ett klart och tydligt sätt. Även om så har skett har den högsta ledningen ändå kvar det yttersta ansvaret att försäkra sig om att verksamhetens arbetsmiljöförhållanden är tillfredsställande, genom att följa upp verksamheten och att reagera och ingripa om något inte fungerar som det ska.
+
+En koncern är ingen juridisk person och kan alltså inte vara arbetsgivare enligt arbetsmiljölagen. De olika bolagen som ingår i koncernen är däremot egna arbetsgivare. Indirekt kan ju koncernen ha stort inflytande över många frågor, exempelvis inställning i frågor om arbetsmiljö.
+
+Det räcker med att en enda person är anställd för att det ska finnas ett arbetsgivar-/arbetstagarförhållande. Därigenom blir samtliga föreskrifter från Arbetsmiljöverket som reglerar arbetsgivarens skyldighet mot anställda gällande, exempelvis Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete -grundläggande skyldigheter för dig med arbetsgivaransvar, se nedan. Även lagen om anställningsskydd (LAS) och lagen om medbestämmande i arbetslivet (MBL) blir tillämpliga.
+
+Arbetsmiljöansvaret innebär att arbetsgivaren bland annat ska vidta alla åtgärder som behövs för att förebygga att arbetstagaren utsätts för ohälsa eller olycksfall (arbetsmiljölagen kap. 3, 2 §). Arbetsgivaren ska även bedriva ett systematiskt arbetsmiljöarbete och ha en organiserad arbetsanpassnings- och rehabiliteringsverksamhet (2 a §), förvissa sig om att arbetstagarna har den utbildning som behövs för arbetet och se till att de fått tillräckliga instruktioner (3 §) och, när kompetensen inom den egna organisationen inte räcker till, anlita företagshälsovård eller motsvarande sakkunnig hjälp utifrån (2 c §). Arbetsgivaren är dessutom skyldig att anmäla allvarliga olyckor och tillbud till Arbetsmiljöverket (3 a §).
+
+Inhyrare av personal ska vidta de skyddsåtgärder som behövs (12 § andra stycket). Den enda skillnaden om man jämför 12 § med 2 § är 'skyddsåtgärder' kontra 'alla åtgärder'. Det som åligger uthyraren är ansva ret för rehabilitering och kompetensutveckling.
+
+Arbetstagaren har ett eget ansvar för arbetsmiljön och ska följa givna instruktioner och använda skyddsanordningar. Arbetstagaren ska dessutom iaktta den försiktighet i övrigt som behövs för att förebygga ohälsa och olycksfall (4 §).
+
+## Arbetsgivarens regelträd
+
+<!-- image -->
+
+Bilden är en illustration över arbetsmiljöreglerna. Arbetsmiljölagen är trädets rot och fundament. Arbetsmiljölagen är en ramlag, vilket innebär att den ger breda anvisningar om hur arbetsmiljön ska vara. Lagen riktar sig till arbetsgivaren. Stammen utgörs av Arbetsmiljöverkets föreskrifter och allmänna råd (AFS 2023:1) om systematiskt arbetsmiljöarbete -grundläggande skyldigheter för dig med arbetsgivaransvar. Bladverket illustrerar de övriga 14 sakföreskrifterna som handlar om allt från kemikaliehantering till organisatorisk och social arbetsmiljö.
+
+<!-- image -->
+
+Bilden visar regelstrukturen för Arbetsmiljöverkets föreskrifter. I det regelförnyelsearbete som föregått den nya regelstrukturen har samtliga 2 300 paragrafer i föreskrifterna gåtts igenom och sorterats in i 15 nya föreskrifter. De flesta paragrafer har flyttats till olika ställen i de nya föreskrifterna, andra har strukits eller ersatts. Huvudprincipen har varit att skyddsnivån inte ska sänkas och att kravnivån inte ska höjas. Undantaget från detta gäller regler för byggherrar, projektörer och byggarbetsmiljösamordnare där nya regler tillkommit.
+
+Källa bild: Arbetsmiljöverket
+
+## Fördelning av arbetsmiljöuppgifter
+
+I större organisationer behöver arbetsgivaren fördela arbetsmiljöarbetet på olika personer eller befattningar för att kunna uppfylla sitt arbetsmiljöansvar. Uppgifter, befogenheter och resurser ska läggas ut på personer som arbetar i verksamheten. Deras uppdrag är att se till att arbetsmiljöarbetet sker aktivt och systematiskt i syfte att skapa goda arbetsmiljöförutsättningar som stöd för arbetet samt att undanröja arbetsmiljörisker.
+
+Arbetsmiljölagen ger inte besked om vem eller vilka personer i verksamheten som ska tillskrivas ansvar för arbetet. Det är en intern fråga vars lösning skiftar från organisation till organisation. Fördelningen av arbetsmiljöuppgifter ska dokumenteras skriftligt.
+
+Uppgiftsfördelningen påverkas också av verksamhetens rättsliga grund, det vill säga vilken lag den stödjer sig på, till exempel aktiebolagslagen, stiftelselagen, skollagen eller kommunallagen.
+
+I kommunallagen stadgas fullmäktiges, kommunstyrelsens och nämndernas uppgifter. Fullmäktige bestämmer bland annat nämndernas organisation, verksamhetsformer och budget. Nämnderna har ansvar för förvaltningen och den löpande verksamheten och ska verkställa fullmäktiges beslut. Kommunstyrelsen ska leda och samordna förvaltningen av kommunens eller regionens angelägenheter och ha uppsikt över övriga nämnders och eventuella gemensamma nämnders verksamhet. I skriften Så klarar du arbetsmiljöansvaret. Förtroendevaldas arbetsgivarroll i kommuner och regioner beskrivs de förtroendevaldas ansvar närmare. Aktiebolagslagen reglerar på motsvarande sätt till exempel arbetsuppgifter och ansvar för ett aktiebolags styrelse, VD och bolagsstämma och har stor betydelse för bolagets interna fördelning av arbetsmiljöuppgifter. Styrelsen är arbetsgivarens yttersta företrädare.
+
+Kommunalförbundet är en egen juridisk person och är fristående i förhållande till sina medlemskommuner. Kommunalförbundet övertar uppgifter från sina medlemmar och blir huvudman för verksamheten. Kommunalförbundet kan organiseras antingen med fullmäktige och styrelse eller på ett enklare sätt med förbundsdirektion. Förtroendevalda i kommunalförbund har samma personliga ansvar för hur verksamheten bedrivs som förtroendevalda i kommuner och regioner. Aktiebolag, kommuner, regioner och kommunalförbund organiserar sin verksamhet utifrån sina olika förutsättningar, vilka sedan påverkar fördelningen av arbetsmiljöuppgifterna. Den högsta ledningen behåller alltså det yttersta ansvaret för att verksamhetens arbetsmiljö är tillfredsställande.
+
+## Att tänka på vid fördelning av arbetsmiljöuppgifter:
+
+- 1. Att uppgifterna är fördelade på tillräckligt många medarbetare.
+- 2. Att uppgifterna fördelas på personer eller funktioner - inte på en grupp.
+- 3. Att den/de som får uppgifterna har:
+- a. en självständig ställning och en egen rimlig arbetssituation
+- b. tillräckliga befogenheter och resurser
+- c. tillräckliga kunskaper och kompetens om arbetsmiljöreglerna, fysiska, psykologiska och sociala förhållanden som innebär risker för ohälsa och olycksfall, åtgärder för att förebygga ohälsa och olycksfall samt arbetsförhållanden som främjar en tillfredsställande arbetsmiljö.
+- 4. Att det framgår vad som ska göras när kunskaper, resurser, och befogenheter inte räcker.
+- 5. Att fördelningen görs skriftligt och undertecknas både av den som fördelar och den/de som tar emot uppgiften.
+- 6. Att den som gör fördelningen följer upp hur den har fungerat och ingriper om något behöver förbättras.
+- 7. Att den som tilldelats en uppgift har möjligheter att returnera arbetsmiljöuppgiften och att detta ska ske skriftligt med motivering.
+
+Med befogenheter avses rätt att fatta beslut och vidta åtgärder.
+
+Med resurser avses ekonomiska medel, tillgång till kompetenta medarbetare, utrustning, lokaler, tid och kunskap samt hjälpmedel.
+
+## Chefers ansvar
+
+Den chef som fördelat arbetsmiljöuppgifter till underställd chef eller medarbetare ska säkerställa att den som tagit emot uppgiften också har förutsättningar att klara av den. Om exempelvis en chef, arbetsledare eller medarbetare har åtagit sig en arbetsmiljöuppgift men inte har tillräckliga kunskaper, befogenheter eller resurser för att lösa den, är det viktigt att han eller hon återkopplar till den som har fördelat uppgiften för att få stöd och diskutera hur uppgiften ska utföras. Det kan bland annat resultera i att utökade befogenheter och resurser tillförs. Han/hon kan också returnera uppgiften till den som har delat ut den. Det innebär att arbetsmiljöansvaret för den returnerade uppgiften går över till en högre instans i ansvarskedjan. Ansvaret för övriga arbetsmiljöuppgifter kvarstår som tidigare.
+
+Arbetsgivaren behöver löpande ha klart för sig att uppgiftsfördelningen fungerar bra och göra ändringar när det behövs. Oklarheter i uppgiftsfördelningen faller ytterst tillbaka på den högsta ledningen.
+
+Uppgiftsfördelningen innebär inte att den som får uppgifterna automatiskt blir straffad vid en arbetsplatsolycka. Detta ansvar fastställs av domstol i efterhand. Det kan ha stor betydelse om den åtalade fått tydlig uppgiftsfördelning, haft tillräckliga kunskaper, kompetens, befogenheter och resurser för sina uppgifter. För en verksamhet med få anställda är det rimligt att den högsta ledningen har kvar arbetsmiljöuppgifterna själv.
+
+## Arbetsmiljöansvar och straffansvar
+
+Många tror att arbetsmiljöansvar och straffansvar är samma sak. I själva verket är det fråga om två helt olika typer av ansvar som följer olika regler. Ändå finns en koppling mellan arbetsmiljöansvaret och straffansvaret. Om en arbetsgivare inte tar sitt arbetsmiljöansvar kan denne av Arbetsmiljöverket föreläggas eller förbjudas att vidta vissa åtgärder. Bryter denne mot föreläggandet eller förbudet kan personen straffas. Med arbetsmiljöansvar menas en skyldighet att förebygga, vilket innebär att vidta åtgärder för att få bort eller minska risker för ohälsa och olycksfall. Även om en person tilldelats uppgifter i det systematiska arbetsmiljöarbetet, övertar han eller hon inte arbetsgivarens arbetsmiljöansvar.
+
+Om det inträffar en arbetsolycka kan det däremot bli aktuellt att den som fått uppgifter i arbetsmiljöarbetet blir straffad. I 3 kap. 10 § brottsbalken (BrB) finns regler om straff för den som inte följt arbetsmiljölagen (AML) om det medfört att någon avlidit, skadats, blivit sjuk eller utsatts för allvarlig fara. Då kan påföljden bli böter eller fängelse. Dessutom kan arbetsgivaren dömas till företagsbot. Brottsutredningar i arbetsmiljömål är ofta komplicerade, särskilt när det gäller stora organisationer. Det gäller för åklagaren att bevisa att den eller de åtalade personerna varit försumliga eller handlat med uppsåt. Straffet beslutas av allmän domstol i en brottmålsrättegång. Domstolen gör en totalbedömning av situationen kring händelsen. Uppgiftsfördelning har ofta stor betydelse när en domstol bedömer det straffrättsliga ansvaret. Det har också stor betydelse för domstolens bedömning om den åtalade har tillräckliga kunskaper, befogenheter och resurser för sin uppgift.
+
+Arbetsmiljöansvar - AML - förvaltningsrättslig process där Arbetsmiljöverket är motpart
+
+<!-- image -->
+
+Straffansvar - arbetsmiljöbrott (AML och 3 kap 10 § Brottsbalken) -straffrättslig process
+
+Tingsrätt
+
+Hovrätt
+
+Högsta domstolen
+
+<!-- image -->
+
+<!-- image -->
+
+Tabellen illustrerar skillnaden mellan arbetsmiljöansvar och straffansvar. En skillnad är att arbetsmiljöansvaret gäller det förebyggande arbetsmiljöarbetet och tar sikte på situationen innan någon olycka inträffat i arbetet.
+
+| Arbetsmiljöansvaret AML                                                   | Straffansvaret AML och BrB                                                                     |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Förebyggande syfte                                                        | Sanktionerande syfte                                                                           |
+| Kan ligga på fysiska eller juridiska  personer                            | Kan bara ligga på fysiska personer/  Företagsbot                                               |
+| Kan inte flyttas                                                          | Kan hamna på olika personer                                                                    |
+| Arbetsgivaren fördelar uppgifter                                          | Domstolen beslutar om straff                                                                   |
+| Uppgiftsfördelningen görs i förväg                                        | Straff bestäms i efterhand                                                                     |
+| Fördelningen förutsätter befogenheter,  resurser, kunskaper och tydlighet | Straff förutsätter uppsåt eller oakt- samhet, befogenheter, resurser,  kunskaper och tydlighet |
+| Är lätt att konstatera                                                    | Är ofta komplicerat att reda ut                                                                |
+
+Följande exempel på rättsfall förtydligar straffansvaret vid arbetsmiljöbrott.
+
+## RÄTTSFALL ARBETSMILJÖBROTT: Ordförande i KS
+
+I ett uppmärksammat fall dömdes ordföranden i kommunstyrelsen och förvaltningschefen i en kommun för arbetsmiljöbrott i samband med en olycka under ett rivningsarbete som utfördes av anställda i kommunen. Domstolen ansåg att arbetsgivaren brustit i tillsyn och kontroll över arbetsmiljön på arbetsplatsen, bland annat genom att underlåta att upprätta en arbetsmiljöplan och att inte se till att rivningsarbetet hade den ledning och övervakning som krävdes för en säker arbetsmiljö. Arbetstagarna hade inte heller tillräckliga kunskaper om riskerna med rivningsarbetet och hur dessa kunde förhindras. Domstolen fann därför att det förelåg ett orsakssamband mellan bristerna i arbetsmiljön och det dödsfall som olyckan krävde. Domstolen konstaterade att kommunen har arbetsgivaransvaret och därför alltid måste klargöra vilket styrorgan (en viss nämnd eller styrelse) som ytterst företräder arbetsgivaren. Detta styrorgan kan sedan delegera arbetsmiljöuppgifter till chefer som tar på sig arbetsgivarrollen i det dagliga arbetet.
+
+Domstolen konstaterade också att kommunen, i egenskap av fastighetsägare, var byggherre och därför var skyldig att upprätta en arbetsmiljöplan. Enligt kommunens personalpolicy var det förvaltningschefen som ytterst företrädde arbetsgivaren och därför borde ha sett till att arbetsmiljöplanen upprättades innan rivningsarbetet påbörjades. I kommunen pågick en omorganisation, vilken domstolen menade hade satt arbetsmiljöansvaret ur spel. Enligt domstolen påverkade denna omständighet dock inte arbetsgivarens grundläggande arbetsmiljöansvar. Kommunstyrelsen ska enligt 6 kap 1 § KL leda och samordna förvaltningen av kommunens angelägenheter. I reglementet för kommunstyrelsen angavs att denna svarar för samordningen av kommunens arbetsmiljöarbete. Domstolen ansåg att kommunstyrelsen hade det yttersta ansvaret för att kommunens verksamhet bedrevs på ett lagenligt sätt och att tillse att rollfördelningen beträffande arbetsgivarens arbetsmiljöansvar blev klarlagd. Kommunstyrelsens ordförande borde ha säkerställt en tydlig rollfördelning för detta ansvar, och därigenom också sett till att arbetsmiljöarbetet inom kommunen bedrevs på ett lagenligt sätt. Genom sin underlåtenhet att vidta sådana åtgärder ansågs ordföranden därmed ha bidragit till de brister i arbetsmiljön som orsakade olyckan. Ordföranden och förvaltningschefen dömdes till 50 dagsböter vardera (Göta Hovrätt, mål nr B 2701-05,den 22 december 2006.)
+
+Domen överklagades, men Högsta Domstolen gav inte prövningstillstånd (Mål nr B435-07 den 5 februari 2008).
+
+## RÄTTSFALL ARBETSMILJÖBROTT: Skolelev drunknade under badaktivitet
+
+En 6-årig pojke drunknade under en badaktivitet i en bassäng under en skolutflykt 2020. Pojken hade idrottslektion tillsammans med 40 andra barn och tre lärare. Han hade badat i bassängen tidigare men var inte simkunnig vilket även gällde flera av hans klasskamrater.
+
+Enligt tingsrätten framstår såväl lärarna som rektorn visserligen som kompetenta och ansvarstagande men slutsatsen är att de brustit i ansvar både vad gäller riskbedömning och tillsyn.
+
+Domstolen hänvisar i sina domskäl till AFS 2012:3 (Minderårigas arbetsmiljö) och konstaterar att rektorn har brustit i sitt arbetsmiljöansvar genom att bland annat inte ha genomfört någon riskbedömning beträffande badaktiviteten. Vad gäller de tre lärarna menar rätten att de var för sig brustit i sitt tillsynsansvar när de inte planerat sina roller och ansvar samt inte beaktat att de flesta av de 40 barnen på badutflykten inte kunde simma. Ingen av de tre lärarna hade någon skriftlig fördelning av arbetsmiljöuppgifter.
+
+Malmö tingsrätt (mål nr. B 8845-20) dömde en rektor och tre lärare för arbetsmiljöbrott. Domen fastställdes senare av hovrätten över Skåne och Blekinge.
+
+Påföljden för lärarna och rektorn bestämdes till villkorlig dom och dagsböter. Kommunen dömdes till att betala skadestånd till den 6-årige pojkens anhöriga med drygt 138 000 kr. Kommunen ska även betala en företagsbot om 1,5 miljoner kr.
+
+Kommentar: Huvudprincipen, att högsta ledningen har det yttersta arbetsmiljöansvaret, gäller så länge inte en särskild arbetsmiljöuppgift skriftligt har tilldelats någon annan person eller funktion på ett klart och tydligt sätt. Även i sådana fall har dock den högsta ledningen alltid kvar det yttersta ansvaret för att försäkra att verksamheten håller en god arbetsmiljö.
+
+Domen understryker vikten av en tydlig fördelning av arbetsmiljöuppgifter till chefer och vissa medarbetare som arbetar i speciellt riskutsatta verksamheter såsom exempelvis slöjdsalar, kemisalar, idrottssalar. En riskbedömning ska genomföras i samband med simundervisning, utflykter utanför skolan/förskolan, friluftsdagar m.m. Det är även viktigt att skapa förståelse om möjligheten att returnera uppgifter i fördelningen. Ansvaret för uppgifterna lyfts då upp en nivå och kan på så sätt åter returneras till ansvarig -som ytterst kan vara nämnd eller kommunstyrelse.
+
+Domen visar även att företagsbot kan åläggas för brott som har begåtts i utövningen av verksamhet som bedrivs i en kommunal skola eller ett kommunalt hem för vård eller boende. Vad gäller företagsbotens storlek hänvisar domstolen till att det rört sig om en särskild riskfylld verksamhet där kommunen haft alla möjligheter att ta fram regler eller revidera aktuella badregler så det stämmer överens med de nationella riktlinjer som finns.
+
+## RÄTTSFALL ARBETSMILJÖBROTT: Skolelev skadad vid arbetsplatsförlagd utbildning
+
+En 16-årig elev på Båtbyggarskolan ådrog sig bestående skador när han fastnade med båda händerna i en bredbandsputs i samband med arbetsplatsförlagd utbildning (APU) hos en snickerifirma i Kalmar. Olyckan ledde till att åklagaren åtalade både ordföranden och förvaltningschefen i kommunens Barn- och Ungdomsnämnd.
+
+Enligt tingsrätten var ansvaret för APU-placeringarna otydligt, liksom valet av praktikplats och elevens uppgifter med hänsyn till dennes ålder och erfarenhet. Något besök av lärare på arbetsplatsen hade inte skett för att se vilka maskiner som fanns och vilka risker som därmed förelåg. Inte heller fanns några skriftliga rutiner på praktikföretaget om besök av skolan för att eliminera eventuella risker. Skolan hade dessutom inte kontrollerat huruvida instruktör/handledare på arbetsplatsen var utsedd. Enligt tingsrätten hade skolan därmed underlåtit att göra vad som ålegat den enligt arbetsmiljölagstiftningen vid val av APU.
+
+Arbetsgivarens ansvar vilar i första hand på högsta chefen, men en fördelning av arbetsmiljöuppgifter kan ske. I denna fördelning är det viktigt att klargöra
+
+vem som i olika avseenden bär ansvaret för att arbetsmiljölagstiftningen följs. En otydlig fördelning medför att ansvaret ligger kvar på den närmast högre nivån. Befattningshavare kan ha ett visst ansvar för säkerheten även utan att en fördelning av arbetsmiljöuppgifter skett mot bakgrund av att det följer med deras uppgifter (faktisk delegation). Lärare har normalt ansvar för elevernas arbetsmiljö till den del som är hänförlig till lärarens omedelbara tillsyn av eleven. Detta ansvar fritar inte högre befattningshavare från ansvar.
+
+Saknas en uttrycklig fördelning, vilar arbetsmiljöansvaret, enligt Regeringsformen (bland annat 1 kap 7 §) ytterst på en kommuns fullmäktige. Eftersom oklarheter konstaterats av bland annat Arbetsmiljöverket, fann tingsrätten att det straffrättsliga ansvaret för arbetsmiljöbrott låg hos kommunfullmäktige när olyckan inträffade. Åtalet mot ordföranden och förvaltningschefen ogillades med hänvisning till att det saknades skäl att pröva deras eventuella underlåtenhet att organisera arbetsmiljöarbetet (Kalmar Tingsrätt, mål nr B 3564-09, den 20 december 2010).
+
+Kommentar: Om arbetsmiljöuppgifter har fördelats av den kommunala nämnden via förvaltningschef och enhetschef till enskilda arbetsledare/medarbetare kan ledamöterna i nämnden liksom förvaltningschefen och enhetschefen gå fria från straffansvar om de varken vid val av person, genom bristande tillsyn eller på annat sätt varit försumliga. Om det har gjorts en korrekt fördelning till en medarbetare som besitter tillräcklig kunskap och erfarenhet och som har befogenheter och resurser för uppdraget har denne ett arbetsmiljöansvar och kan också göras straffrättsligt ansvarig. Om arbetsmiljöbrott föreligger eller inte avgörs av domstol.
+
+## RÄTTSFALL ARBETSMILJÖBROTT: Knivmord på särskilt ungdomshem
+
+En institutionschef och en biträdande institutionschef på Statens institutionsstyrelse (SiS) dömdes till arbetsmiljöbrott för vållade av en assistents död genom sin oaktsamhet. Hovrätten prövade om de åtalade varit oaktsamma enligt arbetsmiljölagen, och om det fanns något samband mellan deras oaktsamhet och behandlingsassistentens död samt om oaktsamheten var klandervärd. Hovrätten fann att både institutionschef och biträdande institutionschef hade ett arbetsmiljöansvar. De hade enligt hovrätten tillräcklig arbetsmiljöutbildning. Chefen hade fått en delegation som innehöll ansvar för arbetsmiljön, men denne invände att han returnerat ansvaret till den högsta chefen. Hovrätten ansåg att en returnering, som cheferna hävdade skett, inte var tillräckligt tydlig. Hovrätten fann att även den biträdande chefen, med den kunskap som denne hade, borde ha fattat beslut om att skriva ut eleven. Hovrätten fann att de tilltalade inte hade följt gällande lagar och varit oaktsamma. De hade haft tid att diskutera igenom hur farlig eleven var. Eftersom det inte gjordes var deras handlande klandervärt. De dömdes båda till arbetsmiljöbrott. (Hovrätten över Skåne och Blekinge, dom den 14 juli 2011 i mål B 2098-20).
+
+Kommentar: Av domen går det att dra slutsatser att en returnering av arbetsmiljöuppgifter ska vara tydlig samt att det finns ett stort behov av att fortlöpande genomföra riskbedömningar och genomföra åtgärder i en verksamhet med omfattande risker för hot och våld.
+
+## Roller och uppgifter i arbetsmiljön
+
+## Arbetsgivare, skyddsombud och medarbetare
+
+## Arbetsgivare
+
+Huvudansvaret för arbetsmiljön ligger alltså hos arbetsgivaren. Denne ska på ett systematiskt sätt planera, styra och kontrollera verksamheten så att arbetsmiljön blir tillfredsställande. Utgångspunkten är det systematiska arbetsmiljöarbetet som ska bedrivas i samverkan med medarbetare och skyddsombud (kan också benämnas arbetsmiljöombud). Arbetet ska omfatta alla fysiska, psykologiska och sociala förhållanden som har betydelse för arbetsmiljön.
+
+Arbetsgivarens ansvar för arbetsmiljön är långtgående. Enligt arbetsmiljölagen (3 kap. 2 §) ska arbetsgivaren bland annat 'vidta alla åtgärder som behövs för att förebygga att arbetstagaren utsätts för ohälsa eller olycksfall'. Arbetsgivaren måste informera arbetstagaren om risker i arbetet och hur de ska undvikas samt förvissa sig om att arbetstagaren har den utbildning som behövs. Arbetsgivaren måste också anpassa arbetsförhållandena till arbetstagarens särskilda förutsättningar för arbetet. När arbetet planläggs måste det tas hänsyn till att människors förutsättningar att utföra arbetsuppgifter är olika.
+
+Kraven på arbetsgivaren är desamma oavsett om verksamheten drivs i privat eller offentlig regi. Dock är de självfallet olika beroende på verksamhetens art och olika branscher.
+
+Arbetsmiljölagen gäller alltså där 'arbetstagare utför arbete för arbetsgivares räkning'. Men arbetsgivaren har alltid huvuda nsvaret för det systematiska arbetsmiljöarbetet och arbetsmiljön, oavsett var personalen arbetar.
+
+Vid personaluthyrning, arbete på tillfälliga och gemensamma arbetsställen och vid arbete i annans hem är det särskilt viktigt att arbetsgivaren noggrant planerar och följer upp arbetet. Lagen (1 kap. 3 §) likställer bland annat dem som genomgår utbildning (alltså elever och studenter) med arbetstagare. Den som driver skolverksamhet har alltså ett arbetsmiljöansvar för eleverna. Deltagare i praktik eller annan kompetenshöjande verksamhet som har anvisats av socialnämnd, likställs med arbetstagare om de utför uppgifter som liknar ett förvärvsarbete. När ett arbetsmarknadspolitiskt program bedrivs på en arbetsplats ska den som tar del av programmet likställas med arbetstagare enligt arbetsmiljölagen (1 kap. 4 §).
+
+Om en händelse inneburit en arbetsskada ska den anmälas till Försäkringskassan. Här anmäler arbetsgivaren enligt socialförsäkringsbalkens 42:a kapitel 10 §. Allvarliga olyckor och tillbud ska (enligt arbetsmiljölagen 3 kap. 3a §)
+
+rapporteras till Arbetsmiljöverket. Anmälan ska göras inom 24 timmar. Länk till anmälan https://anmalarbetsskada.se/
+
+Den som har upplåtit en arbetsplats för programverksamheten likställs med arbetsgivare. Den som anlitar inhyrd arbetskraft ska följa föreskrifterna om systematiskt arbetsmiljöarbete och exempelvis undersöka arbetsförhållandena, bedöma risker, vidta åtgärder och ge instruktioner. Den som hyr ut arbetskraft är skyldig att genomföra långsiktiga arbetsmiljöåtgärder exempelvis i fråga om utbildning och rehabilitering samt vara uppmärksam på den anställdes fysiska och psykiska belastning. Sker en arbetsplatsolycka med inhyrd personal, får man i första hand utreda förhållanden vid den arbetsplats där olyckan skedde och se vilka brister som ledde fram till olyckan.
+
+## Skyddsombudet
+
+Skyddsombudet är arbetstagarens företrädare på arbetsplatsen i arbetsmiljöfrågor. Ombudet utses av en lokal arbetstagarorganisation som är eller brukar vara bunden av kollektivavtal i förhållande till arbetsgivaren. Om det inte finns en facklig organisation kan arbetstagarna själva välja skyddsombud. Val av skyddsombud ska skriftligen anmälas till arbetsgivaren. Skyddsombudet ska vaka över arbetsförhållandena för att förhindra ohälsa och olycksfall och för att kontrollera att arbetsgivaren uppfyller kraven på systematiskt arbetsmiljöarbete.
+
+Arbetsgivare och arbetstagarorganisationerna definierar gemensamt skyddsområdesindelning, vilket lämpligen genomförs i skyddskommittén. Avgörande är verksamhetens art och att en fungerande skyddsorganisation kan skapas. Det finns olika typer av skyddsombud; elevskyddsombud, lokala skyddsombud, huvudskyddsombud och regionala skyddsombud. Huvudskyddsombudets uppgift är ofta att samordna övriga skyddsombud och de har även möjlighet att verka utanför sitt eget skyddsområde om det är frågor som berör flera skyddsområden. Det är viktigt att ett skyddsombud har den utbildning som behövs för att kunna fullgöra sina uppgifter. Arbetsgivaren och arbetstagarorganisationen ska gemensamt svara för att skyddsombudet får sådan utbildning (enligt AML kap. 6, 4 §).
+
+En viktig uppgift är att delta vid planeringen av nya eller ändrade lokaler, anordningar, arbetsprocesser, arbetsmetoder, arbetsorganisation och användningen av farliga ämnen. Skyddsombud ska verka för en tillfredsställande arbetsmiljö och vaka över medarbetarna inom skyddsområdet, även de som inte är medlemmar i något fack alls.
+
+Ett skyddsombud kan (enligt AML 6 kap. 6 a §) begära att arbetsgivaren vidtar åtgärder för en tillfredsställande arbetsmiljö. Skyddsombudet kan också begära att en undersökning görs av förhållandet inom skyddsområdet. Dessutom har skyddsombudet rätt att stoppa arbetet (enligt arbetsmiljölagen 6 kap. 7 §) om det finns en omedelbar och allvarlig fara för arbetstagares liv eller hälsa.
+
+Arbetsgivaren ska genast lämna en skriftlig bekräftelse att arbetsgivaren mottagit begäran och ska också utan dröjsmål lämna besked i frågan. Gör inte arbetsgivaren det eller beaktas inte begäran inom skälig tid kan skyddsombudet påkalla att Arbetsmiljöverket meddelar ett föreläggande eller förbud. Självfallet måste framställningen avse arbetsmiljöfrågor, inte till exempel lönefrågor. Vanligtvis hanteras arbetsmiljöfrågorna som en del av samverkanssystemet. Om enskilda skyddsombud ofta använder 6 kap. 6 a § kan detta vara ett tecken på bristande förtroende för samverkanssystemet. Det kan göra det angeläget att vidta åtgärder för att återskapa förtroendet för samverkansformerna.
+
+Måste arbetsgivaren vara överens med skyddsombudet innan beslut fattas eller åtgärder vidtas? Svaret är nej, även om det självklart är en fördel att vara eniga.
+
+Skyddsombudet har rätt att få den utbildning i arbetsmiljöfrågor och den ledighet med bibehållna anställningsförmåner som fordras för uppdraget på arbetsplatsen. Han eller hon har också rätt att få del av de handlingar och upplysningar som behövs för uppdraget. Både arbetsgivare och arbetstagare kan bli skadeståndsskyldiga om man hindrar skyddsombudet att fullgöra sina uppgifter.
+
+Skyddsombudet har skyldighet att beakta delar av sekretesslagstiftningen. Detta innebär att sekretessbelagda uppgifter inte får föras vidare förutom till en ledamot av facklig styrelse eller sakkunnig i arbetsmiljöfrågor i den fackliga organisation där skyddsombudet själv är medlem, förutsatt att skyddsombudet har informerat om sekretessen. Skyddsombudet får inte heller lämna vidare information som rör enskild person om denne inte samtyckt.
+
+För verksamheter som inte har en skyddskommitté, kan facket utse regionala skyddsombud, som ansvarar för flera olika arbetsplatser. Rätten att utse regionala skyddsombud gäller bara om den fackliga organisationen har någon medlem på arbetsstället.
+
+## RÄTTSFALL: Behörighet att agera som skyddsombud
+
+Domen gäller en snickare som arbetade på två olika byggen i Stockholm. Han blev utsedd till skyddsombud på det ena stället men uppfattade att han även var skyddsombud på det andra bygget. Så uppfattade inte arbetsgivaren det och inte heller Arbetsdomstolen. Att skyddsombudet var utsedd till skyddsombud på en plats betydde inte, enligt AD, att han automatiskt var skyddsombud på företagets andra byggen. (Mål nr A 55/11 och A 149/11 AD 90/12).
+
+Kommentar : Kommuner och regioner består ofta av flera arbetsställen. Kravet på skyddskommitté utgår från begreppet arbetsställe. Arbetsställe definieras inte i lagtexten men av förarbeten till lagstiftningen anges det lokala avgränsade område inom vilket arbetsgivare i och för sin verksamhet, bedriver arbete, oavsett om detta utförs i arbetslokal. Stor vikt ska läggas vid de lokala parternas uppfattning avseende arbetsställets omfattning, vilket ska stödja en på lämpligt sätt organiserad arbetsmiljöverksamhet.
+
+Domen åskådliggör även att de fackliga organisationerna noga måste ange vilket skyddsområde som skyddsombudet är vald på och underrätta arbetsgivaren. Det ska vara tydligt för arbetsgivaren vilket skyddsombud som
+
+företräder arbetstagarna inom respektive skyddsområde (se AML 6 kap 4 §). Är underrättelsen otydlig eller om den inte överensstämmer med vad som är lämpligt (se AML 6 kap 1 §) ska den snarast returneras för komplettering. Om detta inte görs och arbetsgivaren börjar samverka med skyddsombudet kan han eller hon anses ha godkänt skyddsombudet utifrån underrättelsen. Skyddsombudet har inte fått sitt uppdrag förrän det valts på rätt sätt och arbetsgivaren är underrättad. Ett skyddsombud eller huvudskyddsombud som utsetts för ett visst arbetsställe kan generellt inte heller verka på ett annat arbetsställe även om detta ingår i samma kommun eller region (se 6 kap. 2 § AML samt Arbetsmiljöverkets PM J 2004/38708).
+
+## Medarbetare
+
+Den enskilde medarbetaren ska medverka i arbetsmiljöarbetet, följa givna föreskrifter och använda aktuella skyddsanordningar. Medarbetarna har ofta en god uppfattning om riskerna med det egna arbetet och arbetsförhållandena i övrigt. Genom förslag och synpunkter deltar de i arbetsmiljöarbetet så att brister i arbetsmiljön kan undvikas. Det är speciellt viktigt att medarbetarna är delaktiga i samband med riskbedömning av arbetsmiljön. Arbetsgivaren har ett, utifrån arbetsmiljölagen, definierat ansvar att förebygga ohälsa och olycksfall som orsakas av den sociala arbetsmiljön. Samtidigt har varje enskild medarbetare ett ansvar för hur de relaterar till kollegor och därmed hur den sociala gemenskapen på arbetsplatsen formas.
+
+Att inte rätta sig efter skyddsföreskrifterna kan äventyra såväl medarbetarens egen som arbetskamraternas säkerhet. För att reglerna ska få genomslag krävs återkommande information och samverkan med medarbetarna. Om en medarbetare bryter mot gällande rutiner, regler och föreskrifter kan det bli aktuellt med arbetsrättsliga åtgärder, exempelvis muntlig tillsägelse, skriftlig varning, förflyttning/omplacering. Ytterst kan det bli fråga om att medarbetaren skiljs från sin anställning (uppsägning av personliga skäl). Det är viktigt att arbetsgivaren dokumenterar alla händelser som inträffar.
+
+## Företagshälsovård
+
+Företagshälsovården är en expertresurs i arbetsmiljöarbetet. Den kan till exempel behöva anlitas om en arbetsgivare inte har tillräcklig kunskap om en specifik risk vid undersökningar och riskbedömningar och för att föreslå åtgärder eller utbilda personal. Ibland kan Arbetsmiljöverket rikta krav till arbetsgivare att anlita företagshälsovård eller motsvarande sakkunnig hjälp. Företagshälsovården genomför dessutom medicinska kontroller. Arbetsgivaren har alltid kvar sitt ansvar för arbetsmiljön.
+
+## Samverkan
+
+## Arbetsgivare, fackliga ombud och medarbetare
+
+Av arbetsmiljöutredningen som föregick nuvarande arbetsmiljölag (SOU 1972:86, s 238) framgår att ' Frågorna om arbetsmiljöns utformning är en angelägenhet för alla på arbetsplatsen. Det är viktigt att den enskilde alltid ges impulser att själv aktivt medverka till förbättringar i arbetsmiljön och att det lokala skyddsarbetet organiseras med beaktande av intresset att alla anställda engageras däri' .
+
+Tanken med lagstiftningen var dels att lyfta den enskildes ansvar för arbetsmiljöfrågorna, dels att låta individens ansvar löpa parallellt med ett företrädarskap i form av ett ombud i arbetsmiljöarbetet. Man kan fastslå att den sociala dimensionen i arbetsmiljöarbetet har blivit alltmer framträdande sedan Arbetsmiljölagens (SFS 1977:1160) tillkomst.
+
+Arbetsgivare/chef, medarbetare och skyddsombud ska tillsammans arbeta med det systematiska arbetsmiljöarbetet. Det kan till exempel ske vid arbetsplatsträffar, i samverkansgrupp/skyddskommitté och i samband med utvecklingssamtal. Det är viktigt att arbetsgivaren är lyhörd för medarbetarnas och skyddsombudets synpunkter och tar hänsyn till sådant som kan förbättra arbetsförhållandena. Därför är det väsentligt att vid utvecklingssamtal, arbetsplatsträffar och samverkansgrupp ta upp frågor om hälsa och arbetsmiljö.
+
+Hur gör arbetsgivaren med samverkan om arbetsmiljöarbetet när det finns många fackliga organisationer? Svaret är att arbetsgivaren ska arbeta tillsammans med medarbetarna och skyddsombudet oavsett deras fackliga tillhörighet eller om de inte tillhör något fack alls.
+
+Arbetsgivaren har alltid kvar sitt ansvar för arbetsmiljön. Samverkan är i praktiken en förutsättning för att arbetsmiljöarbetet ska bli effektivt.
+
+I den centrala överenskommelsen, Avtal om samverkan och arbetsmiljö, är centrala parter överens om att samverkan mellan chef, medarbetare, fackliga företrädare och skyddsombud är en förutsättning för en väl fungerande verksamhet och ett effektivt arbetsmiljöarbete. Ett aktivt arbetsmiljö- och hälsoarbete minskar ohälsa och förhindrar arbetsrelaterade olycksfall samt ohälsa. Med utgångspunkten i samverkansavtalets intentioner om att arbeta med arbetsmiljö och hälsa avses såväl hälsofrämjande, förebyggande som rehabiliterande åtgärder där risk- och friskfaktorer identifieras.
+
+Samverkan sker på flera nivåer i organisationen - på arbetsplatsen, vid APT och i samverkansgrupper/skyddskommittéer. Om det finns samverkansgrupper på flera (hierarkiska) organisatoriska nivåer är det viktigt att definiera vilken eller
+
+vilka av dessa som utgör skyddskommittéer 1 . Avsikten med samverkansavtalet är att integrera verksamhetsfrågor med hälsa och arbetsmiljö och på det sättet fullgöra både AML och MBL. Centrala parter är enligt avtal överens om att en samverkansgrupp även kan fungera som skyddskommitté (6 kap. 9a §). Ambitionen är att även  integrera arbetet med aktiva åtgärder som innebär ett förebyggande och främjande arbete för att inom en verksamhet motverka diskriminering och på annat sätt verka för lika rättigheter och möjligheter oavsett kön, könsöverskridande identitet eller uttryck, etnisk tillhörighet, religion eller annan trosuppfattning, funktionsnedsättning, sexuell läggning eller ålder (SFS 2016:828, 3 kap, 1 §).
+
+Samverkansgrupper/skyddskommittéer är viktiga arenor för arbetsmiljöarbetet. Reglerna finns i AML 6 kap 8-9 § och arbetsmiljöförordningen 8 och 8a §.
+
+Samverkansgrupper/skyddskommittéer på alla nivåer i organisationen ska planera och följa upp det systematiska arbetsmiljöarbetet samt verka för tillfredställande arbetsmiljöförhållanden inklusive skyddet mot ohälsa och olycksfall.
+
+## Följande frågor ska behandlas:
+
+- · Företagshälsovård
+- · Handlingsplaner för arbetsmiljöförbättringar
+- · Planering och riskbedömning beträffande nya eller ändrade lokaler, anordningar, arbetsprocesser, arbetsmetoder eller arbetsorganisation
+- · Planering av användning av ämnen som kan skapa ohälsa eller olycksfall
+- · Upplysning och utbildning om arbetsmiljö
+- · Arbetsanpassnings- och rehabiliteringsverksamhet.
+
+En skyddskommitté inrättas om det regelbundet sysselsätts minst 50 medarbearbetsgivare bedriver sin verksamhet. Här framgår att stor vikt ska läggas vid de
+
+tare på arbetsstället. Begreppet arbetsställe definieras inte i lagtexten, men i förarbeten till lagstiftningen anges ett lokalt avgränsat område där en lokala parternas uppfattning avseende arbetsställets omfattning. Skyddskommittén utgår från definitionen av arbetsstället. Det är arbetsgivarens rådgivande organ för att komma överens i arbetsmiljöfrågor. Skyddskommittén har alltså till uppgift att delta i planeringen av arbetsmiljöarbetet och följa skyddet mot ohälsa och olycksfall på arbetsplatsen (AML 6 kap. 9 §). Oberoende av hur man bestämt arbetsställets omfattning kan det bara finnas en skyddskommitté (eller samverkansgrupp som tillika är skyddskommitté) på ett och samma arbetsställe 2 . Det finns ingenting som hindrar att man på ett arbetsställe (förutom den riktiga skyddskommittén) även tillsätter lokala samverkansgrupper. Arbetsmiljöfrågor som tas upp i andra samverkansgrupper
+
+ska även hanteras i den riktiga skyddskommittén när de enligt lagen (se AML 6 kap. 9 §) ska behandlas där. Vid ett arbetsställe där det finns studerandeskyddsombud ska även två av dessa ingå i skyddskommittén.
+
+För att arbetsmiljösamverkan ska fungera är det även viktigt att ha definierat skyddsområden. Ett skyddsområde är det område inom arbetsstället som definierar var skyddsombudet får verka. Beslutet om ett arbetsställes indelning av skyddsområden tas i samverkan mellan arbetsgivaren och de fackliga organisationerna.
+
+Arbetsmiljölagens regler om samverkan innebär att 'bedriva en på lämpligt sätt organiserad arbetsmiljöverksamhet' (6 kap. 1 §) och vilar på ett stort mått av avtalsfrihet. Den lokala skyddsverksamheten är i hög grad en avtals- och partsfråga. Det är exempelvis inte otänkbart att skyddsombud och skyddskommittéer kan vara bolagsöverskridande (alltså verka inom flera bolag), om parterna kommer överens om det.
+
+Arbetsmiljöverket har inte tillsyn över frågor som handlar om arbetsmiljösamverkan. Om det uppstår oenighet om medbestämmande för arbetstagarorganisationerna eller avtal och dess former för samverkan ska detta lösas av parterna, det vill säga arbetsgivaren och de fackliga organisationerna. Arbetsdomstolen (AD) är den instans som avgör oenighet beträffande arbetsmiljösamverkan.
+
+## Arbetsmiljöutbildning
+
+Arbetsmiljöarbetet är långsiktigt och viktigt för verksamhetens utveckling. Det är angeläget att chefer, medarbetare och skyddsombud får en relevant utbildning i arbetsmiljöfrågor och hur risker och brister kan undanröjas. God kompetens är grunden för ett bra arbetsmiljöarbete.
+
+Suntarbetsliv är parternas gemensamma initiativ för att bidra till friska arbetsplatser. Uppdraget är att samla in kunskaper om förebyggande, hälsofrämjande och rehabiliterande insatser och att tillgängliggöra dessa i form av praktisk nytta, baserad på forskning. Utbildning för chefer, fackliga företrädare och skyddsombud tillhandahålls med fördel genom Suntarbetslivs partsgemensamma utbildningar.
+
+## Regelverket
+
+## Arbetsmiljölagen och andra författningar
+
+Det finns naturligtvis andra lagar än arbetsmiljölagen och arbetsmiljöförordningen som påverkar verksamheten i större eller mindre omfattning, beroende på bland annat bransch och i vilken form verksamheten drivs. Tidigare har nämnts aktiebolagslagen, stiftelselagen, skollagen och kommunallagen. Andra lagar är lagen om stöd och service till vissa funktionshindrade (LSS), patientsäkerhetslagen, socialtjänstlagen (SoL), lagen om skydd mot olyckor (LSO) och lagen om medbestämmande i arbetslivet (MBL). Varje verksamhet måste anpassas till de lagar som gäller för just den verksamheten.
+
+Inom exempelvis räddningstjänsten finns förvaltningsspecifikt arbete parallellt med operativt arbete under larm. Båda omfattas av arbetsmiljölagen, men det operativa arbetet under larm utgår dessutom från LSO där det framgår vem som ska göra vad. Detta arbete är komplext och benämns oftast internt med speciellt instruktionssystem, omfattande flera föreskrifter från Arbetsmiljöverket.
+
+En av de viktigaste nyheterna i patientsäkerhetslagen (2010:659) är ett ökat systemperspektiv i stället för ett individperspektiv. Vårdgivaren är bland annat skyldig att bedriva ett systematiskt patientsäkerhetsarbete. Kopplingen till bestämmelserna om systematiskt arbetsmiljöarbete är tydliga 3 .
+
+Ibland kan intresseavvägningar och motstridiga krav göra det svårt att tillämpa lagarna fullt ut. I en uppmärksammad dom som gällde passiv rökning, fick arbetsmiljöhänsynen stå tillbaka för den boendes rätt till vård och omsorg i sitt eget hem. I en annan dom har intresset av en god arbetsmiljö vägt över intresset för en brukares rätt till insats enligt Socialtjänstlagen i det egna hemmet där det förelegat allvarliga arbetsmiljöproblem och där brukaren erbjudits alternativa insatser (se rättsfall nedan)..
+
+Vad gäller arbetsmiljölagens regler om rehabilitering (3 kap. 2 a §) är det viktigt att känna till rättsfall från arbetsdomstolen (AD) och den begränsning av arbetsgivarens rehabiliteringsansvar som blivit praxis, till exempel:
+
+- - Arbetskamrater får inte komma till skada (AD 1993:42)
+- - Arbetsgivaren behöver inte utvidga sin verksamhet genom nya verksamhetsgrenar eller omorganisation (AD 2006:83)
+- - Nya verksamhetsmoment behöver inte inrättas (AD 1993:42)
+
+<!-- image -->
+
+Bilden illustrerar exempel på några olika lagar som styr verksamheterna i kommuner och regioner och som i vissa fall kan komma i konflikt med varandra.
+
+Följande fyra rättsliga avgöranden speglar intresseavvägningen mellan arbetsmiljölagen och angränsande lagstiftningar:
+
+## RÄTTSFALL: Tobaksrökning gruppboende
+
+Det första målet rör ett gruppboende för personer med funktionsnedsättning, som fått sina boendeinsatser beviljade enligt SoL eller LSS. Varje person hade sin egen lägenhet och samtliga hade ett mycket stort omvårdnadsbehov. De flesta var rökare. Kommunen hade vidtagit åtgärder för att minimera medarbetarnas exponering för tobaksröken, bland annat genom att uppföra ett rökutrymme och att uppmana personerna att inte röka i lägenheterna i samband med vårdbesök. Medarbetare som inte ville vistas i en rökig arbetsmiljö hade dessutom erbjudits omplacering till likvärdigt arbete. Domstolen kom fram till att ytterligare krav mot kommunen på åtgärder i arbetsmiljön var orimliga i förhållande till de resultat som kunde uppnås. Arbetsmiljöaspekterna fick därmed stå tillbaka för de boendes behov av stöd och hjälp (Kammarrätten i Jönköping, mål nr 360-09, den 14 januari 2010. Se SKR cirkulär 10:21).
+
+## RÄTTSFALL: Omsorgsnämnden
+
+Det andra exemplet rör ett mål där Omsorgsnämnden i en kommun beslöt sig för att avbryta pågående hemtjänstinsatser för en enskild person. Samtidigt avslogs personens egen ansökan om bistånd. Beslutet motiverades med att vårdinsatserna, under rådande omständigheter, innebar en fara för medarbetarnas hälsa eftersom den aktuella personen inte ville använda de hjälpmedel som
+
+behövdes, fysiskt motsatte sig den hjälp som lämnades och utsatte medarbetarna för obehagliga situationer. Arbetsmiljöproblemen hade funnits i många år och man hade vid flera tillfällen träffats utan att nå en överenskommelse. Personen erbjöds då andra biståndsinsatser, bland annat korttidsboende (kommunalt eller privat), särskilt boende eller bistånd i form av tillsyn, matdistribution, måltidshjälp och trygghetslarm. Domstolen noterade att personen inte hade någon ovillkorlig rätt att erhålla viss bestämd insats. Eftersom personens behov kunde tillgodoses genom de alternativa insatserna, kunde arbetsmiljöintresset tillåtas att väga över. Omsorgsnämnden bedömdes ha fog för sitt beslut (Kammarrätten i Jönköping, mål nr 1259-10, den 12 november 2010. Se SKR cirkulär 11:33).
+
+Kommentar : Domarna speglar den gråzon som verksamhetsansvariga ofta hamnar i när regler och krav från olika tillsynsmyndigheter ska följas. Kraven är specificerade utifrån myndighetens tillsynsområde men tar inte alltid hänsyn till helheten, vilket kan medföra praktiska problem i tillämpningen av dem.
+
+## RÄTTSFALL: Vårdnadshavare, arbetsmiljöproblem i skolan
+
+Nästa fall rör skolhuvudmannens ansvar att se till att skolpersonal och elever har en god arbetsmiljö. Bakgrunden var ett beslut av Försäkringskassan som beviljat en elev personlig assistans för tiden i skolan. Elevens vårdnadshavare hade av assistansanordnaren anställts som personliga assistenter. Skolnämnden i kommunen beslutade att den personliga assistansen i skolan inte fick utföras av någon av vårdnadshavarna, eftersom de varit kritiska och tillrättavisande mot lärarna i undervisningssituationer och framfört hotfulla uttalanden mot skolans personal och ledning. Högsta Förvaltningsdomstolen (mål nr 2486-11, den 7 november 2012), bedömde att kommunen av hänsyn till arbetsmiljön i skolan hade rätt att neka vårdnadshavarna möjlighet att fungera som personliga assistenter till eleven i skolan, eftersom de genom sin närvaro  visat sig ha en alltför negativ påverkan på arbetsmiljön.
+
+Kommentar : Kommunens beslut innebar inte att elevens rätt till insatsen personlig assistans i skolan som sådan förvägrades, bara en begränsning av elevens möjligheter att fritt välja personliga assistenter.
+
+## RÄTTSFALL: Anhöriga som utgör arbetsmiljöproblem
+
+Det sista fallet rör ett par makar som har rätt till omsorgsinsatser, enligt socialtjänstlagen, SoL. Samtidigt finns problem med arbetsmiljön där anhöriga stör och beter sig illa mot personalen. Under flera år har arbetsgivaren genomfört åtgärder för att komma tillrätta med problemen. Det har skett upprepade avsteg från överenskommelser om att anhörig inte ska besvära eller ofreda personal när de utför insatser hos makarna. Hemvårdsnämnden villkorade därför insatserna till makarna och hänvisade dem till ett äldreboende om arbetsmiljöproblemen inte upphörde. Detta tackade makarna nej till.
+
+Frågan som Förvaltningsrätten tog ställning till var om kommunen med stöd av arbetsmiljölagstiftningen hade rätt att begränsa makarnas rätt att få de insatser
+
+de fått beviljade utifrån SoL utförda i hemmet, i syfte att uppnå en god arbetsmiljö för kommunens personal. Förvaltningsrätten fann att kommunens nämndbeslut var lagenligt och hänvisar i beslutet till förarbetena till arbetsmiljölagen (prop. 1976/77:149 s. 220) där det anges att när krav enligt olika lagstiftningskomplex står emot varandra torde i regel en lösning kunna åstadkommas efter en rimlig avvägning av tyngden hos olika intressen.
+
+Förvaltningsrätten konstaterar vidare att då kommunen har det yttersta ansvaret för arbetsmiljön för sina arbetsplatser har kommunen enligt AML också en skyldighet att vidta åtgärder för att se till att personalen har en god arbetsmiljö. Det kan då finnas behov av att gripa in exempelvis mot personer som annars bedöms ha rätt att vistas på arbetsplatsen men som genom sin närvaro har visat sig ha en alltför negativ påverkan på arbetsmiljön (jfr Högsta förvaltningsdomstolens HFD 2012 ref. 62). Förvaltningsrätten i Göteborg, dom den 29 januari 2019, mål nr 7082-18
+
+Kommentar: Förvaltningsrättens slutsats är att man som hjälpbehövande inte har någon ovillkorlig rätt att bestämma hur insatser enligt SoL ska utföras. Makarna har därmed inte förvägrats rätten till insatser utan vid händelse av att anhörig vistas i eller i närheten av hemmet i stället erbjudits alternativa insatser, enligt SoL.
+
+## Att bedriva ett systematiskt arbetsmiljöarbete
+
+Ett hjälpmedel i arbetet med att säkerställa en bra arbetsmiljö är föreskriften om Systematiskt arbetsmiljöarbete, i dagligt tal benämnd SAM. Den har beteckningen AFS (Arbetsmiljöverkets författningssamling) 2023:1
+
+SAM framhåller att arbetsgivaren är skyldig att samverka med medarbetare och skyddsombud vad gäller att:
+
+- · ta fram en arbetsmiljöpolicy som säger hur arbetsförhållandena ska vara (7 §)
+- · ta fram rutiner som beskriver hur arbetsmiljöarbetet ska gå till (8 §)
+- · fördela arbetsmiljöuppgifterna med befogenheter och resurser till chefer och arbetsledare (9 §)
+- · ge arbetstagarna kunskaper om arbetet och dess risker med särskild information till cheferna (10 §)
+- · regelbundet undersöka verksamheten och bedöma riskerna i arbetsmiljön, bland annat vid planerade förändringar (11 §)
+- · utreda arbetsskador och allvarliga tillbud (12 §)
+- · omedelbart undanröja risker och brister i arbetsmiljön och upprätta en skriftlig handlingsplan för åtgärder som inte kan vidtas omgående, samt kontrollera genomförda åtgärder (13 §)
+- · årligen följa upp hur det systematiska arbetsmiljöarbetet fungerar och ändra vid behov (14 §)
+- · vid behov anlita företagshälsovården eller annan hjälp med expertkunskaper inom området (15 §)
+
+Bilden beskriver att det finns fyra uppgifter i SAM, som man hela tiden måste arbeta med, som i ett hjul: undersöka, riskbedöma, åtgärda och följa upp.
+
+<!-- image -->
+
+<!-- image -->
+
+Bilden beskriver olika aktiviteter som ska ske inom ramen för SAM.
+
+Viktiga komponenter i det systematiska arbetsmiljöarbetet är att undersöka arbetsförhållandena och bedöma riskerna för att någon kan komma att drabbas av ohälsa och/eller olycksfall.
+
+Speciellt viktigt är det att göra en riskbedömning när ändringar planeras i verksamheten. Syftet är att förebygga ohälsa och olycksfall genom att undanröja risker, inte att hindra nödvändiga och nyttiga förändringar i verksamheten. Det är arbetsgivaren som svarar för att undersökningar och riskbedömningar görs, men de ska självfallet göras i samverkan med skyddsombudet och medarbetare.
+
+Det är också obligatoriskt att skriva ned åtgärder som inte genomförs genast i en handlingsplan för arbetsmiljöarbetet. Om det finns allvarliga risker ska det finnas skriftliga instruktioner för hur dessa ska undvikas.
+
+Den skriftliga dokumentationen har även syftet att skapa transparens så att man kan följa hur arbetsmiljöarbetet bedrivs. När det finns tio medarbetare eller fler i verksamheten ska arbetsmiljöpolicyn, rutiner, handlingsplaner, riskbedömningar, uppgiftsfördelningen, mål för den organisatoriska och sociala arbetsmiljön och resultatet av den årliga uppföljningen dokumenteras.
+
+Om en olycka inträffar och polisen misstänker arbetsmiljöbrott kan det vara avgörande att kunna gå tillbaka i dokumentationen och verifiera hur arbetsmiljöarbetet bedrivits för att bedöma straffansvar.
+
+## Exempel pf blankett för det systematiska arbetsmiljöarbetet
+
+Bilden illustrerar en handlingsplan för hur man kan gå till väga vid en riskbedömning. Först dokumenteras risk (som kan komma att uppstå). Nästa steg handlar om att bedöma riskens allvarlighetsgrad. Det sista steget handlar om att genomföra åtgärder och upprätta en handlingsplan för att minimera eller eliminera risken. Här utses ansvarig för genomförandet samt tidplan för när åtgärd ska vara genomförd. Det är även lämpligt att fastställa ett kontrolldatum för att följa upp att åtgärderna haft effekt.
+
+RÄTTSFALL: Omedelbart förbud att genomföra personalneddragningar före riskbedömning samt förtydligande att riskbedömning inte behöver genomföras innan det är meningsfullt
+
+Regeringen har fastställt ett förbud (N2001/11628/ARM) av Arbetsmiljöverket. Det gällde på ett gruppboende för äldre. Beslutet innebar att planerade personalneddragningar inte fick genomföras innan en riskbedömning var genomförd.
+
+I ett annat regeringsbeslut fastställdes att en riskbedömning inte behöver genomföras tidigare än då det är meningsfullt vid en organisationsförändring regeringsbeslut om införande av digital-TV på SVT (N2004/2482/ARM). Det kan exempelvis innebära att en riskbedömning ännu inte behöver genomföras vid planerade besparingar där det ännu är oklart hur förändringarna kommer att påverka bemanning och organisation.
+
+Kommentar: Slutsatserna av regeringsbesluten är att en riskbedömning behöver genomföras innan en organisationsförändring träder i kraft. Riskbedömningen behöver dock inte påbörjas eller genomföras tidigare än det är meningsfullt. En allmän rekommendation är att upprätta en tidplan vid en organisationsförändring där man på förhand tydliggör när riskbedömningen ska genomföras.
+
+## Organisatorisk och social arbetsmiljö
+
+Dagens teknikutveckling har inneburit förbättringar beträffande många traditionella fysiska arbetsmiljöproblem. Denna utveckling har även möjliggjort för flera arbetstagare att arbeta oberoende av tid och plats vilket bland annat underlättat flexiblare arbetstider. Samtidigt kan teknikutvecklingen skapa andra arbetsmiljöproblem. Om gränsen mellan arbete och fritid blir alltmer flytande kan det medföra stressbelastning. I vissa välfärdsyrken finns det ingen exakt gräns för när man gjort ett fullgott arbete. Detta är tendenser som kan komma att bli ännu mer markanta i framtiden, vilket gör att det krävs ett väl utbyggt systematiskt arbetsmiljöarbete med tydliga riktlinjer för när och hur medarbetarna ska vara tillgängliga i sitt arbete. En konsekvens har varit att fokus på den organisatoriska och sociala arbetsmiljön har ökat.
+
+Reglerna om organisatorisk och social arbetsmiljö som återfinns i Arbetsmiljöverkets föreskrifter och allmänna råd om planering och organisering av arbetsmiljöarbete -grundläggande skyldigheter för dig med arbetsgivaransvar (AFS 2023:2) reglerar kunskapskrav, mål, arbetsbelastning, arbetstid och kränkande särbehandling. Genom den verksamhetsutveckling och de stödjande insatser som arbetet med föreskriften om den organisatoriska och sociala arbetsmiljön innebär kan kvaliteten för brukare, patienter, elever och medarbetare förbättras.
+
+Följande begrepp är grundläggande inom organisatorisk och social arbetsmiljö:
+
+| Mål        | Arbetsgivaren ska ha mål för den organisatoriska och sociala  arbetsmiljön. Målen ska syfta till att främja hälsa och öka  organisationens förmåga att motverka ohälsa.   |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fördelning | Det ska finnas en tydlig fördelning av arbetsuppgifter, resurser  och befogenheter som är känd för medarbetarna.                                                          |
+| Kunskap    | Arbetsgivaren ska se till att chefer och arbetsledare har kunskaper  om:  1.                                                                                              |
+| Kunskap    | Hur man förebygger och hanterar ohälsosam arbetsbelastning.  2. Hur man förebygger och hanterar kränkande särbehandling.                                                  |
+
+| Medverkan                   | Medarbetarna har möjlighet att påverka sina arbetsuppgifter och  medverka i förändrings- och utvecklingsarbete som rör  verksamheten.                                                                                                                                                                                                                                                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Information                 | Medarbetarna får information som rör både den egna arbetssi- tuationen och verksamheten i sin helhet.                                                                                                                                                                                                                                                                                                                                 |
+| Social  arbetsmiljö         | Det finns villkor och förutsättningar för arbetet som inkluderar  socialt samspel, samarbete och socialt stöd från chefer och  kollegor.                                                                                                                                                                                                                                                                                              |
+| Organisatorisk  arbetsmiljö | Det finns villkor och förutsättningar för arbetet som inkluderar  1. ledning och styrning,  2. kommunikation,  3. delaktighet,  4. handlingsutrymme,  5. fördelning av arbetsuppgifter och                                                                                                                                                                                                                                            |
+| Resurser för  arbetet       | 6. krav, resurser och ansvar  Det i arbetet som bidrar till att  1. uppnå mål för arbetet, eller  2. hantera krav i arbetet.  Resurser kan vara arbetsmetoder och arbetsredskap, kompetens  och bemanning, rimliga och tydliga mål, återkoppling på  arbetsinsats, möjligheter till kontroll i arbetet, socialt stöd från                                                                                                             |
+| Kränkande  särbehandling    | chefer och kollegor, samt möjligheter till återhämtning.  Handlingar som riktas mot en eller flera arbetstagare på ett  kränkande sätt och som kan leda till ohälsa eller att dessa ställs  utanför arbetsplatsens gemenskap.                                                                                                                                                                                                         |
+| Ohälsosam  arbetsbelastning | När kraven i arbetet mer än tillfälligt överskrider resurserna.  Denna obalans blir ohälsosam om den är långvarig och  möjligheterna till återhämtning är otillräckliga.                                                                                                                                                                                                                                                              |
+| Ohälsosam  arbetsbelastning | Arbetsgivaren ska se till att arbetstagarna känner till  1. vilka arbetsuppgifter de ska utföra,  2. vilket resultat som ska uppnås med arbetet,  3. om det finns särskilda sätt som arbetet ska utföras på, och i så  fall hur,  4. vilka arbetsuppgifter som ska prioriteras när tillgänglig tid inte  räcker till för alla arbetsuppgifter som ska utföras, och  5. vem de kan vända sig till för att få hjälp och stöd att utföra |
+
+## Brister i arbetsmiljön
+
+## Arbetsmiljöverkets roll
+
+Arbetsmiljöarbete som utförs tillsammans med anställda och skyddsombud är det bästa sättet att förebygga arbetsmiljörisker.
+
+Arbetsmiljöverkets inspektioner har olika inriktningar. Myndigheten inspekterar de arbetsplatser som de bedömer har störst arbetsmiljörisker och arbetar i ökande omfattning i projekt och kampanjer där de riktar sig mot särskilda arbetsmiljöproblem eller branscher/verksamhetsområden.
+
+Dessutom gör Arbetsmiljöverket speciella inspektioner vid allvarliga olycksfall i arbetet eller vid tillbud som har inneburit allvarlig fara för liv eller hälsa (enligt 3 kap. 3a § arbetsmiljölagen).
+
+Det finns även två olika former av obligatorisk tillsyn där man i inspektionerna hanterar skyddsombudsstopp och 6:6a framställningar:
+
+- 1. skyddsombudens rätt (6 kap. 7 § arbetsmiljölagen) att avbryta ett arbete som innebär en omedelbar och allvarlig fara för liv eller hälsa och där arbetsgivaren inte omedelbart rättar till arbetsmiljörisken.
+- 2. skyddsombudens rätt (6 kap. 6 a § arbetsmiljölagen) att begära ett ingripande när en arbetsgivare inte rättar till de arbetsmiljöbrister som skyddsombudet bett om.
+
+När en verksamhet har sådana brister att det kan leda till ohälsa eller olycksfall kan Arbetsmiljöverket ge verksamheten föreläggande om att vidta vissa åtgärder. Arbetsmiljöverket kan också förbjuda visst arbete om inte vissa villkor uppfylls. Dessa förelägganden och förbud riktar sig i de flesta fall antingen mot arbetsgivaren eller mot det enskilda företaget eller bolaget. Besluten kan förenas med ett vite. De kan överklagas till förvaltningsdomstol (förvaltningsrätt, kammarrätt eller Högsta Förvaltningsdomstolen). För överklagande till kammarrätt och Högsta Förvaltningsdomstolen krävs prövningstillstånd.
+
+Arbetsmiljöverkets inspektion inleds ofta med en föranmälan. Verket brukar ange syftet med inspektionen, till exempel om den gäller hela arbetsstället eller en specifik arbetsmiljöfråga.
+
+Det är viktigt att arbetsgivaren vid inspektionen från Arbetsmiljöverket företräds av personer som kan beskriva verksamhetens inriktning och det interna arbetsmiljöarbetet. De bör även ha befogenheter att besluta och genomföra nödvändiga ändringar i verksamheten.
+
+Arbetsgivaren ska kalla det berörda skyddsombudet till inspektionen. Innan den avslutas brukar Arbetsmiljöverkets företrädare, oftast en arbetsmiljöinspektör, sammanfatta sina iakttagelser och vilka krav på förändringar som kommer att ställas.
+
+Under hela inspektionen, liksom efter den, finns möjligheter att framföra synpunkter eller begära förtydliganden. Om Arbetsmiljöverket hittar arbetsmiljöbrister, får arbetsgivaren en skrivelse efter inspektionen. I skrivelsen beskrivs bristerna och vilka regler som gäller. Att Arbetsmiljöverket ställer krav innebär inte automatiskt att arbetsgivaren måste rätta sig efter kraven. De kan både ifrågasättas och - när det gäller föreläggande och förbud - överklagas. I beslutet från Arbetsmiljöverket står hur och inom vilken tid som överklagandet måste göras. Om det inte görs i rätt tid blir verksamheten bunden av verkets krav. På SKR.se finns Råd vid kontakter med Arbetsmiljöverket.
+
+Bilden beskriver hur en rutininspektion från Arbetsmiljöverket går till.
+
+<!-- image -->
+
+Bilden beskriver ett ärendes gång vid en inspektion av Arbetsmiljöverket.
+
+<!-- image -->
+
+## Påföljder och straff
+
+Med ansvar följer ofta någon form av påföljd eller straff om ansvaret inte fullgjorts. Att följa arbetsmiljölagstiftningen handlar dock inte bara om att undvika straff eller påföljd. Goda arbetsförhållanden och en väl fungerande verksamhet är varandras förutsättningar. En insats för ökad patientsäkerhet ger positiva effekter också på arbetsmiljön för de som arbetar inom sjukvården. Att stödja lärares förutsättningar att bedriva undervisning ger samtidigt en möjlighet att främja kvaliteten i skolans verksamhet. En satsning på bra arbetsvillkor kan ofta också räknas hem i ekonomiska termer i form av högre produktivitet, färre produktionsstörningar och lägre kostnader för sjukskrivningar. En förutsättning för att ha ett högt förtroende som arbetsgivare handlar om att så långt som möjligt undvika olika former av straff och sanktioner. När det gäller arbetsmiljön finns ett antal olika påföljder.
+
+## Vite
+
+Vite förekommer när Arbetsmiljöverket utfärdar förelägganden eller förbud. Ett föreläggande riktas oftast mot den formella arbetsgivaren, exempelvis aktiebolaget, stiftelsen, kommunen. Vitet kan uppgå till betydande belopp. Om föreläggandet följs i rätt tid, behöver inte vitet betalas. Ett föreläggande och förbud med vite från Arbetsmiljöverket kan överklagas till förvaltningsdomstol (förvaltningsrätt, kammarrätt eller Högsta Förvaltningsdomstolen), som också är den instans som prövar eventuella utdömanden av vite.
+
+RÄTTSFALL: Ett sjukhusaktiebolag överklagade ett föreläggande och förbud med vite från Arbetsmiljöverket. Beslutet från Arbetsmiljöverket gällde placering av sjukhussängar samt riskbedömning, åtgärder och handlingsplan vid överbeläggningar. Förvaltningsrätten reducerade (jämkade) vitet med 50 % respektive 33 % till 200 000 kronor respektive 150 000 kronor. (Förvaltningsrätten i Stockholm, dom i mål nr 3328-11 den 23 mars 2011).
+
+Kommentar : I många fall där kommuner och regioner fått gehör för sina överklaganden handlar det om att vitesföreläggandet inte varit tillräckligt tydligt utformat. Ett vitesföreläggande får i princip inte utformas på ett sådant sätt att det endast upprepar den aktuella regleringens lydelse om inte bestämmelserna är så precisa att det inte kan råda något tvivel om vilka åtgärder som ska vidtas eller underlåtas i det enskilda fallet (HFD 2020 ref. 28) (se Förvaltningsrätten i Stockholm Mål nr 22341-23 den 4 november 2024 samt Förvaltningsrätten i Stockholm Mål nr 22683-22 den 16 november 2023).
+
+## Böter
+
+Böter utdöms som straff för förseelser eller brott mot bestämmelser i arbetsmiljölagstiftningen eller i Brottsbalken. Det krävs uppsåt eller oaktsamhet. Det kan aktualiseras om arbetsgivare inte följer direkt straffsanktionerade bestämmelser om lämnande av oriktiga uppgifter till tillsynsmyndighet, borttagande av skyddsanordning, att utan dröjsmål rapportera en allvarlig olycka eller arbetsskada eller ett allvarligt tillbud till Arbetsmiljöverket, eller att anlita en minderårig utan att följa de regler som gäller.
+
+Böter döms ut till fysiska personer, oftast en person i arbetsledande ställning hos arbetsgivaren, som har underlåtit att vidta nödvändiga åtgärder för att undanröja en arbetsmiljörisk. Bötesbeloppet beror på brottets allvarlighetsgrad och den åtalades ekonomiska förhållanden. Böter döms ut av allmän domstol (tingsrätt, hovrätt, Högsta Domstolen) eller i vissa fall genom strafföreläggande, som åklagare utfärdar.
+
+## Företagsbot
+
+Företagsbot är en ekonomisk sanktion som riktar sig mot den formella arbetsgivaren om det i dennes näringsverksamhet har begåtts ett brott eller en förseelse mot bland annat arbetsmiljölagstiftningen. En kommuns eller en regions verksamhet kan efter en lagändring som gjordes år 2020 åläggas företagsbot med anledning av arbetsmiljöbrott som begåtts.
+
+Förutsättningen är att näringsidkaren inte har förebyggt brottsligheten eller att brottet eller förseelsen har begåtts av en person i ledande ställning eller med ansvar för tillsyn eller kontroll. En företagsbot kan uppgå till maximalt 10 miljoner kronor och som lägst till 5 000 kronor. Åklagaren behöver inte peka ut vilken eller vilka personer i näringsverksamheten som har varit försumliga. Företagsboten är i dag den vanligaste påföljden.
+
+## Sanktionsavgifter
+
+Flera av Arbetsmiljöverkets angivna arbetsmiljö- och arbetstidsbestämmelser är förenade med en sanktionsavgift. En sanktionsavgift är en avgift (medan böter är ett straff man döms till i domstol) som läggs på den enskilda kommunen eller regionen och inte enskilda ansvariga. Syftet med sanktionsavgifter är att minska antalet överträdelser av Arbetsmiljöverkets föreskrifter och avgiftens storlek beror dels på vilken överträdelse som har gjorts, dels på företagets eller organisationens storlek. Om en arbetsgivare inte godkänner avgiftsföreläggandet kan Arbetsmiljöverket ansöka om att ärendet prövas i förvaltningsrätten. De flesta föreskrifter med sanktionsavgifter handlar om överträdelser av den fysiska arbetsmiljön och uppgår till maximalt 1 miljon kronor.
+
+## Bilaga 1
+
+## Ordförklaringar
+
+## Påföljder och straff grundade på arbetsmiljölagen
+
+Källa: Tema Arbetsmiljö AB på uppdrag av Arbetsmiljöverket
+
+Förbud : Arbetsmiljöverket kan förbjuda en arbetsgivare att exempelvis använda en farlig maskin eller arbetsmetod. Ett förbud kan antingen gälla från och med ett visst datum eller omedelbart.
+
+Omedelbart förbud: Förekommer till exempel mot arbete på hög höjd utan fallskydd. Gäller även om det överklagas och fram tills förvaltningsrätt tagit ställning.
+
+Föreläggande: Arbetsmiljöverket kan förelägga en arbetsgivare att senast ett visst datum genomföra arbetsmiljöförbättringar, till exempel när det gäller ergonomi och lokaler.
+
+Vite : Som påtryckningsmedel förenar Arbetsmiljöverket i regel förbud och förelägganden med ett vite, exakt angivet i kronor.
+
+Löpande vite : Förbud kan förenas med löpande vite. Det innebär att vite kan dömas ut varje gång förbudet överträds, till exempel när sjukhussängar placeras felaktigt.
+
+Utdömande av vite: Bryter en arbetsgivare mot ett förbud eller föreläggande med vite kan Arbetsmiljöverket ansöka hos Förvaltningsrätten i Stockholm att vitet döms ut. Den som är missnöjd med en sådan  dom kan överklaga till i första hand Kammarrätten i Stockholm och i sista hand till Högsta förvaltningsdomstolen.
+
+Prövningstillstånd : Kammarrätten kan ge tillstånd till att förvaltningsrättens dom prövas, om det är av vikt för rättstillämpningen, om det finns anledning att ändra förvaltningsrättens beslut eller om det finns synnerliga skäl. Om inte Kammarrätten ger prövningstillstånd kan dess beslut överklagas till Högsta förvaltningsdomstolen. Ifall prövningstillstånd inte ges vinner förvaltningsrättens dom laga kraft.
+
+Jämkning : Arbetsmiljöverket kan sänka sitt vitesyrkande i förvaltningsdomstol om vissa krav, men inte alla, i ett föreläggande uppfyllts. Förvaltningsdomstolen kan, av andra skäl, döma ut ett lägre vitesbelopp än Arbetsmiljöverket yrkat.
+
+## Chefens arbetsmiljöansvar
+
+Syftet med skriften är att ge en övergripande bild av chefens arbetsmiljöansvar. Förhoppningen är att skriften ska fungera som inspiration och vägledning i arbetsmiljöarbetet hos kommuner, regioner samt kommunalförbund, företag och bolag anslutna till Sobona. Skriften tar upp frågor kring arbetsgivarens ansvar för arbetsmiljön och hur du som chef kan arbeta med arbetsmiljöfrågorna. Denna utgåva av Chefens arbetsmiljöansvar innehåller dessutom ett antal rättsfall.
+
+Upplysningar om innehållet Gunnar Sundqvist, gunnar.sundqvist@skr.se
+
+© Sveriges Kommuner och Regioner, 2024 ISBN 978-91-8047-302-6 Text: Gunnar Sundqvist, SKR Produktion: SKR
+
+ISBN 978-91-8047-302-6 Beställ eller ladda ner på skr.se Post: 118 82 Stockholm | Besök: Hornsgatan 20 Telefon: 08-452 70 00 | www.skr.se
+
+<!-- image -->

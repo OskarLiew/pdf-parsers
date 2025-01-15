@@ -750,17 +750,17 @@ Se Why AI and energy are the new power couple, International Energy Agency, 2023
 
 Färdplan för Sverige | EN STABIL GRUND ATT BYGGA PÅ
 
+Fossila bränslen
+
+Sol och vind
+
 Bioenergi
 
 Vattenkraft
 
-Kärnkraft
-
-Sol och vind
-
 401989156132294217185142219106727161633714217121226112355965400%20%40%60%80%100%SverigeFinlandNorgeDanmarkEU medelvärdeUSAKinaStorbritannien
 
-Fossila bränslen
+Kärnkraft
 
 Fossilfri el som en konkurrensfördel Utveckling och användning av AI förutsätter data- center för att träna och driftsätta algoritmer. I den digitala sektorn spelar geografisk placering mindre roll, eftersom aktörer kan leverera tjänster globalt via internet. Det gör att datacenter kan koncentreras till platser med gynnsamma förutsättningar varifrån de kan försörja en global kundkrets. Elförbrukningen i ett visst land påverkas därmed inte bara av AI-utveck- lingen, utan även av datacentrens placering.
 
@@ -2452,33 +2452,33 @@ Samtidigt har Sverige tappat placeringar i Global AI Index. I det delindex som m
 
 74
 
-Frankrike
-
 Finland
 
+Sverige
+
 USA
+
+Tyskland
+
+Frankrike
 
 Storbritannien
 
 0,00,51,01,52014201520162017201820192020202120222023
 
-Sverige
+05101520252014201520162017201820192020202120222023
 
-Tyskland
+Sverige
 
 Finland
 
+USA
+
 Frankrike
-
-05101520252014201520162017201820192020202120222023
-
-Tyskland
-
-Sverige
 
 Storbritannien
 
-USA
+Tyskland
 
 AI FÖR ALLA | Färdplan för Sverige
 
@@ -2488,19 +2488,19 @@ IT-metoder för ledning
 
 Telekommunikation
 
+Frankrike
+
 Sverige
 
-USA
+Storbritannien
 
-Finland
+USA
 
 0501001502014201520162017201820192020202120222023
 
 Tyskland
 
-Frankrike
-
-Storbritannien
+Finland
 
 Digital kommunikation
 
@@ -2508,19 +2508,17 @@ Källa: EPO. Norbäck och Persson, 2024, Den AI-drivna strukturomvandlingen av d
 
 75
 
-Frankrike
-
 Finland
 
 Storbritannien
 
-USA
-
-Tyskland
+Sverige
 
 02468102014201520162017201820192020202120222023
 
-Sverige
+Tyskland
+
+USA
 
 Frankrike
 
@@ -2528,11 +2526,13 @@ Sverige
 
 USA
 
+Frankrike
+
+Tyskland
+
 012342014201520162017201820192020202120222023
 
 Finland
-
-Tyskland
 
 Storbritannien
 
@@ -2544,19 +2544,19 @@ Audio-visuell teknologi
 
 Halvledare
 
-Frankrike
-
-Sverige
-
-Finland
+USA
 
 Tyskland
 
+Sverige
+
 02462014201520162017201820192020202120222023
 
-USA
-
 Storbritannien
+
+Frankrike
+
+Finland
 
 Miljöteknologi
 
@@ -2568,27 +2568,27 @@ Tyskland
 
 05101520252014201520162017201820192020202120222023
 
-Finland
-
-Frankrike
-
-Storbritannien
+Sverige
 
 USA
 
-Sverige
+Storbritannien
+
+Frankrike
+
+Finland
+
+USA
+
+Storbritannien
 
 Finland
 
 Tyskland
 
-Sverige
-
 0123452014201520162017201820192020202120222023
 
-USA
-
-Storbritannien
+Sverige
 
 Frankrike
 
@@ -2722,11 +2722,11 @@ Här är AI-kommissionens uppfattning att införandet av AI som innovationsverkt
 
 79
 
+Stora företag
+
 5353514842404038363535353433282221191410141314128971171091356580102030405060FinlandSlovenienDanmarkBelgienLuxembourgNedeländernaSpanienSverigeIrlandTysklandPortugalÖsterrikaNorgeMaltaTjeckienSlovakienFrankrikeKroatien
 
 Små företag
-
-Stora företag
 
 Färdplan för Sverige | AI FÖR ALLA
 

@@ -1,0 +1,70 @@
+MATEMATIK
+Chalmers tekniska h ¨ogskola Datum: 2020-10-10 kl. 08.30–12.30
+Tentamen Telefonvakt: Hossein Rau
+Telefon: 070 - 449 02 37
+MVE041 Flervariabelmatematik Z1
+Betygsgr¨anser: 3: 20-29 p, 4: 30-39, 5: 40-50.
+L¨osningar l ¨aggs ut p˚a kursens webbsida f ¨orsta vardagen efter tentamensdagen.
+Till samtliga uppgifter skall fullst ¨andiga l ¨osningar inl ¨amnas.Endast svar ger inga po ¨ang.
+Motivera och f ¨orklara s˚a v¨al du kan.
+1. (a) Ber ¨akna
+∫ ∫
+D
+sin(x+y)dAd ¨arD ¨ar omr˚adet som beskrivs av olikheternay≥0,
+y≤xochy≤2−x. (3 p)
+(a) Ber ¨akna
+∫ ∫
+T
+xy
+
+x2 +y 2dAd ¨arT ¨ar triangeln med h ¨ornen (0,0), (1,0) och (1,1).
+Anv¨and d¨arefter detta resultat till att ber ¨akna
+∫ ∫
+D
+xy
+
+x2 +y 2dAd ¨arD ¨ar kvadra-
+ten med h ¨ornen (0,0), (1,0), (0,1) och (1,1). (4 p)
+2. (a) Best ¨am tangentplanet till ytanx 2z+z 2 = 2xy+y 2 i punkten (0,−1,1). (3 p)
+(b) Best ¨amC∈Rs˚a att planet 2x+ 2y+z=Ctangerar ytanx+y 2 +z 4 = 1. (4 p)
+3. Ber ¨akna arbetet som utf ¨ors d˚a kraftf¨altet (6 p)
+F(x, y) =
+(
+(2x+x 2y)exy, x3exy + 1
+)
+yttar en partikel l ¨angs kurvany=
+√
+9
+4 −9x 2 fr˚anx= 0 tillx=−12.
+4. Transformera den partiella dierentialekvationen (6 p)
+x2 ∂2f
+∂x2 + 2xy ∂2f
+∂x∂y +y 2 ∂2f
+∂y2 =xy, x >0
+genom att g ¨ora variabelbytet { u=x,
+v= x
+y 
+Obs!Du beh ¨overintel ¨osa dierentialekvationen, bara transformera den fr˚an (x, y)- till
+(u, v)-koordinater.
+5. Anv ¨and Lagrange-multiplikatorer till att best ¨amma den st ¨orsta m ¨ojliga volymen f ¨or ett
+r¨atblock vars totala begr ¨ansningsyta ¨ar 2 m 2. (6 p)
+Var god v ¨and!
+
+6. Ber ¨akna volymen av den kropp som beskrivs av olikheternaz≥0,z≥x 2 +y 2 −1, och
+z≤
+
+x2 +y 2 + 1. (6 p)
+7. Ytanz=
+
+4−x 2 −y 2,x≥0,y≥0 ochx 2 +y 2 ≤4 har densiteten (6 p)
+ρ(x, y, z) =z
+
+x2 +y 2 kg/m2
+Ber¨akna ytans massa.
+8. Ber ¨akna det st ¨orsta v ¨arde som linjeintegralen (6 p)
+∮
+γ
+y3dx+ (3x−x 3)dy
+d¨arγ ¨ar en enkel, sluten kurva genoml ¨opt ett varv moturs, kan anta.
+Lycka till!
+/Hossein

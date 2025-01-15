@@ -1,12 +1,12 @@
-![](_page_0_Picture_0.png)
+![](_page_0_Picture_0.jpeg)
 
 # *Information om livsmedel som inte är färdigförpackade*
 
-![](_page_0_Picture_2.png)
+![](_page_0_Picture_2.jpeg)
 
 Information till dig som säljer eller serverar livsmedel
 
-![](_page_2_Picture_0.png)
+![](_page_2_Picture_0.jpeg)
 
 I den här broschyren finns information för dig som säljer eller serverar livsmedel som inte är färdigförpackade. Informationen kan exempelvis vara användbar för dig som arbetar i restaurang, på kafé, i ett offentligt kök eller i en manuell disk i en livsmedelsbutik. Det är viktigt att känna till att den här informationen inte är heltäckande, utan att det kan finnas andra regler som du måste ta hänsyn till beroende på vilket livsmedel det handlar om.
 
@@ -51,7 +51,7 @@ Ett färdigförpackat livsmedel är ett livsmedel som placerades i en förpackni
 
 För färdigförpackade livsmedel krävs livsmedelsinformation i form av märkning på livsmedelsförpackningen. Du kan läsa mer i broschyren "Märkning av färdigförpackade livsmedel".
 
-![](_page_3_Picture_7.png)
+![](_page_3_Picture_7.jpeg)
 
 # Livsmedel som inte är färdigförpackade
 
@@ -111,7 +111,7 @@ Exempel på hur informationen kan ges skriftligen:
 
 Information om maträtter och allergener på restaurang.
 
-![](_page_6_Figure_1.png)
+![](_page_6_Figure_1.jpeg)
 
 # *Att informera konsumenterna om livsmedel som inte är färdigförpackade*
 
@@ -127,7 +127,7 @@ För livsmedel som förpackas på försäljningsstället på konsumentens begär
 
 • **Allergener** – ingredienser från allergenlistan
 
-![](_page_7_Picture_8.png)
+![](_page_7_Picture_8.jpeg)
 
 ### **Information som ska ges om konsumenten frågar:**
 
@@ -213,7 +213,7 @@ Om du levererar livsmedel som inte är färdigförpackade till andra företag ä
 
 Undantagen ingår inte i denna sammanfattning. Jämför med bilaga II i förordning (EU) nr 1169/2011.
 
-![](_page_10_Picture_0.png)
+![](_page_10_Picture_0.jpeg)
 
 # LÄS MER
 
@@ -243,7 +243,7 @@ Livsmedelsindustrins och dagligvaruhandelns branschriktlinjer för allergi och a
 - Livsmedelsverkets föreskrifter om handelsbeteckningar på fiskerioch vattenbruksprodukter SLVFS 2001:37, senaste ändring av bilagan LIVSFS 2014:23
 - Mer lagstiftning, som bland annat rör livsmedelsinformation om olika slags livsmedel, hittar du på Livsmedelsverkets webbplats
 
-![](_page_11_Picture_0.png)
+![](_page_11_Picture_0.jpeg)
 
 12
 

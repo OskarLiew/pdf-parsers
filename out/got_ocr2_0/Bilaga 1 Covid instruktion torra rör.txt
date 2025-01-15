@@ -1,37 +1,3 @@
-1. Provtagning mot
-2. Provtagning i näsan
-3. Spotta och doppa
-4. Skruva på
-svalgvägg
-Ta prov på dig själv
-1. Skruva av locket på provrøret, provtagningspinnen sitter fast i skruvlocket.
-2. För den mjuka delen av pinnen in genom munnen och så långt bak i din hals som du kan
-komma, så att du nåstan kräks.
-3. Gnid runt pinnen mot svalgväggen (längst in i halsen) så länge du kan. Det kommer att
-kännas obehagligt, men 5 sekunder räcker. Se skiss.
-4. Stoppa sedan förskittigt in samma ände av pinnen rakt in i nåsborren, så långt in som du kan.
-Vinkla inte pinnen uppåt. Gnid runt pinnen i 10–20 sekunder. Se skiss.
-5. Samla mycket spott i munnen och spotta på taliriken eller i muggen, undvik att få med slem
-eller snor.
-6. Doppa den mjuka delen av pinnen i spottet så att den blir ordentligt fuktig.
-Överför provet till provröret och förpacka provröret på ett säkert sätt
-1. För förskittigt tillbaka pinnen i provröret.
-2. Skruva på locket på provröret ordentligt.
-3. Lägg tillbaka röret i förvaringspåsen med QR-kod.
-4. Stäng påsen ordentligt.
-5. Förvara påsen med provröret i ett kylskåp, tills du kan lämna in det eller får det hämtat.
-Hantera avfallet på ett säkert sätt
-1. Lägg hushållspappret i en vanlig plastpåse.
-2. Knyt ihop plastpåsen ordentligt och släng som vanliga hushållssopor.
-3. Tallrik och mugg kan diskas på vanligt vis.
-Du får ett meddelande till din mobil när provsvaret är färdigt
-När provsvaret är klart får du ett sms. Det sker vanligtvis inom 48 timmar från då du lämnar in röret
-men kan dröja något i samband med helgdagar. Logga in med BankID på webbplatsen direkttest.se.
-för att läsa svaret.
-Se separat papper för vanliga frågor och svar.
-Kategori 2/3 – Eurofins V1
-December 2020
-
 COVID-19
 Ta prov på dig själv – För medarbetare inom kommun,
 region och samhällskritisk verksamhet
@@ -65,6 +31,40 @@ Efter att du legitimerat dig med BankID är registreringen klar.
 5.
 Om du fyllt i epostfältet under registreringen skickas ett mail med referensnumret till epost-
 adressen du angett.
+
+1. Provtagning mot
+2. Provtagning i näsan
+3. Spotta och doppa
+4. Skruva på
+svalgvägg
+Ta prov på dig själv
+1. Skruva av locket på provrøret, provtagningspinnen sitter fast i skruvlocket.
+2. För den mjuka delen av pinnen in genom munnen och så långt bak i din hals som du kan
+komma, så att du nåstan kräks.
+3. Gnid runt pinnen mot svalgväggen (längst in i halsen) så länge du kan. Det kommer att
+kännas obehagligt, men 5 sekunder räcker. Se skiss.
+4. Stoppa sedan förskittigt in samma ände av pinnen rakt in i nåsborren, så långt in som du kan.
+Vinkla inte pinnen uppåt. Gnid runt pinnen i 10–20 sekunder. Se skiss.
+5. Samla mycket spott i munnen och spotta på taliriken eller i muggen, undvik att få med slem
+eller snor.
+6. Doppa den mjuka delen av pinnen i spottet så att den blir ordentligt fuktig.
+Överför provet till provröret och förpacka provröret på ett säkert sätt
+1. För förskittigt tillbaka pinnen i provröret.
+2. Skruva på locket på provröret ordentligt.
+3. Lägg tillbaka röret i förvaringspåsen med QR-kod.
+4. Stäng påsen ordentligt.
+5. Förvara påsen med provröret i ett kylskåp, tills du kan lämna in det eller får det hämtat.
+Hantera avfallet på ett säkert sätt
+1. Lägg hushållspappret i en vanlig plastpåse.
+2. Knyt ihop plastpåsen ordentligt och släng som vanliga hushållssopor.
+3. Tallrik och mugg kan diskas på vanligt vis.
+Du får ett meddelande till din mobil när provsvaret är färdigt
+När provsvaret är klart får du ett sms. Det sker vanligtvis inom 48 timmar från då du lämnar in röret
+men kan dröja något i samband med helgdagar. Logga in med BankID på webbplatsen direkttest.se.
+för att läsa svaret.
+Se separat papper för vanliga frågor och svar.
+Kategori 2/3 – Eurofins V1
+December 2020
 
 Vanliga frågor och svar
 F: Jag har inte Bank-ID.

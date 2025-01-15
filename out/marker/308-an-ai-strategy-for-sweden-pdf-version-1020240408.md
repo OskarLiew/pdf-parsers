@@ -4,7 +4,7 @@
 
 > "Based on who we are, our values, and our strengths, Sweden has a tremendous opportunity to solve key societal, democratic, and business challenges with the use of AI. To get there we should focus on generating value, leading with boldness, scaling collaboration, and investing significantly across sectors.."
 
-![](_page_0_Picture_3.png)
+![](_page_0_Picture_3.jpeg)
 
 MARTIN SVENSSON MANAGING DIRECTOR, AI SWEDEN
 
@@ -14,7 +14,7 @@ In the private sector, many companies are seeing rapidly increasing internationa
 
 Kärnanav strateginärbehovetav ettdjärvtledarskapsom fokuserarpåatt skapavärde medhjälpavAI.Det krävs mer samarbete mellan samhällssektorer,ochgemensammainvesteringar som drivspåav internationellarelationer. Bådeprivata ochoffentligaorganisationer skagenom AI-användningstärkasin konkurrenskraft, lösasamhälleligautmaningaroch visa vägen förandra. Strateginär enguide förpolitiker, näringslivets ledningsgrupper,beslutsfattare, civilsamhälletsaktörerochalla förändringsledare som harambitionenattpåettansvarsfullt sätt utvecklaSverige. Countries that early on have invested heavily in AI research and talent through research-focused strategies (e.g. Canada) now face a crucial choice to invest beyond research and experimentation to enable adoption or lag behind. While others have to change their strategies, Sweden on the other hand has an opportunity to acknowledge that the benefits from AI come when the technology is put to use in companies and organizations, and implement an adoptionfocused strategy from the beginning.
 
-![](_page_0_Picture_9.png)
+![](_page_0_Picture_9.jpeg)
 
 ### Executive Summary
 
@@ -38,7 +38,7 @@ vägen förandra.
 
 Kärnanav strateginärbehovetav ettdjärvtledarskapsom fokuserarpåatt skapavärde medhjälpavAI.Det krävs mer samarbete mellan samhällssektorer,ochgemensammainvesteringar som drivspåav internationellarelationer. Bådeprivata ochoffentligaorganisationer skagenom AI-användningstärkasin konkurrenskraft, lösasamhälleligautmaningaroch visa This Strategy has been developed by AI Sweden, the national center for applied AI with the mission to Accelerate the use of AI for the benefit of our society, our competitiveness, and everyone living in Sweden, with feedback and input from selected experts in Sweden, Canada, USA and Singapore. The Strategy is also inspired by the strategies of EU, Canada, the USA, the UK, Germany, and Singapore.
 
-![](_page_1_Picture_9.png)
+![](_page_1_Picture_9.jpeg)
 
 # Team and contributors
 
@@ -58,7 +58,7 @@ While AI Sweden is the sole responsible organization for the strategy, the follo
 
 Many others have contributed with inspiration and perspectives.
 
-![](_page_2_Picture_13.png)
+![](_page_2_Picture_13.jpeg)
 
 # Vision - a desired future state
 
@@ -66,7 +66,7 @@ A future Swedish society making the most of the potential of AI should draw on e
 
 Based on who we are as a country, our values, and our strengths, the future Sweden seizes the opportunity of AI to solve key societal and business challenges for the benefit of a prosperous society characterized by democratic values and high quality of life. This is powered by a robust, highly attractive, and ambitious Swedish AI ecosystem that has a positive global impact on people and the planet.
 
-![](_page_3_Picture_3.png)
+![](_page_3_Picture_3.jpeg)
 
 The Vision can also be expressed as Sweden striving to become a worldwide benchmark for how AI is embedded nationally and generates sustainable value throughout businesses and society with a positive impact globally.
 
@@ -74,9 +74,9 @@ As an overall indicator of immediate progress, Sweden should aim to be ranked am
 
 A broader framework for benchmarking and measurement based on the Global AI Index and this Strategy is suggested further down.
 
-![](_page_3_Picture_8.png)
+![](_page_3_Picture_8.jpeg)
 
-## Fundamental standpoints & perspectives
+# Fundamental standpoints & perspectives
 
 This Strategy is based on a strong sense of urgency and an analysis summarized in a set of fundamental standpoints and perspectives that must be recognized by any politician, business leader, decision-maker, civil servant, or changemaker with ambition and responsibility to lead and develop Sweden, the Swedish ecosystem, or individual organizations and companies.
 
@@ -100,9 +100,9 @@ To stay adaptive and strengthen Sweden's competitiveness, the Swedish AI ecosyst
 
 As noted in the introduction, even countries that have invested in AI research and talent through research-focused strategies early on(e.g. Canada) now face a crucial choice to invest beyond research and experimentation to enable adoption or lag behind.
 
-![](_page_4_Picture_12.png)
+![](_page_4_Picture_12.jpeg)
 
-![](_page_4_Picture_13.png)
+![](_page_4_Picture_13.jpeg)
 
 ### **Availability** | **General** AI **technology** is **widely available, while data** is **often proprietary**
 
@@ -122,7 +122,7 @@ Further, the competence of an organization will determine how well and sustainab
 
 Lastly, investing in capabilities and competence is essential but not enough. Without a shift in mindset, those investments will not render expected returns, what took us here is not what will lead us into the future. Leaders need to have an ambidextrous approach, both working strategically and visionary to take the nation and organization on a long-term journey while simultaneously creating value and solving problems using currently available AI solutions. This needs to be communicated and embodied by executive leaders and decision-makers.
 
-![](_page_5_Picture_10.png)
+![](_page_5_Picture_10.jpeg)
 
 #### **Skills & Talent** | The **demand** for AI **skills** is **growing**
 
@@ -144,9 +144,9 @@ From: An Artificial Intelligence Strategy for NATO
 
 "The research community, industry, and Government play important, interconnected roles to enable the development and deployment of AI solutions. It is critical for Singapore to enhance partnerships across these stakeholders to strengthen our collective capabilities and drive our overall national AI effort." From: Singapore's AI Strategy
 
-![](_page_6_Picture_10.png)
+![](_page_6_Picture_10.jpeg)
 
-![](_page_6_Picture_11.png)
+![](_page_6_Picture_11.jpeg)
 
 #### **More reading** and **background**
 
@@ -168,7 +168,7 @@ As an EU member state, Sweden has in practice focused on regulation rather than 
 
 This comparative analysis by Brookings into national AI strategies and capabilities points towards Sweden having weakness in data management and algorithmic management and lacking focus on adoption in both industry and public services.
 
-![](_page_7_Picture_11.png)
+![](_page_7_Picture_11.jpeg)
 
 #### **More reading** and **background**
 
@@ -184,7 +184,7 @@ For reference, one of the most relevant countries for Sweden to collaborate with
 
 Read further on the top 10 Countries Leading in AI Research & Technology in 2023
 
-#### **More reading** and **background**
+### **More reading** and **background**
 
 GLOBAL RANKING
 
@@ -210,8 +210,6 @@ Sweden is currently ranked 17 out of 62 countries, most notable is that we rank 
 
 This comparative analysis by Brookings into national AI strategies and capabilities also complements the Global AI Index and is worth reading.
 
-![](_page_9_Picture_18.png)
-
 # The heart ofthe strategy & Key principles
 
 As set out in the Executive summary, An AI Strategy for Sweden encourages Sweden to recognize the necessity of AI and apply a fully adoption-centric strategy that ensures significant and broad value across sectors, contributes to a prosperous democratic society, strengthens our national security, and enables Sweden to have a positive global impact while navigating potential risks.
@@ -226,7 +224,7 @@ Relevant actions, investments, and objectives should be based on and mapped agai
 
 The Key Principles should apply generally but might need adjustment to fit a specific context or leadership role.
 
-![](_page_10_Figure_7.png)
+![](_page_10_Figure_7.jpeg)
 
 #### **Enable** the **best** to **perform** and **incentivize them** to **share generously**
 
@@ -261,7 +259,7 @@ From a governmental perspective, this represents a significant challenge. Clear 
 
 In parallel, Sweden must make it easier for international talent to discover, arrive, study, work, live, and remain in Sweden, as well as incentivize and enable the private and public sectors to recruit talent internationally.
 
-![](_page_11_Picture_15.png)
+![](_page_11_Picture_15.jpeg)
 
 #### **Invest** in **strategic knowledge, technology,** and **solutions shared** by **many**
 
@@ -281,7 +279,7 @@ Moreover, leaders in any organization should ensure that employees have access t
 
 Responsible use of AI also means that we have a responsibility to use AI where appropriate and to address our time's most pressing global challenges.
 
-![](_page_12_Picture_10.png)
+![](_page_12_Picture_10.jpeg)
 
 #### **Invest** in **strategic knowledge, technology,** and **solutions shared** by **many**
 
@@ -291,7 +289,7 @@ Facilitation of collaboration should include incentives for consortiums to build
 
 Sweden should also consider investing in one or two "moonshots", e.g. large-scale initiatives where many actors come together to solve a grand challenge.
 
-### REFERENCES TO NATIONAL, EU, NATO AND OECD STRATEGIES
+#### REFERENCES TO NATIONAL, EU, NATO AND OECD STRATEGIES
 
 OECD overview of national AI strategies (from 2021) USA National AI R&D Strategy USA National Security Strategy on AI USA NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT STRATEGIC PLAN, 2023 UPDATE Strengthening and Democratization the U.S. AI Innovation System Pan-Canadian AI Strategy UK National AI Strategy Singapore National AI Strategy Japan Revised AI Strategy Norway National Strategy AI Denmark National Strategy for AI Australia Strategy for Generative AI NATO AI Strategy EU thoughts on AI Strategy
 
@@ -299,7 +297,7 @@ OECD overview of national AI strategies (from 2021) USA National AI R&D Strategy
 
 EU ethics guidelines for trustworthy AI UNESCO: recommendation on the ethics of artificial intelligence OECD: OECD AI Principles overview EU AI Act Proposal NATO AI Strategy
 
-![](_page_13_Picture_9.png)
+![](_page_13_Picture_9.jpeg)
 
 ### Benchmark and measurement
 
@@ -353,7 +351,7 @@ Going forward, a framework and its indicators need to be further defined, specif
 
 As an overall and immediate objective, Sweden should aim to be ranked among the top 10 countries by 2025 at the latest.
 
-![](_page_15_Picture_13.png)
+![](_page_15_Picture_13.jpeg)
 
 # Roadmap ahead | Open invitation to act
 
@@ -380,7 +378,7 @@ Again, it's worth emphasizing that Sweden's success requires bold leadership, br
 
 The above questions are formulated for the national level, the government being a key enabler, and similar questions will be equally important for a hospital, municipality, or company management to answer and act upon. 19
 
-![](_page_16_Picture_15.png)
+![](_page_16_Picture_15.jpeg)
 
 ### How can AI Sweden support?
 

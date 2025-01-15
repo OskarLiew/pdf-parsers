@@ -1,0 +1,93 @@
+<!-- image -->
+
+## PRESENTATION SKILLS For Better Future
+
+<!-- image -->
+
+Effective  Presentation  skills are important because  they  help  keep  a  presentation  interesting, help the presenter communicate with confidence, and motivate  the  audience  to  listen.  Some  essential presentation skills are: Creating variety. Speaking with optimal audibility.
+
+## Presentation Skills
+
+<!-- image -->
+
+## 1. Master Your Presentation
+
+Knowing the ins and outs of your presentation will help build your confidence. You should know what each slide on your presentation says, and you should also know what you're going to say about each slide. You don't want to read off of your slides. Instead, do your best to learn your presentation's subject matter by heart. Your accompanying PowerPoint presentation is just a visual aid. Don't spend too much time fine-tuning your slide animations and transitions. Rather, focus on perfecting your message and making sure it's easy enough for your audience to understand.
+
+<!-- image -->
+
+## 2. Practice, Practice, Practice
+
+As the popular saying goes, practice makes perfect. While you don't have to aim for 'perfect,' delivering a presentation that actually meets your goals should be at the top of your list. There's no definite number on how  many  times  you  should  practice  your presentation.  But  practicing  once  or  twice  probably won't suffice.
+
+<!-- image -->
+
+## 3. Know Your Audience
+
+Knowing who you're speaking to will help you deliver a presentation  that  will  resonate  with  your  audience. Find something that's common with your audience and mention that in your presentation. You may not know your  audience  on  an  individual  level  (this  will  be impossible  if  you're  presenting  to  hundreds  or thousands of people), but finding common ground is certainly possible.
+
+<!-- image -->
+
+## 4. Arrive Early At the Venue
+
+Coming to your presentation prepared is one of the best ways to ensure your presentation's success. You'll be able to survey the venue, double and triple check all equipment  you're  going  to  use  and  make  sure everything's  working  perfectly.  You  can  even  try squeezing in one last practice, if possible.
+
+<!-- image -->
+
+## 5. Think Positively
+
+Thinking positively can go a long way in helping you overcome  presentation  fear.  If  you  think  your presentation's going to be a disaster, then it is going to be a disaster. However, if you think it's going to be a smashing  success,  then  you're  going  to  do  your absolute best to make sure that happens. When you're optimistic,  you  tend  to  project  your  optimism  while you're presenting.
+
+<!-- image -->
+
+## 6. Make Eye Contact
+
+No one wants to sit through a presentation where the presenter is fixated on his or her shoes, his computer screen, or anywhere else but the audience. The truth is most  of us  would  think  the  presenter  is  being disrespectful. If you don't want your audience to think of  you  that  way,  then  you  should  start  working  on making eye contact with the crowd.
+
+<!-- image -->
+
+## 7. Have a Sense of Humor
+
+Having a sense of humor is great. Learning how to put that to good use in your presentations is even better. No  one  wants  to  sit  through  a  dry  and  boring presentation.  Even  if  you're  presenting  a  serious subject matter, saying a well-timed joke can help break the ice. What's even better is that when you know who your audience is, you'll be able to think of jokes that they'll find funny.
+
+<!-- image -->
+
+## 8. Be Flexible
+
+Knowing your presentation's subject matter by heart is more important than writing a speech word-for-word. When you've got an entire speech laid out in front of you, you can easily fall into the trap of reading it out loud.
+
+## 9. Be Confident
+
+When you're a nervous wreck on stage, your audience is not going to believe a word you say. In fact, they probably will tune you out shortly after you open your mouth. If you want your audience to give you the time of day, then you're going to have to work hard for it.
+
+<!-- image -->
+
+## 10. Don't Be Afraid To Pause Every Now And Then
+
+Don't you just love dramatic pauses? That moment of silence right before the presenter delivers a punchline? You  can  practically  feel  the  anticipation  building  up inside you, and your thoughts turn towards guessing what the presenter is going to say.
+
+## 11. Engage With Your Audience
+
+Your audience is going to be spending their time listening to  you.  Make  it  worth  their  while.  Respect  them  and address them as fellow human beings. Don't disrespect them by ignoring  them  and  not  engaging  with  them. When you engage with your audience, you not only gain their attention, but you also help ensure they understand your message perfectly. After all, if they get nothing from your presentation, then they might as well have been absent from your presentation.
+
+<!-- image -->
+
+## 12. Stop Making Excuses
+
+When you're already making excuses long before you've even  given  your  presentation,  then  you're  setting yourself up for failure. You're not giving yourself a chance to succeed. If you truly want to impress your audience, then you're going to give it all you've got. You're going to throw those excuses out the window. You're going to prepare for your presentation, you'll study the materials, you'll make an effort to know more about your audience, and you'll keep on practicing.
+
+## 13.Study Other Presenters
+
+Try your best to attend as many live presentations as possible.  However,  if  you  can't,  there  are  plenty  of recorded presentations on YouTube. Write down what you like and what you don't like. Study the presenters' body language, their speech, and their presentation slides. What's the crowd's reaction? Are they enjoying it? How do you feel? Do you think you can do it better? Knowing the answers to these questions will help you improve your presentation skills greatly.
+
+## 14 Final Words
+
+Improving  your  presentation  skills  is  not  going  to happen overnight. It's going to take a lot of hard work and effort from you. Follow the tricks we've outlined in this article and you'll be well on your way to being a presenter your audiences will love!
+
+<!-- image -->
+
+## GOKARAJURANGARAJU InstituteofEngineeringandTechnology
+
+(Autonomous)
+
+Bachupally; Kukatpally; Hyderabad 500 090, INDIA Ph 072077 14441 www.griet.ac.in

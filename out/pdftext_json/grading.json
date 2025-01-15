@@ -1,0 +1,1642 @@
+[
+    {
+        "blocks": [
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Black",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    299.0,
+                                    262.0,
+                                    543.0,
+                                    290.0
+                                ],
+                                "text": "Betyg och prövning",
+                                "char_start_idx": 0,
+                                "char_end_idx": 17
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    528.0,
+                                    283.0,
+                                    528.0,
+                                    283.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 18,
+                                "char_end_idx": 19
+                            }
+                        ],
+                        "bbox": [
+                            299.0,
+                            262.0,
+                            543.0,
+                            290.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    299.0,
+                    262.0,
+                    543.0,
+                    290.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    203.0,
+                                    316.0,
+                                    547.0,
+                                    335.0
+                                ],
+                                "text": "Kommentarer till Skolverkets allmänna råd ",
+                                "char_start_idx": 20,
+                                "char_end_idx": 61
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    543.0,
+                                    330.0,
+                                    543.0,
+                                    330.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 62,
+                                "char_end_idx": 63
+                            }
+                        ],
+                        "bbox": [
+                            203.0,
+                            316.0,
+                            547.0,
+                            335.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    360.0,
+                                    340.0,
+                                    543.0,
+                                    359.0
+                                ],
+                                "text": "om betyg och prövning",
+                                "char_start_idx": 64,
+                                "char_end_idx": 84
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    534.0,
+                                    354.0,
+                                    534.0,
+                                    354.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 85,
+                                "char_end_idx": 86
+                            }
+                        ],
+                        "bbox": [
+                            360.0,
+                            340.0,
+                            543.0,
+                            359.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    203.0,
+                    316.0,
+                    547.0,
+                    359.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 90.00000250447816,
+                                "bbox": [
+                                    44.0,
+                                    278.0,
+                                    53.0,
+                                    352.0
+                                ],
+                                "text": "ALLMÄNNA RÅD",
+                                "char_start_idx": 87,
+                                "char_end_idx": 98
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    44.0,
+                                    346.0,
+                                    44.0,
+                                    346.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 99,
+                                "char_end_idx": 100
+                            }
+                        ],
+                        "bbox": [
+                            44.0,
+                            278.0,
+                            53.0,
+                            352.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 90.00000250447816,
+                                "bbox": [
+                                    57.0,
+                                    279.0,
+                                    64.0,
+                                    361.0
+                                ],
+                                "text": "KOMMENTARER T",
+                                "char_start_idx": 101,
+                                "char_end_idx": 113
+                            }
+                        ],
+                        "bbox": [
+                            57.0,
+                            279.0,
+                            64.0,
+                            361.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 90.00000250447816,
+                                "bbox": [
+                                    57.0,
+                                    362.0,
+                                    64.0,
+                                    377.0
+                                ],
+                                "text": "ILL ",
+                                "char_start_idx": 114,
+                                "char_end_idx": 117
+                            }
+                        ],
+                        "bbox": [
+                            57.0,
+                            362.0,
+                            64.0,
+                            377.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    44.0,
+                    278.0,
+                    64.0,
+                    377.0
+                ]
+            }
+        ],
+        "page": 0,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    },
+    {
+        "blocks": [],
+        "page": 1,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    },
+    {
+        "blocks": [
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    330.0,
+                                    236.0,
+                                    550.0,
+                                    264.0
+                                ],
+                                "text": "Kommentarer till ",
+                                "char_start_idx": 0,
+                                "char_end_idx": 16
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    544.0,
+                                    256.0,
+                                    544.0,
+                                    256.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 17,
+                                "char_end_idx": 18
+                            }
+                        ],
+                        "bbox": [
+                            330.0,
+                            236.0,
+                            550.0,
+                            264.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    228.0,
+                                    266.0,
+                                    550.0,
+                                    294.0
+                                ],
+                                "text": "Skolverkets allmänna råd ",
+                                "char_start_idx": 19,
+                                "char_end_idx": 43
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    545.0,
+                                    286.0,
+                                    545.0,
+                                    286.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 44,
+                                "char_end_idx": 45
+                            }
+                        ],
+                        "bbox": [
+                            228.0,
+                            266.0,
+                            550.0,
+                            294.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Bold",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    259.0,
+                                    296.0,
+                                    544.0,
+                                    324.0
+                                ],
+                                "text": "om betyg och prövning",
+                                "char_start_idx": 46,
+                                "char_end_idx": 66
+                            }
+                        ],
+                        "bbox": [
+                            259.0,
+                            296.0,
+                            544.0,
+                            324.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    228.0,
+                    236.0,
+                    550.0,
+                    324.0
+                ]
+            }
+        ],
+        "page": 2,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    },
+    {
+        "blocks": [
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    657.0,
+                                    223.0,
+                                    665.0
+                                ],
+                                "text": "Publikationen finns att ladda ner som kostnadsfri pdf ",
+                                "char_start_idx": 0,
+                                "char_end_idx": 53
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    222.0,
+                                    663.0,
+                                    222.0,
+                                    663.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 54,
+                                "char_end_idx": 55
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            657.0,
+                            223.0,
+                            665.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    667.0,
+                                    231.0,
+                                    675.0
+                                ],
+                                "text": "från Skolverkets webbplats: skolverket.se/publikationer ",
+                                "char_start_idx": 56,
+                                "char_end_idx": 111
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    229.0,
+                                    673.0,
+                                    229.0,
+                                    673.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 112,
+                                "char_end_idx": 113
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            667.0,
+                            231.0,
+                            675.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    51.0,
+                    657.0,
+                    231.0,
+                    675.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    687.0,
+                                    125.0,
+                                    695.0
+                                ],
+                                "text": "Beställningsnr: 22:1599",
+                                "char_start_idx": 114,
+                                "char_end_idx": 136
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    122.0,
+                                    693.0,
+                                    122.0,
+                                    693.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 137,
+                                "char_end_idx": 138
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            687.0,
+                            125.0,
+                            695.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    697.0,
+                                    103.0,
+                                    705.0
+                                ],
+                                "text": "ISSN: 1403-4549",
+                                "char_start_idx": 139,
+                                "char_end_idx": 153
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    99.0,
+                                    703.0,
+                                    99.0,
+                                    703.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 154,
+                                "char_end_idx": 155
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            697.0,
+                            103.0,
+                            705.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    707.0,
+                                    130.0,
+                                    715.0
+                                ],
+                                "text": "ISBN: 978-91-7559-463-7",
+                                "char_start_idx": 156,
+                                "char_end_idx": 178
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    126.0,
+                                    713.0,
+                                    126.0,
+                                    713.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 179,
+                                "char_end_idx": 180
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            707.0,
+                            130.0,
+                            715.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    51.0,
+                    687.0,
+                    130.0,
+                    715.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    727.0,
+                                    158.0,
+                                    735.0
+                                ],
+                                "text": "Grafisk produktion: AB Typoform ",
+                                "char_start_idx": 181,
+                                "char_end_idx": 212
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    156.0,
+                                    733.0,
+                                    156.0,
+                                    733.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 213,
+                                "char_end_idx": 214
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            727.0,
+                            158.0,
+                            735.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    737.0,
+                                    159.0,
+                                    745.0
+                                ],
+                                "text": "Omslagsillustration: AB Typoform",
+                                "char_start_idx": 215,
+                                "char_end_idx": 246
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    153.0,
+                                    743.0,
+                                    153.0,
+                                    743.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 247,
+                                "char_end_idx": 248
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            737.0,
+                            159.0,
+                            745.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    51.0,
+                    727.0,
+                    159.0,
+                    745.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Light",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    51.0,
+                                    757.0,
+                                    140.0,
+                                    765.0
+                                ],
+                                "text": "Skolverket, Stockholm 2022",
+                                "char_start_idx": 249,
+                                "char_end_idx": 274
+                            }
+                        ],
+                        "bbox": [
+                            51.0,
+                            757.0,
+                            140.0,
+                            765.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    51.0,
+                    757.0,
+                    140.0,
+                    765.0
+                ]
+            }
+        ],
+        "page": 3,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    },
+    {
+        "blocks": [
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫SourceSansPro-Black",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    68.0,
+                                    74.0,
+                                    265.0,
+                                    94.0
+                                ],
+                                "text": " Förord",
+                                "char_start_idx": 0,
+                                "char_end_idx": 6
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    254.0,
+                                    89.0,
+                                    254.0,
+                                    89.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 7,
+                                "char_end_idx": 8
+                            }
+                        ],
+                        "bbox": [
+                            68.0,
+                            74.0,
+                            265.0,
+                            94.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    68.0,
+                    74.0,
+                    265.0,
+                    94.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    106.0,
+                                    513.0,
+                                    116.0
+                                ],
+                                "text": "Skolverkets allmänna råd (SKOLFS 2022:417) om betyg och prövning är ",
+                                "char_start_idx": 9,
+                                "char_end_idx": 76
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    511.0,
+                                    114.0,
+                                    511.0,
+                                    114.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 77,
+                                "char_end_idx": 78
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            106.0,
+                            513.0,
+                            116.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    119.0,
+                                    513.0,
+                                    129.0
+                                ],
+                                "text": "rekommendationer om lärares, rektorers eller huvudmäns arbete för att ",
+                                "char_start_idx": 79,
+                                "char_end_idx": 148
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    511.0,
+                                    127.0,
+                                    511.0,
+                                    127.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 149,
+                                "char_end_idx": 150
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            119.0,
+                            513.0,
+                            129.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    133.0,
+                                    526.0,
+                                    143.0
+                                ],
+                                "text": "betygen ska bli rättvisande och likvärdiga samt för att betygssättningen ska ",
+                                "char_start_idx": 151,
+                                "char_end_idx": 227
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    524.0,
+                                    141.0,
+                                    524.0,
+                                    141.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 228,
+                                "char_end_idx": 229
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            133.0,
+                            526.0,
+                            143.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    146.0,
+                                    325.0,
+                                    156.0
+                                ],
+                                "text": "vara rättssäker för eleverna. ",
+                                "char_start_idx": 230,
+                                "char_end_idx": 259
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    323.0,
+                                    154.0,
+                                    323.0,
+                                    154.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 260,
+                                "char_end_idx": 261
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            146.0,
+                            325.0,
+                            156.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    204.0,
+                    106.0,
+                    526.0,
+                    156.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    165.0,
+                                    518.0,
+                                    175.0
+                                ],
+                                "text": "Det framgår av de allmänna råden om betyg och prövning att Skolverkets ",
+                                "char_start_idx": 262,
+                                "char_end_idx": 332
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    516.0,
+                                    173.0,
+                                    516.0,
+                                    173.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 333,
+                                "char_end_idx": 334
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            165.0,
+                            518.0,
+                            175.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    179.0,
+                                    543.0,
+                                    189.0
+                                ],
+                                "text": "allmänna råd (SKOLFS 2018:247) om betyg och betygssättning och Skolverkets ",
+                                "char_start_idx": 335,
+                                "char_end_idx": 409
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    541.0,
+                                    187.0,
+                                    541.0,
+                                    187.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 410,
+                                "char_end_idx": 411
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            179.0,
+                            543.0,
+                            189.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    192.0,
+                                    491.0,
+                                    202.0
+                                ],
+                                "text": "allmänna råd (SKOLFS 2016:63) om prövning har upphört att gälla.",
+                                "char_start_idx": 412,
+                                "char_end_idx": 475
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    489.0,
+                                    200.0,
+                                    489.0,
+                                    200.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 476,
+                                "char_end_idx": 477
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            192.0,
+                            491.0,
+                            202.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    204.0,
+                    165.0,
+                    543.0,
+                    202.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    212.0,
+                                    517.0,
+                                    222.0
+                                ],
+                                "text": "Skolverket vill med de allmänna råden om betyg och prövning och denna ",
+                                "char_start_idx": 478,
+                                "char_end_idx": 547
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    515.0,
+                                    219.0,
+                                    515.0,
+                                    219.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 548,
+                                "char_end_idx": 549
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            212.0,
+                            517.0,
+                            222.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    225.0,
+                                    527.0,
+                                    235.0
+                                ],
+                                "text": "publikation med kommentarer till dessa allmänna råd stödja likvärdiga och ",
+                                "char_start_idx": 550,
+                                "char_end_idx": 623
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    525.0,
+                                    233.0,
+                                    525.0,
+                                    233.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 624,
+                                "char_end_idx": 625
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            225.0,
+                            527.0,
+                            235.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    239.0,
+                                    536.0,
+                                    249.0
+                                ],
+                                "text": "rättvisande betyg och prövningar. Publikationen innefattar råd och stödjande ",
+                                "char_start_idx": 626,
+                                "char_end_idx": 702
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    534.0,
+                                    246.0,
+                                    534.0,
+                                    246.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 703,
+                                "char_end_idx": 704
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            239.0,
+                            536.0,
+                            249.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    252.0,
+                                    539.0,
+                                    262.0
+                                ],
+                                "text": "kommentarer om det förberedande arbetet, om att informera elever om betyg, ",
+                                "char_start_idx": 705,
+                                "char_end_idx": 779
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    537.0,
+                                    260.0,
+                                    537.0,
+                                    260.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 780,
+                                "char_end_idx": 781
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            252.0,
+                            539.0,
+                            262.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    266.0,
+                                    526.0,
+                                    276.0
+                                ],
+                                "text": "om att sätta betyg och genomföra prövning samt om att följa upp betyg och ",
+                                "char_start_idx": 782,
+                                "char_end_idx": 855
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    524.0,
+                                    273.0,
+                                    524.0,
+                                    273.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 856,
+                                "char_end_idx": 857
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            266.0,
+                            526.0,
+                            276.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Roman",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    279.0,
+                                    271.0,
+                                    289.0
+                                ],
+                                "text": "betygs sättning. ",
+                                "char_start_idx": 858,
+                                "char_end_idx": 874
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    269.0,
+                                    287.0,
+                                    269.0,
+                                    287.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 875,
+                                "char_end_idx": 876
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            279.0,
+                            271.0,
+                            289.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    204.0,
+                    212.0,
+                    539.0,
+                    289.0
+                ]
+            },
+            {
+                "lines": [
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "PIQYYI弫MercuryTextG1-Italic",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    320.0,
+                                    277.0,
+                                    329.0
+                                ],
+                                "text": "Peter Fredriksson",
+                                "char_start_idx": 877,
+                                "char_end_idx": 893
+                            },
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": -1,
+                                    "name": null,
+                                    "flags": null
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    273.0,
+                                    327.0,
+                                    273.0,
+                                    327.0
+                                ],
+                                "text": "\n",
+                                "char_start_idx": 894,
+                                "char_end_idx": 895
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            320.0,
+                            277.0,
+                            329.0
+                        ]
+                    },
+                    {
+                        "spans": [
+                            {
+                                "font": {
+                                    "size": 1.0,
+                                    "weight": 400,
+                                    "name": "DDJCEQ+PIQYYI弫SourceSansPro-Regular",
+                                    "flags": 524292
+                                },
+                                "rotation": 0.0,
+                                "bbox": [
+                                    204.0,
+                                    332.0,
+                                    263.0,
+                                    340.0
+                                ],
+                                "text": "",
+                                "char_start_idx": 896,
+                                "char_end_idx": 910
+                            }
+                        ],
+                        "bbox": [
+                            204.0,
+                            332.0,
+                            263.0,
+                            340.0
+                        ]
+                    }
+                ],
+                "bbox": [
+                    204.0,
+                    320.0,
+                    277.0,
+                    340.0
+                ]
+            }
+        ],
+        "page": 4,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    },
+    {
+        "blocks": [],
+        "page": 5,
+        "rotation": 0,
+        "bbox": [
+            0,
+            0,
+            596,
+            842
+        ],
+        "width": 596,
+        "height": 842
+    }
+]

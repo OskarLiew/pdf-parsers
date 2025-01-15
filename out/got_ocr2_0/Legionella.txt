@@ -1,25 +1,40 @@
-OBS! Utskriven version kan vara ogiltig. Verifiera innehållet. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Information om handlingen 
- 
-Handlingstyp: Rutin 
-Gäller för: Västra Götalandsregionen 
-Innehållsansvar: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö 
-Granskad av: Ingemar Qvarfordt, (ingqv), UniversitetssjukhusÖ 
-Godkänd av: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö 
-Dokument-ID: SSN11800-2140136717-247 
-Version: 1.0 
- 
-Giltig från: 2023-03-22 
-Giltig till: 2025-03-22
+OBS! Utskriven version kan vara ogiltig. Verifiera innehållet.
+Gäller för: Västra Götalandsregionen
+Innehållsansvar: Ingemar Qvarfordt, (ingqv), Universitetsjukhusö
+Granskad av: Ingemar Qvarfordt, (ingqv), Universitetsjukhusök
+Godkänd av: Ingemar Qvarfordt, (ingqv), Universitetsjukthusök
+Giltig från:  2023-03-22
+Giltig till:     2025-03-22
+Regionella
+Regional rekommendation för kommunal vård och omsorg som komplement till Vårdhandboken.
+Framtagen av Vårdhygiens nätverksgrupp för kommunal vård och omsorg i Västra Götaland.
+Förändringar sedan föregående version
+Inga förändringar.
+Syfte
+Förhindra spridning av legionella inom kommunal vård och omsorg samt tydliggöra
+förebyggande åtgärder för att förhindra smittspridning. Det är ett komplement till
+Vårdhandbokens mer omfattande avsnitt om Legionella.
+Bakgrund
+Legionella pneumophila är en allmänt förekommande bakterie i jord och vatten.
+Legionella kan orsaka allvarlig lunginflammation (s.k. legionärssjuka).
+Inkubationstiden är 2–10 dygn, vanligast 5–6 dygn. Legionella är anmälnings- och
+smittspärningspliktig enlig smittskyddslagen.
+Legionella förökar sig lättast i stillastående vatten vid temperaturer mellan 20–45°C.
+Tillväxt sker framför allt i den biofilm som bildas i vattenledningsrör och
+duschslangar. För att undvika legionelatillväxt är det viktigt med bra flöde och rätt
+temperatur i vattensystemets alla delar. Se förebyggande åtgärder nedan.
+Riskgrupper
+Personer med nedsatt immunförsvar, t.ex. pga hög ålder, rökning, immunnedsättande
+medicinering, kroniska sjukdomar såsom diabetes, KOL, har ökad risk att insjukna.
+Åtgärder
+Vårdtagarnära och värdrelaterat arbete
+•
+Patienter med legionellainfektion kan vårdas tillsammans med andra.
+•
+Arbeta efter Grundläggande vårdhygieniska rutiner
+Rubrik: Legionella
+Dokument-ID: SSN11800-2140136717-247
+Version: 1.0
 
 OBS! Utskriven version kan vara ogiltig. Verifiera innehållet. 
  
@@ -70,44 +85,6 @@ bakterien legionella i flergångsprodukter”.
 Övrigt 
 Luftfuktare, vattenautomater, bubbelbad och ismaskiner rekommenderas inte.
 
-OBS! Utskriven version kan vara ogiltig. Verifiera innehållet.
-Gäller för: Västra Götalandsregionen
-Innehållsansvar: Ingemar Qvarfordt, (ingqv), Universitetsjukhusö
-Granskad av: Ingemar Qvarfordt, (ingqv), Universitetsjukhusök
-Godkänd av: Ingemar Qvarfordt, (ingqv), Universitetsjukthusök
-Giltig från:  2023-03-22
-Giltig till:     2025-03-22
-Regionella
-Regional rekommendation för kommunal vård och omsorg som komplement till Vårdhandboken.
-Framtagen av Vårdhygiens nätverksgrupp för kommunal vård och omsorg i Västra Götaland.
-Förändringar sedan föregående version
-Inga förändringar.
-Syfte
-Förhindra spridning av legionella inom kommunal vård och omsorg samt tydliggöra
-förebyggande åtgärder för att förhindra smittspridning. Det är ett komplement till
-Vårdhandbokens mer omfattande avsnitt om Legionella.
-Bakgrund
-Legionella pneumophila är en allmänt förekommande bakterie i jord och vatten.
-Legionella kan orsaka allvarlig lunginflammation (s.k. legionärssjuka).
-Inkubationstiden är 2–10 dygn, vanligast 5–6 dygn. Legionella är anmälnings- och
-smittspärningspliktig enlig smittskyddslagen.
-Legionella förökar sig lättast i stillastående vatten vid temperaturer mellan 20–45°C.
-Tillväxt sker framför allt i den biofilm som bildas i vattenledningsrör och
-duschslangar. För att undvika legionelatillväxt är det viktigt med bra flöde och rätt
-temperatur i vattensystemets alla delar. Se förebyggande åtgärder nedan.
-Riskgrupper
-Personer med nedsatt immunförsvar, t.ex. pga hög ålder, rökning, immunnedsättande
-medicinering, kroniska sjukdomar såsom diabetes, KOL, har ökad risk att insjukna.
-Åtgärder
-Vårdtagarnära och värdrelaterat arbete
-•
-Patienter med legionellainfektion kan vårdas tillsammans med andra.
-•
-Arbeta efter Grundläggande vårdhygieniska rutiner
-Rubrik: Legionella
-Dokument-ID: SSN11800-2140136717-247
-Version: 1.0
-
 OK
 Kunskapsunderlag
 Legionella i miljön – en kunskapssammanställning om hantering av smittrisker
@@ -122,3 +99,26 @@ Rubrik: Legionella
 Dokument-ID: SSN11800-2140136717-247
 Version: 1.0
 3
+
+OBS! Utskriven version kan vara ogiltig. Verifiera innehållet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information om handlingen 
+ 
+Handlingstyp: Rutin 
+Gäller för: Västra Götalandsregionen 
+Innehållsansvar: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö 
+Granskad av: Ingemar Qvarfordt, (ingqv), UniversitetssjukhusÖ 
+Godkänd av: Ingemar Qvarfordt, (ingqv), Universitetssjukhusö 
+Dokument-ID: SSN11800-2140136717-247 
+Version: 1.0 
+ 
+Giltig från: 2023-03-22 
+Giltig till: 2025-03-22

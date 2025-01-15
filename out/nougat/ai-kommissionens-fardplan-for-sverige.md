@@ -618,6 +618,7 @@ Al-kommissionen föreslar att regeringen ger SCB i uppdrag att bevera alta ever 
 Som beskrivits i detta kapitel har tilligangen till data blivit en altvikigare faktor, inte enbart for Al-utverkelinga, utan for digitalisariegen i stort. Al-kommissionen föreslar dartofr et tillag till forordningen (2024:183) om konsekvensunterdningar med inemedborden att det ska vara obligatorisk att uttoga tilflag till data (datakonsekvensutredningar). Nar en statlig utredning tar fram lagforslag eller an en fovatntningsymdighet beslutar om föreskrifter eller allmanna rad ska alltsa en sadan utredning tas fram som en del av konsekvensutredningen.
 
 I en datakonsekvensutredning ska det bland annat redogóras for vilka typer av data som finns tilligangliga inom det akutella omradet samt vilka data som ar nodvandiga for att kunna mata resultaten av det forslag som presenteras. En datakonsekvensutredning ska aven bestat av en interoperabilitetsanalys som berofte tekniska och juridiska mojiligbeterna att tilligangliggora den akutella datan. Genom ett s Sadant tillagg anser Al-kommissionen att fragan om tiligang till data kan lyftas och bli till ett naturligt inslag i processen med att ta fram mya lagar, förordningar och foreskrifter.
+
  
 
 Fortydliga m\(\ddot{\text{o}}\)lligheterna for oftentiga aktoer att anvanda molntj\(\ddot{\text{a}}\)nster

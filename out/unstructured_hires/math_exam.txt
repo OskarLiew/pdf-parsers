@@ -1,0 +1,73 @@
+MATEMATIK
+
+Chalmers tekniska hogskola
+
+Tentamen
+
+Datum: 2020-10-10 kl. 08.30-12.30 Telefonvakt: Hossein Raufi Telefon: 070 - 449 02 37
+
+MVEO041 Flervariabelmatematik Z1
+
+Betygsgrinser: 3: 20-29 p, 4: 30-39, 5: 40-50.
+
+Losningar läggs ut pa kursens webbsida forsta vardagen efter tentamensdagen.
+
+Till samtliga uppgifter skall fullstindiga 16sningar inlimnas. Endast svar ger inga poing. Motivera och forklara så väl du kan.
+
+(a) Berdkna // sin(z + y)dA där D är omradet som beskrivs av olikheterna y > D y<zochy<2—uz. (3
+
+1.
+
+0,
+
+p)
+
+(a) Berdkna // xyv T? + y?dA där T är triangeln med hornen (0,0), (1,0) och (1,1). T
+
+Anvind dérefter detta resultat till att beräkna ryv/ o2 + y?dA dir D är kvadra- D ten med hérnen (0,0), (1,0), (0,1) och (1,1). 4 p)
+
+(a) Bestäm tangentplanet till ytan xr?z + 2? = 2xy + y? i punkten (0, —1,1). 3 p)
+
+2.
+
+(b) Bestäm C € R så att planet 2r + 2y + z = C tangerar ytan x +y? + 24 =1. (4p)
+
+3. Beräkna arbetet som utförs då kraftfältet
+
+6
+
+p)
+
+F(x,y) = ((21‘ + t y)e”” e + l) /9 flyttar en partikel längs kurvan y = 1 922 från x = 0 till x = —1/2.
+
+4. Transformera den partiella differentialekvationen
+
+(6 p)
+
+0% f 2% f ö 2? F 2x Fy? zy, x>0 ” öv ryÖ:l:Öy y dy? Yv
+
+genom att göra variabelbytet
+
+u v <8 &R
+
+Obs! Du behöver inte lösa differentialekvationen, bara transformera den fran (x,y)- till (u, v)-koordinater.
+
+5. Använd Lagrange-multiplikatorer till att bestämma den största möjliga volymen för ett rätblock vars totala begränsningsyta är 2 m?. (6 p)
+
+Var god vänd!
+
+. Beriikna volymen av den kropp som beskrivs av olikheterna z > 0, z > x? + y? — 1, och 2< 22 +y?+ 1. (6 p)
+
+. Ytan z = /4 — 22 —y2, 2 > 0, y > 0 och 22 + y? < 4 har densiteten p(z,y, 2) = 2/22 + 2 kg/m?. (6 p)
+
+Beräkna ytans massa.
+
+. Beriikna det storsta virde som linjeintegralen
+
+(6 p)
+
+‘?{ y?dx + (3x — x?)dy A
+
+där y är en enkel, sluten kurva genomlöpt ett varv moturs, kan anta.
+
+Lycka till! /Hossein

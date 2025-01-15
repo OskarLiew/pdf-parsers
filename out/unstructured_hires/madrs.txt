@@ -1,0 +1,127 @@
+MADRS-S (sjalvskattningsskala)
+
+Namn
+
+Datum
+
+Genom att besvara féljande nio fragor kan du och din läkare få en detaljerad bild av hur du mår och om du har symtom, som är typiska för depression. Genom att ligga ihop den ”poäng” du får pa fragorna far du och din läkare en bild av graden av depression. Sätt en ring runt siffran som du tycker bäst stimmer med hur du méatt de senaste tre dagarna. Använd garna mellanliggande alternativ. Tank inte alltfér lange, utan forsok arbeta snabbt.
+
+1. Sinnestamning
+
+3. Sömn
+
+Här ber vi dig beskriva din sinnesstdmning, om du kanner dig ledsen, tungsint eller dyster till mods. Tank efter hur du har kant dig de senaste tre dagarna, om du har skiftat i humoret eller om det varit i stort sett detsamma hela tiden, och försök sarskilt komma ihag om du har kant dig lattare till sinnes om det har hant nagot positivt.
+
+Här ber vi dig beskriva hur bra du sover. Tänk efter hur länge du sovit och hur god sömnen varit under de senaste tre nätterna. Bedömningen skall avse hur du faktiskt sovit, oavsett om du tagit sömnmedel eller ej. Om du sover mer än vanligt, sätt din markering vid 0.
+
+0 Jag sover lugnt och bra och tillräckligt länge för mina behov. Jag har inga särskilda svårigheter att somna.
+
+0 Jag kan kdnna mig glad eller ledsen, alltefter omstan- digheterna.
+
+2 Jag har vissa sömnsvårigheter. Ibland har jag svårt att somna eller sover ytligare eller oroligare än vanligt.
+
+2 Jag kdnner mig nedstdmd för det mesta, men ibland kan det kdnnas lattare.
+
+4 Jag sover minst två timmar mindre per natt än normalt. Jag vaknar ofta under natten, även om jag inte blir störd.
+
+4 Jag kanner mig genomgaende nedstdmd och dyster. Jag kan inte gladja mig &t sådant som vanligen skulle göra mig glad.
+
+6 Jag sover mycket dåligt, inte mer än 2-3 timmar per natt.
+
+4. Matlust
+
+6 Jag är så totalt nedstamd och olycklig att jag inte kan tänka mig varre.
+
+2. Oroskanslor
+
+Här ber vi dig ta ställning till hur din aptit är, och tänka efter om den på något sätt skiljt sig från vad som är normalt för dig. Om du skulle ha bättre aptit än normalt, sätt din markering vid 0.
+
+Här ber vi dig markera i vilken utstrackning du haft kénslor av inre spanning, olust och angest eller odefini- erad rédsla under de senaste tre dagarna. Tank sarskilt pa hur intensiva kénslorna varit, och om de kommit och gått eller funnits nästan hela tiden.
+
+0 Jag kdnner mig mestadels lugn.
+
+Min aptit är som den brukar vara.
+
+AWN =0
+
+Min aptit är sämre än vanligt.
+
+Min aptit har nastan helt férsvunnit. Maten smakar inte och jag maste tvinga mig att &ta.
+
+1
+
+o
+
+2 Ibland har jag obehagliga känslor av inre oro.
+
+3
+
+6 Jag vill inte ha någon mat. Om jag skulle fa nagonting i mig, maste jag 6vertalas att ata.
+
+4 Jag har ofta en känsla av inre oro som ibland kan bli mycket stark, och som jag méaste anstränga mig for att bemastra.
+
+6 Jag har fruktansvérda, langvariga eller outhérdliga angestkanslor.
+
+5. Koncentrationsférmaga
+
+Här ber vi dig ta stallning till din förmåga att halla tan- karna samlade och koncentrera dig på olika aktiviteter. Tank igenom hur du fungerar vid olika sysslor som krä- ver olika grad av koncentrationsférmaga, t ex lasning av komplicerad text, latt tidningstext och TV-tittande.
+
+0 Jag har inga koncentrationssvarigheter
+
+2 Jag har tillfalligt svart att halla tankarna samlade pa sådant som normalt skulle fanga min uppmarksamhet (t ex lasning eller TV-tittande).
+
+4 Jag har patagligt svart att koncentrera mig pa sadant som normalt inte krdver någon anstréangning fran min sida (t ex lasning eller samtal med andra ménniskor).
+
+6 Jag kan överhuvudtaget inte koncentrera mig på nagonting.
+
+6. Initiativformaga
+
+Här ber vi dig forsoka vérdera din handlingskraft. Fragan géller om du har latt eller svart for dig att komma igång med sadant du tycker du bör gora, och i vilken utstréck- ning du méaste dvervinna ett inre motstand nar du skall ta itu med nagot.
+
+0 Jag har inga svarigheter med att ta itu med nya uppgifter.
+
+2 Nar skall jag ta itu med nagot, tar det emot pa ett satt som inte är normalt för mig.
+
+4 Det kravs en stor anstrangning för mig att ens komma igang med enkla uppgifter som jag vanligtvis utför mer eller mindre rutinmaéssigt.
+
+6 Jag kan inte forma mig att ta itu med de enklaste vardagssysslor.
+
+7. Kanslomassigt engagemang
+
+Har ber vi dig ta stallning till hur du upplever ditt intresse for omvarlden och för andra manniskor, och for sadana aktiviteter som brukar bereda dig nöje och gladje.
+
+0 Jag är intresserad av omvarlden och engagerar mig i den, och det bereder mig bade néje och gladje.
+
+2 Jag kdnner mindre starkt fér sadant som brukar enga- gera mig. Jag har svarare än vanligt att bli glad eller svarare att bli arg när det är befogat.
+
+4 Jag kan inte kdnna nagot intresse för omvarlden, inte ens fér vänner och bekanta.
+
+6 Jag har slutat uppleva nagra kanslor. Jag kdnner mig smartsamt likgiltig &ven for mina narmaste.
+
+8. Pessimism
+
+Fragan géller hur du ser pa din egen framtid och hur du uppfattar ditt eget värde. Tank efter i vilken utstréckning du ger sjalvforebraelser, om du plagas av skuldkénslor, och om du oroat dig oftare än vanligt for t ex din eko- nomi eller din halsa.
+
+0 Jag ser pa framtiden med tillforsikt. Jag är pa det hela taget ganska nöjd med mig sjalv.
+
+2 Ibland klandrar jag mig sjélv och tycker jag är mindre vérd än andra.
+
+4 Jag grubblar ofta över mina misslyckanden och känner mig mindervéardig eller dalig, även om andra tycker annorlunda.
+
+6 Jag ser allting i svart och kan inte se nagon ljusning. Det kdnns som om jag var en alltigenom dalig män- niska, och som om jag aldrig skulle kunna fa nagon forlatelse for det hemska jag gjort.
+
+9. Livslust
+
+Fragan galler din livslust, och om du ként livsleda. Har du tankar på sjalvmord, och i så fall, i vilken utstrackning upplever du detta som en verklig utvag?
+
+o Jag har normal aptit pa livet.
+
+2 Livet kanns inte sarskilt meningsfullt men jag 6nskar ändå inte att jag vore död.
+
+4 Jag tycker ofta det vore béttre att vara déd, och trots att jag egentligen inte önskar det, kan självmord ibland kdnnas som en méjlig väg.
+
+6 Jag är egentligen 6vertygad om att min enda utvag är att dö, och jag tanker mycket på hur jag bast skall ga tillvaga for att ta mitt eget liv.
+
+Lägg samman poéngen fran båda sidor av formularet och ange summan i rutan
+
+Wyeth AB

@@ -4,51 +4,111 @@
         {
             "name": "ai-kommissionens-fardplan-for-sverige.pdf",
             "n_pages": 136,
-            "load_time": 14.792275428771973,
-            "load_time_per_page": 0.10876673109391156
+            "load_time": 13.964821338653564,
+            "load_time_per_page": 0.10268250984304092
+        },
+        {
+            "name": "report_national_test_eng.pdf",
+            "n_pages": 12,
+            "load_time": 0.7031166553497314,
+            "load_time_per_page": 0.05859305461247762
+        },
+        {
+            "name": "arbetsmiljo.pdf",
+            "n_pages": 38,
+            "load_time": 1.4837636947631836,
+            "load_time_per_page": 0.03904641302008378
         },
         {
             "name": "Bilaga 1 Covid instruktion torra rör.pdf",
             "n_pages": 3,
-            "load_time": 0.24109959602355957,
-            "load_time_per_page": 0.0803665320078532
+            "load_time": 0.18241548538208008,
+            "load_time_per_page": 0.060805161794026695
+        },
+        {
+            "name": "math_exam.pdf",
+            "n_pages": 2,
+            "load_time": 0.1655261516571045,
+            "load_time_per_page": 0.08276307582855225
+        },
+        {
+            "name": "madrs.pdf",
+            "n_pages": 2,
+            "load_time": 0.18035674095153809,
+            "load_time_per_page": 0.09017837047576904
+        },
+        {
+            "name": "arbetsmiljoverket.pdf",
+            "n_pages": 18,
+            "load_time": 0.3096494674682617,
+            "load_time_per_page": 0.017202748192681208
         },
         {
             "name": "information-om-livsmedel-som-inte-ar-fardigforpackade.pdf",
             "n_pages": 12,
-            "load_time": 0.8845055103302002,
-            "load_time_per_page": 0.07370879252751668
+            "load_time": 0.7605586051940918,
+            "load_time_per_page": 0.06337988376617432
         },
         {
             "name": "Legionella.pdf",
             "n_pages": 4,
-            "load_time": 0.18150591850280762,
-            "load_time_per_page": 0.045376479625701904
+            "load_time": 0.16550064086914062,
+            "load_time_per_page": 0.041375160217285156
         },
         {
             "name": "scanned.pdf",
             "n_pages": 1,
-            "load_time": 0.02176642417907715,
-            "load_time_per_page": 0.02176642417907715
+            "load_time": 0.01898479461669922,
+            "load_time_per_page": 0.01898479461669922
+        },
+        {
+            "name": "protocol.pdf",
+            "n_pages": 6,
+            "load_time": 0.20470452308654785,
+            "load_time_per_page": 0.034117420514424644
         },
         {
             "name": "308-an-ai-strategy-for-sweden-pdf-version-1020240408.pdf",
             "n_pages": 18,
-            "load_time": 1.36545991897583,
-            "load_time_per_page": 0.07585888438754612
+            "load_time": 1.1921956539154053,
+            "load_time_per_page": 0.06623309188418919
+        },
+        {
+            "name": "grading.pdf",
+            "n_pages": 6,
+            "load_time": 0.03911638259887695,
+            "load_time_per_page": 0.006519397099812825
         },
         {
             "name": "paper-contextual-embeddings.pdf",
             "n_pages": 24,
-            "load_time": 4.095567226409912,
-            "load_time_per_page": 0.17064863443374634
+            "load_time": 3.8055858612060547,
+            "load_time_per_page": 0.1585660775502523
+        },
+        {
+            "name": "presentation_skills.pdf",
+            "n_pages": 14,
+            "load_time": 0.135054349899292,
+            "load_time_per_page": 0.009646739278520857
         },
         {
             "name": "parsed-as-random-characters.pdf",
             "n_pages": 64,
-            "load_time": 2.740264415740967,
-            "load_time_per_page": 0.042816631495952606
+            "load_time": 2.31101131439209,
+            "load_time_per_page": 0.036109551787376404
+        },
+        {
+            "name": "cv_saljare.pdf",
+            "n_pages": 1,
+            "load_time": 0.08892989158630371,
+            "load_time_per_page": 0.08892989158630371
+        },
+        {
+            "name": "teacher_survey.pdf",
+            "n_pages": 5,
+            "load_time": 0.28988075256347656,
+            "load_time_per_page": 0.057976150512695314
         }
     ],
-    "avg_load_time_per_page": 0.07741363871891319
+    "avg_load_time_per_page": 0.057394971810020304
 }

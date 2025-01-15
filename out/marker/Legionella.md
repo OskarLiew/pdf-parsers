@@ -29,7 +29,7 @@ Personer med nedsatt immunförsvar, t.ex. pga hög ålder, rökning, immunnedsä
 - Patienter med legionellainfektion kan vårdas tillsammans med andra.
 - Arbeta efter Grundläggande vårdhygieniska rutiner
 
-![](_page_0_Picture_19.png)
+![](_page_0_Picture_19.jpeg)
 
 #### **Åtgärder vid fall av legionella**
 

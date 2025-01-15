@@ -117,7 +117,7 @@ def get_parser(parser: Parser) -> BasePdfParser:
     if parser == Parser.MARKER:
         from src.parsers.marker import MarkerPdfParser
 
-        MarkerPdfParser()
+        return MarkerPdfParser()
     if parser == Parser.MARKITDOWN:
         from parsers.markitdown import MarkitdownPdfParser
 

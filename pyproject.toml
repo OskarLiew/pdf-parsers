@@ -35,6 +35,7 @@ pypdfium2 = "^4.30.0"
 pdftext = "^0.3.19"
 llama-parse = "^0.5.15"
 markitdown = "^0.0.1a2"
+python-levenshtein = "^0.26.1"
 
 [build-system]
 requires = ["poetry-core"]

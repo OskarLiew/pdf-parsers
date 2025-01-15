@@ -20,7 +20,7 @@ In this work, we explore contextualization of document embeddings produced by de
 
 For contextual training, we aim to build a notion of neighboring documents directly into the contrastive learning process. We propose a method that uses on fast query-document clustering to produce a
 
-![](_page_1_Figure_0.png)
+![](_page_1_Figure_0.jpeg)
 
 Figure 1: Overview of our system for contextual document embeddings (CDE). Our model operates in two stages: a rst stage used to characterize the dataset from samples, and a second stage used to embed the nal document.
 
@@ -100,7 +100,7 @@ For simplicity, we again select f to be a simple pre-trained embedding model. Th
 
 Packing. Clusters found by our algorithm will be of varying sizes, and need to be packed into equal-sized batches. We apply a post-hoc procedure. We consider both random partitioning and grouping via greedy cluster-level traveling salesman, similar to Shi et al. (2024). In both cases, we split large group into into smaller batches, and merge close small batches from within the same domain into evenly-sized batches. This has an added benet of introducing randomness into the groups when training for multiple epochs. We leave it to future work to analyze the full effects of different packing strategies such as expensive Balanced K-Means or heuristic approaches such as Equal K-Means (Gururangan et al., 2023).
 
-## 4.2 CONTEXTUAL DOCUMENT EMBEDDING (CDE)
+#### 4.2 CONTEXTUAL DOCUMENT EMBEDDING (CDE)
 
 Contextualization can also be added directly to the archiecture. Taking inspiration from sparse vector retrieval which uses corpus statistics to determine the form of the embedding, we modify the encoders to have access to the corpus itself, i.e. ϕ(d; D) and ψ(d; D). This effectively augments the biencoder model to give it the ability to contextualize documents directly.
 
@@ -136,9 +136,11 @@ Two-stage gradient caching. To improve training we employ a gradient-caching tec
 
 <sup>1</sup> Context reuse is only feasible because documents within the same batch typically share a large amount of context anyway, since they are clustered.
 
-| Contextual Batch | Arch | Batch | Size | Cluster | Size | Train loss | Train | acc. | NDCG@10 |
+| Contextual |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ✓ |  | 16384 512 |  | - 512 |  | 0.39 0.81 | 90.3 77.7 |  | 59.9 61.7 |
+| Batch | Arch | Batch | Size | Cluster | Size | Train loss | Train | acc. | NDCG@10 |
+| ✓ |  | 16384 |  | - |  | 0.39 | 90.3 |  | 59.9 |
+|  |  | 512 |  | 512 |  | 0.81 | 77.7 |  | 61.7 |
 | ✓ |  | 16384 |  | - |  | 0.37 | 90.7 |  | 62.4 |
 | ✓ | ✓ | 512 |  | 512 |  | 0.68 | 80.9 |  | 63.1 |
 
@@ -187,29 +189,29 @@ For our nal model (cde-small-v1), we select the best of the supervised models, w
 
 How hard are our clusters? To analysis the relationship between cluster size in our clustering algorithm and the overall average difculty of in-batch negatives, we measure the average difculty
 
-![](_page_8_Figure_0.png)
+![](_page_8_Figure_0.jpeg)
 
 Figure 2: Performance vs. average batch difculty (as measured by loss at the end of pre-training and supervised training) across batch sizes, after supervised contrastive training. Within a given batch size, we observe a clear increase in performance by making individual batches harder. Correlations are Pearson.
 
-![](_page_8_Figure_2.png)
+![](_page_8_Figure_2.jpeg)
 
 Figure 3: Biencoder performance with ltering (left) and without (right) across batch and cluster sizes during unsupervised contrastive pre-training. With ltering, small cluster sizes clearly improve performance, and larger batch sizes do not.
 
 of 1000 batches across a variety of batch and cluster sizes and plot the data in Figure 6. We observe that larger batches bring easier non-negative examples, and decreasing cluster size clearly increases the average hardness of negative examples in a given cluster.
 
-![](_page_9_Figure_0.png)
-
-Figure 5: Performance on MTEB across epochs
+![](_page_9_Figure_0.jpeg)
 
 Figure 4: Impact of ltering during training across various batch and cluster sizes. Each dot is a biencoder pretrained with a different batch and cluster size.
 
-of supervised training on the Nomic and BGE supervised meta-datasets.
+![](_page_9_Figure_2.jpeg)
 
-![](_page_9_Figure_4.png)
+Figure 5: Performance on MTEB across epochs of supervised training on the Nomic and BGE supervised meta-datasets.
 
-![](_page_9_Figure_5.png)
+![](_page_9_Figure_4.jpeg)
 
 Figure 6: Average difculty of in-batch negatives as measured by a surrogate model as cluster size and batch size change.
+
+![](_page_9_Figure_6.jpeg)
 
 Figure 7: Impact of context by testing our model with different Stackexchange forum input types. Y-axis indicates the input domain, X-axis indicates the test domain. Dark squares come within one point NDCG@10.
 
@@ -300,7 +302,7 @@ We conducted two preliminary experiments to verify (i) the need for contextual t
 
 Preliminary experiment (i). We conduct a preliminary experiment to verify this issue. Starting from several trained retrieval systems we compute performance on a variety of different tasks from the BEIR dataset. Additionally we compute the IDF statistics from the datasets, and compare the divergence from the base IDF statistics of the training set. Figure 8 shows that datasets with highdivergence have very high correlation with the accuracy degradation of models when measured in comparison to BM25, which is able to measure and adapt to statistics of the test corpus.
 
-![](_page_15_Figure_6.png)
+![](_page_15_Figure_6.jpeg)
 
 Figure 8: Analysis of domain shift for popular neural retrieval methods. Performance difference from BM25 (y-axis) correlates with the different in IDF of the test corpus D form the training corpus DT .
 
@@ -345,11 +347,11 @@ Section 10.5 show sweeps over batch and cluster sizes under our small experiment
 
 One confounding factor in these experiments is that since the number of contextual documents is xed, the number of different contextual inputs seen during training decreases with higher batch size.
 
-![](_page_17_Figure_0.png)
+![](_page_17_Figure_0.jpeg)
 
 Figure 9: Contextual performance with ltering (left) and without (right) across batch and cluster sizes during unsupervised contrastive pre-training. Here, clustering with small cluster sizes clearly improves performance, and larger batch sizes do not.
 
-![](_page_17_Figure_2.png)
+![](_page_17_Figure_2.jpeg)
 
 Figure 10: Correlation between batch difculty and perforamnce after supervised training.
 
@@ -357,13 +359,13 @@ This might explain part of why performance stagnates with higher batch sizes; in
 
 Supervised training: difculty correlations. In Section 10.5 we plot the correlation between batch difculty and downstream performance across cluster sizes (and within batch sizes) in the supervised setting. In this case we also see the best performance through the most difcult clusters.
 
-![](_page_18_Figure_0.png)
+![](_page_18_Figure_0.jpeg)
 
 Figure 11: Performance of all supervised models, across numbers of hard negatives.
 
-![](_page_18_Figure_2.png)
+![](_page_18_Figure_2.jpeg)
 
-![](_page_18_Figure_3.png)
+![](_page_18_Figure_3.jpeg)
 
 Figure 12: Model performance vs. cluster size with and without ltering. When false negative ltering is enabled, we see more improvements in performance from clustering at small cluster sizes.
 
@@ -373,11 +375,11 @@ TSP Packing. We compare randomly packing clusters into batches vs. a greedy trav
 
 Impact of context size We consider contextual embeddings might move in space as their conditioning varies. Section 10.5 displays a few qualitative examples. We generate embeddings for randomly sampled documents from the TREC-Covid dataset and visualize their embeddings with PCA, where unique document inputs with different contextual embeddings are visualized in the same color. By changing only the conditioning we reshape the embedding space and our model produces different embedding for the same text. Note that although the embeddings are clearly moving in response to changing the contextual inputs, they still remain closer to each other than to different documents.
 
-![](_page_19_Figure_0.png)
+![](_page_19_Figure_0.jpeg)
 
 Figure 14: Pre-training with TSP vs. random batching across cluster sizes.
 
-![](_page_19_Figure_2.png)
+![](_page_19_Figure_2.jpeg)
 
 Figure 15: Each color indicates a single document input d. Different points represent different values ϕ(d; D) for different contexts.
 
@@ -385,11 +387,11 @@ Figure 16: Performance of CDE model as the number of contextual examples increas
 
 We also consider how additional context is improving our model. Because the model includes an optional null token, we can supply any number of contextual inputs. We plot our model's performance across context sizes in Figure 10.5. We see that our model is able to utilize partial context window sizes, and even perform reasonably with no context (i.e. all null token inputs) but offers the best performance given a full context window size.
 
-## 10.6 CLUSTER TEXT EXAMPLES
+#### 10.6 CLUSTER TEXT EXAMPLES
 
 We include random examples from a cluster gathered from our supervised dataset, shown in Table 4. This particular cluster appears to be a combination of documents about county populations in the Untied States (in Kentucky, Iowa, Pennsylvania, etc.) and documents about criminal trials (mentioning hearings, depositions, and courts).
 
-#### 10.7 TASK PREFIXES
+### 10.7 TASK PREFIXES
 
 Prexes are hand-written for each dataset in both meta-training sets. We follow the same prex selection procedure as Nussbaum et al. (2024), inspired by Reimers et al. (2023):
 
@@ -400,7 +402,8 @@ Prexes are hand-written for each dataset in both meta-training sets. We follow t
 | query | document |
 | --- | --- |
 | population of breckenridge mi | breckenridge, michigan. breckenridge is a village |
-|  | in gratiot county in the u. s. state of michigan. the population was 1, 328 at the 2010 census. the village |
+|  | in gratiot county in the u. s. state of michigan. the |
+|  | population was 1, 328 at the 2010 census. the village |
 |  | is located in wheeler township. |
 | can a deposition be used in a criminal case | depositions are commonly used in civil litigation |
 |  | (suits for money damages or equitable relief) [...] |
@@ -511,16 +514,19 @@ e
 https://www.kaggle.com/soumikrakshit/yahoo-answers-dataset
 f
 https://data.stackexchange.com/apple/query/fork/1456963
+```
+
+```
 g
-https://data.stackexchange.com/apple/query/fork/1456963
-h
 https://data.stackexchange.com/apple/query/fork/1456963
 ```
 
 ```
-i
-https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs
+h
+https://data.stackexchange.com/apple/query/fork/1456963
 ```
+i https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs
+
 • clustering
 
 #### 10.8 UNSUPERVISED TRAINING DATASETS
@@ -540,7 +546,7 @@ We train on 234M weakly supervised query-document pairs collected for training t
 
 Table 6: Distribution of BEIR evaluation datasets used, ordered by corpus size.
 
-![](_page_22_Figure_2.png)
+![](_page_22_Figure_2.jpeg)
 
 Figure 17: System performance (training accuracy) as we scale the size of the rst-stage model encoder only.
 
@@ -558,11 +564,11 @@ Our results show that scaling the rst-stage model has a small positive inuence o
 
 We consider the question of how many tokens per document is ideal while keeping the total number of document tokens xed. Results per the nine evaluation datasets of BEIR are shown in Section 10.11.
 
-## 10.12 MTEB RETRIEVAL EVALUATION PERFORMANCE
+### 10.12 MTEB RETRIEVAL EVALUATION PERFORMANCE
 
 To evaluate on MTEB, we subsample contextual documents from the full corpus available in each dataset and modality. For retrieval, this corresponds to the corpus itself (importantly, not the queries); for other modalities, we choose the default "text" eld in each casel. For classication tasks, we sample from the text side (not the classication labels themselves).
 
-![](_page_23_Figure_0.png)
+![](_page_23_Figure_0.jpeg)
 
 Figure 18: Performance per-dataset as we scale tokens-per-document, while keeping the total number of contextual tokens xed. Different domains prefer a different number of tokens per document.
 

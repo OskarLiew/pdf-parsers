@@ -120,47 +120,47 @@ butik.
 
 5
 
-Allergisk? Fråga oss gärna om matens innehåll!Följande ingredienser ingår i recepten:
-
-spannmål som innehåller gluten (t ex vete, råg, korn och havre)kräftdjur ägg fisk jordnötter sojabönor mjölk nötter selleri senap sesamfrön svaveldioxid och sulfit lupin blötdjur (t ex musslor) (vete)(vete)Lasagne med spenatFiskgryta med cous cousKyckling-salladXXXXXXXXX
-
 Exempel på hur informationen kan ges skriftligen:
+
+Livsmedlets beteckningAllergena ingredienser
 
 MenyLasagne med spenat Receptet innehåller:Vete, ägg, mjölkFiskgryta med cous cousReceptet innehåller:Vete, fisk, mjölk, sellerKycklingsalladReceptet innehåller:Sojabönor, senap
 
-Livsmedlets beteckningAllergena ingredienser
+Allergisk? Fråga oss gärna om matens innehåll!Följande ingredienser ingår i recepten:
+
+spannmål som innehåller gluten (t ex vete, råg, korn och havre)kräftdjur ägg fisk jordnötter sojabönor mjölk nötter selleri senap sesamfrön svaveldioxid och sulfit lupin blötdjur (t ex musslor) (vete)(vete)Lasagne med spenatFiskgryta med cous cousKyckling-salladXXXXXXXXX
 
 Exempel på hur informationen kan ges skriftligen
 
 6
 
-råga oss ns i maten.
+?
+
+Innehåller denhär ägg?
 
 Jag ska seefter.
 
-Jag ska fråga vår kock.
-
-Ja, deninnehåller ägg.
-
-?
-
-Information om maträtter och allergener på restaurang.
-
-Innehåller denhär ägg?
-
-Innehåller denhär ägg?
-
 Allergisk? Fråga oss vad som finns i maten.
 
-?
-
-Jag kan hjälpa dig att välja något utan ägg.
+Allergisk? Fråga oss vad som finns i maten.
 
 RECEPT
 
-Allergisk? Fråga oss vad som finns i maten.
+Innehåller denhär ägg?
+
+?
+
+Ja, deninnehåller ägg.
+
+Jag kan hjälpa dig att välja något utan ägg.
+
+råga oss ns i maten.
 
 Allergisk? Fråga oss vad som finns i maten.
+
+Jag ska fråga vår kock.
+
+Information om maträtter och allergener på restaurang.
 
 Information om maträtter och allergener på restaurang
 
