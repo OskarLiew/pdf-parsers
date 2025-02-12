@@ -52,6 +52,7 @@ class Parser(StrEnum):
     GOT_OCR2_0 = auto()
     GOT_OCR2_0_FORMAT = auto()
     MARKITDOWN = auto()
+    GEMINI_2_0_FLASH = auto()
 
 
 def main(parser_: Parser):
@@ -93,6 +94,10 @@ def get_parser(parser: Parser) -> BasePdfParser:
         from src.parsers.docling import DoclingPdfParser
 
         return DoclingPdfParser()
+    if parser == Parser.GEMINI_2_0_FLASH:
+        from parsers.gemini_2_0_flash import Gemini2FlashParser
+
+        return Gemini2FlashParser()
     if parser == Parser.GOT_OCR2_0:
         from parsers.got_ocr import GotOcrPdfParser
 
@@ -170,6 +175,7 @@ def get_parser(parser: Parser) -> BasePdfParser:
         from parsers.unstructured import UnstructuredPdfParser
 
         return UnstructuredPdfParser(strategy="hi_res")
+
     raise NotImplementedError(f"Parser not implemented: {parser}")
 
 
